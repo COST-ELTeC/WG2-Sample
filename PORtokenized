@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<samples n="PT0001">
 <p n="PT0001147">
 <s>
 <w>Margarida</w>
@@ -2917,7 +2916,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0003">
 <p n="PT0003610">
 <s>
 <w>E</w>
@@ -5619,7 +5617,6 @@
 <w>?</s>
 </p>
 </sample></samples>
-<samples n="PT0005">
 <p n="PT00055520">
 <s>
 <w>Que</w>
@@ -8649,7 +8646,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0006">
 <p n="PT0006551">
 <s>
 <w>--</w>
@@ -11466,7 +11462,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0008">
 <p n="PT0008557">
 <s>
 <w>--</w>
@@ -14584,7 +14579,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0010">
 <p n="PT0010298">
 <s>
 <w>-</w>
@@ -17416,7 +17410,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0011">
 <sample/>
 <p n="PT001111">
 <s>
@@ -19670,7 +19663,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0012">
 <p n="PT0012969">
 <s>
 <w>E</w>
@@ -22593,7 +22585,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0014">
 <p n="PT0014274">
 <s>
 <w>Na</w>
@@ -25786,7 +25777,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0017">
 <p n="PT0017535">
 <s>
 <w>E</w>
@@ -28974,7 +28964,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0018">
 <p n="PT001836">
 <s>
 <w>A</w>
@@ -31194,7 +31183,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0021">
 <p n="PT0021391">
 <s>
 <w>E</w>
@@ -34110,7 +34098,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0022">
 <p n="PT00221077">
 <s>
 <w>--</w>
@@ -37117,7 +37104,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0023">
 <p n="PT0023343">
 <s>
 <w>Apenas</w>
@@ -40145,7 +40131,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0025">
 <p n="PT00251617">
 <s>
 <w>--</w>
@@ -42872,7 +42857,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0026">
 <p n="PT0026369">
 <s>
 <w>--</w>
@@ -45554,7 +45538,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0028">
 <p n="PT0028873">
 <s>
 <w>Lembrou-se</w>
@@ -48590,7 +48573,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0029">
 <p n="PT002957">
 <s>
 <w>Pouco</w>
@@ -51375,7 +51357,6 @@
 <w>:</s>
 </p>
 </sample></samples>
-<samples n="PT0032">
 <p n="PT00321837">
 <s>
 <w>Depois</w>
@@ -54259,7 +54240,6 @@
 <w>.</s>
 </p>
 </sample></samples>
-<samples n="PT0034">
 <p n="PT003477">
 <s>
 <w>Afflicta</w>
