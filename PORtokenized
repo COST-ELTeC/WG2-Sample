@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p n="PT0001147">
+<sample><p n="PT0001147">
 <s>
 <w>Margarida</w>
 <w>,</w>
@@ -613,7 +613,7 @@
 <w>:</s>
 </p>
 </sample>
-<p n="PT00011992">
+<sample><p n="PT00011992">
 <s>
 <w>--</w>
 <w>Estou</w>
@@ -1181,7 +1181,7 @@
 <w>...</s>
 </p>
 </sample>
-<p n="PT00013540">
+<sample><p n="PT00013540">
 <s>
 <w>--</w>
 <w>Não</w>
@@ -1747,7 +1747,7 @@
 <w>?</s>
 </p>
 </sample>
-<p n="PT00011297">
+<sample><p n="PT00011297">
 <s>
 <w>--</w>
 <w>Que</w>
@@ -2380,7 +2380,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00012542">
+<sample><p n="PT00012542">
 <s>
 <w>Principiavam</w>
 <w>a</w>
@@ -2915,8 +2915,8 @@
 <w>dela</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0003610">
+</sample>
+<sample><p n="PT0003610">
 <s>
 <w>E</w>
 <w>levando</w>
@@ -3471,7 +3471,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0003590">
+<sample><p n="PT0003590">
 <s>
 <w>-</w>
 <w>Agora</w>
@@ -4182,7 +4182,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0003470">
+<sample><p n="PT0003470">
 <s>
 <w>A</w>
 <w>atenção</w>
@@ -4672,7 +4672,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00032258">
+<sample><p n="PT00032258">
 <s>
 <w>O</w>
 <w>autor</w>
@@ -5081,7 +5081,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00032095">
+<sample><p n="PT00032095">
 <s>
 <w>-</w>
 <w>Olha</w>
@@ -5616,8 +5616,8 @@
 <w>claro</w>
 <w>?</s>
 </p>
-</sample></samples>
-<p n="PT00055520">
+</sample>
+<sample><p n="PT00055520">
 <s>
 <w>Que</w>
 <w>vento</w>
@@ -6277,7 +6277,7 @@
 <w>...</s>
 </p>
 </sample>
-<p n="PT00053817">
+<sample><p n="PT00053817">
 <s>
 <w>--</w>
 <w>Eu</w>
@@ -6882,7 +6882,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0005300">
+<sample><p n="PT0005300">
 <s>
 <w>--</w>
 <w>E</w>
@@ -7471,7 +7471,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00051112">
+<sample><p n="PT00051112">
 <s>
 <w>Nessa</w>
 <w>tarde</w>
@@ -8086,7 +8086,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00054205">
+<sample><p n="PT00054205">
 <s>
 <w>Mas</w>
 <w>a</w>
@@ -8645,8 +8645,8 @@
 <w>antro</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0006551">
+</sample>
+<sample><p n="PT0006551">
 <s>
 <w>--</w>
 <w>Viva</w>
@@ -9234,7 +9234,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0006195">
+<sample><p n="PT0006195">
 <s>
 <w>--</w>
 <w>Dá-lhe</w>
@@ -9758,7 +9758,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0006729">
+<sample><p n="PT0006729">
 <s>
 <w>--</w>
 <w>Assim</w>
@@ -10345,7 +10345,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0006462">
+<sample><p n="PT0006462">
 <s>
 <w>--</w>
 <w>E</w>
@@ -10885,7 +10885,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0006487">
+<sample><p n="PT0006487">
 <s>
 <w>--</w>
 <w>Mestre</w>
@@ -11461,8 +11461,8 @@
 <w>sentimentos</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0008557">
+</sample>
+<sample><p n="PT0008557">
 <s>
 <w>--</w>
 <w>Vê</w>
@@ -11981,7 +11981,7 @@
 <w>!</s>
 </p>
 </sample>
-<p n="PT0008955">
+<sample><p n="PT0008955">
 <s>
 <w>--</w>
 <w>Como</w>
@@ -12517,7 +12517,7 @@
 <w>:</s>
 </p>
 </sample>
-<p n="PT0008615">
+<sample><p n="PT0008615">
 <s>
 <w>Depois</w>
 <w>,</w>
@@ -13112,7 +13112,7 @@
 <w>:</s>
 </p>
 </sample>
-<p n="PT00081189">
+<sample><p n="PT00081189">
 <s>
 <w>--</w>
 <w>Oh</w>
@@ -13891,7 +13891,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0008498">
+<sample><p n="PT0008498">
 <s>
 <w>Muito</w>
 <w>desagradavelmente</w>
@@ -14578,8 +14578,8 @@
 <w>chá</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0010298">
+</sample>
+<sample><p n="PT0010298">
 <s>
 <w>-</w>
 <w>Nós</w>
@@ -15118,7 +15118,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0010873">
+<sample><p n="PT0010873">
 <s>
 <w>Não</w>
 <w>posso</w>
@@ -15680,7 +15680,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00101315">
+<sample><p n="PT00101315">
 <s>
 <w>-</w>
 <w>Não</w>
@@ -16267,7 +16267,7 @@
 <w>?</s>
 </p>
 </sample>
-<p n="PT0010710">
+<sample><p n="PT0010710">
 <s>
 <w>-</w>
 <w>Senhor</w>
@@ -16864,7 +16864,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0010856">
+<sample><p n="PT0010856">
 <s>
 <w>-</w>
 <w>Peça-lhe</w>
@@ -17409,9 +17409,9 @@
 <w>cadeia</w>
 <w>.</s>
 </p>
-</sample></samples>
+</sample>
 <sample/>
-<p n="PT001111">
+<sample><p n="PT001111">
 <s>
 <w>Quinze</w>
 <w>anos</w>
@@ -17958,7 +17958,7 @@
 <w>!</s>
 </p>
 </sample>
-<p n="PT00112391">
+<sample><p n="PT00112391">
 <s>
 <w>-</w>
 <w>Muito</w>
@@ -18500,7 +18500,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0011407">
+<sample><p n="PT0011407">
 <s>
 <w>-</w>
 <w>Que</w>
@@ -19008,7 +19008,7 @@
 <w>!</s>
 </p>
 </sample>
-<p n="PT0011865">
+<sample><p n="PT0011865">
 <s>
 <w>-</w>
 <w>Ó</w>
@@ -19662,8 +19662,8 @@
 <w>filha</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0012969">
+</sample>
+<sample><p n="PT0012969">
 <s>
 <w>E</w>
 <w>,</w>
@@ -20244,7 +20244,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00121236">
+<sample><p n="PT00121236">
 <s>
 <w>-</w>
 <w>Ora</w>
@@ -20820,7 +20820,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0012580">
+<sample><p n="PT0012580">
 <s>
 <w>Joana</w>
 <w>pediu</w>
@@ -21357,7 +21357,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0012563">
+<sample><p n="PT0012563">
 <s>
 <w>Vitorina</w>
 <w>acompanhou-a</w>
@@ -21940,7 +21940,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0012335">
+<sample><p n="PT0012335">
 <s>
 <w>Você</w>
 <w>nunca</w>
@@ -22584,8 +22584,8 @@
 <w>ir</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0014274">
+</sample>
+<sample><p n="PT0014274">
 <s>
 <w>Na</w>
 <w>frente</w>
@@ -23219,7 +23219,7 @@
 <w>!</s>
 </p>
 </sample>
-<p n="PT0014714">
+<sample><p n="PT0014714">
 <s>
 <w>Eras</w>
 <w>tu</w>
@@ -23817,7 +23817,7 @@
 <w>:</s>
 </p>
 </sample>
-<p n="PT0014561">
+<sample><p n="PT0014561">
 <s>
 <w>Vamos</w>
 <w>entrar</w>
@@ -24447,7 +24447,7 @@
 <w>?</s>
 </p>
 </sample>
-<p n="PT0014462">
+<sample><p n="PT0014462">
 <s>
 <w>E</w>
 <w>súplicas</w>
@@ -25243,7 +25243,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0014114">
+<sample><p n="PT0014114">
 <s>
 <w>A</w>
 <w>pobreza</w>
@@ -25776,8 +25776,8 @@
 <w>vida</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0017535">
+</sample>
+<sample><p n="PT0017535">
 <s>
 <w>E</w>
 <w>é</w>
@@ -26317,7 +26317,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0017343">
+<sample><p n="PT0017343">
 <s>
 <w>Durante</w>
 <w>anos</w>
@@ -27210,7 +27210,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0017278">
+<sample><p n="PT0017278">
 <s>
 <w>O</w>
 <w>seu</w>
@@ -27812,7 +27812,7 @@
 <w>:</s>
 </p>
 </sample>
-<p n="PT001784">
+<sample><p n="PT001784">
 <s>
 <w>--</w>
 <w>Não</w>
@@ -28386,7 +28386,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0017775">
+<sample><p n="PT0017775">
 <s>
 <w>Sozinha</w>
 <w>,</w>
@@ -28963,8 +28963,8 @@
 <w>terror</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT001836">
+</sample>
+<sample><p n="PT001836">
 <s>
 <w>A</w>
 <w>Avenida</w>
@@ -29565,7 +29565,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT001889">
+<sample><p n="PT001889">
 <s>
 <w>--</w>
 <w>Ah</w>
@@ -30067,7 +30067,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0018116">
+<sample><p n="PT0018116">
 <s>
 <w>Lisbôa</w>
 <w>,</w>
@@ -30087,7 +30087,7 @@
 <w>FIM</s>
 </p>
 </sample>
-<p n="PT001849">
+<sample><p n="PT001849">
 <s>
 <w>Chego-me</w>
 <w>junto</w>
@@ -30667,7 +30667,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT001822">
+<sample><p n="PT001822">
 <s>
 <w>Entretanto</w>
 <w>a</w>
@@ -31182,8 +31182,8 @@
 <w>charuto</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0021391">
+</sample>
+<sample><p n="PT0021391">
 <s>
 <w>E</w>
 <w>todos</w>
@@ -31869,7 +31869,7 @@
 <w>:</s>
 </p>
 </sample>
-<p n="PT0021486">
+<sample><p n="PT0021486">
 <s>
 <w>Logo</w>
 <w>de</w>
@@ -32445,7 +32445,7 @@
 <w>...</s>
 </p>
 </sample>
-<p n="PT0021166">
+<sample><p n="PT0021166">
 <s>
 <w>--</w>
 <w>Está</w>
@@ -32996,7 +32996,7 @@
 <w>:</s>
 </p>
 </sample>
-<p n="PT0021110">
+<sample><p n="PT0021110">
 <s>
 <w>--</w>
 <w>Publiquei</w>
@@ -33544,7 +33544,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0021446">
+<sample><p n="PT0021446">
 <s>
 <w>Mas</w>
 <w>o</w>
@@ -34097,8 +34097,8 @@
 <w>pista</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT00221077">
+</sample>
+<sample><p n="PT00221077">
 <s>
 <w>--</w>
 <w>Isso</w>
@@ -34714,7 +34714,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00221076">
+<sample><p n="PT00221076">
 <s>
 <w>--</w>
 <w>Ainda</w>
@@ -35298,7 +35298,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0022575">
+<sample><p n="PT0022575">
 <s>
 <w>As</w>
 <w>minhas</w>
@@ -35860,7 +35860,7 @@
 <w>...</s>
 </p>
 </sample>
-<p n="PT00221058">
+<sample><p n="PT00221058">
 <s>
 <w>--</w>
 <w>Diga</w>
@@ -36517,7 +36517,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0022399">
+<sample><p n="PT0022399">
 <s>
 <w>A</w>
 <w>breve</w>
@@ -37103,8 +37103,8 @@
 <w>Salvaterra</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0023343">
+</sample>
+<sample><p n="PT0023343">
 <s>
 <w>Apenas</w>
 <w>os</w>
@@ -37832,7 +37832,7 @@
 <w>:</s>
 </p>
 </sample>
-<p n="PT0023403">
+<sample><p n="PT0023403">
 <s>
 <w>--</w>
 <w>A</w>
@@ -38451,7 +38451,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0023142">
+<sample><p n="PT0023142">
 <s>
 <w>Porque</w>
 <w>mulher</w>
@@ -39002,7 +39002,7 @@
 <w>?</s>
 </p>
 </sample>
-<p n="PT0023645">
+<sample><p n="PT0023645">
 <s>
 <w>O</w>
 <w>cavaleiro</w>
@@ -39544,7 +39544,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0023434">
+<sample><p n="PT0023434">
 <s>
 <w>Esta</w>
 <w>carta</w>
@@ -40130,8 +40130,8 @@
 <w>elmos</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT00251617">
+</sample>
+<sample><p n="PT00251617">
 <s>
 <w>--</w>
 <w>Quer</w>
@@ -40665,7 +40665,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00251235">
+<sample><p n="PT00251235">
 <s>
 <w>Depois</w>
 <w>de</w>
@@ -41184,7 +41184,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00251122">
+<sample><p n="PT00251122">
 <s>
 <w>--</w>
 <w>Então</w>
@@ -41723,7 +41723,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0025775">
+<sample><p n="PT0025775">
 <s>
 <w>--</w>
 <w>Ah</w>
@@ -42294,7 +42294,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00251088">
+<sample><p n="PT00251088">
 <s>
 <w>--</w>
 <w>Ora</w>
@@ -42856,8 +42856,8 @@
 <w>paraíso</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0026369">
+</sample>
+<sample><p n="PT0026369">
 <s>
 <w>--</w>
 <w>Parece-me</w>
@@ -43428,7 +43428,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00261261">
+<sample><p n="PT00261261">
 <s>
 <w>Acceitou</w>
 <w>o</w>
@@ -44076,7 +44076,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00261530">
+<sample><p n="PT00261530">
 <s>
 <w>«</w>
 <w>Certifico</w>
@@ -44334,7 +44334,7 @@
 <w>FIM</s>
 </p>
 </sample>
-<p n="PT00261224">
+<sample><p n="PT00261224">
 <s>
 <w>Adquirira</w>
 <w>ali</w>
@@ -45009,7 +45009,7 @@
 <w>!</s>
 </p>
 </sample>
-<p n="PT002670">
+<sample><p n="PT002670">
 <s>
 <w>--</w>
 <w>Que</w>
@@ -45537,8 +45537,8 @@
 <w>Augusta</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT0028873">
+</sample>
+<sample><p n="PT0028873">
 <s>
 <w>Lembrou-se</w>
 <w>da</w>
@@ -46134,7 +46134,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0028551">
+<sample><p n="PT0028551">
 <s>
 <w>Quasi</w>
 <w>nunca</w>
@@ -46812,7 +46812,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT002872">
+<sample><p n="PT002872">
 <s>
 <w>--</w>
 <w>Deslumbrante</w>
@@ -47404,7 +47404,7 @@
 <w>..</s>
 </p>
 </sample>
-<p n="PT0028116">
+<sample><p n="PT0028116">
 <s>
 <w>Usava</w>
 <w>de</w>
@@ -47979,7 +47979,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0028923">
+<sample><p n="PT0028923">
 <s>
 <w>--</w>
 <w>E</w>
@@ -48572,8 +48572,8 @@
 <w>dirige</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT002957">
+</sample>
+<sample><p n="PT002957">
 <s>
 <w>Pouco</w>
 <w>adiante</w>
@@ -49069,7 +49069,7 @@
 <w>!</s>
 </p>
 </sample>
-<p n="PT0029478">
+<sample><p n="PT0029478">
 <s>
 <w>O</w>
 <w>carcereiro</w>
@@ -49737,7 +49737,7 @@
 <w>!</s>
 </p>
 </sample>
-<p n="PT0029431">
+<sample><p n="PT0029431">
 <s>
 <w>--</w>
 <w>Conta</w>
@@ -50233,7 +50233,7 @@
 <w>?</s>
 </p>
 </sample>
-<p n="PT0029307">
+<sample><p n="PT0029307">
 <s>
 <w>--</w>
 <w>Pardés</w>
@@ -50786,7 +50786,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0029472">
+<sample><p n="PT0029472">
 <s>
 <w>--</w>
 <w>Que</w>
@@ -51356,8 +51356,8 @@
 <w>resmoneou</w>
 <w>:</s>
 </p>
-</sample></samples>
-<p n="PT00321837">
+</sample>
+<sample><p n="PT00321837">
 <s>
 <w>Depois</w>
 <w>vinham</w>
@@ -51944,7 +51944,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00321161">
+<sample><p n="PT00321161">
 <s>
 <w>E</w>
 <w>,</w>
@@ -52542,7 +52542,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00321178">
+<sample><p n="PT00321178">
 <s>
 <w>Ia</w>
 <w>dormir</w>
@@ -53142,7 +53142,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00321031">
+<sample><p n="PT00321031">
 <s>
 <w>--</w>
 <w>Isto</w>
@@ -53653,7 +53653,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00321212">
+<sample><p n="PT00321212">
 <s>
 <w>OÂ</w>
 <w>«</w>
@@ -54239,8 +54239,8 @@
 <w>luxar</w>
 <w>.</s>
 </p>
-</sample></samples>
-<p n="PT003477">
+</sample>
+<sample><p n="PT003477">
 <s>
 <w>Afflicta</w>
 <w>com</w>
@@ -54859,7 +54859,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT0034404">
+<sample><p n="PT0034404">
 <s>
 <w>--</w>
 <w>Mas</w>
@@ -55438,7 +55438,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00341407">
+<sample><p n="PT00341407">
 <s>
 <w>[</w>
 <w>Ilustração</w>
@@ -56008,7 +56008,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00341621">
+<sample><p n="PT00341621">
 <s>
 <w>--</w>
 <w>Isso</w>
@@ -56550,7 +56550,7 @@
 <w>.</s>
 </p>
 </sample>
-<p n="PT00341813">
+<sample><p n="PT00341813">
 <s>
 <w>Esta</w>
 <w>extende-lhe</w>
@@ -57086,4 +57086,4 @@
 <w>Mendonça</w>
 <w>.</s>
 </p>
-</sample></samples>
+</sample>
