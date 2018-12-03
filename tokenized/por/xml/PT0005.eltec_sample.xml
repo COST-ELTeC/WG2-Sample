@@ -1,3398 +1,3030 @@
-<?xml version='1.0' encoding='utf-8'?>
-<samples n="PT0005">
-  <sample>
-    <p n="PT00055520">
-      <s>
-        <w>Que</w>
-        <w>vento</w>
-        <w>vos</w>
-        <w>desfolhou</w>
-        <w>?</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055521">
-      <s>
-        <w>Que</w>
-        <w>a</w>
-        <w>alma</w>
-        <w>que</w>
-        <w>vos</w>
-        <w>seguia</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055522">
-      <s>
-        <w>Nunca</w>
-        <w>mais</w>
-        <w>vos</w>
-        <w>encontrou</w>
-        <w>!</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055523">
-      <s>
-        <w>Carlos</w>
-        <w>murmurou</w>
-        <w>:</w>
-        <w>«</w>
-        <w>Lindo</w>
-        <w>!</w>
-        <w>»</w>
-      </s>
-      <s>
-        <w>Ega</w>
-        <w>murmurou</w>
-        <w>:</w>
-        <w>«</w>
-        <w>Muito</w>
-        <w>fino</w>
-        <w>!</w>
-        <w>»</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>o</w>
-        <w>poeta</w>
-        <w>,</w>
-        <w>aquecendo</w>
-        <w>,</w>
-        <w>já</w>
-        <w>comovido</w>
-        <w>,</w>
-        <w>esboçou</w>
-        <w>um</w>
-        <w>movimento</w>
-        <w>de</w>
-        <w>asa</w>
-        <w>que</w>
-        <w>foge</w>
-        <w>:</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055524">
-      <s>
-        <w>Minh'alma</w>
-        <w>em</w>
-        <w>tempos</w>
-        <w>d'</w>
-        <w>outrora</w>
-        <w>,</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055525">
-      <s>
-        <w>Quando</w>
-        <w>nascia</w>
-        <w>o</w>
-        <w>luar</w>
-        <w>,</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055526">
-      <s>
-        <w>Como</w>
-        <w>um</w>
-        <w>rouxinol</w>
-        <w>que</w>
-        <w>acorda</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055527">
-      <s>
-        <w>Punha-se</w>
-        <w>logo</w>
-        <w>a</w>
-        <w>cantar</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055528">
-      <s>
-        <w>Pensamentos</w>
-        <w>eram</w>
-        <w>flores</w>
-        <w>,</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055529">
-      <s>
-        <w>Que</w>
-        <w>a</w>
-        <w>aragem</w>
-        <w>lenta</w>
-        <w>de</w>
-        <w>Maio...</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055530">
-      <s>
-        <w>--</w>
-        <w>O</w>
-        <w>sr.</w>
-      </s>
-      <s>
-        <w>Cruges</w>
-        <w>!</w>
-        <w>--</w>
-        <w>anunciou</w>
-        <w>o</w>
-        <w>criado</w>
-        <w>,</w>
-        <w>entreabrindo</w>
-        <w>a</w>
-        <w>porta</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Carlos</w>
-        <w>ergueu</w>
-        <w>os</w>
-        <w>braços</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>o</w>
-        <w>maestro</w>
-        <w>,</w>
-        <w>todo</w>
-        <w>abotoado</w>
-        <w>em</w>
-        <w>um</w>
-        <w>paletó</w>
-        <w>claro</w>
-        <w>,</w>
-        <w>abandonou-se</w>
-        <w>a</w>
-        <w>a</w>
-        <w>efusão</w>
-        <w>de</w>
-        <w>Carlos</w>
-        <w>,</w>
-        <w>balbuciando</w>
-        <w>:</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055531">
-      <s>
-        <w>--</w>
-        <w>Eu</w>
-        <w>só</w>
-        <w>ontem</w>
-        <w>é</w>
-        <w>que</w>
-        <w>soube</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Queria-te</w>
-        <w>ir</w>
-        <w>esperar</w>
-        <w>,</w>
-        <w>mas</w>
-        <w>não</w>
-        <w>me</w>
-        <w>acordaram.</w>
-      </s>
-      <s>
-        <w>..</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055532">
-      <s>
-        <w>--</w>
-        <w>Então</w>
-        <w>continua</w>
-        <w>o</w>
-        <w>mesmo</w>
-        <w>desleixo</w>
-        <w>?</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>exclamava</w>
-        <w>Carlos</w>
-        <w>,</w>
-        <w>alegremente</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>Nunca</w>
-        <w>te</w>
-        <w>acordam</w>
-        <w>?</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055533">
-      <s>
-        <w>Cruges</w>
-        <w>encolhia</w>
-        <w>os</w>
-        <w>ombros</w>
-        <w>,</w>
-        <w>muito</w>
-        <w>vermelho</w>
-        <w>,</w>
-        <w>acanhado</w>
-        <w>,</w>
-        <w>depois</w>
-        <w>daquela</w>
-        <w>longa</w>
-        <w>separação</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>foi</w>
-        <w>Carlos</w>
-        <w>que</w>
-        <w>o</w>
-        <w>obrigou</w>
-        <w>a</w>
-        <w>sentar-se</w>
-        <w>a</w>
-        <w>o</w>
-        <w>lado</w>
-        <w>,</w>
-        <w>enternecido</w>
-        <w>com</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>velho</w>
-        <w>maestro</w>
-        <w>,</w>
-        <w>sempre</w>
-        <w>esguio</w>
-        <w>,</w>
-        <w>com</w>
-        <w>o</w>
-        <w>nariz</w>
-        <w>mais</w>
-        <w>agudo</w>
-        <w>,</w>
-        <w>a</w>
-        <w>grenha</w>
-        <w>caindo</w>
-        <w>mais</w>
-        <w>crespa</w>
-        <w>sobre</w>
-        <w>a</w>
-        <w>gola</w>
-        <w>de</w>
-        <w>o</w>
-        <w>paletó</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055534">
-      <s>
-        <w>--</w>
-        <w>E</w>
-        <w>deixa-me</w>
-        <w>dar-te</w>
-        <w>os</w>
-        <w>parabéns</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>Lá</w>
-        <w>soube</w>
-        <w>por</w>
-        <w>os</w>
-        <w>jornais</w>
-        <w>o</w>
-        <w>triunfo</w>
-        <w>,</w>
-        <w>a</w>
-        <w>linda</w>
-        <w>ópera</w>
-        <w>cómica</w>
-        <w>,</w>
-        <w>a</w>
-        <w>«</w>
-        <w>Flor</w>
-        <w>de</w>
-        <w>Sevilha</w>
-        <w>»</w>
-        <w>...</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055535">
-      <s>
-        <w>--</w>
-        <w>«</w>
-        <w>De</w>
-        <w>Granada</w>
-        <w>»</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>acudiu</w>
-        <w>o</w>
-        <w>maestro</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>Sim</w>
-        <w>,</w>
-        <w>uma</w>
-        <w>coisita</w>
-        <w>para</w>
-        <w>aí</w>
-        <w>,</w>
-        <w>não</w>
-        <w>desgostaram</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055536">
-      <s>
-        <w>--</w>
-        <w>Uma</w>
-        <w>beleza!</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>gritou</w>
-        <w>Alencar</w>
-        <w>,</w>
-        <w>enchendo</w>
-        <w>outro</w>
-        <w>copo</w>
-        <w>de</w>
-        <w>conhaque</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>Uma</w>
-        <w>música</w>
-        <w>toda</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Sul</w>
-        <w>,</w>
-        <w>cheia</w>
-        <w>de</w>
-        <w>luz</w>
-        <w>,</w>
-        <w>cheirando</w>
-        <w>a</w>
-        <w>laranjeira...</w>
-      </s>
-      <s>
-        <w>Mas</w>
-        <w>já</w>
-        <w>lhe</w>
-        <w>tenho</w>
-        <w>dito</w>
-        <w>:</w>
-        <w>«</w>
-        <w>Deixa</w>
-        <w>lá</w>
-        <w>a</w>
-        <w>opereta</w>
-        <w>,</w>
-        <w>rapaz</w>
-        <w>,</w>
-        <w>voa</w>
-        <w>mais</w>
-        <w>alto</w>
-        <w>,</w>
-        <w>faz</w>
-        <w>uma</w>
-        <w>grande</w>
-        <w>sinfonia</w>
-        <w>histórica</w>
-        <w>!</w>
-        <w>»</w>
-      </s>
-      <s>
-        <w>Ainda</w>
-        <w>há</w>
-        <w>dias</w>
-        <w>lhe</w>
-        <w>dei</w>
-        <w>uma</w>
-        <w>ideia</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>A</w>
-        <w>partida</w>
-        <w>de</w>
-        <w>D.</w>
-        <w>Sebastião</w>
-        <w>para</w>
-        <w>a</w>
-        <w>África</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Cantos</w>
-        <w>de</w>
-        <w>marinheiros</w>
-        <w>,</w>
-        <w>atabales</w>
-        <w>,</w>
-        <w>o</w>
-        <w>choro</w>
-        <w>de</w>
-        <w>o</w>
-        <w>povo</w>
-        <w>,</w>
-        <w>as</w>
-        <w>ondas</w>
-        <w>batendo...</w>
-      </s>
-      <s>
-        <w>Sublime</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>Qual</w>
-        <w>,</w>
-        <w>põe-se-me</w>
-        <w>lá</w>
-        <w>com</w>
-        <w>castanholas..</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Enfim</w>
-        <w>,</w>
-        <w>acabou-se</w>
-        <w>,</w>
-        <w>tem</w>
-        <w>muito</w>
-        <w>talento</w>
-        <w>,</w>
-        <w>e</w>
-        <w>é</w>
-        <w>como</w>
-        <w>se</w>
-        <w>fosse</w>
-        <w>meu</w>
-        <w>filho</w>
-        <w>,</w>
-        <w>porque</w>
-        <w>me</w>
-        <w>sujou</w>
-        <w>muita</w>
-        <w>calça!</w>
-      </s>
-      <s>
-        <w>...</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055537">
-      <s>
-        <w>Mas</w>
-        <w>o</w>
-        <w>maestro</w>
-        <w>,</w>
-        <w>inquieto</w>
-        <w>,</w>
-        <w>passava</w>
-        <w>os</w>
-        <w>dedos</w>
-        <w>por</w>
-        <w>a</w>
-        <w>grenha</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Por</w>
-        <w>fim</w>
-        <w>confessou</w>
-        <w>a</w>
-        <w>Carlos</w>
-        <w>que</w>
-        <w>não</w>
-        <w>se</w>
-        <w>podia</w>
-        <w>demorar</w>
-        <w>,</w>
-        <w>tinha</w>
-        <w>um</w>
-        <w>rendez-vous.</w>
-      </s>
-      <s>
-        <w>.</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055538">
-      <s>
-        <w>--</w>
-        <w>De</w>
-        <w>amor</w>
-        <w>?</w>
-        <w>--</w>
-        <w>Não..</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>É</w>
-        <w>o</w>
-        <w>Barradas</w>
-        <w>que</w>
-        <w>me</w>
-        <w>anda</w>
-        <w>a</w>
-        <w>tirar</w>
-        <w>o</w>
-        <w>retrato</w>
-        <w>a</w>
-        <w>óleo</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055539">
-      <s>
-        <w>--</w>
-        <w>Com</w>
-        <w>a</w>
-        <w>lira</w>
-        <w>en</w>
-        <w>a</w>
-        <w>mão</w>
-        <w>?</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055540">
-      <s>
-        <w>--</w>
-        <w>Não</w>
-        <w>--</w>
-        <w>respondeu</w>
-        <w>o</w>
-        <w>maestro</w>
-        <w>,</w>
-        <w>muito</w>
-        <w>sério</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>Com</w>
-        <w>a</w>
-        <w>batuta...</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>estou</w>
-        <w>de</w>
-        <w>casaca</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055541">
-      <s>
-        <w>E</w>
-        <w>desabotoou</w>
-        <w>o</w>
-        <w>paletó</w>
-        <w>,</w>
-        <w>mostrou-se</w>
-        <w>em</w>
-        <w>todo</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>esplendor</w>
-        <w>,</w>
-        <w>com</w>
-        <w>dois</w>
-        <w>corais</w>
-        <w>en</w>
-        <w>o</w>
-        <w>peitilho</w>
-        <w>de</w>
-        <w>a</w>
-        <w>camisa</w>
-        <w>,</w>
-        <w>e</w>
-        <w>a</w>
-        <w>batuta</w>
-        <w>de</w>
-        <w>marfim</w>
-        <w>metida</w>
-        <w>en</w>
-        <w>a</w>
-        <w>abertura</w>
-        <w>de</w>
-        <w>o</w>
-        <w>colete</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00055542">
-      <s>
-        <w>--</w>
-        <w>Estás</w>
-        <w>magnífico!</w>
-        <w>--</w>
-        <w>afirmou</w>
-        <w>Carlos</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>Então</w>
-        <w>outra</w>
-        <w>coisa</w>
-        <w>,</w>
-        <w>vem</w>
-        <w>cá</w>
-        <w>jantar</w>
-        <w>logo</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Alencar</w>
-        <w>,</w>
-        <w>tu</w>
-        <w>também</w>
-        <w>,</w>
-        <w>hem</w>
-        <w>?</w>
-      </s>
-      <s>
-        <w>Quero</w>
-        <w>ouvir</w>
-        <w>esses</w>
-        <w>belos</w>
-        <w>versos</w>
-        <w>com</w>
-        <w>sossego...</w>
-      </s>
-      <s>
-        <w>A</w>
-        <w>as</w>
-        <w>seis</w>
-        <w>,</w>
-        <w>em</w>
-        <w>ponto</w>
-        <w>,</w>
-        <w>sem</w>
-        <w>falhar</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Tenho</w>
-        <w>um</w>
-        <w>jantarinho</w>
-        <w>a</w>
-        <w>a</w>
-        <w>portuguesa</w>
-        <w>que</w>
-        <w>encomendei</w>
-        <w>de</w>
-        <w>manhã</w>
-        <w>,</w>
-        <w>com</w>
-        <w>cozido</w>
-        <w>,</w>
-        <w>arroz</w>
-        <w>de</w>
-        <w>forno</w>
-        <w>,</w>
-        <w>grão-de-bico</w>
-        <w>,</w>
-        <w>etc.</w>
-        <w>,</w>
-        <w>para</w>
-        <w>matar</w>
-        <w>saudades...</w>
-      </s>
-      <s/>
-    </p>
-  </sample>
-  <sample>
-    <p n="PT00053817">
-      <s>
-        <w>--</w>
-        <w>Eu</w>
-        <w>--</w>
-        <w>continuava</w>
-        <w>Ega</w>
-        <w>,</w>
-        <w>erguendo-se</w>
-        <w>--</w>
-        <w>se</w>
-        <w>levasse</w>
-        <w>para</w>
-        <w>longe</w>
-        <w>uma</w>
-        <w>mulher</w>
-        <w>,</w>
-        <w>não</w>
-        <w>era</w>
-        <w>para</w>
-        <w>um</w>
-        <w>lago</w>
-        <w>,</w>
-        <w>nem</w>
-        <w>para</w>
-        <w>a</w>
-        <w>Suíça</w>
-        <w>,</w>
-        <w>nem</w>
-        <w>para</w>
-        <w>os</w>
-        <w>montes</w>
-        <w>de</w>
-        <w>a</w>
-        <w>Sicília</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>era</w>
-        <w>para</w>
-        <w>Paris</w>
-        <w>,</w>
-        <w>para</w>
-        <w>o</w>
-        <w>Boulevard</w>
-        <w>de</w>
-        <w>os</w>
-        <w>Italianos</w>
-        <w>,</w>
-        <w>ali</w>
-        <w>a</w>
-        <w>a</w>
-        <w>esquina</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Vaudeville</w>
-        <w>,</w>
-        <w>com</w>
-        <w>janelas</w>
-        <w>deitando</w>
-        <w>para</w>
-        <w>a</w>
-        <w>grande</w>
-        <w>vida</w>
-        <w>,</w>
-        <w>a</w>
-        <w>um</w>
-        <w>passo</w>
-        <w>de</w>
-        <w>o</w>
-        <w>«</w>
-        <w>Figaro</w>
-        <w>»</w>
-        <w>,</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Louvre</w>
-        <w>,</w>
-        <w>de</w>
-        <w>a</w>
-        <w>filosofia</w>
-        <w>e</w>
-        <w>de</w>
-        <w>a</w>
-        <w>blague...</w>
-      </s>
-      <s>
-        <w>Aqui</w>
-        <w>tens</w>
-        <w>tu</w>
-        <w>a</w>
-        <w>minha</w>
-        <w>doutrina!</w>
-      </s>
-      <s>
-        <w>...</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>aí</w>
-        <w>temos</w>
-        <w>nós</w>
-        <w>o</w>
-        <w>amigo</w>
-        <w>Baptista</w>
-        <w>com</w>
-        <w>o</w>
-        <w>correio</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053818">
-      <s>
-        <w>Não</w>
-        <w>era</w>
-        <w>o</w>
-        <w>correio</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Era</w>
-        <w>apenas</w>
-        <w>um</w>
-        <w>bilhete</w>
-        <w>que</w>
-        <w>o</w>
-        <w>Baptista</w>
-        <w>trazia</w>
-        <w>em</w>
-        <w>uma</w>
-        <w>salva</w>
-        <w>:</w>
-        <w>e</w>
-        <w>vinha</w>
-        <w>tão</w>
-        <w>perturbado</w>
-        <w>que</w>
-        <w>anunciou</w>
-        <w>«</w>
-        <w>um</w>
-        <w>sujeito</w>
-        <w>,</w>
-        <w>ali</w>
-        <w>fora</w>
-        <w>,</w>
-        <w>en</w>
-        <w>a</w>
-        <w>antecâmara</w>
-        <w>,</w>
-        <w>em</w>
-        <w>uma</w>
-        <w>carruagem</w>
-        <w>,</w>
-        <w>a</w>
-        <w>a</w>
-        <w>espera...</w>
-        <w>»</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053819">
-      <s>
-        <w>Carlos</w>
-        <w>olhou</w>
-        <w>o</w>
-        <w>bilhete</w>
-        <w>,</w>
-        <w>empalideceu</w>
-        <w>terrivelmente</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>ficou</w>
-        <w>a</w>
-        <w>revirá-lo</w>
-        <w>,</w>
-        <w>lento</w>
-        <w>e</w>
-        <w>como</w>
-        <w>atordoado</w>
-        <w>,</w>
-        <w>entre</w>
-        <w>os</w>
-        <w>dedos</w>
-        <w>,</w>
-        <w>que</w>
-        <w>tremiam...</w>
-      </s>
-      <s>
-        <w>Depois</w>
-        <w>,</w>
-        <w>em</w>
-        <w>silêncio</w>
-        <w>,</w>
-        <w>atirou-o</w>
-        <w>a</w>
-        <w>o</w>
-        <w>Ega</w>
-        <w>para</w>
-        <w>cima</w>
-        <w>de</w>
-        <w>a</w>
-        <w>mesa</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053820">
-      <s>
-        <w>--</w>
-        <w>Caramba</w>
-        <w>--</w>
-        <w>murmurou</w>
-        <w>Ega</w>
-        <w>,</w>
-        <w>assombrado</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053821">
-      <s>
-        <w>Era</w>
-        <w>Castro</w>
-        <w>Gomes</w>
-        <w>!</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053822">
-      <s>
-        <w>Bruscamente</w>
-        <w>Carlos</w>
-        <w>erguera-se</w>
-        <w>,</w>
-        <w>decidido</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053823">
-      <s>
-        <w>--</w>
-        <w>Manda</w>
-        <w>entrar...</w>
-      </s>
-      <s>
-        <w>Para</w>
-        <w>o</w>
-        <w>salão</w>
-        <w>grande</w>
-        <w>!</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053824">
-      <s>
-        <w>Baptista</w>
-        <w>apontou</w>
-        <w>para</w>
-        <w>o</w>
-        <w>jaquetão</w>
-        <w>de</w>
-        <w>flanela</w>
-        <w>com</w>
-        <w>que</w>
-        <w>Carlos</w>
-        <w>tinha</w>
-        <w>almoçado</w>
-        <w>,</w>
-        <w>e</w>
-        <w>perguntou</w>
-        <w>baixo</w>
-        <w>se</w>
-        <w>Sua</w>
-        <w>Excelência</w>
-        <w>queria</w>
-        <w>uma</w>
-        <w>sobrecasaca</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053825">
-      <s>
-        <w>--</w>
-        <w>Traz</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053826">
-      <s>
-        <w>Sós</w>
-        <w>,</w>
-        <w>Ega</w>
-        <w>e</w>
-        <w>Carlos</w>
-        <w>olharam-se</w>
-        <w>um</w>
-        <w>instante</w>
-        <w>,</w>
-        <w>ansiosamente</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053827">
-      <s>
-        <w>--</w>
-        <w>Não</w>
-        <w>é</w>
-        <w>um</w>
-        <w>desafio</w>
-        <w>,</w>
-        <w>está</w>
-        <w>claro</w>
-        <w>--</w>
-        <w>balbuciou</w>
-        <w>Ega</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053828">
-      <s>
-        <w>Carlos</w>
-        <w>não</w>
-        <w>respondeu</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Examinava</w>
-        <w>outra</w>
-        <w>vez</w>
-        <w>o</w>
-        <w>bilhete</w>
-        <w>:</w>
-        <w>o</w>
-        <w>homem</w>
-        <w>chamava-se</w>
-        <w>Joaquim</w>
-        <w>Álvares</w>
-        <w>de</w>
-        <w>Castro</w>
-        <w>Gomes</w>
-        <w>:</w>
-        <w>por</w>
-        <w>baixo</w>
-        <w>tinha</w>
-        <w>escrito</w>
-        <w>a</w>
-        <w>lápis</w>
-        <w>:</w>
-        <w>«</w>
-        <w>Hotel</w>
-        <w>Bragança</w>
-        <w>»</w>
-        <w>...</w>
-      </s>
-      <s>
-        <w>Baptista</w>
-        <w>voltara</w>
-        <w>com</w>
-        <w>a</w>
-        <w>sobrecasaca</w>
-        <w>:</w>
-        <w>e</w>
-        <w>Carlos</w>
-        <w>,</w>
-        <w>abotoando-a</w>
-        <w>devagar</w>
-        <w>,</w>
-        <w>saiu</w>
-        <w>sem</w>
-        <w>outra</w>
-        <w>mais</w>
-        <w>palavra</w>
-        <w>a</w>
-        <w>o</w>
-        <w>Ega</w>
-        <w>,</w>
-        <w>que</w>
-        <w>ficara</w>
-        <w>de</w>
-        <w>pé</w>
-        <w>junto</w>
-        <w>de</w>
-        <w>a</w>
-        <w>mesa</w>
-        <w>,</w>
-        <w>limpando</w>
-        <w>estupidamente</w>
-        <w>as</w>
-        <w>mãos</w>
-        <w>a</w>
-        <w>o</w>
-        <w>guardanapo</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053829">
-      <s>
-        <w>En</w>
-        <w>o</w>
-        <w>salão</w>
-        <w>nobre</w>
-        <w>,</w>
-        <w>forrado</w>
-        <w>de</w>
-        <w>brocados</w>
-        <w>cor</w>
-        <w>de</w>
-        <w>musgo</w>
-        <w>de</w>
-        <w>Outono</w>
-        <w>,</w>
-        <w>Castro</w>
-        <w>Gomes</w>
-        <w>examinava</w>
-        <w>curiosamente</w>
-        <w>,</w>
-        <w>com</w>
-        <w>um</w>
-        <w>joelho</w>
-        <w>apoiado</w>
-        <w>a</w>
-        <w>a</w>
-        <w>borda</w>
-        <w>de</w>
-        <w>o</w>
-        <w>sofá</w>
-        <w>,</w>
-        <w>a</w>
-        <w>esplêndida</w>
-        <w>tela</w>
-        <w>de</w>
-        <w>Constable</w>
-        <w>,</w>
-        <w>o</w>
-        <w>retrato</w>
-        <w>de</w>
-        <w>a</w>
-        <w>condessa</w>
-        <w>de</w>
-        <w>Runa</w>
-        <w>,</w>
-        <w>bela</w>
-        <w>e</w>
-        <w>forte</w>
-        <w>en</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>vestido</w>
-        <w>de</w>
-        <w>veludo</w>
-        <w>escarlate</w>
-        <w>de</w>
-        <w>caçadora</w>
-        <w>inglesa</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>A</w>
-        <w>o</w>
-        <w>rumor</w>
-        <w>de</w>
-        <w>os</w>
-        <w>passos</w>
-        <w>de</w>
-        <w>Carlos</w>
-        <w>sobre</w>
-        <w>o</w>
-        <w>tapete</w>
-        <w>,</w>
-        <w>voltou-se</w>
-        <w>,</w>
-        <w>de</w>
-        <w>chapéu</w>
-        <w>branco</w>
-        <w>en</w>
-        <w>a</w>
-        <w>mão</w>
-        <w>,</w>
-        <w>sorrindo</w>
-        <w>,</w>
-        <w>pedindo</w>
-        <w>perdão</w>
-        <w>de</w>
-        <w>estar</w>
-        <w>assim</w>
-        <w>a</w>
-        <w>pasmar</w>
-        <w>familiarmente</w>
-        <w>para</w>
-        <w>aquele</w>
-        <w>soberbo</w>
-        <w>Constable...</w>
-      </s>
-      <s>
-        <w>Com</w>
-        <w>um</w>
-        <w>gesto</w>
-        <w>rígido</w>
-        <w>,</w>
-        <w>Carlos</w>
-        <w>,</w>
-        <w>muito</w>
-        <w>pálido</w>
-        <w>,</w>
-        <w>indicou-lhe</w>
-        <w>o</w>
-        <w>sofá</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Saudando</w>
-        <w>e</w>
-        <w>risonho</w>
-        <w>,</w>
-        <w>Castro</w>
-        <w>Gomes</w>
-        <w>sentou-se</w>
-        <w>vagarosamente</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>En</w>
-        <w>o</w>
-        <w>peito</w>
-        <w>de</w>
-        <w>a</w>
-        <w>sobrecasaca</w>
-        <w>muito</w>
-        <w>justa</w>
-        <w>trazia</w>
-        <w>um</w>
-        <w>botão</w>
-        <w>de</w>
-        <w>rosa</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>os</w>
-        <w>seus</w>
-        <w>sapatos</w>
-        <w>de</w>
-        <w>verniz</w>
-        <w>resplandeciam</w>
-        <w>sobre</w>
-        <w>as</w>
-        <w>polainas</w>
-        <w>de</w>
-        <w>linho</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>en</w>
-        <w>o</w>
-        <w>rosto</w>
-        <w>chupado</w>
-        <w>,</w>
-        <w>queimado</w>
-        <w>,</w>
-        <w>a</w>
-        <w>barba</w>
-        <w>negra</w>
-        <w>terminava</w>
-        <w>em</w>
-        <w>bico</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>os</w>
-        <w>cabelos</w>
-        <w>rareavam-lhe</w>
-        <w>en</w>
-        <w>a</w>
-        <w>risca</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>e</w>
-        <w>mesmo</w>
-        <w>a</w>
-        <w>sorrir</w>
-        <w>tinha</w>
-        <w>um</w>
-        <w>ar</w>
-        <w>de</w>
-        <w>secura</w>
-        <w>,</w>
-        <w>de</w>
-        <w>fadiga</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00053830">
-      <s>
-        <w>--</w>
-        <w>Eu</w>
-        <w>possuo</w>
-        <w>também</w>
-        <w>em</w>
-        <w>Paris</w>
-        <w>um</w>
-        <w>Constable</w>
-        <w>muito</w>
-        <w>chique</w>
-        <w>--</w>
-        <w>disse</w>
-        <w>ele</w>
-        <w>,</w>
-        <w>sem</w>
-        <w>embaraço</w>
-        <w>,</w>
-        <w>em</w>
-        <w>um</w>
-        <w>tom</w>
-        <w>arrastado</w>
-        <w>,</w>
-        <w>cheio</w>
-        <w>de</w>
-        <w>rr</w>
-        <w>,</w>
-        <w>que</w>
-        <w>o</w>
-        <w>sotaque</w>
-        <w>brasileiro</w>
-        <w>adocicava</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>Mas</w>
-        <w>é</w>
-        <w>apenas</w>
-        <w>uma</w>
-        <w>pequena</w>
-        <w>paisagem</w>
-        <w>,</w>
-        <w>com</w>
-        <w>duas</w>
-        <w>figurinhas</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>É</w>
-        <w>um</w>
-        <w>pintor</w>
-        <w>que</w>
-        <w>não</w>
-        <w>me</w>
-        <w>diverte</w>
-        <w>,</w>
-        <w>a</w>
-        <w>dizer</w>
-        <w>a</w>
-        <w>verdade...</w>
-      </s>
-      <s>
-        <w>Todavia</w>
-        <w>dá</w>
-        <w>muito</w>
-        <w>tom</w>
-        <w>a</w>
-        <w>uma</w>
-        <w>galeria</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>É</w>
-        <w>necessário</w>
-        <w>tê-lo</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-  </sample>
-  <sample>
-    <p n="PT0005300">
-      <s>
-        <w>--</w>
-        <w>E</w>
-        <w>ninguém</w>
-        <w>a</w>
-        <w>esperá-lo</w>
-        <w>,</w>
-        <w>nem</w>
-        <w>um</w>
-        <w>criado</w>
-        <w>lá</w>
-        <w>em</w>
-        <w>baixo</w>
-        <w>en</w>
-        <w>o</w>
-        <w>rio!</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>dizia</w>
-        <w>Afonso</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>Enfim</w>
-        <w>,</w>
-        <w>cá</w>
-        <w>o</w>
-        <w>temos</w>
-        <w>,</w>
-        <w>é</w>
-        <w>o</w>
-        <w>essencial...</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>como</w>
-        <w>você</w>
-        <w>está</w>
-        <w>rijo</w>
-        <w>,</w>
-        <w>Vilaça</w>
-        <w>!</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005301">
-      <s>
-        <w>--</w>
-        <w>E</w>
-        <w>Vossa</w>
-        <w>Excelência</w>
-        <w>,</w>
-        <w>meu</w>
-        <w>senhor</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>balbuciou</w>
-        <w>o</w>
-        <w>administrador</w>
-        <w>,</w>
-        <w>engolindo</w>
-        <w>um</w>
-        <w>soluço</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>Nem</w>
-        <w>uma</w>
-        <w>ruga</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>Branco</w>
-        <w>sim</w>
-        <w>,</w>
-        <w>mas</w>
-        <w>uma</w>
-        <w>cara</w>
-        <w>de</w>
-        <w>moço...</w>
-      </s>
-      <s>
-        <w>Eu</w>
-        <w>nem</w>
-        <w>o</w>
-        <w>conhecia!...</w>
-      </s>
-      <s>
-        <w>Quando</w>
-        <w>me</w>
-        <w>lembro</w>
-        <w>,</w>
-        <w>a</w>
-        <w>última</w>
-        <w>vez</w>
-        <w>que</w>
-        <w>o</w>
-        <w>vi...</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>cá</w>
-        <w>isto!</w>
-        <w>cá</w>
-        <w>esta</w>
-        <w>linda</w>
-        <w>flor!</w>
-        <w>..</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005302">
-      <s>
-        <w>Ia</w>
-        <w>abraçar</w>
-        <w>Carlos</w>
-        <w>outra</w>
-        <w>vez</w>
-        <w>entusiasmado</w>
-        <w>,</w>
-        <w>mas</w>
-        <w>o</w>
-        <w>rapaz</w>
-        <w>fugiu-lhe</w>
-        <w>com</w>
-        <w>uma</w>
-        <w>bela</w>
-        <w>risada</w>
-        <w>,</w>
-        <w>saltou</w>
-        <w>de</w>
-        <w>o</w>
-        <w>terraço</w>
-        <w>,</w>
-        <w>foi</w>
-        <w>pendurar-se</w>
-        <w>de</w>
-        <w>um</w>
-        <w>trapézio</w>
-        <w>armado</w>
-        <w>entre</w>
-        <w>as</w>
-        <w>árvores</w>
-        <w>,</w>
-        <w>e</w>
-        <w>ficou</w>
-        <w>lá</w>
-        <w>,</w>
-        <w>balançando-se</w>
-        <w>em</w>
-        <w>cadência</w>
-        <w>,</w>
-        <w>forte</w>
-        <w>e</w>
-        <w>airoso</w>
-        <w>,</w>
-        <w>gritando</w>
-        <w>:</w>
-        <w>«</w>
-        <w>Tu</w>
-        <w>és</w>
-        <w>o</w>
-        <w>Vilaça</w>
-        <w>»</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005303">
-      <s>
-        <w>O</w>
-        <w>Vilaça</w>
-        <w>,</w>
-        <w>de</w>
-        <w>guarda-sol</w>
-        <w>debaixo</w>
-        <w>de</w>
-        <w>o</w>
-        <w>braço</w>
-        <w>,</w>
-        <w>contemplava-o</w>
-        <w>embevecido</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005304">
-      <s>
-        <w>--</w>
-        <w>Está</w>
-        <w>uma</w>
-        <w>linda</w>
-        <w>criança</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>Faz</w>
-        <w>gosto</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>parece-se</w>
-        <w>com</w>
-        <w>o</w>
-        <w>pai</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Os</w>
-        <w>mesmos</w>
-        <w>olhos</w>
-        <w>,</w>
-        <w>olhos</w>
-        <w>de</w>
-        <w>os</w>
-        <w>Maias</w>
-        <w>,</w>
-        <w>o</w>
-        <w>cabelo</w>
-        <w>encaracolado..</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Mas</w>
-        <w>há-de</w>
-        <w>ser</w>
-        <w>muito</w>
-        <w>mais</w>
-        <w>homem</w>
-        <w>!</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005305">
-      <s>
-        <w>--</w>
-        <w>É</w>
-        <w>são</w>
-        <w>,</w>
-        <w>é</w>
-        <w>rijo</w>
-        <w>--</w>
-        <w>dizia</w>
-        <w>o</w>
-        <w>velho</w>
-        <w>risonho</w>
-        <w>,</w>
-        <w>anediando</w>
-        <w>as</w>
-        <w>barbas</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>E</w>
-        <w>como</w>
-        <w>ficou</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>rapaz</w>
-        <w>,</w>
-        <w>o</w>
-        <w>Manuel</w>
-        <w>?</w>
-      </s>
-      <s>
-        <w>Quando</w>
-        <w>é</w>
-        <w>esse</w>
-        <w>casamento</w>
-        <w>?</w>
-      </s>
-      <s>
-        <w>Venha</w>
-        <w>você</w>
-        <w>cá</w>
-        <w>para</w>
-        <w>dentro</w>
-        <w>,</w>
-        <w>Vilaça</w>
-        <w>,</w>
-        <w>que</w>
-        <w>há</w>
-        <w>muito</w>
-        <w>que</w>
-        <w>conversar...</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005306">
-      <s>
-        <w>Tinham</w>
-        <w>entrado</w>
-        <w>en</w>
-        <w>a</w>
-        <w>sala</w>
-        <w>de</w>
-        <w>jantar</w>
-        <w>,</w>
-        <w>onde</w>
-        <w>um</w>
-        <w>lume</w>
-        <w>de</w>
-        <w>lenha</w>
-        <w>en</w>
-        <w>a</w>
-        <w>chaminé</w>
-        <w>de</w>
-        <w>azulejo</w>
-        <w>esmorecia</w>
-        <w>en</w>
-        <w>a</w>
-        <w>fina</w>
-        <w>e</w>
-        <w>larga</w>
-        <w>luz</w>
-        <w>de</w>
-        <w>Abril</w>
-        <w>:</w>
-        <w>porcelanas</w>
-        <w>e</w>
-        <w>pratas</w>
-        <w>resplandeciam</w>
-        <w>en</w>
-        <w>os</w>
-        <w>aparadores</w>
-        <w>de</w>
-        <w>pau-santo</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>os</w>
-        <w>canários</w>
-        <w>pareciam</w>
-        <w>doidos</w>
-        <w>de</w>
-        <w>alegria</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005307">
-      <s>
-        <w>A</w>
-        <w>Gertrudes</w>
-        <w>,</w>
-        <w>que</w>
-        <w>ficara</w>
-        <w>a</w>
-        <w>observar</w>
-        <w>,</w>
-        <w>acercou-se,.com</w>
-        <w>as</w>
-        <w>mãos</w>
-        <w>cruzadas</w>
-        <w>sob</w>
-        <w>o</w>
-        <w>avental</w>
-        <w>branco</w>
-        <w>,</w>
-        <w>familiar</w>
-        <w>,</w>
-        <w>terna</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005308">
-      <s>
-        <w>--</w>
-        <w>Então</w>
-        <w>,</w>
-        <w>meu</w>
-        <w>senhor</w>
-        <w>,</w>
-        <w>aqui</w>
-        <w>está</w>
-        <w>um</w>
-        <w>regalo</w>
-        <w>,</w>
-        <w>ver</w>
-        <w>outra</w>
-        <w>vez</w>
-        <w>este</w>
-        <w>ingrato</w>
-        <w>em</w>
-        <w>Santa</w>
-        <w>Olávia</w>
-        <w>!</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005309">
-      <s>
-        <w>E</w>
-        <w>,</w>
-        <w>com</w>
-        <w>um</w>
-        <w>clarão</w>
-        <w>de</w>
-        <w>simpatia</w>
-        <w>en</w>
-        <w>a</w>
-        <w>face</w>
-        <w>,</w>
-        <w>alva</w>
-        <w>e</w>
-        <w>redonda</w>
-        <w>como</w>
-        <w>uma</w>
-        <w>velha</w>
-        <w>Lua</w>
-        <w>,</w>
-        <w>ornada</w>
-        <w>já</w>
-        <w>de</w>
-        <w>um</w>
-        <w>buço</w>
-        <w>branco</w>
-        <w>:</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005310">
-      <s>
-        <w>--</w>
-        <w>Ah!</w>
-        <w>sr</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Vilaça</w>
-        <w>,</w>
-        <w>isto</w>
-        <w>agora</w>
-        <w>é</w>
-        <w>outra</w>
-        <w>coisa</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>Até</w>
-        <w>os</w>
-        <w>canários</w>
-        <w>cantam</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>também</w>
-        <w>eu</w>
-        <w>cantava</w>
-        <w>,</w>
-        <w>se</w>
-        <w>ainda</w>
-        <w>pudesse..</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005311">
-      <s>
-        <w>E</w>
-        <w>foi</w>
-        <w>saindo</w>
-        <w>,</w>
-        <w>subitamente</w>
-        <w>comovida</w>
-        <w>,</w>
-        <w>já</w>
-        <w>com</w>
-        <w>vontade</w>
-        <w>de</w>
-        <w>chorar</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005312">
-      <s>
-        <w>O</w>
-        <w>Teixeira</w>
-        <w>esperava</w>
-        <w>,</w>
-        <w>com</w>
-        <w>um</w>
-        <w>riso</w>
-        <w>superior</w>
-        <w>e</w>
-        <w>mudo</w>
-        <w>que</w>
-        <w>lhe</w>
-        <w>ia</w>
-        <w>de</w>
-        <w>uma</w>
-        <w>a</w>
-        <w>outra</w>
-        <w>ponta</w>
-        <w>de</w>
-        <w>os</w>
-        <w>seus</w>
-        <w>altos</w>
-        <w>colarinhos</w>
-        <w>de</w>
-        <w>mordomo</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005313">
-      <s>
-        <w>--</w>
-        <w>Eu</w>
-        <w>creio</w>
-        <w>que</w>
-        <w>prepararam</w>
-        <w>o</w>
-        <w>quarto</w>
-        <w>azul</w>
-        <w>a</w>
-        <w>o</w>
-        <w>sr</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Vilaça</w>
-        <w>,</w>
-        <w>hem?</w>
-        <w>--</w>
-        <w>disse</w>
-        <w>Afonso</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>En</w>
-        <w>o</w>
-        <w>quarto</w>
-        <w>em</w>
-        <w>que</w>
-        <w>você</w>
-        <w>costumava</w>
-        <w>ficar</w>
-        <w>dorme</w>
-        <w>agora</w>
-        <w>a</w>
-        <w>viscondessa...</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT0005314">
-      <s>
-        <w>Então</w>
-        <w>o</w>
-        <w>Vilaça</w>
-        <w>apressou-se</w>
-        <w>a</w>
-        <w>perguntar</w>
-        <w>por</w>
-        <w>a</w>
-        <w>senhora</w>
-        <w>viscondessa</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Era</w>
-        <w>uma</w>
-        <w>Runa</w>
-        <w>,</w>
-        <w>uma</w>
-        <w>prima</w>
-        <w>de</w>
-        <w>a</w>
-        <w>mulher</w>
-        <w>de</w>
-        <w>Afonso</w>
-        <w>,</w>
-        <w>que</w>
-        <w>en</w>
-        <w>o</w>
-        <w>tempo</w>
-        <w>em</w>
-        <w>que</w>
-        <w>os</w>
-        <w>poetas</w>
-        <w>de</w>
-        <w>Caminha</w>
-        <w>a</w>
-        <w>cantavam</w>
-        <w>,</w>
-        <w>casara</w>
-        <w>com</w>
-        <w>um</w>
-        <w>fidalgote</w>
-        <w>galego</w>
-        <w>,</w>
-        <w>o</w>
-        <w>senhor</w>
-        <w>visconde</w>
-        <w>de</w>
-        <w>Urigo</w>
-        <w>de</w>
-        <w>la</w>
-        <w>Sierra</w>
-        <w>,</w>
-        <w>um</w>
-        <w>borracho</w>
-        <w>,</w>
-        <w>um</w>
-        <w>brutal</w>
-        <w>que</w>
-        <w>lhe</w>
-        <w>batia</w>
-        <w>:</w>
-        <w>depois</w>
-        <w>,</w>
-        <w>viúva</w>
-        <w>e</w>
-        <w>pobre</w>
-        <w>,</w>
-        <w>Afonso</w>
-        <w>recolhera-a</w>
-        <w>por</w>
-        <w>dever</w>
-        <w>de</w>
-        <w>parentela</w>
-        <w>,</w>
-        <w>e</w>
-        <w>para</w>
-        <w>haver</w>
-        <w>uma</w>
-        <w>senhora</w>
-        <w>em</w>
-        <w>Santa</w>
-        <w>Olávia</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-  </sample>
-  <sample>
-    <p n="PT00051112">
-      <s>
-        <w>Nessa</w>
-        <w>tarde</w>
-        <w>,</w>
-        <w>a</w>
-        <w>as</w>
-        <w>seis</w>
-        <w>horas</w>
-        <w>,</w>
-        <w>Carlos</w>
-        <w>,</w>
-        <w>a</w>
-        <w>o</w>
-        <w>descer</w>
-        <w>a</w>
-        <w>Rua</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Alecrim</w>
-        <w>para</w>
-        <w>o</w>
-        <w>Hotel</w>
-        <w>Central</w>
-        <w>,</w>
-        <w>avistou</w>
-        <w>Craft</w>
-        <w>dentro</w>
-        <w>de</w>
-        <w>a</w>
-        <w>loja</w>
-        <w>de</w>
-        <w>bricabraque</w>
-        <w>de</w>
-        <w>o</w>
-        <w>tio</w>
-        <w>Abraão</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051113">
-      <s>
-        <w>Entrou</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>O</w>
-        <w>velho</w>
-        <w>judeu</w>
-        <w>,</w>
-        <w>que</w>
-        <w>estava</w>
-        <w>mostrando</w>
-        <w>a</w>
-        <w>Craft</w>
-        <w>uma</w>
-        <w>falsa</w>
-        <w>faiança</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Rato</w>
-        <w>,</w>
-        <w>arrancou</w>
-        <w>logo</w>
-        <w>de</w>
-        <w>a</w>
-        <w>cabeça</w>
-        <w>o</w>
-        <w>sujo</w>
-        <w>barrete</w>
-        <w>de</w>
-        <w>borla</w>
-        <w>,</w>
-        <w>e</w>
-        <w>ficou</w>
-        <w>curvado</w>
-        <w>em</w>
-        <w>dois</w>
-        <w>,</w>
-        <w>diante</w>
-        <w>de</w>
-        <w>Carlos</w>
-        <w>,</w>
-        <w>com</w>
-        <w>as</w>
-        <w>duas</w>
-        <w>mãos</w>
-        <w>sobre</w>
-        <w>o</w>
-        <w>coração</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051114">
-      <s>
-        <w>Depois</w>
-        <w>,</w>
-        <w>em</w>
-        <w>uma</w>
-        <w>linguagem</w>
-        <w>exótica</w>
-        <w>,</w>
-        <w>misturada</w>
-        <w>de</w>
-        <w>inglês</w>
-        <w>,</w>
-        <w>pediu</w>
-        <w>a</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>bom</w>
-        <w>senhor</w>
-        <w>D.</w>
-        <w>Carlos</w>
-        <w>de</w>
-        <w>a</w>
-        <w>Maia</w>
-        <w>,</w>
-        <w>a</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>digno</w>
-        <w>senhor</w>
-        <w>,</w>
-        <w>a</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>beautiful</w>
-        <w>gentleman</w>
-        <w>,</w>
-        <w>que</w>
-        <w>se</w>
-        <w>dignasse</w>
-        <w>examinar</w>
-        <w>uma</w>
-        <w>maravilhazinha</w>
-        <w>que</w>
-        <w>lhe</w>
-        <w>tinha</w>
-        <w>reservada</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>e</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>muito</w>
-        <w>generous</w>
-        <w>gentleman</w>
-        <w>tinha</w>
-        <w>só</w>
-        <w>a</w>
-        <w>voltar</w>
-        <w>os</w>
-        <w>olhos</w>
-        <w>,</w>
-        <w>a</w>
-        <w>maravilhazinha</w>
-        <w>estava</w>
-        <w>ali</w>
-        <w>a</w>
-        <w>o</w>
-        <w>lado</w>
-        <w>,</w>
-        <w>em</w>
-        <w>uma</w>
-        <w>cadeira</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Era</w>
-        <w>um</w>
-        <w>retrato</w>
-        <w>de</w>
-        <w>espanhola</w>
-        <w>,</w>
-        <w>apanhado</w>
-        <w>a</w>
-        <w>fortes</w>
-        <w>brochadelas</w>
-        <w>de</w>
-        <w>primeira</w>
-        <w>impressão</w>
-        <w>,</w>
-        <w>e</w>
-        <w>pondo</w>
-        <w>,</w>
-        <w>sobre</w>
-        <w>um</w>
-        <w>fundo</w>
-        <w>audaz</w>
-        <w>de</w>
-        <w>cor-de-rosa</w>
-        <w>murcho</w>
-        <w>,</w>
-        <w>uma</w>
-        <w>face</w>
-        <w>gasta</w>
-        <w>de</w>
-        <w>velha</w>
-        <w>garça</w>
-        <w>,</w>
-        <w>picada</w>
-        <w>de</w>
-        <w>as</w>
-        <w>bexigas</w>
-        <w>,</w>
-        <w>caiada</w>
-        <w>,</w>
-        <w>ressudando</w>
-        <w>vício</w>
-        <w>,</w>
-        <w>com</w>
-        <w>um</w>
-        <w>sorriso</w>
-        <w>bestial</w>
-        <w>que</w>
-        <w>prometia</w>
-        <w>tudo</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051115">
-      <s>
-        <w>Carlos</w>
-        <w>,</w>
-        <w>tranquilamente</w>
-        <w>,</w>
-        <w>ofereceu</w>
-        <w>dez</w>
-        <w>tostões</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Craft</w>
-        <w>pasmou</w>
-        <w>de</w>
-        <w>uma</w>
-        <w>tal</w>
-        <w>prodigalidade</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>e</w>
-        <w>o</w>
-        <w>bom</w>
-        <w>Abraão</w>
-        <w>,</w>
-        <w>em</w>
-        <w>um</w>
-        <w>riso</w>
-        <w>mudo</w>
-        <w>que</w>
-        <w>lhe</w>
-        <w>abria</w>
-        <w>entre</w>
-        <w>a</w>
-        <w>barba</w>
-        <w>grisalha</w>
-        <w>uma</w>
-        <w>grande</w>
-        <w>boca</w>
-        <w>de</w>
-        <w>um</w>
-        <w>só</w>
-        <w>dente</w>
-        <w>,</w>
-        <w>saboreou</w>
-        <w>muito</w>
-        <w>a</w>
-        <w>«</w>
-        <w>chalaça</w>
-        <w>de</w>
-        <w>os</w>
-        <w>seus</w>
-        <w>ricos</w>
-        <w>senhores</w>
-        <w>»</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Dez</w>
-        <w>tostõezinhos</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>Se</w>
-        <w>o</w>
-        <w>quadrinho</w>
-        <w>tivesse</w>
-        <w>por</w>
-        <w>baixo</w>
-        <w>o</w>
-        <w>nomezinho</w>
-        <w>de</w>
-        <w>Fortuny</w>
-        <w>,</w>
-        <w>valia</w>
-        <w>dez</w>
-        <w>continhos</w>
-        <w>de</w>
-        <w>réis</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Mas</w>
-        <w>não</w>
-        <w>tinha</w>
-        <w>esse</w>
-        <w>nomezinho</w>
-        <w>bendito..</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Ainda</w>
-        <w>assim</w>
-        <w>valia</w>
-        <w>dez</w>
-        <w>notazinhas</w>
-        <w>de</w>
-        <w>vinte</w>
-        <w>mil</w>
-        <w>réis...</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051116">
-      <s>
-        <w>--</w>
-        <w>Dez</w>
-        <w>cordas</w>
-        <w>para</w>
-        <w>te</w>
-        <w>enforcar</w>
-        <w>,</w>
-        <w>hebreu</w>
-        <w>sem</w>
-        <w>alma!</w>
-        <w>--</w>
-        <w>exclamou</w>
-        <w>Carlos</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051117">
-      <s>
-        <w>E</w>
-        <w>saíram</w>
-        <w>,</w>
-        <w>deixando</w>
-        <w>o</w>
-        <w>velho</w>
-        <w>intrujão</w>
-        <w>a</w>
-        <w>a</w>
-        <w>porta</w>
-        <w>,</w>
-        <w>curvado</w>
-        <w>em</w>
-        <w>dois</w>
-        <w>,</w>
-        <w>com</w>
-        <w>as</w>
-        <w>mãos</w>
-        <w>sobre</w>
-        <w>o</w>
-        <w>coração</w>
-        <w>,</w>
-        <w>desejando</w>
-        <w>mil</w>
-        <w>felicidades</w>
-        <w>a</w>
-        <w>os</w>
-        <w>seus</w>
-        <w>generosos</w>
-        <w>fidalgos...</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051118">
-      <s>
-        <w>--</w>
-        <w>Não</w>
-        <w>tem</w>
-        <w>uma</w>
-        <w>única</w>
-        <w>coisa</w>
-        <w>boa</w>
-        <w>,</w>
-        <w>este</w>
-        <w>velho</w>
-        <w>Abraão</w>
-        <w>--</w>
-        <w>disse</w>
-        <w>Carlos</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051119">
-      <s>
-        <w>--</w>
-        <w>Tem</w>
-        <w>a</w>
-        <w>filha</w>
-        <w>--</w>
-        <w>disse</w>
-        <w>o</w>
-        <w>Craft</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051120">
-      <s>
-        <w>Carlos</w>
-        <w>achava-a</w>
-        <w>bonita</w>
-        <w>,</w>
-        <w>mas</w>
-        <w>horrivelmente</w>
-        <w>suja</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Então</w>
-        <w>a</w>
-        <w>propósito</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Abraão</w>
-        <w>,</w>
-        <w>falou</w>
-        <w>a</w>
-        <w>Craft</w>
-        <w>dessas</w>
-        <w>belas</w>
-        <w>colecções</w>
-        <w>de</w>
-        <w>os</w>
-        <w>Olivais</w>
-        <w>,</w>
-        <w>que</w>
-        <w>o</w>
-        <w>Ega</w>
-        <w>,</w>
-        <w>apesar</w>
-        <w>de</w>
-        <w>o</w>
-        <w>desdém</w>
-        <w>que</w>
-        <w>afectava</w>
-        <w>por</w>
-        <w>o</w>
-        <w>bibelot</w>
-        <w>por</w>
-        <w>o</w>
-        <w>móvel</w>
-        <w>de</w>
-        <w>arte</w>
-        <w>,</w>
-        <w>lhe</w>
-        <w>descrevera</w>
-        <w>como</w>
-        <w>sublimes</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051121">
-      <s>
-        <w>Craft</w>
-        <w>encolheu</w>
-        <w>os</w>
-        <w>ombros</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051122">
-      <s>
-        <w>--</w>
-        <w>O</w>
-        <w>Ega</w>
-        <w>não</w>
-        <w>entende</w>
-        <w>nada</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Mesmo</w>
-        <w>em</w>
-        <w>Lisboa</w>
-        <w>,</w>
-        <w>não</w>
-        <w>se</w>
-        <w>pode</w>
-        <w>chamar</w>
-        <w>a</w>
-        <w>o</w>
-        <w>que</w>
-        <w>eu</w>
-        <w>tenho</w>
-        <w>uma</w>
-        <w>colecção</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>É</w>
-        <w>um</w>
-        <w>bricabraque</w>
-        <w>de</w>
-        <w>acaso...</w>
-      </s>
-      <s>
-        <w>De</w>
-        <w>que</w>
-        <w>,</w>
-        <w>de</w>
-        <w>resto</w>
-        <w>,</w>
-        <w>me</w>
-        <w>vou</w>
-        <w>desfazer</w>
-        <w>!</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051123">
-      <s>
-        <w>Isto</w>
-        <w>surpreendeu</w>
-        <w>Carlos</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Compreendera</w>
-        <w>de</w>
-        <w>as</w>
-        <w>palavras</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Ega</w>
-        <w>ser</w>
-        <w>essa</w>
-        <w>uma</w>
-        <w>colecção</w>
-        <w>formada</w>
-        <w>com</w>
-        <w>amor</w>
-        <w>,</w>
-        <w>en</w>
-        <w>o</w>
-        <w>laborioso</w>
-        <w>decurso</w>
-        <w>de</w>
-        <w>anos</w>
-        <w>,</w>
-        <w>orgulho</w>
-        <w>e</w>
-        <w>cuidado</w>
-        <w>de</w>
-        <w>uma</w>
-        <w>existência</w>
-        <w>de</w>
-        <w>homem...</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00051124">
-      <s>
-        <w>Craft</w>
-        <w>sorriu</w>
-        <w>daquela</w>
-        <w>legenda</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>A</w>
-        <w>verdade</w>
-        <w>era</w>
-        <w>que</w>
-        <w>só</w>
-        <w>em</w>
-        <w>1872</w>
-        <w>ele</w>
-        <w>começara</w>
-        <w>a</w>
-        <w>interessar-se</w>
-        <w>por</w>
-        <w>o</w>
-        <w>bricabraque</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>chegava</w>
-        <w>então</w>
-        <w>de</w>
-        <w>a</w>
-        <w>América</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Sul</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>e</w>
-        <w>o</w>
-        <w>que</w>
-        <w>fora</w>
-        <w>comprando</w>
-        <w>,</w>
-        <w>descobrindo</w>
-        <w>aqui</w>
-        <w>e</w>
-        <w>além</w>
-        <w>,</w>
-        <w>acumulara-o</w>
-        <w>nessa</w>
-        <w>casa</w>
-        <w>de</w>
-        <w>os</w>
-        <w>Olivais</w>
-        <w>,</w>
-        <w>alugada</w>
-        <w>então</w>
-        <w>por</w>
-        <w>fantasia</w>
-        <w>,</w>
-        <w>uma</w>
-        <w>manhã</w>
-        <w>que</w>
-        <w>aquele</w>
-        <w>pardieiro</w>
-        <w>,</w>
-        <w>com</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>bocado</w>
-        <w>de</w>
-        <w>quintal</w>
-        <w>em</w>
-        <w>redor</w>
-        <w>,</w>
-        <w>lhe</w>
-        <w>parecera</w>
-        <w>pitoresco</w>
-        <w>,</w>
-        <w>sob</w>
-        <w>o</w>
-        <w>sol</w>
-        <w>de</w>
-        <w>Abril</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Mas</w>
-        <w>agora</w>
-        <w>,</w>
-        <w>se</w>
-        <w>pudesse</w>
-        <w>desfazer-se</w>
-        <w>de</w>
-        <w>o</w>
-        <w>que</w>
-        <w>tinha</w>
-        <w>,</w>
-        <w>ia</w>
-        <w>dedicar-se</w>
-        <w>então</w>
-        <w>a</w>
-        <w>formar</w>
-        <w>uma</w>
-        <w>colecção</w>
-        <w>homogénea</w>
-        <w>e</w>
-        <w>compacta</w>
-        <w>de</w>
-        <w>arte</w>
-        <w>de</w>
-        <w>o</w>
-        <w>século</w>
-        <w>XVIII</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-  </sample>
-  <sample>
-    <p n="PT00054205">
-      <s>
-        <w>Mas</w>
-        <w>a</w>
-        <w>tipóia</w>
-        <w>estacou</w>
-        <w>antes</w>
-        <w>de</w>
-        <w>a</w>
-        <w>calçada</w>
-        <w>,</w>
-        <w>rente</w>
-        <w>a</w>
-        <w>o</w>
-        <w>passeio</w>
-        <w>,</w>
-        <w>em</w>
-        <w>frente</w>
-        <w>de</w>
-        <w>uma</w>
-        <w>loja</w>
-        <w>de</w>
-        <w>alfaiate</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>nesse</w>
-        <w>instante</w>
-        <w>achava-se</w>
-        <w>aí</w>
-        <w>parado</w>
-        <w>,</w>
-        <w>calçando</w>
-        <w>as</w>
-        <w>suas</w>
-        <w>luvas</w>
-        <w>pretas</w>
-        <w>,</w>
-        <w>um</w>
-        <w>velho</w>
-        <w>alto</w>
-        <w>,</w>
-        <w>de</w>
-        <w>longas</w>
-        <w>barbas</w>
-        <w>de</w>
-        <w>apóstolo</w>
-        <w>,</w>
-        <w>todo</w>
-        <w>vestido</w>
-        <w>de</w>
-        <w>luto</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>A</w>
-        <w>o</w>
-        <w>ver</w>
-        <w>Maria</w>
-        <w>,</w>
-        <w>que</w>
-        <w>se</w>
-        <w>inclinara</w>
-        <w>a</w>
-        <w>a</w>
-        <w>portinhola</w>
-        <w>,</w>
-        <w>o</w>
-        <w>homem</w>
-        <w>pareceu</w>
-        <w>assombrado</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>depois</w>
-        <w>,</w>
-        <w>com</w>
-        <w>um</w>
-        <w>leve</w>
-        <w>cor</w>
-        <w>en</w>
-        <w>a</w>
-        <w>face</w>
-        <w>larga</w>
-        <w>e</w>
-        <w>pálida</w>
-        <w>,</w>
-        <w>tirou</w>
-        <w>gravemente</w>
-        <w>o</w>
-        <w>chapéu</w>
-        <w>,</w>
-        <w>um</w>
-        <w>imenso</w>
-        <w>chapéu</w>
-        <w>de</w>
-        <w>abas</w>
-        <w>recurvas</w>
-        <w>,</w>
-        <w>a</w>
-        <w>a</w>
-        <w>moda</w>
-        <w>de</w>
-        <w>1830</w>
-        <w>,</w>
-        <w>carregado</w>
-        <w>de</w>
-        <w>crepe</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00054206">
-      <s>
-        <w>--</w>
-        <w>Quem</w>
-        <w>é</w>
-        <w>?</w>
-        <w>--</w>
-        <w>perguntou</w>
-        <w>Carlos</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00054207">
-      <s>
-        <w>--</w>
-        <w>É</w>
-        <w>o</w>
-        <w>tio</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Dâmaso</w>
-        <w>,</w>
-        <w>o</w>
-        <w>Guimarães</w>
-        <w>--</w>
-        <w>disse</w>
-        <w>Maria</w>
-        <w>,</w>
-        <w>que</w>
-        <w>corara</w>
-        <w>também</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>--</w>
-        <w>É</w>
-        <w>curioso</w>
-        <w>,</w>
-        <w>ele</w>
-        <w>aqui</w>
-        <w>!</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00054208">
-      <s>
-        <w>Ah</w>
-        <w>,</w>
-        <w>sim!</w>
-        <w>o</w>
-        <w>famoso</w>
-        <w>Mr</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Guimarães</w>
-        <w>,</w>
-        <w>o</w>
-        <w>de</w>
-        <w>o</w>
-        <w>«</w>
-        <w>Rappel</w>
-        <w>»</w>
-        <w>,</w>
-        <w>o</w>
-        <w>íntimo</w>
-        <w>de</w>
-        <w>Gambetta</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>Carlos</w>
-        <w>recordava-se</w>
-        <w>de</w>
-        <w>ter</w>
-        <w>já</w>
-        <w>encontrado</w>
-        <w>aquele</w>
-        <w>patriarca</w>
-        <w>en</w>
-        <w>o</w>
-        <w>Price</w>
-        <w>com</w>
-        <w>o</w>
-        <w>Alencar</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Cumprimentou-o</w>
-        <w>também</w>
-        <w>;</w>
-      </s>
-      <s>
-        <w>o</w>
-        <w>outro</w>
-        <w>ergueu</w>
-        <w>de</w>
-        <w>novo</w>
-        <w>,</w>
-        <w>com</w>
-        <w>uma</w>
-        <w>gravidade</w>
-        <w>maior</w>
-        <w>,</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>sombrio</w>
-        <w>chapéu</w>
-        <w>de</w>
-        <w>carbonário</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Ega</w>
-        <w>entalara</w>
-        <w>vivamente</w>
-        <w>o</w>
-        <w>monóculo</w>
-        <w>para</w>
-        <w>examinar</w>
-        <w>esse</w>
-        <w>lendário</w>
-        <w>tio</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Dâmaso</w>
-        <w>,</w>
-        <w>que</w>
-        <w>ajudava</w>
-        <w>a</w>
-        <w>governar</w>
-        <w>a</w>
-        <w>França</w>
-        <w>:</w>
-        <w>e</w>
-        <w>depois</w>
-        <w>de</w>
-        <w>se</w>
-        <w>despedirem</w>
-        <w>de</w>
-        <w>Maria</w>
-        <w>,</w>
-        <w>quando</w>
-        <w>a</w>
-        <w>caleche</w>
-        <w>já</w>
-        <w>subia</w>
-        <w>a</w>
-        <w>Rua</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Alecrim</w>
-        <w>e</w>
-        <w>eles</w>
-        <w>atravessavam</w>
-        <w>para</w>
-        <w>o</w>
-        <w>Hotel</w>
-        <w>Central</w>
-        <w>,</w>
-        <w>ainda</w>
-        <w>se</w>
-        <w>voltou</w>
-        <w>,</w>
-        <w>seduzido</w>
-        <w>por</w>
-        <w>aqueles</w>
-        <w>modos</w>
-        <w>,</w>
-        <w>aquelas</w>
-        <w>barbas</w>
-        <w>austeras</w>
-        <w>de</w>
-        <w>revolucionário...</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00054209">
-      <s>
-        <w>--</w>
-        <w>Bom</w>
-        <w>tipo</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>E</w>
-        <w>que</w>
-        <w>magnífico</w>
-        <w>chapéu</w>
-        <w>,</w>
-        <w>hem</w>
-        <w>!</w>
-      </s>
-      <s>
-        <w>De</w>
-        <w>onde</w>
-        <w>diabo</w>
-        <w>o</w>
-        <w>conhece</w>
-        <w>a</w>
-        <w>sr.ª</w>
-        <w>D.</w>
-        <w>Maria</w>
-        <w>?</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00054210">
-      <s>
-        <w>--</w>
-        <w>De</w>
-        <w>Paris</w>
-        <w>...</w>
-      </s>
-      <s>
-        <w>Este</w>
-        <w>Mr</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Guimarães</w>
-        <w>era</w>
-        <w>muito</w>
-        <w>de</w>
-        <w>a</w>
-        <w>mãe</w>
-        <w>dela</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>A</w>
-        <w>Maria</w>
-        <w>já</w>
-        <w>me</w>
-        <w>tinha</w>
-        <w>falado</w>
-        <w>nele</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>É</w>
-        <w>um</w>
-        <w>pobre</w>
-        <w>diabo</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Nem</w>
-        <w>amigo</w>
-        <w>de</w>
-        <w>Gambetta</w>
-        <w>,</w>
-        <w>nem</w>
-        <w>coisa</w>
-        <w>nenhuma..</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Traduz</w>
-        <w>notícias</w>
-        <w>de</w>
-        <w>os</w>
-        <w>jornais</w>
-        <w>espanhóis</w>
-        <w>para</w>
-        <w>o</w>
-        <w>«</w>
-        <w>Rappel</w>
-        <w>»</w>
-        <w>,</w>
-        <w>e</w>
-        <w>morre</w>
-        <w>de</w>
-        <w>fome...</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00054211">
-      <s>
-        <w>--</w>
-        <w>Mas</w>
-        <w>então</w>
-        <w>,</w>
-        <w>o</w>
-        <w>Dâmaso</w>
-        <w>?</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00054212">
-      <s>
-        <w>--</w>
-        <w>O</w>
-        <w>Dâmaso</w>
-        <w>é</w>
-        <w>um</w>
-        <w>trapalhão</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Vamos</w>
-        <w>nós</w>
-        <w>a</w>
-        <w>o</w>
-        <w>nosso</w>
-        <w>caso..</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Essa</w>
-        <w>imundície</w>
-        <w>que</w>
-        <w>me</w>
-        <w>mandaste</w>
-        <w>,</w>
-        <w>a</w>
-        <w>«</w>
-        <w>Corneta</w>
-        <w>»</w>
-        <w>?</w>
-      </s>
-      <s>
-        <w>Dize</w>
-        <w>lá</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-    <p n="PT00054213">
-      <s>
-        <w>Seguindo</w>
-        <w>devagar</w>
-        <w>por</w>
-        <w>o</w>
-        <w>Aterro</w>
-        <w>,</w>
-        <w>Ega</w>
-        <w>contou</w>
-        <w>a</w>
-        <w>história</w>
-        <w>de</w>
-        <w>a</w>
-        <w>imundície</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Fora</w>
-        <w>en</w>
-        <w>a</w>
-        <w>véspera</w>
-        <w>a</w>
-        <w>a</w>
-        <w>tarde</w>
-        <w>que</w>
-        <w>recebera</w>
-        <w>en</w>
-        <w>o</w>
-        <w>Ramalhete</w>
-        <w>a</w>
-        <w>«</w>
-        <w>Corneta</w>
-        <w>»</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Ele</w>
-        <w>já</w>
-        <w>conhecia</w>
-        <w>o</w>
-        <w>papelucho</w>
-        <w>,</w>
-        <w>já</w>
-        <w>privara</w>
-        <w>mesmo</w>
-        <w>com</w>
-        <w>o</w>
-        <w>proprietário</w>
-        <w>e</w>
-        <w>redactor</w>
-        <w>--</w>
-        <w>o</w>
-        <w>Palma</w>
-        <w>,</w>
-        <w>chamado</w>
-        <w>Palma</w>
-        <w>«</w>
-        <w>Cavalão</w>
-        <w>»</w>
-        <w>,</w>
-        <w>para</w>
-        <w>se</w>
-        <w>distinguir</w>
-        <w>de</w>
-        <w>outro</w>
-        <w>benemérito</w>
-        <w>chamado</w>
-        <w>Palma</w>
-        <w>«</w>
-        <w>Cavalinho</w>
-        <w>»</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Compreendeu</w>
-        <w>logo</w>
-        <w>que</w>
-        <w>,</w>
-        <w>se</w>
-        <w>a</w>
-        <w>prosa</w>
-        <w>era</w>
-        <w>de</w>
-        <w>o</w>
-        <w>Palma</w>
-        <w>,</w>
-        <w>a</w>
-        <w>inspiração</w>
-        <w>era</w>
-        <w>alheia</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>O</w>
-        <w>Palma</w>
-        <w>nada</w>
-        <w>sabia</w>
-        <w>de</w>
-        <w>Carlos</w>
-        <w>,</w>
-        <w>nem</w>
-        <w>de</w>
-        <w>Maria</w>
-        <w>,</w>
-        <w>nem</w>
-        <w>de</w>
-        <w>a</w>
-        <w>casa</w>
-        <w>de</w>
-        <w>a</w>
-        <w>Rua</w>
-        <w>de</w>
-        <w>S.</w>
-        <w>Francisco</w>
-        <w>,</w>
-        <w>nem</w>
-        <w>de</w>
-        <w>a</w>
-        <w>Toca..</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Não</w>
-        <w>era</w>
-        <w>natural</w>
-        <w>que</w>
-        <w>escrevesse</w>
-        <w>por</w>
-        <w>deleite</w>
-        <w>intelectual</w>
-        <w>um</w>
-        <w>documento</w>
-        <w>que</w>
-        <w>só</w>
-        <w>lhe</w>
-        <w>podia</w>
-        <w>render</w>
-        <w>desgostos</w>
-        <w>e</w>
-        <w>bengaladas</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>O</w>
-        <w>artigo</w>
-        <w>,</w>
-        <w>pois</w>
-        <w>,</w>
-        <w>fora-lhe</w>
-        <w>simplesmente</w>
-        <w>encomendado</w>
-        <w>e</w>
-        <w>pago</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>En</w>
-        <w>o</w>
-        <w>terreno</w>
-        <w>de</w>
-        <w>o</w>
-        <w>dinheiro</w>
-        <w>vence</w>
-        <w>sempre</w>
-        <w>quem</w>
-        <w>tem</w>
-        <w>mais</w>
-        <w>dinheiro</w>
-        <w>.</w>
-      </s>
-      <s>
-        <w>Por</w>
-        <w>este</w>
-        <w>sólido</w>
-        <w>princípio</w>
-        <w>correra</w>
-        <w>a</w>
-        <w>procurar</w>
-        <w>o</w>
-        <w>Palma</w>
-        <w>«</w>
-        <w>Cavalão</w>
-        <w>»</w>
-        <w>en</w>
-        <w>o</w>
-        <w>seu</w>
-        <w>antro</w>
-        <w>.</w>
-      </s>
-      <s/>
-    </p>
-  </sample>
-</samples>
+<?xml version="1.0" encoding="UTF-8"?>
+<sample><p n="PT00055520">
+<s>
+<w>Que</w>
+<w>vento</w>
+<w>vos</w>
+<w>desfolhou</w>
+<w>?</s>
+</p>
+<p n="PT00055521">
+<s>
+<w><</w>
+<w>s</w>
+<w>frag</w>
+<w>></w>
+<w>Que</w>
+<w>a</w>
+<w>alma</w>
+<w>que</w>
+<w>vos</w>
+<w>seguia</s>
+</p>
+<p n="PT00055522">
+<s>
+<w>Nunca</w>
+<w>mais</w>
+<w>vos</w>
+<w>encontrou</w>
+<w>!</s>
+</p>
+<p n="PT00055523">
+<s>
+<w>Carlos</w>
+<w>murmurou</w>
+<w>:</s>
+<s>
+<w>«</w>
+<w>Lindo</w>
+<w>!»</s>
+<s>
+<w>Ega</w>
+<w>murmurou</w>
+<w>:</s>
+<s>
+<w>«</w>
+<w>Muito</w>
+<w>fino</w>
+<w>!»</s>
+<s>
+<w>E</w>
+<w>o</w>
+<w>poeta</w>
+<w>,</w>
+<w>aquecendo</w>
+<w>,</w>
+<w>já</w>
+<w>comovido</w>
+<w>,</w>
+<w>esboçou</w>
+<w>um</w>
+<w>movimento</w>
+<w>de</w>
+<w>asa</w>
+<w>que</w>
+<w>foge</w>
+<w>:</s>
+</p>
+<p n="PT00055524">
+<s>
+<w><</w>
+<w>s</w>
+<w>frag</w>
+<w>></w>
+<w>Minh'</w>
+<w>alma</w>
+<w>em</w>
+<w>tempos</w>
+<w>d'</w>
+<w>outrora</w>
+<w>,</s>
+</p>
+<p n="PT00055525">
+<s>
+<w><</w>
+<w>s</w>
+<w>frag</w>
+<w>></w>
+<w>Quando</w>
+<w>nascia</w>
+<w>o</w>
+<w>luar</w>
+<w>,</s>
+</p>
+<p n="PT00055526">
+<s>
+<w><</w>
+<w>s</w>
+<w>frag</w>
+<w>></w>
+<w>Como</w>
+<w>um</w>
+<w>rouxinol</w>
+<w>que</w>
+<w>acorda</s>
+</p>
+<p n="PT00055527">
+<s>
+<w>Punha-se</w>
+<w>logo</w>
+<w>a</w>
+<w>cantar</w>
+<w>.</s>
+</p>
+<p n="PT00055528">
+<s>
+<w><</w>
+<w>s</w>
+<w>frag</w>
+<w>></w>
+<w>Pensamentos</w>
+<w>eram</w>
+<w>flores</w>
+<w>,</s>
+</p>
+<p n="PT00055529">
+<s>
+<w>Que</w>
+<w>a</w>
+<w>aragem</w>
+<w>lenta</w>
+<w>de</w>
+<w>Maio</w>
+<w>...</s>
+</p>
+<p n="PT00055530">
+<s>
+<w>--</w>
+<w>O</w>
+<w>sr.</w>
+<w>Cruges</w>
+<w>!</w>
+<w>--</w>
+<w>anunciou</w>
+<w>o</w>
+<w>criado</w>
+<w>,</w>
+<w>entreabrindo</w>
+<w>a</w>
+<w>porta</w>
+<w>.</s>
+<s>
+<w>Carlos</w>
+<w>ergueu</w>
+<w>os</w>
+<w>braços</w>
+<w>.</s>
+<s>
+<w>E</w>
+<w>o</w>
+<w>maestro</w>
+<w>,</w>
+<w>todo</w>
+<w>abotoado</w>
+<w>num</w>
+<w>paletó</w>
+<w>claro</w>
+<w>,</w>
+<w>abandonou-se</w>
+<w>à</w>
+<w>efusão</w>
+<w>de</w>
+<w>Carlos</w>
+<w>,</w>
+<w>balbuciando</w>
+<w>:</s>
+</p>
+<p n="PT00055531">
+<s>
+<w>--</w>
+<w>Eu</w>
+<w>só</w>
+<w>ontem</w>
+<w>é</w>
+<w>que</w>
+<w>soube</w>
+<w>.</s>
+<s>
+<w>Queria-te</w>
+<w>ir</w>
+<w>esperar</w>
+<w>,</w>
+<w>mas</w>
+<w>não</w>
+<w>me</w>
+<w>acordaram</w>
+<w>...</s>
+</p>
+<p n="PT00055532">
+<s>
+<w>--</w>
+<w>Então</w>
+<w>continua</w>
+<w>o</w>
+<w>mesmo</w>
+<w>desleixo</w>
+<w>?</w>
+<w>--</w>
+<w>exclamava</w>
+<w>Carlos</w>
+<w>,</w>
+<w>alegremente</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>Nunca</w>
+<w>te</w>
+<w>acordam</w>
+<w>?</s>
+</p>
+<p n="PT00055533">
+<s>
+<w>Cruges</w>
+<w>encolhia</w>
+<w>os</w>
+<w>ombros</w>
+<w>,</w>
+<w>muito</w>
+<w>vermelho</w>
+<w>,</w>
+<w>acanhado</w>
+<w>,</w>
+<w>depois</w>
+<w>daquela</w>
+<w>longa</w>
+<w>separação</w>
+<w>.</s>
+<s>
+<w>E</w>
+<w>foi</w>
+<w>Carlos</w>
+<w>que</w>
+<w>o</w>
+<w>obrigou</w>
+<w>a</w>
+<w>sentar-se</w>
+<w>ao</w>
+<w>lado</w>
+<w>,</w>
+<w>enternecido</w>
+<w>com</w>
+<w>o</w>
+<w>seu</w>
+<w>velho</w>
+<w>maestro</w>
+<w>,</w>
+<w>sempre</w>
+<w>esguio</w>
+<w>,</w>
+<w>com</w>
+<w>o</w>
+<w>nariz</w>
+<w>mais</w>
+<w>agudo</w>
+<w>,</w>
+<w>a</w>
+<w>grenha</w>
+<w>caindo</w>
+<w>mais</w>
+<w>crespa</w>
+<w>sobre</w>
+<w>a</w>
+<w>gola</w>
+<w>do</w>
+<w>paletó</w>
+<w>.</s>
+</p>
+<p n="PT00055534">
+<s>
+<w>--</w>
+<w>E</w>
+<w>deixa-me</w>
+<w>dar-te</w>
+<w>os</w>
+<w>parabéns</w>
+<w>!</s>
+<s>
+<w>Lá</w>
+<w>soube</w>
+<w>pelos</w>
+<w>jornais</w>
+<w>o</w>
+<w>triunfo</w>
+<w>,</w>
+<w>a</w>
+<w>linda</w>
+<w>ópera</w>
+<w>cómica</w>
+<w>,</w>
+<w>a</w>
+<w>«</w>
+<w>Flor</w>
+<w>de</w>
+<w>Sevilha</w>
+<w>»</w>
+<w>...</s>
+</p>
+<p n="PT00055535">
+<s>
+<w>--</w>
+<w>«</w>
+<w>De</w>
+<w>Granada</w>
+<w>»</w>
+<w>!</w>
+<w>--</w>
+<w>acudiu</w>
+<w>o</w>
+<w>maestro</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>Sim</w>
+<w>,</w>
+<w>uma</w>
+<w>coisita</w>
+<w>para</w>
+<w>aí</w>
+<w>,</w>
+<w>não</w>
+<w>desgostaram</w>
+<w>.</s>
+</p>
+<p n="PT00055536">
+<s>
+<w>--</w>
+<w>Uma</w>
+<w>beleza</w>
+<w>!</w>
+<w>--</w>
+<w>gritou</w>
+<w>Alencar</w>
+<w>,</w>
+<w>enchendo</w>
+<w>outro</w>
+<w>copo</w>
+<w>de</w>
+<w>conhaque</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>Uma</w>
+<w>música</w>
+<w>toda</w>
+<w>do</w>
+<w>Sul</w>
+<w>,</w>
+<w>cheia</w>
+<w>de</w>
+<w>luz</w>
+<w>,</w>
+<w>cheirando</w>
+<w>a</w>
+<w>laranjeira</w>
+<w>...</s>
+<s>
+<w>Mas</w>
+<w>já</w>
+<w>lhe</w>
+<w>tenho</w>
+<w>dito</w>
+<w>:</s>
+<s>
+<w>«</w>
+<w>Deixa</w>
+<w>lá</w>
+<w>a</w>
+<w>opereta</w>
+<w>,</w>
+<w>rapaz</w>
+<w>,</w>
+<w>voa</w>
+<w>mais</w>
+<w>alto</w>
+<w>,</w>
+<w>faz</w>
+<w>uma</w>
+<w>grande</w>
+<w>sinfonia</w>
+<w>histórica</w>
+<w>!»</s>
+<s>
+<w>Ainda</w>
+<w>há</w>
+<w>dias</w>
+<w>lhe</w>
+<w>dei</w>
+<w>uma</w>
+<w>ideia</w>
+<w>.</s>
+<s>
+<w>A</w>
+<w>partida</w>
+<w>de</w>
+<w>D.</w>
+<w>Sebastião</w>
+<w>para</w>
+<w>a</w>
+<w>África</w>
+<w>.</s>
+<s>
+<w>Cantos</w>
+<w>de</w>
+<w>marinheiros</w>
+<w>,</w>
+<w>atabales</w>
+<w>,</w>
+<w>o</w>
+<w>choro</w>
+<w>do</w>
+<w>povo</w>
+<w>,</w>
+<w>as</w>
+<w>ondas</w>
+<w>batendo</w>
+<w>...</s>
+<s>
+<w>Sublime</w>
+<w>!</s>
+<s>
+<w>Qual</w>
+<w>,</w>
+<w>põe-se-me</w>
+<w>lá</w>
+<w>com</w>
+<w>castanholas</w>
+<w>...</s>
+<s>
+<w>Enfim</w>
+<w>,</w>
+<w>acabou-se</w>
+<w>,</w>
+<w>tem</w>
+<w>muito</w>
+<w>talento</w>
+<w>,</w>
+<w>e</w>
+<w>é</w>
+<w>como</w>
+<w>se</w>
+<w>fosse</w>
+<w>meu</w>
+<w>filho</w>
+<w>,</w>
+<w>porque</w>
+<w>me</w>
+<w>sujou</w>
+<w>muita</w>
+<w>calça</w>
+<w>!...</s>
+</p>
+<p n="PT00055537">
+<s>
+<w>Mas</w>
+<w>o</w>
+<w>maestro</w>
+<w>,</w>
+<w>inquieto</w>
+<w>,</w>
+<w>passava</w>
+<w>os</w>
+<w>dedos</w>
+<w>pela</w>
+<w>grenha</w>
+<w>.</s>
+<s>
+<w>Por</w>
+<w>fim</w>
+<w>confessou</w>
+<w>a</w>
+<w>Carlos</w>
+<w>que</w>
+<w>não</w>
+<w>se</w>
+<w>podia</w>
+<w>demorar</w>
+<w>,</w>
+<w>tinha</w>
+<w>um</w>
+<w>rendez-vous</w>
+<w>...</s>
+</p>
+<p n="PT00055538">
+<s>
+<w>--</w>
+<w>De</w>
+<w>amor</w>
+<w>?</s>
+<s>
+<w>--</w>
+<w>Não</w>
+<w>...</s>
+<s>
+<w>É</w>
+<w>o</w>
+<w>Barradas</w>
+<w>que</w>
+<w>me</w>
+<w>anda</w>
+<w>a</w>
+<w>tirar</w>
+<w>o</w>
+<w>retrato</w>
+<w>a</w>
+<w>óleo</w>
+<w>.</s>
+</p>
+<p n="PT00055539">
+<s>
+<w>--</w>
+<w>Com</w>
+<w>a</w>
+<w>lira</w>
+<w>na</w>
+<w>mão</w>
+<w>?</s>
+</p>
+<p n="PT00055540">
+<s>
+<w>--</w>
+<w>Não</w>
+<w>--</w>
+<w>respondeu</w>
+<w>o</w>
+<w>maestro</w>
+<w>,</w>
+<w>muito</w>
+<w>sério</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>Com</w>
+<w>a</w>
+<w>batuta</w>
+<w>...</s>
+<s>
+<w>E</w>
+<w>estou</w>
+<w>de</w>
+<w>casaca</w>
+<w>.</s>
+</p>
+<p n="PT00055541">
+<s>
+<w>E</w>
+<w>desabotoou</w>
+<w>o</w>
+<w>paletó</w>
+<w>,</w>
+<w>mostrou-se</w>
+<w>em</w>
+<w>todo</w>
+<w>o</w>
+<w>seu</w>
+<w>esplendor</w>
+<w>,</w>
+<w>com</w>
+<w>dois</w>
+<w>corais</w>
+<w>no</w>
+<w>peitilho</w>
+<w>da</w>
+<w>camisa</w>
+<w>,</w>
+<w>e</w>
+<w>a</w>
+<w>batuta</w>
+<w>de</w>
+<w>marfim</w>
+<w>metida</w>
+<w>na</w>
+<w>abertura</w>
+<w>do</w>
+<w>colete</w>
+<w>.</s>
+</p>
+<p n="PT00055542">
+<s>
+<w>--</w>
+<w>Estás</w>
+<w>magnífico</w>
+<w>!</w>
+<w>--</w>
+<w>afirmou</w>
+<w>Carlos</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>Então</w>
+<w>outra</w>
+<w>coisa</w>
+<w>,</w>
+<w>vem</w>
+<w>cá</w>
+<w>jantar</w>
+<w>logo</w>
+<w>.</s>
+<s>
+<w>Alencar</w>
+<w>,</w>
+<w>tu</w>
+<w>também</w>
+<w>,</w>
+<w>hem</w>
+<w>?</s>
+<s>
+<w>Quero</w>
+<w>ouvir</w>
+<w>esses</w>
+<w>belos</w>
+<w>versos</w>
+<w>com</w>
+<w>sossego</w>
+<w>...</s>
+<s>
+<w>Às</w>
+<w>seis</w>
+<w>,</w>
+<w>em</w>
+<w>ponto</w>
+<w>,</w>
+<w>sem</w>
+<w>falhar</w>
+<w>.</s>
+<s>
+<w>Tenho</w>
+<w>um</w>
+<w>jantarinho</w>
+<w>à</w>
+<w>portuguesa</w>
+<w>que</w>
+<w>encomendei</w>
+<w>de</w>
+<w>manhã</w>
+<w>,</w>
+<w>com</w>
+<w>cozido</w>
+<w>,</w>
+<w>arroz</w>
+<w>de</w>
+<w>forno</w>
+<w>,</w>
+<w>grão-de-bico</w>
+<w>,</w>
+<w>etc</w>
+<w>.,</w>
+<w>para</w>
+<w>matar</w>
+<w>saudades</w>
+<w>...</s>
+</p>
+</sample>
+<sample><p n="PT00053817">
+<s>
+<w>--</w>
+<w>Eu</w>
+<w>--</w>
+<w>continuava</w>
+<w>Ega</w>
+<w>,</w>
+<w>erguendo-se</w>
+<w>--</w>
+<w>se</w>
+<w>levasse</w>
+<w>para</w>
+<w>longe</w>
+<w>uma</w>
+<w>mulher</w>
+<w>,</w>
+<w>não</w>
+<w>era</w>
+<w>para</w>
+<w>um</w>
+<w>lago</w>
+<w>,</w>
+<w>nem</w>
+<w>para</w>
+<w>a</w>
+<w>Suíça</w>
+<w>,</w>
+<w>nem</w>
+<w>para</w>
+<w>os</w>
+<w>montes</w>
+<w>da</w>
+<w>Sicília</w>
+<w>;</w>
+<w>era</w>
+<w>para</w>
+<w>Paris</w>
+<w>,</w>
+<w>para</w>
+<w>o</w>
+<w>Boulevard</w>
+<w>dos</w>
+<w>Italianos</w>
+<w>,</w>
+<w>ali</w>
+<w>à</w>
+<w>esquina</w>
+<w>do</w>
+<w>Vaudeville</w>
+<w>,</w>
+<w>com</w>
+<w>janelas</w>
+<w>deitando</w>
+<w>para</w>
+<w>a</w>
+<w>grande</w>
+<w>vida</w>
+<w>,</w>
+<w>a</w>
+<w>um</w>
+<w>passo</w>
+<w>do</w>
+<w>«</w>
+<w>Figaro</w>
+<w>»</w>
+<w>,</w>
+<w>do</w>
+<w>Louvre</w>
+<w>,</w>
+<w>da</w>
+<w>filosofia</w>
+<w>e</w>
+<w>da</w>
+<w>blague</w>
+<w>...</s>
+<s>
+<w>Aqui</w>
+<w>tens</w>
+<w>tu</w>
+<w>a</w>
+<w>minha</w>
+<w>doutrina</w>
+<w>!...</s>
+<s>
+<w>E</w>
+<w>aí</w>
+<w>temos</w>
+<w>nós</w>
+<w>o</w>
+<w>amigo</w>
+<w>Baptista</w>
+<w>com</w>
+<w>o</w>
+<w>correio</w>
+<w>.</s>
+</p>
+<p n="PT00053818">
+<s>
+<w>Não</w>
+<w>era</w>
+<w>o</w>
+<w>correio</w>
+<w>.</s>
+<s>
+<w>Era</w>
+<w>apenas</w>
+<w>um</w>
+<w>bilhete</w>
+<w>que</w>
+<w>o</w>
+<w>Baptista</w>
+<w>trazia</w>
+<w>numa</w>
+<w>salva</w>
+<w>:</w>
+<w>e</w>
+<w>vinha</w>
+<w>tão</w>
+<w>perturbado</w>
+<w>que</w>
+<w>anunciou</w>
+<w>«</w>
+<w>um</w>
+<w>sujeito</w>
+<w>,</w>
+<w>ali</w>
+<w>fora</w>
+<w>,</w>
+<w>na</w>
+<w>antecâmara</w>
+<w>,</w>
+<w>numa</w>
+<w>carruagem</w>
+<w>,</w>
+<w>à</w>
+<w>espera</w>
+<w>...</w>
+<w>»</w>
+<w>.</s>
+</p>
+<p n="PT00053819">
+<s>
+<w>Carlos</w>
+<w>olhou</w>
+<w>o</w>
+<w>bilhete</w>
+<w>,</w>
+<w>empalideceu</w>
+<w>terrivelmente</w>
+<w>.</s>
+<s>
+<w>E</w>
+<w>ficou</w>
+<w>a</w>
+<w>revirá-lo</w>
+<w>,</w>
+<w>lento</w>
+<w>e</w>
+<w>como</w>
+<w>atordoado</w>
+<w>,</w>
+<w>entre</w>
+<w>os</w>
+<w>dedos</w>
+<w>,</w>
+<w>que</w>
+<w>tremiam</w>
+<w>...</s>
+<s>
+<w>Depois</w>
+<w>,</w>
+<w>em</w>
+<w>silêncio</w>
+<w>,</w>
+<w>atirou-o</w>
+<w>ao</w>
+<w>Ega</w>
+<w>para</w>
+<w>cima</w>
+<w>da</w>
+<w>mesa</w>
+<w>.</s>
+</p>
+<p n="PT00053820">
+<s>
+<w>--</w>
+<w>Caramba</w>
+<w>--</w>
+<w>murmurou</w>
+<w>Ega</w>
+<w>,</w>
+<w>assombrado</w>
+<w>.</s>
+</p>
+<p n="PT00053821">
+<s>
+<w>Era</w>
+<w>Castro</w>
+<w>Gomes</w>
+<w>!</s>
+</p>
+<p n="PT00053822">
+<s>
+<w>Bruscamente</w>
+<w>Carlos</w>
+<w>erguera-se</w>
+<w>,</w>
+<w>decidido</w>
+<w>.</s>
+</p>
+<p n="PT00053823">
+<s>
+<w>--</w>
+<w>Manda</w>
+<w>entrar</w>
+<w>...</s>
+<s>
+<w>Para</w>
+<w>o</w>
+<w>salão</w>
+<w>grande</w>
+<w>!</s>
+</p>
+<p n="PT00053824">
+<s>
+<w>Baptista</w>
+<w>apontou</w>
+<w>para</w>
+<w>o</w>
+<w>jaquetão</w>
+<w>de</w>
+<w>flanela</w>
+<w>com</w>
+<w>que</w>
+<w>Carlos</w>
+<w>tinha</w>
+<w>almoçado</w>
+<w>,</w>
+<w>e</w>
+<w>perguntou</w>
+<w>baixo</w>
+<w>se</w>
+<w>Sua</w>
+<w>Excelência</w>
+<w>queria</w>
+<w>uma</w>
+<w>sobrecasaca</w>
+<w>.</s>
+</p>
+<p n="PT00053825">
+<s>
+<w>--</w>
+<w>Traz</w>
+<w>.</s>
+</p>
+<p n="PT00053826">
+<s>
+<w>Sós</w>
+<w>,</w>
+<w>Ega</w>
+<w>e</w>
+<w>Carlos</w>
+<w>olharam-se</w>
+<w>um</w>
+<w>instante</w>
+<w>,</w>
+<w>ansiosamente</w>
+<w>.</s>
+</p>
+<p n="PT00053827">
+<s>
+<w>--</w>
+<w>Não</w>
+<w>é</w>
+<w>um</w>
+<w>desafio</w>
+<w>,</w>
+<w>está</w>
+<w>claro</w>
+<w>--</w>
+<w>balbuciou</w>
+<w>Ega</w>
+<w>.</s>
+</p>
+<p n="PT00053828">
+<s>
+<w>Carlos</w>
+<w>não</w>
+<w>respondeu</w>
+<w>.</s>
+<s>
+<w>Examinava</w>
+<w>outra</w>
+<w>vez</w>
+<w>o</w>
+<w>bilhete</w>
+<w>:</w>
+<w>o</w>
+<w>homem</w>
+<w>chamava-se</w>
+<w>Joaquim</w>
+<w>Álvares</w>
+<w>de</w>
+<w>Castro</w>
+<w>Gomes</w>
+<w>:</w>
+<w>por</w>
+<w>baixo</w>
+<w>tinha</w>
+<w>escrito</w>
+<w>a</w>
+<w>lápis</w>
+<w>:</s>
+<s>
+<w>«</w>
+<w>Hotel</w>
+<w>Bragança</w>
+<w>»</w>
+<w>...</s>
+<s>
+<w>Baptista</w>
+<w>voltara</w>
+<w>com</w>
+<w>a</w>
+<w>sobrecasaca</w>
+<w>:</w>
+<w>e</w>
+<w>Carlos</w>
+<w>,</w>
+<w>abotoando-a</w>
+<w>devagar</w>
+<w>,</w>
+<w>saiu</w>
+<w>sem</w>
+<w>outra</w>
+<w>mais</w>
+<w>palavra</w>
+<w>ao</w>
+<w>Ega</w>
+<w>,</w>
+<w>que</w>
+<w>ficara</w>
+<w>de</w>
+<w>pé</w>
+<w>junto</w>
+<w>da</w>
+<w>mesa</w>
+<w>,</w>
+<w>limpando</w>
+<w>estupidamente</w>
+<w>as</w>
+<w>mãos</w>
+<w>ao</w>
+<w>guardanapo</w>
+<w>.</s>
+</p>
+<p n="PT00053829">
+<s>
+<w>No</w>
+<w>salão</w>
+<w>nobre</w>
+<w>,</w>
+<w>forrado</w>
+<w>de</w>
+<w>brocados</w>
+<w>cor</w>
+<w>de</w>
+<w>musgo</w>
+<w>de</w>
+<w>Outono</w>
+<w>,</w>
+<w>Castro</w>
+<w>Gomes</w>
+<w>examinava</w>
+<w>curiosamente</w>
+<w>,</w>
+<w>com</w>
+<w>um</w>
+<w>joelho</w>
+<w>apoiado</w>
+<w>à</w>
+<w>borda</w>
+<w>do</w>
+<w>sofá</w>
+<w>,</w>
+<w>a</w>
+<w>esplêndida</w>
+<w>tela</w>
+<w>de</w>
+<w>Constable</w>
+<w>,</w>
+<w>o</w>
+<w>retrato</w>
+<w>da</w>
+<w>condessa</w>
+<w>de</w>
+<w>Runa</w>
+<w>,</w>
+<w>bela</w>
+<w>e</w>
+<w>forte</w>
+<w>no</w>
+<w>seu</w>
+<w>vestido</w>
+<w>de</w>
+<w>veludo</w>
+<w>escarlate</w>
+<w>de</w>
+<w>caçadora</w>
+<w>inglesa</w>
+<w>.</s>
+<s>
+<w>Ao</w>
+<w>rumor</w>
+<w>dos</w>
+<w>passos</w>
+<w>de</w>
+<w>Carlos</w>
+<w>sobre</w>
+<w>o</w>
+<w>tapete</w>
+<w>,</w>
+<w>voltou-se</w>
+<w>,</w>
+<w>de</w>
+<w>chapéu</w>
+<w>branco</w>
+<w>na</w>
+<w>mão</w>
+<w>,</w>
+<w>sorrindo</w>
+<w>,</w>
+<w>pedindo</w>
+<w>perdão</w>
+<w>de</w>
+<w>estar</w>
+<w>assim</w>
+<w>a</w>
+<w>pasmar</w>
+<w>familiarmente</w>
+<w>para</w>
+<w>aquele</w>
+<w>soberbo</w>
+<w>Constable</w>
+<w>...</s>
+<s>
+<w>Com</w>
+<w>um</w>
+<w>gesto</w>
+<w>rígido</w>
+<w>,</w>
+<w>Carlos</w>
+<w>,</w>
+<w>muito</w>
+<w>pálido</w>
+<w>,</w>
+<w>indicou-lhe</w>
+<w>o</w>
+<w>sofá</w>
+<w>.</s>
+<s>
+<w>Saudando</w>
+<w>e</w>
+<w>risonho</w>
+<w>,</w>
+<w>Castro</w>
+<w>Gomes</w>
+<w>sentou-se</w>
+<w>vagarosamente</w>
+<w>.</s>
+<s>
+<w>No</w>
+<w>peito</w>
+<w>da</w>
+<w>sobrecasaca</w>
+<w>muito</w>
+<w>justa</w>
+<w>trazia</w>
+<w>um</w>
+<w>botão</w>
+<w>de</w>
+<w>rosa</w>
+<w>;</w>
+<w>os</w>
+<w>seus</w>
+<w>sapatos</w>
+<w>de</w>
+<w>verniz</w>
+<w>resplandeciam</w>
+<w>sobre</w>
+<w>as</w>
+<w>polainas</w>
+<w>de</w>
+<w>linho</w>
+<w>;</w>
+<w>no</w>
+<w>rosto</w>
+<w>chupado</w>
+<w>,</w>
+<w>queimado</w>
+<w>,</w>
+<w>a</w>
+<w>barba</w>
+<w>negra</w>
+<w>terminava</w>
+<w>em</w>
+<w>bico</w>
+<w>;</w>
+<w>os</w>
+<w>cabelos</w>
+<w>rareavam-lhe</w>
+<w>na</w>
+<w>risca</w>
+<w>;</w>
+<w>e</w>
+<w>mesmo</w>
+<w>a</w>
+<w>sorrir</w>
+<w>tinha</w>
+<w>um</w>
+<w>ar</w>
+<w>de</w>
+<w>secura</w>
+<w>,</w>
+<w>de</w>
+<w>fadiga</w>
+<w>.</s>
+</p>
+<p n="PT00053830">
+<s>
+<w>--</w>
+<w>Eu</w>
+<w>possuo</w>
+<w>também</w>
+<w>em</w>
+<w>Paris</w>
+<w>um</w>
+<w>Constable</w>
+<w>muito</w>
+<w>chique</w>
+<w>--</w>
+<w>disse</w>
+<w>ele</w>
+<w>,</w>
+<w>sem</w>
+<w>embaraço</w>
+<w>,</w>
+<w>num</w>
+<w>tom</w>
+<w>arrastado</w>
+<w>,</w>
+<w>cheio</w>
+<w>de</w>
+<w>rr</w>
+<w>,</w>
+<w>que</w>
+<w>o</w>
+<w>sotaque</w>
+<w>brasileiro</w>
+<w>adocicava</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>Mas</w>
+<w>é</w>
+<w>apenas</w>
+<w>uma</w>
+<w>pequena</w>
+<w>paisagem</w>
+<w>,</w>
+<w>com</w>
+<w>duas</w>
+<w>figurinhas</w>
+<w>.</s>
+<s>
+<w>É</w>
+<w>um</w>
+<w>pintor</w>
+<w>que</w>
+<w>não</w>
+<w>me</w>
+<w>diverte</w>
+<w>,</w>
+<w>a</w>
+<w>dizer</w>
+<w>a</w>
+<w>verdade</w>
+<w>...</s>
+<s>
+<w>Todavia</w>
+<w>dá</w>
+<w>muito</w>
+<w>tom</w>
+<w>a</w>
+<w>uma</w>
+<w>galeria</w>
+<w>.</s>
+<s>
+<w>É</w>
+<w>necessário</w>
+<w>tê-lo</w>
+<w>.</s>
+</p>
+</sample>
+<sample><p n="PT0005300">
+<s>
+<w>--</w>
+<w>E</w>
+<w>ninguém</w>
+<w>a</w>
+<w>esperá-lo</w>
+<w>,</w>
+<w>nem</w>
+<w>um</w>
+<w>criado</w>
+<w>lá</w>
+<w>em</w>
+<w>baixo</w>
+<w>no</w>
+<w>rio</w>
+<w>!</w>
+<w>--</w>
+<w>dizia</w>
+<w>Afonso</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>Enfim</w>
+<w>,</w>
+<w>cá</w>
+<w>o</w>
+<w>temos</w>
+<w>,</w>
+<w>é</w>
+<w>o</w>
+<w>essencial</w>
+<w>...</s>
+<s>
+<w>E</w>
+<w>como</w>
+<w>você</w>
+<w>está</w>
+<w>rijo</w>
+<w>,</w>
+<w>Vilaça</w>
+<w>!</s>
+</p>
+<p n="PT0005301">
+<s>
+<w>--</w>
+<w>E</w>
+<w>Vossa</w>
+<w>Excelência</w>
+<w>,</w>
+<w>meu</w>
+<w>senhor</w>
+<w>!</w>
+<w>--</w>
+<w>balbuciou</w>
+<w>o</w>
+<w>administrador</w>
+<w>,</w>
+<w>engolindo</w>
+<w>um</w>
+<w>soluço</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>Nem</w>
+<w>uma</w>
+<w>ruga</w>
+<w>!</s>
+<s>
+<w>Branco</w>
+<w>sim</w>
+<w>,</w>
+<w>mas</w>
+<w>uma</w>
+<w>cara</w>
+<w>de</w>
+<w>moço</w>
+<w>...</s>
+<s>
+<w>Eu</w>
+<w>nem</w>
+<w>o</w>
+<w>conhecia</w>
+<w>!...</s>
+<s>
+<w>Quando</w>
+<w>me</w>
+<w>lembro</w>
+<w>,</w>
+<w>a</w>
+<w>última</w>
+<w>vez</w>
+<w>que</w>
+<w>o</w>
+<w>vi</w>
+<w>...</s>
+<s>
+<w>E</w>
+<w>cá</w>
+<w>isto</w>
+<w>!</s>
+<s>
+<w>cá</w>
+<w>esta</w>
+<w>linda</w>
+<w>flor</w>
+<w>!...</s>
+</p>
+<p n="PT0005302">
+<s>
+<w>Ia</w>
+<w>abraçar</w>
+<w>Carlos</w>
+<w>outra</w>
+<w>vez</w>
+<w>entusiasmado</w>
+<w>,</w>
+<w>mas</w>
+<w>o</w>
+<w>rapaz</w>
+<w>fugiu-lhe</w>
+<w>com</w>
+<w>uma</w>
+<w>bela</w>
+<w>risada</w>
+<w>,</w>
+<w>saltou</w>
+<w>do</w>
+<w>terraço</w>
+<w>,</w>
+<w>foi</w>
+<w>pendurar-se</w>
+<w>de</w>
+<w>um</w>
+<w>trapézio</w>
+<w>armado</w>
+<w>entre</w>
+<w>as</w>
+<w>árvores</w>
+<w>,</w>
+<w>e</w>
+<w>ficou</w>
+<w>lá</w>
+<w>,</w>
+<w>balançando-se</w>
+<w>em</w>
+<w>cadência</w>
+<w>,</w>
+<w>forte</w>
+<w>e</w>
+<w>airoso</w>
+<w>,</w>
+<w>gritando</w>
+<w>:</s>
+<s>
+<w>«</w>
+<w>Tu</w>
+<w>és</w>
+<w>o</w>
+<w>Vilaça</w>
+<w>»</w>
+<w>.</s>
+</p>
+<p n="PT0005303">
+<s>
+<w>O</w>
+<w>Vilaça</w>
+<w>,</w>
+<w>de</w>
+<w>guarda-sol</w>
+<w>debaixo</w>
+<w>do</w>
+<w>braço</w>
+<w>,</w>
+<w>contemplava-o</w>
+<w>embevecido</w>
+<w>.</s>
+</p>
+<p n="PT0005304">
+<s>
+<w>--</w>
+<w>Está</w>
+<w>uma</w>
+<w>linda</w>
+<w>criança</w>
+<w>!</s>
+<s>
+<w>Faz</w>
+<w>gosto</w>
+<w>!</s>
+<s>
+<w>E</w>
+<w>parece-se</w>
+<w>com</w>
+<w>o</w>
+<w>pai</w>
+<w>.</s>
+<s>
+<w>Os</w>
+<w>mesmos</w>
+<w>olhos</w>
+<w>,</w>
+<w>olhos</w>
+<w>dos</w>
+<w>Maias</w>
+<w>,</w>
+<w>o</w>
+<w>cabelo</w>
+<w>encaracolado</w>
+<w>...</s>
+<s>
+<w>Mas</w>
+<w>há-de</w>
+<w>ser</w>
+<w>muito</w>
+<w>mais</w>
+<w>homem</w>
+<w>!</s>
+</p>
+<p n="PT0005305">
+<s>
+<w>--</w>
+<w>É</w>
+<w>são</w>
+<w>,</w>
+<w>é</w>
+<w>rijo</w>
+<w>--</w>
+<w>dizia</w>
+<w>o</w>
+<w>velho</w>
+<w>risonho</w>
+<w>,</w>
+<w>anediando</w>
+<w>as</w>
+<w>barbas</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>E</w>
+<w>como</w>
+<w>ficou</w>
+<w>o</w>
+<w>seu</w>
+<w>rapaz</w>
+<w>,</w>
+<w>o</w>
+<w>Manuel</w>
+<w>?</s>
+<s>
+<w>Quando</w>
+<w>é</w>
+<w>esse</w>
+<w>casamento</w>
+<w>?</s>
+<s>
+<w>Venha</w>
+<w>você</w>
+<w>cá</w>
+<w>para</w>
+<w>dentro</w>
+<w>,</w>
+<w>Vilaça</w>
+<w>,</w>
+<w>que</w>
+<w>há</w>
+<w>muito</w>
+<w>que</w>
+<w>conversar</w>
+<w>...</s>
+</p>
+<p n="PT0005306">
+<s>
+<w>Tinham</w>
+<w>entrado</w>
+<w>na</w>
+<w>sala</w>
+<w>de</w>
+<w>jantar</w>
+<w>,</w>
+<w>onde</w>
+<w>um</w>
+<w>lume</w>
+<w>de</w>
+<w>lenha</w>
+<w>na</w>
+<w>chaminé</w>
+<w>de</w>
+<w>azulejo</w>
+<w>esmorecia</w>
+<w>na</w>
+<w>fina</w>
+<w>e</w>
+<w>larga</w>
+<w>luz</w>
+<w>de</w>
+<w>Abril</w>
+<w>:</w>
+<w>porcelanas</w>
+<w>e</w>
+<w>pratas</w>
+<w>resplandeciam</w>
+<w>nos</w>
+<w>aparadores</w>
+<w>de</w>
+<w>pau-santo</w>
+<w>;</w>
+<w>os</w>
+<w>canários</w>
+<w>pareciam</w>
+<w>doidos</w>
+<w>de</w>
+<w>alegria</w>
+<w>.</s>
+</p>
+<p n="PT0005307">
+<s>
+<w>A</w>
+<w>Gertrudes</w>
+<w>,</w>
+<w>que</w>
+<w>ficara</w>
+<w>a</w>
+<w>observar</w>
+<w>,</w>
+<w>acercou-se</w>
+<w>,</w>
+<w>.</s>
+<s>
+<w>com</w>
+<w>as</w>
+<w>mãos</w>
+<w>cruzadas</w>
+<w>sob</w>
+<w>o</w>
+<w>avental</w>
+<w>branco</w>
+<w>,</w>
+<w>familiar</w>
+<w>,</w>
+<w>terna</w>
+<w>.</s>
+</p>
+<p n="PT0005308">
+<s>
+<w>--</w>
+<w>Então</w>
+<w>,</w>
+<w>meu</w>
+<w>senhor</w>
+<w>,</w>
+<w>aqui</w>
+<w>está</w>
+<w>um</w>
+<w>regalo</w>
+<w>,</w>
+<w>ver</w>
+<w>outra</w>
+<w>vez</w>
+<w>este</w>
+<w>ingrato</w>
+<w>em</w>
+<w>Santa</w>
+<w>Olávia</w>
+<w>!</s>
+</p>
+<p n="PT0005309">
+<s>
+<w>E</w>
+<w>,</w>
+<w>com</w>
+<w>um</w>
+<w>clarão</w>
+<w>de</w>
+<w>simpatia</w>
+<w>na</w>
+<w>face</w>
+<w>,</w>
+<w>alva</w>
+<w>e</w>
+<w>redonda</w>
+<w>como</w>
+<w>uma</w>
+<w>velha</w>
+<w>Lua</w>
+<w>,</w>
+<w>ornada</w>
+<w>já</w>
+<w>de</w>
+<w>um</w>
+<w>buço</w>
+<w>branco</w>
+<w>:</s>
+</p>
+<p n="PT0005310">
+<s>
+<w>--</w>
+<w>Ah</w>
+<w>!</s>
+<s>
+<w>sr.</w>
+<w>Vilaça</w>
+<w>,</w>
+<w>isto</w>
+<w>agora</w>
+<w>é</w>
+<w>outra</w>
+<w>coisa</w>
+<w>!</s>
+<s>
+<w>Até</w>
+<w>os</w>
+<w>canários</w>
+<w>cantam</w>
+<w>!</s>
+<s>
+<w>E</w>
+<w>também</w>
+<w>eu</w>
+<w>cantava</w>
+<w>,</w>
+<w>se</w>
+<w>ainda</w>
+<w>pudesse</w>
+<w>...</s>
+</p>
+<p n="PT0005311">
+<s>
+<w>E</w>
+<w>foi</w>
+<w>saindo</w>
+<w>,</w>
+<w>subitamente</w>
+<w>comovida</w>
+<w>,</w>
+<w>já</w>
+<w>com</w>
+<w>vontade</w>
+<w>de</w>
+<w>chorar</w>
+<w>.</s>
+</p>
+<p n="PT0005312">
+<s>
+<w>O</w>
+<w>Teixeira</w>
+<w>esperava</w>
+<w>,</w>
+<w>com</w>
+<w>um</w>
+<w>riso</w>
+<w>superior</w>
+<w>e</w>
+<w>mudo</w>
+<w>que</w>
+<w>lhe</w>
+<w>ia</w>
+<w>de</w>
+<w>uma</w>
+<w>a</w>
+<w>outra</w>
+<w>ponta</w>
+<w>dos</w>
+<w>seus</w>
+<w>altos</w>
+<w>colarinhos</w>
+<w>de</w>
+<w>mordomo</w>
+<w>.</s>
+</p>
+<p n="PT0005313">
+<s>
+<w>--</w>
+<w>Eu</w>
+<w>creio</w>
+<w>que</w>
+<w>prepararam</w>
+<w>o</w>
+<w>quarto</w>
+<w>azul</w>
+<w>ao</w>
+<w>sr.</w>
+<w>Vilaça</w>
+<w>,</w>
+<w>hem</w>
+<w>?</w>
+<w>--</w>
+<w>disse</w>
+<w>Afonso</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>No</w>
+<w>quarto</w>
+<w>em</w>
+<w>que</w>
+<w>você</w>
+<w>costumava</w>
+<w>ficar</w>
+<w>dorme</w>
+<w>agora</w>
+<w>a</w>
+<w>viscondessa</w>
+<w>...</s>
+</p>
+<p n="PT0005314">
+<s>
+<w>Então</w>
+<w>o</w>
+<w>Vilaça</w>
+<w>apressou-se</w>
+<w>a</w>
+<w>perguntar</w>
+<w>pela</w>
+<w>senhora</w>
+<w>viscondessa</w>
+<w>.</s>
+<s>
+<w>Era</w>
+<w>uma</w>
+<w>Runa</w>
+<w>,</w>
+<w>uma</w>
+<w>prima</w>
+<w>da</w>
+<w>mulher</w>
+<w>de</w>
+<w>Afonso</w>
+<w>,</w>
+<w>que</w>
+<w>no</w>
+<w>tempo</w>
+<w>em</w>
+<w>que</w>
+<w>os</w>
+<w>poetas</w>
+<w>de</w>
+<w>Caminha</w>
+<w>a</w>
+<w>cantavam</w>
+<w>,</w>
+<w>casara</w>
+<w>com</w>
+<w>um</w>
+<w>fidalgote</w>
+<w>galego</w>
+<w>,</w>
+<w>o</w>
+<w>senhor</w>
+<w>visconde</w>
+<w>de</w>
+<w>Urigo</w>
+<w>de</w>
+<w>la</w>
+<w>Sierra</w>
+<w>,</w>
+<w>um</w>
+<w>borracho</w>
+<w>,</w>
+<w>um</w>
+<w>brutal</w>
+<w>que</w>
+<w>lhe</w>
+<w>batia</w>
+<w>:</w>
+<w>depois</w>
+<w>,</w>
+<w>viúva</w>
+<w>e</w>
+<w>pobre</w>
+<w>,</w>
+<w>Afonso</w>
+<w>recolhera-a</w>
+<w>por</w>
+<w>dever</w>
+<w>de</w>
+<w>parentela</w>
+<w>,</w>
+<w>e</w>
+<w>para</w>
+<w>haver</w>
+<w>uma</w>
+<w>senhora</w>
+<w>em</w>
+<w>Santa</w>
+<w>Olávia</w>
+<w>.</s>
+</p>
+</sample>
+<sample><p n="PT00051112">
+<s>
+<w>Nessa</w>
+<w>tarde</w>
+<w>,</w>
+<w>às</w>
+<w>seis</w>
+<w>horas</w>
+<w>,</w>
+<w>Carlos</w>
+<w>,</w>
+<w>ao</w>
+<w>descer</w>
+<w>a</w>
+<w>Rua</w>
+<w>do</w>
+<w>Alecrim</w>
+<w>para</w>
+<w>o</w>
+<w>Hotel</w>
+<w>Central</w>
+<w>,</w>
+<w>avistou</w>
+<w>Craft</w>
+<w>dentro</w>
+<w>da</w>
+<w>loja</w>
+<w>de</w>
+<w>bricabraque</w>
+<w>do</w>
+<w>tio</w>
+<w>Abraão</w>
+<w>.</s>
+</p>
+<p n="PT00051113">
+<s>
+<w>Entrou</w>
+<w>.</s>
+<s>
+<w>O</w>
+<w>velho</w>
+<w>judeu</w>
+<w>,</w>
+<w>que</w>
+<w>estava</w>
+<w>mostrando</w>
+<w>a</w>
+<w>Craft</w>
+<w>uma</w>
+<w>falsa</w>
+<w>faiança</w>
+<w>do</w>
+<w>Rato</w>
+<w>,</w>
+<w>arrancou</w>
+<w>logo</w>
+<w>da</w>
+<w>cabeça</w>
+<w>o</w>
+<w>sujo</w>
+<w>barrete</w>
+<w>de</w>
+<w>borla</w>
+<w>,</w>
+<w>e</w>
+<w>ficou</w>
+<w>curvado</w>
+<w>em</w>
+<w>dois</w>
+<w>,</w>
+<w>diante</w>
+<w>de</w>
+<w>Carlos</w>
+<w>,</w>
+<w>com</w>
+<w>as</w>
+<w>duas</w>
+<w>mãos</w>
+<w>sobre</w>
+<w>o</w>
+<w>coração</w>
+<w>.</s>
+</p>
+<p n="PT00051114">
+<s>
+<w>Depois</w>
+<w>,</w>
+<w>numa</w>
+<w>linguagem</w>
+<w>exótica</w>
+<w>,</w>
+<w>misturada</w>
+<w>de</w>
+<w>inglês</w>
+<w>,</w>
+<w>pediu</w>
+<w>ao</w>
+<w>seu</w>
+<w>bom</w>
+<w>senhor</w>
+<w>D.</w>
+<w>Carlos</w>
+<w>da</w>
+<w>Maia</w>
+<w>,</w>
+<w>ao</w>
+<w>seu</w>
+<w>digno</w>
+<w>senhor</w>
+<w>,</w>
+<w>ao</w>
+<w>seu</w>
+<w>beautiful</w>
+<w>gentleman</w>
+<w>,</w>
+<w>que</w>
+<w>se</w>
+<w>dignasse</w>
+<w>examinar</w>
+<w>uma</w>
+<w>maravilhazinha</w>
+<w>que</w>
+<w>lhe</w>
+<w>tinha</w>
+<w>reservada</w>
+<w>;</w>
+<w>e</w>
+<w>o</w>
+<w>seu</w>
+<w>muito</w>
+<w>generous</w>
+<w>gentleman</w>
+<w>tinha</w>
+<w>só</w>
+<w>a</w>
+<w>voltar</w>
+<w>os</w>
+<w>olhos</w>
+<w>,</w>
+<w>a</w>
+<w>maravilhazinha</w>
+<w>estava</w>
+<w>ali</w>
+<w>ao</w>
+<w>lado</w>
+<w>,</w>
+<w>numa</w>
+<w>cadeira</w>
+<w>.</s>
+<s>
+<w>Era</w>
+<w>um</w>
+<w>retrato</w>
+<w>de</w>
+<w>espanhola</w>
+<w>,</w>
+<w>apanhado</w>
+<w>a</w>
+<w>fortes</w>
+<w>brochadelas</w>
+<w>de</w>
+<w>primeira</w>
+<w>impressão</w>
+<w>,</w>
+<w>e</w>
+<w>pondo</w>
+<w>,</w>
+<w>sobre</w>
+<w>um</w>
+<w>fundo</w>
+<w>audaz</w>
+<w>de</w>
+<w>cor-de-rosa</w>
+<w>murcho</w>
+<w>,</w>
+<w>uma</w>
+<w>face</w>
+<w>gasta</w>
+<w>de</w>
+<w>velha</w>
+<w>garça</w>
+<w>,</w>
+<w>picada</w>
+<w>das</w>
+<w>bexigas</w>
+<w>,</w>
+<w>caiada</w>
+<w>,</w>
+<w>ressudando</w>
+<w>vício</w>
+<w>,</w>
+<w>com</w>
+<w>um</w>
+<w>sorriso</w>
+<w>bestial</w>
+<w>que</w>
+<w>prometia</w>
+<w>tudo</w>
+<w>.</s>
+</p>
+<p n="PT00051115">
+<s>
+<w>Carlos</w>
+<w>,</w>
+<w>tranquilamente</w>
+<w>,</w>
+<w>ofereceu</w>
+<w>dez</w>
+<w>tostões</w>
+<w>.</s>
+<s>
+<w>Craft</w>
+<w>pasmou</w>
+<w>de</w>
+<w>uma</w>
+<w>tal</w>
+<w>prodigalidade</w>
+<w>;</w>
+<w>e</w>
+<w>o</w>
+<w>bom</w>
+<w>Abraão</w>
+<w>,</w>
+<w>num</w>
+<w>riso</w>
+<w>mudo</w>
+<w>que</w>
+<w>lhe</w>
+<w>abria</w>
+<w>entre</w>
+<w>a</w>
+<w>barba</w>
+<w>grisalha</w>
+<w>uma</w>
+<w>grande</w>
+<w>boca</w>
+<w>de</w>
+<w>um</w>
+<w>só</w>
+<w>dente</w>
+<w>,</w>
+<w>saboreou</w>
+<w>muito</w>
+<w>a</w>
+<w>«</w>
+<w>chalaça</w>
+<w>dos</w>
+<w>seus</w>
+<w>ricos</w>
+<w>senhores</w>
+<w>»</w>
+<w>.</s>
+<s>
+<w>Dez</w>
+<w>tostõezinhos</w>
+<w>!</s>
+<s>
+<w>Se</w>
+<w>o</w>
+<w>quadrinho</w>
+<w>tivesse</w>
+<w>por</w>
+<w>baixo</w>
+<w>o</w>
+<w>nomezinho</w>
+<w>de</w>
+<w>Fortuny</w>
+<w>,</w>
+<w>valia</w>
+<w>dez</w>
+<w>continhos</w>
+<w>de</w>
+<w>réis</w>
+<w>.</s>
+<s>
+<w>Mas</w>
+<w>não</w>
+<w>tinha</w>
+<w>esse</w>
+<w>nomezinho</w>
+<w>bendito</w>
+<w>...</s>
+<s>
+<w>Ainda</w>
+<w>assim</w>
+<w>valia</w>
+<w>dez</w>
+<w>notazinhas</w>
+<w>de</w>
+<w>vinte</w>
+<w>mil</w>
+<w>réis</w>
+<w>...</s>
+</p>
+<p n="PT00051116">
+<s>
+<w>--</w>
+<w>Dez</w>
+<w>cordas</w>
+<w>para</w>
+<w>te</w>
+<w>enforcar</w>
+<w>,</w>
+<w>hebreu</w>
+<w>sem</w>
+<w>alma</w>
+<w>!</w>
+<w>--</w>
+<w>exclamou</w>
+<w>Carlos</w>
+<w>.</s>
+</p>
+<p n="PT00051117">
+<s>
+<w>E</w>
+<w>saíram</w>
+<w>,</w>
+<w>deixando</w>
+<w>o</w>
+<w>velho</w>
+<w>intrujão</w>
+<w>à</w>
+<w>porta</w>
+<w>,</w>
+<w>curvado</w>
+<w>em</w>
+<w>dois</w>
+<w>,</w>
+<w>com</w>
+<w>as</w>
+<w>mãos</w>
+<w>sobre</w>
+<w>o</w>
+<w>coração</w>
+<w>,</w>
+<w>desejando</w>
+<w>mil</w>
+<w>felicidades</w>
+<w>aos</w>
+<w>seus</w>
+<w>generosos</w>
+<w>fidalgos</w>
+<w>...</s>
+</p>
+<p n="PT00051118">
+<s>
+<w>--</w>
+<w>Não</w>
+<w>tem</w>
+<w>uma</w>
+<w>única</w>
+<w>coisa</w>
+<w>boa</w>
+<w>,</w>
+<w>este</w>
+<w>velho</w>
+<w>Abraão</w>
+<w>--</w>
+<w>disse</w>
+<w>Carlos</w>
+<w>.</s>
+</p>
+<p n="PT00051119">
+<s>
+<w>--</w>
+<w>Tem</w>
+<w>a</w>
+<w>filha</w>
+<w>--</w>
+<w>disse</w>
+<w>o</w>
+<w>Craft</w>
+<w>.</s>
+</p>
+<p n="PT00051120">
+<s>
+<w>Carlos</w>
+<w>achava-a</w>
+<w>bonita</w>
+<w>,</w>
+<w>mas</w>
+<w>horrivelmente</w>
+<w>suja</w>
+<w>.</s>
+<s>
+<w>Então</w>
+<w>a</w>
+<w>propósito</w>
+<w>do</w>
+<w>Abraão</w>
+<w>,</w>
+<w>falou</w>
+<w>a</w>
+<w>Craft</w>
+<w>dessas</w>
+<w>belas</w>
+<w>colecções</w>
+<w>dos</w>
+<w>Olivais</w>
+<w>,</w>
+<w>que</w>
+<w>o</w>
+<w>Ega</w>
+<w>,</w>
+<w>apesar</w>
+<w>do</w>
+<w>desdém</w>
+<w>que</w>
+<w>afectava</w>
+<w>pelo</w>
+<w>bibelot</w>
+<w>pelo</w>
+<w>móvel</w>
+<w>de</w>
+<w>arte</w>
+<w>,</w>
+<w>lhe</w>
+<w>descrevera</w>
+<w>como</w>
+<w>sublimes</w>
+<w>.</s>
+</p>
+<p n="PT00051121">
+<s>
+<w>Craft</w>
+<w>encolheu</w>
+<w>os</w>
+<w>ombros</w>
+<w>.</s>
+</p>
+<p n="PT00051122">
+<s>
+<w>--</w>
+<w>O</w>
+<w>Ega</w>
+<w>não</w>
+<w>entende</w>
+<w>nada</w>
+<w>.</s>
+<s>
+<w>Mesmo</w>
+<w>em</w>
+<w>Lisboa</w>
+<w>,</w>
+<w>não</w>
+<w>se</w>
+<w>pode</w>
+<w>chamar</w>
+<w>ao</w>
+<w>que</w>
+<w>eu</w>
+<w>tenho</w>
+<w>uma</w>
+<w>colecção</w>
+<w>.</s>
+<s>
+<w>É</w>
+<w>um</w>
+<w>bricabraque</w>
+<w>de</w>
+<w>acaso</w>
+<w>...</s>
+<s>
+<w>De</w>
+<w>que</w>
+<w>,</w>
+<w>de</w>
+<w>resto</w>
+<w>,</w>
+<w>me</w>
+<w>vou</w>
+<w>desfazer</w>
+<w>!</s>
+</p>
+<p n="PT00051123">
+<s>
+<w>Isto</w>
+<w>surpreendeu</w>
+<w>Carlos</w>
+<w>.</s>
+<s>
+<w>Compreendera</w>
+<w>das</w>
+<w>palavras</w>
+<w>do</w>
+<w>Ega</w>
+<w>ser</w>
+<w>essa</w>
+<w>uma</w>
+<w>colecção</w>
+<w>formada</w>
+<w>com</w>
+<w>amor</w>
+<w>,</w>
+<w>no</w>
+<w>laborioso</w>
+<w>decurso</w>
+<w>de</w>
+<w>anos</w>
+<w>,</w>
+<w>orgulho</w>
+<w>e</w>
+<w>cuidado</w>
+<w>de</w>
+<w>uma</w>
+<w>existência</w>
+<w>de</w>
+<w>homem</w>
+<w>...</s>
+</p>
+<p n="PT00051124">
+<s>
+<w>Craft</w>
+<w>sorriu</w>
+<w>daquela</w>
+<w>legenda</w>
+<w>.</s>
+<s>
+<w>A</w>
+<w>verdade</w>
+<w>era</w>
+<w>que</w>
+<w>só</w>
+<w>em</w>
+<w>1872</w>
+<w>ele</w>
+<w>começara</w>
+<w>a</w>
+<w>interessar-se</w>
+<w>pelo</w>
+<w>bricabraque</w>
+<w>;</w>
+<w>chegava</w>
+<w>então</w>
+<w>da</w>
+<w>América</w>
+<w>do</w>
+<w>Sul</w>
+<w>;</w>
+<w>e</w>
+<w>o</w>
+<w>que</w>
+<w>fora</w>
+<w>comprando</w>
+<w>,</w>
+<w>descobrindo</w>
+<w>aqui</w>
+<w>e</w>
+<w>além</w>
+<w>,</w>
+<w>acumulara-o</w>
+<w>nessa</w>
+<w>casa</w>
+<w>dos</w>
+<w>Olivais</w>
+<w>,</w>
+<w>alugada</w>
+<w>então</w>
+<w>por</w>
+<w>fantasia</w>
+<w>,</w>
+<w>uma</w>
+<w>manhã</w>
+<w>que</w>
+<w>aquele</w>
+<w>pardieiro</w>
+<w>,</w>
+<w>com</w>
+<w>o</w>
+<w>seu</w>
+<w>bocado</w>
+<w>de</w>
+<w>quintal</w>
+<w>em</w>
+<w>redor</w>
+<w>,</w>
+<w>lhe</w>
+<w>parecera</w>
+<w>pitoresco</w>
+<w>,</w>
+<w>sob</w>
+<w>o</w>
+<w>sol</w>
+<w>de</w>
+<w>Abril</w>
+<w>.</s>
+<s>
+<w>Mas</w>
+<w>agora</w>
+<w>,</w>
+<w>se</w>
+<w>pudesse</w>
+<w>desfazer-se</w>
+<w>do</w>
+<w>que</w>
+<w>tinha</w>
+<w>,</w>
+<w>ia</w>
+<w>dedicar-se</w>
+<w>então</w>
+<w>a</w>
+<w>formar</w>
+<w>uma</w>
+<w>colecção</w>
+<w>homogénea</w>
+<w>e</w>
+<w>compacta</w>
+<w>de</w>
+<w>arte</w>
+<w>do</w>
+<w>século</w>
+<w>XVIII</w>
+<w>.</s>
+</p>
+</sample>
+<sample><p n="PT00054205">
+<s>
+<w>Mas</w>
+<w>a</w>
+<w>tipóia</w>
+<w>estacou</w>
+<w>antes</w>
+<w>da</w>
+<w>calçada</w>
+<w>,</w>
+<w>rente</w>
+<w>ao</w>
+<w>passeio</w>
+<w>,</w>
+<w>em</w>
+<w>frente</w>
+<w>de</w>
+<w>uma</w>
+<w>loja</w>
+<w>de</w>
+<w>alfaiate</w>
+<w>.</s>
+<s>
+<w>E</w>
+<w>nesse</w>
+<w>instante</w>
+<w>achava-se</w>
+<w>aí</w>
+<w>parado</w>
+<w>,</w>
+<w>calçando</w>
+<w>as</w>
+<w>suas</w>
+<w>luvas</w>
+<w>pretas</w>
+<w>,</w>
+<w>um</w>
+<w>velho</w>
+<w>alto</w>
+<w>,</w>
+<w>de</w>
+<w>longas</w>
+<w>barbas</w>
+<w>de</w>
+<w>apóstolo</w>
+<w>,</w>
+<w>todo</w>
+<w>vestido</w>
+<w>de</w>
+<w>luto</w>
+<w>.</s>
+<s>
+<w>Ao</w>
+<w>ver</w>
+<w>Maria</w>
+<w>,</w>
+<w>que</w>
+<w>se</w>
+<w>inclinara</w>
+<w>à</w>
+<w>portinhola</w>
+<w>,</w>
+<w>o</w>
+<w>homem</w>
+<w>pareceu</w>
+<w>assombrado</w>
+<w>;</w>
+<w>depois</w>
+<w>,</w>
+<w>com</w>
+<w>um</w>
+<w>leve</w>
+<w>cor</w>
+<w>na</w>
+<w>face</w>
+<w>larga</w>
+<w>e</w>
+<w>pálida</w>
+<w>,</w>
+<w>tirou</w>
+<w>gravemente</w>
+<w>o</w>
+<w>chapéu</w>
+<w>,</w>
+<w>um</w>
+<w>imenso</w>
+<w>chapéu</w>
+<w>de</w>
+<w>abas</w>
+<w>recurvas</w>
+<w>,</w>
+<w>à</w>
+<w>moda</w>
+<w>de</w>
+<w>1830</w>
+<w>,</w>
+<w>carregado</w>
+<w>de</w>
+<w>crepe</w>
+<w>.</s>
+</p>
+<p n="PT00054206">
+<s>
+<w>--</w>
+<w>Quem</w>
+<w>é</w>
+<w>?</w>
+<w>--</w>
+<w>perguntou</w>
+<w>Carlos</w>
+<w>.</s>
+</p>
+<p n="PT00054207">
+<s>
+<w>--</w>
+<w>É</w>
+<w>o</w>
+<w>tio</w>
+<w>do</w>
+<w>Dâmaso</w>
+<w>,</w>
+<w>o</w>
+<w>Guimarães</w>
+<w>--</w>
+<w>disse</w>
+<w>Maria</w>
+<w>,</w>
+<w>que</w>
+<w>corara</w>
+<w>também</w>
+<w>.</s>
+<s>
+<w>--</w>
+<w>É</w>
+<w>curioso</w>
+<w>,</w>
+<w>ele</w>
+<w>aqui</w>
+<w>!</s>
+</p>
+<p n="PT00054208">
+<s>
+<w>Ah</w>
+<w>,</w>
+<w>sim</w>
+<w>!</s>
+<s>
+<w>o</w>
+<w>famoso</w>
+<w>Mr.</w>
+<w>Guimarães</w>
+<w>,</w>
+<w>o</w>
+<w>do</w>
+<w>«</w>
+<w>Rappel</w>
+<w>»</w>
+<w>,</w>
+<w>o</w>
+<w>íntimo</w>
+<w>de</w>
+<w>Gambetta</w>
+<w>!</s>
+<s>
+<w>Carlos</w>
+<w>recordava-se</w>
+<w>de</w>
+<w>ter</w>
+<w>já</w>
+<w>encontrado</w>
+<w>aquele</w>
+<w>patriarca</w>
+<w>no</w>
+<w>Price</w>
+<w>com</w>
+<w>o</w>
+<w>Alencar</w>
+<w>.</s>
+<s>
+<w>Cumprimentou-o</w>
+<w>também</w>
+<w>;</w>
+<w>o</w>
+<w>outro</w>
+<w>ergueu</w>
+<w>de</w>
+<w>novo</w>
+<w>,</w>
+<w>com</w>
+<w>uma</w>
+<w>gravidade</w>
+<w>maior</w>
+<w>,</w>
+<w>o</w>
+<w>seu</w>
+<w>sombrio</w>
+<w>chapéu</w>
+<w>de</w>
+<w>carbonário</w>
+<w>.</s>
+<s>
+<w>Ega</w>
+<w>entalara</w>
+<w>vivamente</w>
+<w>o</w>
+<w>monóculo</w>
+<w>para</w>
+<w>examinar</w>
+<w>esse</w>
+<w>lendário</w>
+<w>tio</w>
+<w>do</w>
+<w>Dâmaso</w>
+<w>,</w>
+<w>que</w>
+<w>ajudava</w>
+<w>a</w>
+<w>governar</w>
+<w>a</w>
+<w>França</w>
+<w>:</w>
+<w>e</w>
+<w>depois</w>
+<w>de</w>
+<w>se</w>
+<w>despedirem</w>
+<w>de</w>
+<w>Maria</w>
+<w>,</w>
+<w>quando</w>
+<w>a</w>
+<w>caleche</w>
+<w>já</w>
+<w>subia</w>
+<w>a</w>
+<w>Rua</w>
+<w>do</w>
+<w>Alecrim</w>
+<w>e</w>
+<w>eles</w>
+<w>atravessavam</w>
+<w>para</w>
+<w>o</w>
+<w>Hotel</w>
+<w>Central</w>
+<w>,</w>
+<w>ainda</w>
+<w>se</w>
+<w>voltou</w>
+<w>,</w>
+<w>seduzido</w>
+<w>por</w>
+<w>aqueles</w>
+<w>modos</w>
+<w>,</w>
+<w>aquelas</w>
+<w>barbas</w>
+<w>austeras</w>
+<w>de</w>
+<w>revolucionário</w>
+<w>...</s>
+</p>
+<p n="PT00054209">
+<s>
+<w>--</w>
+<w>Bom</w>
+<w>tipo</w>
+<w>!</s>
+<s>
+<w>E</w>
+<w>que</w>
+<w>magnífico</w>
+<w>chapéu</w>
+<w>,</w>
+<w>hem</w>
+<w>!</s>
+<s>
+<w>Donde</w>
+<w>diabo</w>
+<w>o</w>
+<w>conhece</w>
+<w>a</w>
+<w>sr.ª</w>
+<w>D.</w>
+<w>Maria</w>
+<w>?</s>
+</p>
+<p n="PT00054210">
+<s>
+<w>--</w>
+<w>De</w>
+<w>Paris</w>
+<w>...</s>
+<s>
+<w>Este</w>
+<w>Mr.</w>
+<w>Guimarães</w>
+<w>era</w>
+<w>muito</w>
+<w>da</w>
+<w>mãe</w>
+<w>dela</w>
+<w>.</s>
+<s>
+<w>A</w>
+<w>Maria</w>
+<w>já</w>
+<w>me</w>
+<w>tinha</w>
+<w>falado</w>
+<w>nele</w>
+<w>.</s>
+<s>
+<w>É</w>
+<w>um</w>
+<w>pobre</w>
+<w>diabo</w>
+<w>.</s>
+<s>
+<w>Nem</w>
+<w>amigo</w>
+<w>de</w>
+<w>Gambetta</w>
+<w>,</w>
+<w>nem</w>
+<w>coisa</w>
+<w>nenhuma</w>
+<w>...</s>
+<s>
+<w>Traduz</w>
+<w>notícias</w>
+<w>dos</w>
+<w>jornais</w>
+<w>espanhóis</w>
+<w>para</w>
+<w>o</w>
+<w>«</w>
+<w>Rappel</w>
+<w>»</w>
+<w>,</w>
+<w>e</w>
+<w>morre</w>
+<w>de</w>
+<w>fome</w>
+<w>...</s>
+</p>
+<p n="PT00054211">
+<s>
+<w>--</w>
+<w>Mas</w>
+<w>então</w>
+<w>,</w>
+<w>o</w>
+<w>Dâmaso</w>
+<w>?</s>
+</p>
+<p n="PT00054212">
+<s>
+<w>--</w>
+<w>O</w>
+<w>Dâmaso</w>
+<w>é</w>
+<w>um</w>
+<w>trapalhão</w>
+<w>.</s>
+<s>
+<w>Vamos</w>
+<w>nós</w>
+<w>ao</w>
+<w>nosso</w>
+<w>caso</w>
+<w>...</s>
+<s>
+<w>Essa</w>
+<w>imundície</w>
+<w>que</w>
+<w>me</w>
+<w>mandaste</w>
+<w>,</w>
+<w>a</w>
+<w>«</w>
+<w>Corneta</w>
+<w>»</w>
+<w>?</s>
+<s>
+<w>Dize</w>
+<w>lá</w>
+<w>.</s>
+</p>
+<p n="PT00054213">
+<s>
+<w>Seguindo</w>
+<w>devagar</w>
+<w>pelo</w>
+<w>Aterro</w>
+<w>,</w>
+<w>Ega</w>
+<w>contou</w>
+<w>a</w>
+<w>história</w>
+<w>da</w>
+<w>imundície</w>
+<w>.</s>
+<s>
+<w>Fora</w>
+<w>na</w>
+<w>véspera</w>
+<w>à</w>
+<w>tarde</w>
+<w>que</w>
+<w>recebera</w>
+<w>no</w>
+<w>Ramalhete</w>
+<w>a</w>
+<w>«</w>
+<w>Corneta</w>
+<w>»</w>
+<w>.</s>
+<s>
+<w>Ele</w>
+<w>já</w>
+<w>conhecia</w>
+<w>o</w>
+<w>papelucho</w>
+<w>,</w>
+<w>já</w>
+<w>privara</w>
+<w>mesmo</w>
+<w>com</w>
+<w>o</w>
+<w>proprietário</w>
+<w>e</w>
+<w>redactor</w>
+<w>--</w>
+<w>o</w>
+<w>Palma</w>
+<w>,</w>
+<w>chamado</w>
+<w>Palma</w>
+<w>«</w>
+<w>Cavalão</w>
+<w>»</w>
+<w>,</w>
+<w>para</w>
+<w>se</w>
+<w>distinguir</w>
+<w>de</w>
+<w>outro</w>
+<w>benemérito</w>
+<w>chamado</w>
+<w>Palma</w>
+<w>«</w>
+<w>Cavalinho</w>
+<w>»</w>
+<w>.</s>
+<s>
+<w>Compreendeu</w>
+<w>logo</w>
+<w>que</w>
+<w>,</w>
+<w>se</w>
+<w>a</w>
+<w>prosa</w>
+<w>era</w>
+<w>do</w>
+<w>Palma</w>
+<w>,</w>
+<w>a</w>
+<w>inspiração</w>
+<w>era</w>
+<w>alheia</w>
+<w>.</s>
+<s>
+<w>O</w>
+<w>Palma</w>
+<w>nada</w>
+<w>sabia</w>
+<w>de</w>
+<w>Carlos</w>
+<w>,</w>
+<w>nem</w>
+<w>de</w>
+<w>Maria</w>
+<w>,</w>
+<w>nem</w>
+<w>da</w>
+<w>casa</w>
+<w>da</w>
+<w>Rua</w>
+<w>de</w>
+<w>S.</w>
+<w>Francisco</w>
+<w>,</w>
+<w>nem</w>
+<w>da</w>
+<w>Toca</w>
+<w>...</s>
+<s>
+<w>Não</w>
+<w>era</w>
+<w>natural</w>
+<w>que</w>
+<w>escrevesse</w>
+<w>por</w>
+<w>deleite</w>
+<w>intelectual</w>
+<w>um</w>
+<w>documento</w>
+<w>que</w>
+<w>só</w>
+<w>lhe</w>
+<w>podia</w>
+<w>render</w>
+<w>desgostos</w>
+<w>e</w>
+<w>bengaladas</w>
+<w>.</s>
+<s>
+<w>O</w>
+<w>artigo</w>
+<w>,</w>
+<w>pois</w>
+<w>,</w>
+<w>fora-lhe</w>
+<w>simplesmente</w>
+<w>encomendado</w>
+<w>e</w>
+<w>pago</w>
+<w>.</s>
+<s>
+<w>No</w>
+<w>terreno</w>
+<w>do</w>
+<w>dinheiro</w>
+<w>vence</w>
+<w>sempre</w>
+<w>quem</w>
+<w>tem</w>
+<w>mais</w>
+<w>dinheiro</w>
+<w>.</s>
+<s>
+<w>Por</w>
+<w>este</w>
+<w>sólido</w>
+<w>princípio</w>
+<w>correra</w>
+<w>a</w>
+<w>procurar</w>
+<w>o</w>
+<w>Palma</w>
+<w>«</w>
+<w>Cavalão</w>
+<w>»</w>
+<w>no</w>
+<w>seu</w>
+<w>antro</w>
+<w>.</s>
+</p>
+</sample></samples>
