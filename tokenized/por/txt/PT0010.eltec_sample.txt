@@ -72,16 +72,15 @@ silveirais
 
 -
 Atira
-a
-o
-de
-a
-esquerda!
+ao
+da
+esquerda
+!
+
 -
 disse
 João
-de
-a
+da
 Cruz
 .
 
@@ -94,8 +93,7 @@ explosões
 
 A
 pontaria
-de
-o
+do
 ferrador
 fez
 logo
@@ -105,8 +103,7 @@ cadáver
 
 Os
 balotes
-de
-o
+do
 arrieiro
 não
 estremaram
@@ -126,19 +123,16 @@ este
 tempo
 assomava
 Simão
-en
-o
+no
 teso
-de
-onde
+donde
 lhe
 tinham
 atirado
 ,
 e
 corria
-a
-o
+ao
 ponto
 onde
 ouvira
@@ -195,8 +189,7 @@ melro
 -
 tornou
 João
-de
-a
+da
 Cruz
 -
 mas
@@ -206,8 +199,7 @@ lá
 está
 a
 pernear
-en
-a
+na
 vinha
 .
 
@@ -216,7 +208,8 @@ lhe
 quero
 ver
 as
-trombas...
+trombas
+...
 
 
 O
@@ -225,8 +218,7 @@ desceu
 os
 três
 socalcos
-de
-a
+da
 vinha
 ,
 e
@@ -280,8 +272,7 @@ senhor
 doutor
 está
 ferido
-em
-um
+num
 ombro
 .
 
@@ -305,8 +296,7 @@ a
 espreitarem-me
 de
 cima
-de
-a
+da
 ribanceira
 ,
 e
@@ -346,12 +336,14 @@ cavalo
 e
 disse
 :
+
 «
-Olé!
+Olé
+!
+
 há
 novidade
-?
-»
+?»
 
 Logo
 que
@@ -363,15 +355,13 @@ saltei
 para
 terra
 ;
-
 mas
 ainda
 eu
 tinha
 um
 pé
-en
-o
+no
 estribo
 quando
 me
@@ -381,8 +371,7 @@ fogo
 
 Quis
 saltar
-a
-a
+à
 ribanceira
 ,
 mas
@@ -409,7 +398,8 @@ dei
 fé
 de
 estar
-ferido...
+ferido
+...
 
 
 -
@@ -420,8 +410,7 @@ arranhadura
 -
 disse
 João
-de
-a
+da
 Cruz
 .
 
@@ -445,8 +434,7 @@ feridas
 
 
 -
-En
-os
+Nos
 burros
 ,
 mestre
@@ -464,8 +452,7 @@ sorrindo
 
 -
 E
-en
-os
+nos
 cristãos
 também
 ,
@@ -505,8 +492,7 @@ facadas
 e
 nunca
 fui
-a
-o
+ao
 cirurgião
 .
 
@@ -521,8 +507,7 @@ ir
 ressuscitar
 aquele
 alma
-de
-o
+do
 diabo
 que
 ali
@@ -550,8 +535,7 @@ por
 ela
 querer
 ir
-a
-a
+à
 cadeia
 .
 
@@ -561,16 +545,13 @@ com
 o
 pouco
 valor
-de
-a
+da
 tua
 pobre
 mãe
-a
-o
+ao
 pé
-de
-um
+dum
 homem
 enfurecido
 como
@@ -596,8 +577,7 @@ recebido
 era
 de
 João
-de
-a
+da
 Cruz
 .
 
@@ -627,8 +607,7 @@ menino
 disse
 o
 criado
--
-,
+-,
 os
 trabalhos
 são
@@ -641,8 +620,7 @@ Deus
 há-de
 fazer
 tudo
-por
-o
+pelo
 melhor
 .
 
@@ -668,8 +646,7 @@ Pois
 não
 quer
 almoçar
-?
-!
+?!
 
 
 -
@@ -691,8 +668,7 @@ Não
 quero
 absolutamente
 nada
-de
-a
+da
 casa
 de
 meus
@@ -716,8 +692,7 @@ feliz
 ,
 e
 orgulhoso
-de
-a
+da
 minha
 sorte
 .
@@ -734,8 +709,7 @@ saiu
 ,
 e
 disse
-a
-o
+ao
 carcereiro
 que
 o
@@ -752,22 +726,18 @@ achou
 provável
 a
 suspeita
-de
-o
+do
 servo
 ,
 e
 viu
 a
 evidência
-de
-a
+da
 loucura
-en
-as
+nas
 palavras
-de
-o
+do
 filho
 .
 
@@ -776,8 +746,7 @@ Quando
 o
 carcereiro
 voltou
-a
-o
+ao
 quarto
 de
 Simão
@@ -797,8 +766,7 @@ A
 filha
 de
 João
-de
-a
+da
 Cruz
 ,
 que
@@ -810,8 +778,7 @@ apertava
 sequer
 a
 mão
-de
-o
+do
 hóspede
 ,
 correu
@@ -871,7 +838,6 @@ chorar
 sou
 eu
 ;
-
 mas
 lágrimas
 dignas
@@ -881,8 +847,7 @@ mim
 lágrimas
 de
 gratidão
-a
-os
+aos
 favores
 que
 tenho
@@ -923,8 +888,7 @@ Mariana
 escondeu
 o
 rosto
-en
-o
+no
 avental
 com
 que
@@ -1069,13 +1033,11 @@ vir
 logo
 tudo
 ;
-
 já
 cá
 podia
 estar
 ;
-
 mas
 o
 pai
@@ -1099,7 +1061,8 @@ necessário
 
 -
 Não
-faz?...
+faz
+?...
 
 Para
 onde
@@ -1114,8 +1077,7 @@ degredado
 ?
 
 Fica
-en
-o
+no
 Porto
 ?
 
@@ -1135,8 +1097,7 @@ admirada
 desta
 pergunta
 ,
-a
-a
+à
 qual
 o
 seu
@@ -1152,8 +1113,7 @@ muito
 -
 Pois
 então
-?
-!
+?!
 
 
 -
@@ -1167,8 +1127,7 @@ vossa
 senhoria
 me
 quiser
-en
-a
+na
 sua
 companhia
 .
@@ -1180,8 +1139,7 @@ surpreendido
 Simão
 seria
 ridículo
-a
-os
+aos
 seus
 próprios
 olhos
@@ -1228,8 +1186,8 @@ que
 é
 ,
 senhor
-Simão..
-.
+Simão
+...
 
 É
 uma
@@ -1240,7 +1198,6 @@ que
 a
 nossa
 ;
-
 mas
 também
 há
@@ -1255,8 +1212,7 @@ vive-se
 E
 morre-se
 abrasado
-a
-o
+ao
 sol
 doentio
 daquele
@@ -1265,30 +1221,25 @@ céu
 morre-se
 de
 saudades
-de
-a
+da
 pátria
 ,
 morre-se
 muitas
 vezes
-de
-os
+dos
 maus
 tratos
-de
-os
+dos
 governadores
-de
-as
+das
 galés
 ,
 que
 têm
 um
 condenado
-en
-a
+na
 conta
 de
 fera
@@ -1309,11 +1260,9 @@ perguntado
 muito
 por
 isso
-a
-a
+à
 mulher
-de
-um
+dum
 preso
 que
 cumpriu
@@ -1321,8 +1270,7 @@ dez
 anos
 de
 sentença
-en
-a
+na
 Índia
 ,
 e
@@ -1340,7 +1288,6 @@ teve
 uma
 tenda
 ;
-
 e
 ,
 se
@@ -1374,8 +1321,7 @@ se
 for
 por
 vontade
-de
-o
+do
 senhor
 Simão
 ,
@@ -1395,19 +1341,16 @@ vida
 .
 
 Afeita
-a
-o
+ao
 calor
 estou
 eu
 ;
-
 vossa
 senhoria
 não
 está
 ;
-
 mas
 não
 há-de
@@ -1420,8 +1363,7 @@ quiser
 ,
 de
 andar
-a
-o
+ao
 tempo
 .
 
@@ -1437,8 +1379,7 @@ eu
 morro
 apenas
 chegar
-a
-o
+ao
 degredo
 ?
 
@@ -1450,10 +1391,7 @@ nisso
 ,
 senhor
 Simão
-.
-
-.
-.
+...
 
 
 -
@@ -1466,25 +1404,22 @@ porque
 eu
 hei-de
 sentir
-a
-a
+à
 hora
-de
-a
+da
 morte
 ,
 a
 pesar-me
-en
-a
+na
 alma
 ,
 a
 responsabilidade
-de
-o
+do
 seu
-destino...
+destino
+...
 
 Se
 eu
@@ -1511,19 +1446,23 @@ morre
 quando
 quer
 ,
-Mariana...
+Mariana
+...
 
 
 -
-Oh!
-se
-morre!...
+Oh
+!
 
+se
+morre
+!...
 e
 vive
 também
 quando
-quer...
+quer
+...
 
 Não
 mo
@@ -1553,8 +1492,7 @@ quando
 vossa
 senhoria
 chegou
-a
-o
+ao
 Porto
 ,
 e
@@ -1574,8 +1512,8 @@ gente
 assim
 ,
 senhor
-Simão..
-.
+Simão
+...
 
 E
 mais
@@ -1588,8 +1526,7 @@ e
 eu
 sou
 mulher
-de
-o
+do
 campo
 ,
 vezada
@@ -1598,7 +1535,6 @@ todos
 os
 trabalhos
 ;
-
 e
 ,
 se
@@ -1607,8 +1543,7 @@ preciso
 meter
 uma
 lanceta
-en
-o
+no
 braço
 e
 deixar
@@ -1642,7 +1577,8 @@ mim
 Que
 hei-de
 eu
-esperar!...
+esperar
+!...
 
 Porque
 me
@@ -1698,8 +1634,7 @@ senhoria
 não
 sabe
 nada
-de
-o
+do
 mundo
 .
 
@@ -1708,8 +1643,7 @@ meta
 sozinho
 a
 cabeça
-a
-os
+aos
 trabalhos
 ,
 que
@@ -1740,7 +1674,6 @@ sou
 um
 rústico
 ;
-
 mas
 ,
 a
@@ -1755,8 +1688,7 @@ dizia
 que
 o
 mal
-de
-os
+dos
 seus
 burrinhos
 o
@@ -1764,8 +1696,8 @@ fizera
 alveitar
 .
 
-Paixões...
-
+Paixões
+...
 que
 as
 leve
@@ -1791,8 +1723,7 @@ que
 ela
 seja
 filha
-de
-o
+do
 rei
 ,
 não
@@ -1817,8 +1748,7 @@ são
 como
 as
 rãs
-de
-o
+do
 charco
 ,
 que
@@ -1828,11 +1758,9 @@ uma
 e
 aparecem
 quatro
-a
-a
+à
 tona
-de
-a
+da
 água
 .
 
@@ -1883,8 +1811,7 @@ de
 ser
 sua
 ,
-a
-a
+à
 mão
 lhe
 há-de
@@ -1902,8 +1829,7 @@ diante
 ,
 é
 ditado
-de
-os
+dos
 antigos
 .
 
@@ -1916,14 +1842,12 @@ medo
 ,
 fidalgo
 ;
-
 tome
 sentido
 ,
 que
 João
-de
-a
+da
 Cruz
 sabe
 o
@@ -1954,20 +1878,17 @@ o
 senhor
 quer
 sair
-a
-a
+à
 estrada
 e
 tirar
 a
 tal
 pessoa
-a
-o
+ao
 pai
 ,
-a
-o
+ao
 primo
 ,
 e
@@ -1982,8 +1903,7 @@ necessário
 eu
 vou
 montar
-en
-a
+na
 égua
 ,
 e
@@ -2010,10 +1930,8 @@ fitava
 os
 olhos
 chamejantes
-en
-os
-de
-o
+nos
+do
 ferrador
 ,
 e
@@ -2038,10 +1956,7 @@ lhe
 dê
 esses
 conselhos
-!
-
-..
-.
+!...
 
 
 -
@@ -2062,8 +1977,7 @@ Vai
 tirar
 o
 albardão
-a
-a
+à
 égua
 ,
 amanta-a
@@ -2089,8 +2003,7 @@ Mariana
 -
 disse
 Simão
-a
-a
+à
 moça
 ,
 que
@@ -2104,8 +2017,7 @@ Eu
 não
 aproveito
 algum
-de
-os
+dos
 conselhos
 de
 seu
@@ -2125,7 +2037,6 @@ o
 meu
 bem
 ;
-
 mas
 hei-de
 fazer
@@ -2141,8 +2052,7 @@ aconselharem
 .
 
 
-A
-o
+Ao
 anoitecer
 ,
 Simão
@@ -2156,8 +2066,7 @@ uma
 longa
 carta
 ,
-de
-a
+da
 qual
 extractamos
 os
@@ -2203,8 +2112,7 @@ Parece
 que
 o
 frio
-de
-a
+da
 minha
 sepultura
 me
@@ -2272,8 +2180,7 @@ O
 que
 me
 resta
-de
-o
+do
 passado
 é
 a
@@ -2351,16 +2258,14 @@ Penso
 que
 não
 incumbem
-a
-o
+ao
 senhor
 juiz
 de
 fora
 essas
 miudezas
-de
-o
+do
 estômago
 .
 
@@ -2415,23 +2320,18 @@ preso
 ,
 e
 alojou-o
-em
-um
-de
-os
+num
+dos
 quartos
 melhores
-de
-o
+do
 cárcere
 ;
-
 mas
 nu
 e
 desprovido
-de
-o
+do
 mínimo
 conforto
 .
@@ -2496,15 +2396,13 @@ Simão
 antes
 de
 tocar
-en
-o
+no
 almoço
 ,
 cujo
 cabaz
 estava
-en
-o
+no
 pavimento
 ,
 leu
@@ -2534,8 +2432,7 @@ está
 inexorável
 .
 
-A
-as
+Às
 escondidas
 dele
 é
@@ -2566,8 +2463,7 @@ Oxalá
 que
 tivesses
 morrido
-a
-o
+ao
 nascer
 .
 
@@ -2578,7 +2474,6 @@ que
 tinhas
 nascido
 ;
-
 mas
 o
 teu
@@ -2588,10 +2483,8 @@ não
 quis
 largar
 a
-vítima.
-[
-3
-]
+vítima
+.
 
 
 Para
@@ -2629,11 +2522,8 @@ que
 dissesses
 a
 tua
-mãe!
-
-.
-
-..
+mãe
+!...
 
 
 Simão
@@ -2652,8 +2542,8 @@ si
 Como
 se
 entende
-isto?
-!
+isto
+?!
 
 Pois
 minha
@@ -2663,8 +2553,7 @@ mandou
 chamar
 o
 João
-de
-a
+da
 Cruz
 !
 
@@ -2752,7 +2641,6 @@ que
 posso
 fazer
 ;
-
 mas
 receio
 bem
@@ -2764,8 +2652,7 @@ de
 Viseu
 ,
 e
-en
-os
+nos
 leve
 para
 Vila
@@ -2778,11 +2665,9 @@ todo
 o
 teu
 julgamento
-a
-a
+à
 severidade
-de
-as
+das
 leis
 .
 
@@ -2798,8 +2683,7 @@ tu
 escondido
 quinze
 dias
-?
-!
+?!
 
 Hoje
 mesmo
@@ -2810,16 +2694,14 @@ pai
 teve
 a
 carta
-de
-um
+dum
 lente
 ,
 participando-lhe
 a
 tua
 falta
-en
-as
+nas
 aulas
 ,
 e
@@ -2854,8 +2736,7 @@ por
 ela
 querer
 ir
-a
-a
+à
 cadeia
 .
 

@@ -1,4 +1,5 @@
---Parece-me
+--
+Parece-me
 mal
 ,
 respondeu
@@ -6,12 +7,12 @@ ella
 ,
 porque
 já
-vi
-"
+viÂ
+«
 os
 trez
-imperadores
-"
+imperadoresÂ
+»
 .
 
 
@@ -24,8 +25,7 @@ esta
 uma
 designação
 vulgar
-de
-a
+da
 batalha
 de
 Austerlitz
@@ -51,8 +51,7 @@ seria
 pois
 a
 andorinha
-de
-a
+da
 caserna
 se
 não
@@ -60,16 +59,14 @@ fosse
 antes
 a
 mariposa
-de
-o
+do
 acampamento
 .
 
 Tinha
 um
 pouco
-de
-a
+da
 floresta
 ,
 seu
@@ -78,8 +75,7 @@ berço
 e
 um
 pouco
-de
-o
+do
 quartel
 ,
 seu
@@ -96,27 +92,23 @@ todo
 Tinha
 a
 pureza
-de
-a
+da
 vegetação
 virgem
 ,
 a
 suavidade
 inculta
-de
-a
+da
 floresta
 ,
 e
-a
-o
+ao
 mesmo
 passo
 o
 destemor
-de
-a
+da
 vivandeira
 ,
 a
@@ -135,32 +127,28 @@ canção
 marcial
 .
 
-En
-a
+Na
 alma
 tinha
 os
 murmurios
-de
-as
+das
 correntes
 patrias
 ;
-
-en
-os
+nos
 olhos
 o
 brilho
-de
-a
+da
 polvora
 .
 
 
 Era
 ,
-n'uma
+n'
+uma
 palavra
 ,
 a
@@ -212,13 +200,13 @@ lagrimas
 ,
 disse-lhe
 um
-de
-os
+dos
 soldados
 :
 
 
---Pois
+--
+Pois
 tu
 choras
 ,
@@ -232,8 +220,7 @@ viste
 os
 trez
 imperadores
-?
-!
+?!
 
 
 E
@@ -247,7 +234,8 @@ respondeu
 :
 
 
---Não
+--
+Não
 choro
 eu
 ,
@@ -265,7 +253,6 @@ escolher-lhe
 novo
 protector
 ;
-
 todos
 a
 estimavam
@@ -292,7 +279,8 @@ observou
 :
 
 
---Os
+--
+Os
 meus
 paes
 eram
@@ -300,7 +288,6 @@ os
 que
 morreram
 ;
-
 já
 não
 posso
@@ -315,8 +302,7 @@ hoje
 em
 deante
 filha
-de
-o
+do
 regimento
 .
 
@@ -347,7 +333,6 @@ quasi
 um
 soldado
 ;
-
 muitas
 vezes
 dizia
@@ -382,11 +367,9 @@ que
 iria
 ,
 licenciada
-por
-o
+pelo
 commandante
-de
-o
+do
 regimento
 ,
 visitar
@@ -409,8 +392,7 @@ em
 todo
 o
 vigor
-de
-a
+da
 sua
 gentil
 formosura
@@ -422,16 +404,15 @@ Gentil
 a
 palavra
 ;
-
 por
 isso
 lhe
-chamavam
-"
+chamavamÂ
+«
 lá
 gentille
-vivandière
-"
+vivandièreÂ
+»
 .
 
 
@@ -464,11 +445,9 @@ ella
 o
 melhor
 intercessor
-de
-o
+do
 regimento
 ;
-
 requerimento
 que
 ella
@@ -486,14 +465,14 @@ despacho
 É
 que
 as
-flôres...
+flôres
+...
 
 
 Ora
 a
 historia
-de
-a
+da
 madeixa
 é
 muito
@@ -521,27 +500,23 @@ pae
 o
 bravo
 official
-de
-as
+das
 Ardennas
 ,
 sentindo-se
 morrer
-de
-os
+dos
 graves
 ferimentos
 que
 recebera
 ,
 pediu
-a
-o
+ao
 velho
 camarada
 ,
-en
-o
+no
 momento
 de
 confiar-lhe
@@ -556,8 +531,7 @@ madeixa
 que
 elle
 cortára
-de
-o
+do
 seu
 proprio
 cabello
@@ -586,8 +560,7 @@ em
 seguida
 o
 reino
-de
-a
+da
 Etruria
 ,
 procurou
@@ -657,12 +630,10 @@ reminiscencia
 
 Fizera
 reparo
-en
-os
+nos
 dois
 ,
-por
-o
+pelo
 contraste
 .
 
@@ -677,8 +648,7 @@ com
 a
 criança
 adormecida
-en
-os
+nos
 braços
 ,
 afagando-lhe
@@ -687,8 +657,7 @@ cabellos
 loiros
 ,
 cobertos
-por
-os
+pelos
 seus
 cabellos
 brancos
@@ -706,8 +675,7 @@ bebera
 menos
 .
 
-Por
-a
+Pela
 manhã
 saíra
 com
@@ -731,7 +699,6 @@ dissera
 acrescentando
 unicamente
 :
-
 Quando
 elle
 sahia
@@ -757,7 +724,8 @@ respondeu
 :
 
 
---Vamos
+--
+Vamos
 correr
 esse
 reino
@@ -785,7 +753,9 @@ e
 só
 temos
 dois
-braços--são
+braços
+--
+são
 os
 meus
 que
@@ -797,18 +767,15 @@ podem
 
 A
 historia
-de
-o
+do
 velho
 e
-de
-a
+da
 criança
 fez
 profunda
 impressão
-en
-o
+no
 animo
 attribulado
 de
@@ -837,8 +804,7 @@ soube
 dizer-lhe
 o
 nome
-de
-o
+do
 harpista
 .
 
@@ -846,8 +812,7 @@ Sobretudo
 ,
 a
 ideia
-de
-a
+da
 morte
 de
 Rosina
@@ -905,8 +870,7 @@ filho
 ,
 e
 viveria
-en
-o
+no
 mundo
 sem
 pae
@@ -917,8 +881,7 @@ apenas
 confiado
 á
 protecção
-de
-o
+do
 pobre
 harpista
 napolitano
@@ -951,15 +914,12 @@ morrido
 ,
 que
 seria
-de
-a
+da
 criança
-en
-a
+na
 infantil
 inconsciencia
-de
-os
+dos
 seus
 quatro
 annos
@@ -976,8 +936,7 @@ filho
 
 Morreria
 enregelada
-en
-o
+no
 caminho
 ,
 morreria
@@ -987,11 +946,9 @@ entre
 duas
 arvores
 ,
-en
-o
+no
 meio
-de
-a
+da
 serra
 ,
 ou
@@ -1010,20 +967,17 @@ gritar
 para
 que
 acudissem
-a
-o
+ao
 avô
 ,
 que
 caíra
-a
-o
+ao
 chão
 e
 ficára
 esmagado
-por
-a
+pela
 harpa
 ,
 sem
@@ -1032,8 +986,7 @@ mais
 ,
 sem
 responder
-a
-o
+ao
 seu
 afflictivo
 chamar
@@ -1047,11 +1000,9 @@ a
 notar
 extraordinaria
 agitação
-en
-a
+na
 physionomia
-de
-o
+do
 hospede
 .
 
@@ -1064,16 +1015,13 @@ e
 estremecerem-lhe
 os
 musculos
-de
-as
+das
 faces
 cadavericas
-por
-a
+pela
 magreza
 e
-por
-a
+pela
 lividez
 .
 
@@ -1103,13 +1051,17 @@ tremer
 Trouxeram
 roupa
 ,
-cobriram-n'o
+cobriram
+-
+n'
+o
 .
 
 Pediram-lhe
 que
 se
-deitasse;
+deitasse
+;
 recusou
 .
 
@@ -1131,8 +1083,7 @@ Depois
 como
 o
 peso
-de
-a
+da
 roupa
 fosse
 muito
@@ -1171,7 +1122,8 @@ desafivelou-a
 e
 tirou
 de
-dentro...
+dentro
+...
 a
 guitarra
 .
@@ -1184,8 +1136,7 @@ febrilmente
 
 A
 gente
-de
-a
+da
 pousada
 entreolhava-se
 com
@@ -1230,8 +1181,7 @@ alheiado
 ,
 e
 arrancar
-de
-a
+da
 sua
 guitarra
 apenas
@@ -1245,20 +1195,16 @@ dolorosos
 «
 Certifico
 que
-en
-o
+no
 livro
 quarto
-de
-o
+do
 registo
-de
-os
+dos
 obitos
 e
 enterramentos
-de
-os
+dos
 adultos
 ,
 a
@@ -1281,8 +1227,7 @@ seguinte
 «
 José
 Maria
-de
-a
+da
 Conceição
 Graça
 ,
@@ -1295,13 +1240,11 @@ Graça
 e
 de
 Maria
-de
-a
+da
 Gloria
 ,
 natural
-de
-o
+do
 Porto
 ,
 edade
@@ -1319,16 +1262,14 @@ mendigo
 morador
 que
 foi
-en
-o
+no
 Hospital
 de
 Cima
 de
 Villa
 ,
-de
-os
+dos
 Entrevados
 ,
 falleceu
@@ -1336,15 +1277,12 @@ de
 molestia
 não
 denominada
-por
-as
+pelas
 nove
 horas
-de
-a
+da
 noute
-de
-o
+do
 dia
 vinte
 de
@@ -1356,7 +1294,6 @@ cincoenta
 e
 nove
 ;
-
 depois
 de
 se
@@ -1364,34 +1301,33 @@ lhe
 rezarem
 os
 responsos
-de
-o
+do
 costume
 foi
 sepultado
-por
-as
+pelas
 oito
 horas
-de
-a
+da
 noute
-de
-o
+do
 dia
 vinte
 e
 um
-de
-o
+do
 dito
 mez
-n'este
+n'
+este
 cemiterio
-publico--Prado
-de
-o
-Repouso--no
+publico
+--
+Prado
+do
+Repouso
+--
+no
 canteiro
 numero
 tres
@@ -1429,23 +1365,24 @@ o
 subscrevi
 .
 
-"
+Â
+«
 Antonio
 José
 Antunes
-Barbosa
-"
+BarbosaÂ
+»
 ,
 director
 .
 
-"
+Â
+«
 Francisco
 Alves
-de
-a
-Soledade
-"
+da
+SoledadeÂ
+»
 ,
 capellão
 .
@@ -1459,8 +1396,7 @@ o
 dito
 assento
 ,
-a
-o
+ao
 qual
 me
 reporto
@@ -1469,11 +1405,9 @@ reporto
 Porto
 e
 Cemiterio
-de
-o
+do
 Prado
-de
-o
+do
 Repouso
 ,
 nove
@@ -1493,15 +1427,13 @@ JOÃO
 JOSÉ
 DUARTE
 MACHADO
-.
-»
+.»
 
 
 «
 Capellão
 director
-.
-»
+.»
 
 
 FIM
@@ -1518,8 +1450,7 @@ alma
 d'
 Augusta
 abençoara
-de
-o
+do
 ceu
 a
 criança
@@ -1539,8 +1470,7 @@ as
 parietarias
 que
 marinhavam
-por
-o
+pelo
 muro
 proximo
 ,
@@ -1553,14 +1483,19 @@ comoros
 .
 
 
---Se
+--
+Se
 ahi
 estaes
 ,
 minhas
 doces
-amigas--pensou
-elle--recebei
+amigas
+--
+pensou
+elle
+--
+recebei
 o
 primeiro
 e
@@ -1584,19 +1519,18 @@ por
 mim
 ,
 e
-por
-a
+pela
 familia
 que
 me
 resta
-en
-a
+na
 terra
 ,
 se
 Deus
-m'a
+m'
+a
 tiver
 conservado
 .
@@ -1604,8 +1538,7 @@ conservado
 São
 tambem
 vossos
-por
-o
+pelo
 coração
 .
 
@@ -1613,11 +1546,9 @@ Adeus
 ,
 abençoadas
 sejaes
-en
-o
+no
 céu
-por
-o
+pelo
 conforto
 que
 me
@@ -1627,13 +1558,11 @@ destes
 
 E
 saíu
-de
-o
+do
 cemiterio
 ,
 caminho
-de
-o
+do
 rio
 Douro
 ,
@@ -1643,7 +1572,8 @@ fundeado
 o
 navio
 que
-n'essa
+n'
+essa
 tarde
 devia
 partir
@@ -1659,11 +1589,9 @@ A
 essa
 hora
 ,
-en
-a
+na
 Fonte
-de
-as
+das
 Virtudes
 ,
 havia
@@ -1673,22 +1601,21 @@ alegria
 
 Um
 velho
-de
-a
+da
 familia
 Cerqueira
 dizia
 a
 um
 menino
-de
-a
+da
 familia
 Brochado
 :
 
 
---Vá
+--
+Vá
 ,
 seu
 estudante
@@ -1697,33 +1624,40 @@ traduza-me
 lá
 a
 inscripção
-de
-a
+da
 fonte
 :
-"
+
+Â
+«
 Fons
 scalet
 ,
 illustri
-virtutum
-"
+virtutumÂ
+»
 ,
 etc
 .
 
-"
+Â
+«
 Rompe
 aqui
 esta
-fonte...
-"
+fonte
+...Â
+«
+.
+
 Vá
 ,
-diga...
+diga
+...
 
 
---Pudera
+--
+Pudera
 romper
 acolá
 ,
@@ -1742,22 +1676,17 @@ menino
 .
 
 
-D
-.
-
+D.
 Izabel
 offerecia
-a
-o
+ao
 seu
 noivo
 um
 copinho
-de
-a
+da
 agua
-de
-a
+da
 fonte
 ,
 panacea
@@ -1770,8 +1699,7 @@ as
 quaes
 as
 inflammações
-de
-os
+dos
 olhos
 .
 
@@ -1821,8 +1749,7 @@ horisonte
 fechado
 em
 torno
-de
-o
+do
 navio
 .
 
@@ -1833,7 +1760,6 @@ e
 seu
 filho
 ;
-
 agradecer
 a
 Pietro
@@ -1866,9 +1792,9 @@ decerto
 a
 boa
 nova
-de
-a
-maternidade...
+da
+maternidade
+...
 
 Mas
 ,
@@ -1892,20 +1818,17 @@ receios
 Todavia
 a
 visita
-a
-o
+ao
 cemiterio
 de
 Cedofeita
 insinuava-lhe
-en
-a
+na
 alma
 o
 doce
 calor
-de
-a
+da
 fé
 .
 
@@ -1918,35 +1841,33 @@ desenganar-se
 .
 
 Levava
-a
-o
+ao
 berço
-de
-o
+do
 filho
 a
 tranquillidade
 aprendida
 á
 beira
-de
-o
+do
 tumulo
-de
-a
+da
 irmã
 .
 
 A
-Italia!
+Italia
+!
+
 a
 Italia
 !
+
 a
 terra
 promettida
-de
-o
+do
 Moyses
 errante
 !
@@ -1955,8 +1876,7 @@ Quando
 appareceu
 em
 frente
-de
-o
+do
 navio
 uma
 nuvem
@@ -1965,10 +1885,10 @@ pardacenta
 e
 a
 voz
-de
-"
-Terra
-"
+deÂ
+«
+TerraÂ
+»
 !
 
 alvoroçou
@@ -1985,15 +1905,13 @@ desde
 a
 alegria
 expansiva
-de
-a
+da
 criança
 até
 á
 timidez
 receiosa
-de
-a
+da
 mulher
 .
 
@@ -2005,8 +1923,7 @@ Italia
 O
 formoso
 sol
-de
-a
+da
 Italia
 a
 enxugar
@@ -2025,14 +1942,12 @@ Rosina
 Regnau
 a
 animar
-en
-o
+no
 desconforto
 ,
 a
 premiar
-en
-a
+na
 alegria
 !
 
@@ -2045,12 +1960,10 @@ voz
 
 A
 liberdade
-de
-o
+do
 coração
 e
-de
-a
+da
 palavra
 !
 
@@ -2084,11 +1997,9 @@ a
 brincarem-lhe
 em
 derredor
-de
-a
+da
 cabeça
 ;
-
 Rosina
 a
 viver
@@ -2096,16 +2007,14 @@ arroubada
 entre
 os
 sorrisos
-de
-o
+do
 pae
 e
-de
-o
+do
 filho
 ;
-
-n'uma
+n'
+uma
 palavra
 ,
 a
@@ -2118,7 +2027,6 @@ chega
 a
 noite
 ;
-
 á
 porta
 ,
@@ -2129,23 +2037,21 @@ alvejantes
 tranquillo
 ,
 sentado
-a
-o
+ao
 sol
 ,
 Pietro
 ,
-o
-"
-canta-storie
-"
+oÂ
+«
+canta-storieÂ
+»
 ,
 a
 concertar
 as
 cordas
-de
-a
+da
 sua
 harpa
 ,
@@ -2164,12 +2070,11 @@ mas
 ainda
 sonora
 ,
-a
-"
-Capuana
-"
+aÂ
+«
+CapuanaÂ
+»
 ;
-
 fóra
 ,
 o
@@ -2183,8 +2088,7 @@ suavissimo
 ,
 o
 sorriso
-de
-a
+da
 natureza
 ,
 a
@@ -2194,7 +2098,8 @@ meridional
 !
 
 
---Que
+--
+Que
 artes
 teem
 os
@@ -2216,16 +2121,18 @@ franceza
 .
 
 
---Deixe
-ouvir...
-
+--
+Deixe
+ouvir
+...
 observou
 a
 morgada
 .
 
 
---Eram
+--
+Eram
 vinte
 e
 tantos
@@ -2237,16 +2144,14 @@ pretendiam
 abicar
 á
 praia
-de
-o
+do
 Camarido
 .
 
 Trez
 separaram-se
 ,
-a
-o
+ao
 descer
 o
 rio
@@ -2300,8 +2205,7 @@ percebeu
 claramente
 a
 tentativa
-de
-o
+do
 inimigo
 ,
 e
@@ -2314,12 +2218,12 @@ fuzilaria
 .
 
 Um
-de
-os
+dos
 barcos
 foi
 a
-pique;
+pique
+;
 outro
 despedaçou-o
 o
@@ -2328,14 +2232,12 @@ mar
 
 Os
 francezes
-de
-os
+dos
 trez
 primeiros
 barcos
 refugiaram-se
-en
-o
+no
 Camarido
 .
 
@@ -2343,8 +2245,7 @@ Estes
 desastres
 deram
 alento
-a
-os
+aos
 paisanos
 ,
 que
@@ -2354,29 +2255,23 @@ para
 atacar
 o
 inimigo
-en
-o
+no
 rio
 ,
 protegidos
-por
-a
+pela
 artilharia
-de
-a
+da
 Areia
 Grossa
 e
-de
-a
+da
 Insua
 ,
 e
-por
-os
+pelos
 soldados
-de
-o
+do
 21
 .
 
@@ -2384,18 +2279,14 @@ Os
 francezes
 ,
 contrariados
-por
-a
+pela
 correnteza
-de
-as
+das
 aguas
 e
-por
-a
+pela
 resistencia
-de
-os
+dos
 nossos
 ,
 retrocederam
@@ -2403,8 +2294,7 @@ para
 a
 margem
 direita
-de
-o
+do
 Minho
 ,
 desesperando
@@ -2418,8 +2308,7 @@ os
 nossos
 a
 matta
-de
-o
+do
 Camarido
 ,
 encontrando
@@ -2430,8 +2319,7 @@ trinta
 francezes
 ,
 um
-de
-os
+dos
 quaes
 consta
 ser
@@ -2441,8 +2329,7 @@ haver
 declarado
 o
 nome
-de
-o
+do
 general
 em
 chefe
@@ -2455,16 +2342,21 @@ exercito
 Chama-se
 Soult
 o
-general...
+general
+...
 
 
---Elles
+--
+Elles
 tambem
-escolhem-n'os
-por
+escolhem
+-
+n'
 os
+pelos
 nomes
 !
+
 interrompeu
 o
 padre
@@ -2480,12 +2372,14 @@ incluindo
 a
 latina
 e
-a...
+a.
+..
 portugueza
 .
 
 
---Os
+--
+Os
 paisanos
 ,
 segundo
@@ -2515,19 +2409,21 @@ forcados
 .
 
 
---Nunca
+--
+Nunca
 as
 mãos
 lhes
-dôam...
-
+dôam
+...
 observou
 impudentemente
 o
 capellão
 
 
---Pelo
+--
+Pelo
 meio
 dia
 atacaram
@@ -2535,16 +2431,14 @@ os
 francezes
 Villa
 Nova
-de
-a
+da
 Cerveira
 ,
 sendo
 ainda
 repellidos
 brilhantemente
-por
-os
+pelos
 nossos
 ,
 tropa
@@ -2601,7 +2495,6 @@ sabe
 desde
 manhã
 ;
-
 o
 que
 já
@@ -2612,8 +2505,7 @@ pertence
 a
 Deus
 e
-a
-os
+aos
 que
 estão
 em
@@ -2621,7 +2513,8 @@ armas
 .
 
 
---Mas
+--
+Mas
 que
 lhe
 parece
@@ -2641,10 +2534,10 @@ morgada
 .
 
 
---Para
+--
+Para
 que
-en
-os
+nos
 havemos
 de
 illudir
@@ -2660,13 +2553,13 @@ poderosos
 e
 por
 mais
-d'uma
+d'
+uma
 parte
 poderão
 entrar
 ,
-a
-o
+ao
 passo
 que
 os
@@ -2683,13 +2576,15 @@ muito
 de
 sua
 força
-n'essa
+n'
+essa
 mesma
 divisão
 .
 
 
---Com
+--
+Com
 que
 então
 não
@@ -2710,8 +2605,7 @@ ouvindo
 abrir
 a
 porta
-de
-o
+do
 quarto
 d'
 Augusta

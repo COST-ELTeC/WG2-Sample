@@ -3,8 +3,7 @@ E
 tão
 fácil
 triunfar
-por
-a
+pela
 lisonja
 !
 
@@ -19,8 +18,7 @@ a
 gente
 se
 leva
-por
-o
+pelo
 orgulho
 .
 
@@ -34,8 +32,7 @@ simples
 se
 me
 quebra
-en
-as
+nas
 mãos
 inábeis
 .
@@ -59,18 +56,19 @@ e
 que
 noites
 !
+
 que
 espectáculo
 o
-de
-a
+da
 minha
 alma
 .
 
 Pudesse
 eu
-narrá-lo!...
+narrá-lo
+!...
 
 Umorgulho
 exagerado
@@ -81,8 +79,7 @@ ruínas
 ,
 a
 raiva
-de
-o
+do
 triunfo
 --
 e
@@ -103,9 +100,9 @@ terra
 
 Tenho
 envelhecido
-a
-a
-espera...
+à
+espera
+...
 
 
 Parto
@@ -147,13 +144,11 @@ medo
 .
 
 Medo
-de
-os
+dos
 outros
 e
 medo
-de
-a
+da
 vida
 .
 
@@ -169,11 +164,9 @@ mim
 como
 uma
 espada
-en
-as
+nas
 mãos
-de
-uma
+duma
 criança
 .
 
@@ -185,16 +178,14 @@ braços
 até
 os
 cotovelos
-en
-o
+no
 oiro
 ,
 pudesse
 eu
 mandar
 até
-a
-o
+ao
 domínio
 ,
 que
@@ -265,6 +256,7 @@ logo
 em
 pequenos
 :
+
 --
 Só
 o
@@ -302,8 +294,7 @@ práticas
 ?
 
 Dizer
-a
-o
+ao
 pobre
 :
 Adula
@@ -346,8 +337,7 @@ iludido
 
 Quando
 acordares
-de
-o
+do
 teu
 sonho
 ,
@@ -390,18 +380,15 @@ mentira
 que
 muitas
 vezes
-en
-os
+nos
 faz
 recuar
 ;
-
 o
 amor
 e
 outra
 ;
-
 a
 outra
 é
@@ -411,8 +398,7 @@ honra
 
 Estas
 coisas
-en
-os
+nos
 grandes
 homens
 são
@@ -439,12 +425,10 @@ de
 que
 se
 apoderaram
-por
-a
+pela
 manha
 ou
-por
-o
+pelo
 combate
 .
 
@@ -476,8 +460,7 @@ lisonjeados
 
 Há
 criaturas
-de
-as
+das
 quais
 emana
 um
@@ -525,8 +508,7 @@ disse
 ,
 que
 triunfam
-a
-a
+à
 primeira
 vista
 .
@@ -535,14 +517,12 @@ Os
 outros
 sentem
 logo
-a
-o
+ao
 vê-los
 que
 estão
 diante
-de
-uma
+duma
 força
 .
 
@@ -556,22 +536,18 @@ persiste
 espera
 ,
 anda
-por
-os
+pelos
 tribunais
 ,
 com
 o
 filho
-por
-a
+pela
 mão
 ;
-
 passa
 dias
-en
-os
+nos
 pátios
 húmidos
 .
@@ -586,8 +562,10 @@ e
 a
 Felícia
 :
+
 --
-Roubaram-me!
+Roubaram-me
+!
 
 --
 Não
@@ -600,11 +578,9 @@ os
 patacos
 ,
 passa
-por
-a
+pela
 pior
-de
-as
+das
 misérias
 .
 
@@ -624,12 +600,10 @@ todos
 contra
 ela
 !
-
 --
 e
 abraçada
-a
-o
+ao
 filho
 pequeno
 ,
@@ -641,10 +615,11 @@ vencida
 --
 Roubaram-te
 ,
-filho!
-roubaram-te!
+filho
+!
 
-...
+roubaram-te
+!...
 
 
 Sucumbe
@@ -655,14 +630,12 @@ e
 dias
 sem
 sair
-de
-a
+da
 trapeira
 ,
 a
 cismar
 ;
-
 depois
 ,
 abaixa-se
@@ -672,7 +645,6 @@ curva-se
 finge-se
 idiota
 ;
-
 seu
 riso
 soa
@@ -682,12 +654,10 @@ e
 volta
 a
 casa
-de
-a
+da
 irmã
 e
-de
-as
+das
 velhas
 ,
 pedinchando
@@ -699,7 +669,6 @@ Esconde
 o
 ódio
 ;
-
 vive
 fechada
 com
@@ -758,12 +727,10 @@ sustentar
 a
 si
 e
-a
-o
+ao
 filho
 ,
-de
-a
+da
 caridade
 .
 
@@ -773,17 +740,14 @@ de
 ferro
 encontra-se
 diante
-de
-um
+dum
 mundo
 atroz
 e
 suporta-o
 ;
-
 diante
-de
-a
+da
 injustiça
 e
 aguenta-se
@@ -800,15 +764,13 @@ submissa
 ,
 senão
 matam-na
-a
-a
+à
 fome
 .
 
 Há-de
 obedecer
-a
-as
+às
 velhas
 ricas
 que
@@ -830,14 +792,12 @@ sorrir
 --
 senão
 matam-na
-a
-a
+à
 fome
 a
 ela
 e
-a
-o
+ao
 filho
 .
 
@@ -876,7 +836,6 @@ Peça
 já
 obediência
 !
-
 --
 intimam-na
 e
@@ -902,7 +861,10 @@ festa
 --
 Estou
 até
-aqui...
+aqui
+...
+
+.
 
 --
 E
@@ -925,7 +887,8 @@ que
 estás
 a
 olhar
-p'ra
+p'
+ra
 mim
 ?
 
@@ -950,6 +913,7 @@ eu
 
 Ah
 !
+
 a
 Candidinha
 é
@@ -961,8 +925,7 @@ negra
 ?
 
 Diante
-de
-a
+da
 Candidinha
 pode
 dizer-se
@@ -973,8 +936,8 @@ tudo
 
 É
 uma
-estúpida..
-.
+estúpida
+...
 
 A
 Candidinha
@@ -994,9 +957,8 @@ cão
 não
 é
 ,
-Candidinha!
-
-...
+Candidinha
+!...
 
 
 Ri
@@ -1021,8 +983,7 @@ medo
 
 --
 Enche-se-lhe
-a
-as
+às
 vezes
 a
 barriga
@@ -1031,8 +992,7 @@ mata-se-lhe
 a
 fome
 e
-a
-o
+ao
 filho
 ,
 porque
@@ -1046,7 +1006,10 @@ Candidinha
 faz
 rir
 a
-gente...
+gente
+...
+
+.
 
 --
 E
@@ -1086,8 +1049,7 @@ rissem
 de
 mim
 e
-en
-os
+nos
 atirassem
 a
 côdea
@@ -1101,10 +1063,10 @@ pena
 não
 tinhas
 --
-flor!
+flor
+!
 --
-de
-a
+da
 Candidinha
 ,
 que
@@ -1141,20 +1103,23 @@ de
 tudo
 o
 que
-sonhou..
-.
+sonhou
+...
 
 E
 logo
 torna
 :
+
 --
 Ah
 ,
 minha
 rica
 ,
-acabou-se!
+acabou-se
+!
+
 acabou-se
 tudo
 .
@@ -1180,7 +1145,8 @@ ha
 tantos
 anos
 a
-remoer...
+remoer
+...
 
 Só
 tinha
@@ -1199,6 +1165,7 @@ aqui
 
 Não
 !
+
 eu
 não
 podia
@@ -1235,18 +1202,19 @@ Mas
 temos
 tempo
 ,
-sossega...
+sossega
+...
 
 Eu
 dizia
 baixinho
 comigo
 :
-
 Um
 dia
 virá
 !
+
 a
 desgraça
 há-de
@@ -1276,6 +1244,7 @@ mercador
 Todos
 felizes
 !
+
 só
 eu
 andava
@@ -1285,8 +1254,7 @@ xale
 ,
 a
 rir-me
-por
-as
+pelas
 casas
 de
 fora
@@ -1306,10 +1274,14 @@ estúpida
 
 --
 Que
-é!
+é
+!
+
 --
 Ó
-Candidinha!
+Candidinha
+!
+
 --
 Que
 é
@@ -1317,7 +1289,9 @@ Que
 
 --
 O
-estafermo!
+estafermo
+!
+
 --
 Que
 é
@@ -1339,18 +1313,17 @@ a
 matar
 a
 meu
-filho!
+filho
+!...
 
-...
-
-Quant'é
+Quant'
+é
 !
 
 Se
 fosse
 sozinha
-en
-o
+no
 mundo
 envenenava-me
 .
@@ -1359,18 +1332,15 @@ Mas
 tinha
 o
 meu
-filho!
-
-...
+filho
+!...
 
 Até
 que
 a
 desgraça
-chegou!
-
-..
-.
+chegou
+!...
 
 Tanto
 esperei
@@ -1385,14 +1355,15 @@ ouviu-me
 a
 desgraça
 está
-en
-as
+nas
 minhas
 mãos
 .
 
 Posso
-berrar!
+berrar
+!
+
 posso
 falar
 !
@@ -1404,7 +1375,8 @@ está
 !
 
 Sou
-eu!...
+eu
+!...
 
 Toda
 de
@@ -1415,15 +1387,13 @@ uma
 crosta
 de
 lama
-en
-o
+no
 vestido
 ,
 cresce
 ,
 batendo
-en
-o
+no
 peito
 com
 a
@@ -1473,7 +1443,8 @@ mãos
 que
 se
 lhe
-estendem!...
+estendem
+!...
 
 E
 diz
@@ -1485,8 +1456,7 @@ Sofia
 --
 O
 que
-en
-os
+nos
 vale
 são
 os
@@ -1521,8 +1491,7 @@ desgraçada
 que
 as
 mulheres
-de
-a
+da
 vida
 !
 
@@ -1532,8 +1501,7 @@ salafrário
 de
 orelhas
 despegadas
-de
-o
+do
 crânio
 ,
 teve
@@ -1563,8 +1531,7 @@ ouviste
 Já
 em
 pequenino
-en
-o
+no
 colégio
 o
 desprezavam
@@ -1583,14 +1550,12 @@ davam-lhas
 por
 caridade
 ;
-
 os
 mestres
 ensinavam-no
 por
 caridade
 ;
-
 a
 velha
 que
@@ -1612,8 +1577,7 @@ Beijava
 agradecido
 as
 mãos
-de
-os
+dos
 ricos
 que
 O
@@ -1621,17 +1585,15 @@ escarneciam
 e
 tinha
 vergonha
-de
-a
+da
 mãe
 .
 
 
 --
 Ó
-mãe.
-
-..
+mãe
+...
 
 
 --
@@ -1646,8 +1608,7 @@ Não
 me
 venha
 buscar
-a
-o
+ao
 colégio
 .
 
@@ -1673,13 +1634,11 @@ A
 velha
 quer-lhe
 como
-a
-a
+à
 vida
 ,
 como
-a
-o
+ao
 ódio
 .
 
@@ -1693,8 +1652,7 @@ dia
 vingá-la
 ,
 calcar
-a
-os
+aos
 pés
 todos
 os
@@ -1725,8 +1683,7 @@ se
 conhece
 a
 comédia
-de
-a
+da
 esmola
 agradecida
 ,
@@ -1739,8 +1696,7 @@ filho
 é
 a
 alma
-de
-a
+da
 Candidinha
 .
 
@@ -1756,8 +1712,7 @@ o
 
 Podem
 calcá-la
-a
-a
+à
 vontade
 :
 serve-lhe
@@ -1773,14 +1728,12 @@ por
 ele
 o
 corpo
-a
-a
+à
 terra
 e
 a
 alma
-a
-o
+ao
 Diabo
 .
 
@@ -1788,18 +1741,15 @@ Construiu-o
 de
 restos
 e
-de
-um
+dum
 amor
 extraordinário
 ,
-de
-um
+dum
 amor
 que
 gerou
-en
-as
+nas
 noites
 de
 mudez
@@ -1819,8 +1769,8 @@ um
 
 Não
 faças
-caso..
-.
+caso
+...
 
 Deixa
 estar
@@ -1837,7 +1787,8 @@ deles
 Hão-de
 ter
 o
-pago!...
+pago
+!...
 
 Contar
 o
@@ -1860,8 +1811,7 @@ lento
 como
 a
 água
-a
-as
+às
 fragas
 ?
 
@@ -1891,7 +1841,8 @@ tonta
 e
 de
 olhar
-esgazeado?...
+esgazeado
+?...
 
 Quem
 tivesse
@@ -1926,13 +1877,11 @@ e
 a
 tragédia
 ;
-
 as
 horas
 amargas
 atrás
-de
-a
+da
 côdea
 ,
 a
@@ -1940,8 +1889,7 @@ humilhação
 ,
 a
 máscara
-de
-a
+da
 estupidez
 encobrindo
 a
@@ -1950,7 +1898,6 @@ infâmia
 
 Seca-o
 ;
-
 dentro
 desse
 pequeno
@@ -1958,8 +1905,7 @@ pequeno
 de
 orelhas
 despegadas
-de
-o
+do
 crânio
 ,
 amarelo
@@ -1988,24 +1934,20 @@ esmolas
 .
 
 
-A
-o
+Ao
 deitá-lo
 ,
 a
 Candidinha
 senta-se
-a
-o
+ao
 seu
 lado
-en
-o
+no
 catre
 .
 
-A
-as
+Às
 vezes
 tem-lhe
 dado
@@ -2019,10 +1961,8 @@ há
 em
 casa
 ;
-
 pega-lhe
-en
-as
+nas
 mãos
 para
 lhas
@@ -2041,8 +1981,7 @@ responde
 ,
 traçando
 gestos
-en
-o
+no
 escuro
 .
 
@@ -2077,8 +2016,7 @@ de
 alguém
 que
 está
-en
-a
+na
 agonia
 .
 
@@ -2201,14 +2139,12 @@ Diabo
 Com
 o
 frio
-de
-a
+da
 velhice
 vem
 o
 terror
-de
-a
+da
 morte
 ,
 levantam-se
@@ -2219,8 +2155,7 @@ esquecidos
 e
 a
 figura
-de
-o
+do
 Diabo
 avulta
 e
@@ -2239,8 +2174,7 @@ Diabo
 com
 o
 cabo
-de
-uma
+duma
 vassoura
 !
 
@@ -2266,7 +2200,8 @@ e
 ele
 se
 deixasse
-enganar...
+enganar
+...
 
 Mas
 agora
@@ -2283,7 +2218,8 @@ só
 espera
 que
 elas
-morram...
+morram
+...
 
 Todas
 têm
@@ -2318,12 +2254,11 @@ sem
 lhe
 perdoar
 nem
-a
-a
+à
 hora
-de
-a
-morte...
+da
+morte
+...
 
 E
 a
@@ -2341,12 +2276,11 @@ pó
 esquecido
 que
 deixaram
-por
-o
+pelo
 caminho
-de
-a
-vida...
+da
+vida
+...
 
 
 Há
@@ -2371,11 +2305,9 @@ banalidades
 .
 
 E
-en
-o
+no
 fundo
-de
-a
+da
 loja
 (
 nestes
@@ -2400,16 +2332,14 @@ chumbo
 .
 
 
-A
-as
+Às
 terças
 aziagas
 aparece
 desde
 tempos
 remotos
-en
-o
+no
 casinholo
 lúgubre
 essa
@@ -2422,8 +2352,7 @@ sempre
 com
 o
 Antoninho
-por
-a
+pela
 mão
 .
 
@@ -2434,11 +2363,9 @@ molhada
 e
 sem
 penas
-a
-os
+aos
 pulinhos
-en
-a
+na
 sala
 .
 
@@ -2449,8 +2376,7 @@ e
 traz
 o
 chapéu
-a
-a
+à
 banda
 .
 
@@ -2466,8 +2392,7 @@ com
 o
 filho
 agarrado
-a
-as
+às
 saias
 ,
 o
@@ -2493,8 +2418,8 @@ Candidinha
 --
 Oh
 que
-praga!
-...
+praga
+!...
 
 
 E
@@ -2507,8 +2432,7 @@ irrompe
 Filhas
 ,
 venho
-em
-uma
+numa
 freima
 .
 
@@ -2518,14 +2442,14 @@ que
 me
 havia
 de
-acontecer...
+acontecer
+...
 
 Filhas
 !
 
 
-A
-o
+Ao
 vê-la
 ,
 desatam
@@ -2534,8 +2458,7 @@ rir-se
 dessa
 figura
 amolgada
-por
-a
+pela
 desgraça
 ,
 com
@@ -2587,8 +2510,7 @@ estúpida
 .
 
 Diante
-de
-a
+da
 velha
 podem-se
 contar
@@ -2625,11 +2547,9 @@ um
 riso
 forçado
 ,
-a
-os
+aos
 pulinhos
-por
-a
+pela
 casa
 ,
 de
@@ -2648,8 +2568,7 @@ luta
 braço
 a
 braço
-en
-a
+na
 escuridão
 com
 o
@@ -2676,8 +2595,7 @@ sente
 alguém
 sempre
 presente
-en
-o
+no
 escuro
 --
 ali
@@ -2737,10 +2655,9 @@ quisesse
 prevenir
 ,
 junto
-a
-os
-ouvidos..
-.
+aos
+ouvidos
+...
 
 A
 Candidinha
@@ -2774,13 +2691,13 @@ aqui
 .
 
 Era
-fome...
+fome
+...
 
 Estragou
 o
 futuro
-de
-o
+do
 meu
 filho
 .
@@ -2788,7 +2705,8 @@ filho
 E
 tu
 agora
-vens...
+vens
+...
 
 Tu
 que
@@ -2806,8 +2724,7 @@ o
 negrume
 ,
 gesticula
-en
-a
+na
 escuridão
 .
 
@@ -2817,7 +2734,8 @@ Mas
 então
 não
 havia
-justiça...
+justiça
+...
 
 Era
 elas
@@ -2857,7 +2775,8 @@ sofri
 ,
 sofri
 de
-mais...
+mais
+...
 
 Fosse
 preciso
@@ -2868,14 +2787,16 @@ morresse
 que
 me
 matava
-logo...
+logo
+...
 
 E
 tu
 vens
 agora
 ,
-tu!...
+tu
+!...
 
 Que
 queres
@@ -2899,8 +2820,7 @@ morte
 
 
 Debate-se
-en
-a
+na
 treva
 .
 
@@ -2925,15 +2845,16 @@ espessas
 sem
 ruído
 e
-em
-uma
+numa
 agonia
 .
 
 Um
 raio
 de
-luz!
+luz
+!
+
 um
 só
 raio
@@ -2975,7 +2896,8 @@ ela
 suspender-se-lhe
 sobre
 a
-cabeça...
+cabeça
+...
 
 A
 respiração
@@ -2984,14 +2906,12 @@ corta-se-lhe
 o
 coração
 estala-lhe
-en
-o
+no
 peito
 magro
 --
 e
-em
-um
+num
 torvelinho
 ,
 com
@@ -3001,11 +2921,9 @@ estoirados
 e
 suor
 frio
-en
-a
+na
 raiz
-de
-os
+dos
 cabelos
 ,
 debate-se
@@ -3020,7 +2938,8 @@ raio
 de
 luz
 que
-fosse!...
+fosse
+!...
 
 Gritar
 ?
@@ -3029,7 +2948,6 @@ gritar
 para
 quê
 ?
-
 --
 emparedada
 naquele
@@ -3044,7 +2962,8 @@ baixinho
 
 
 --
-Ai!...
+Ai
+!...
 
 
 Mas
@@ -3110,14 +3029,14 @@ e
 olhos
 atónitos
 de
-espanto...
-
-Ai!
+espanto
 ...
 
+Ai
+!...
 
-De
-onde
+
+Donde
 vem
 a
 Morte
@@ -3146,8 +3065,7 @@ pode
 fugir
 nem
 desatar
-a
-os
+aos
 berros
 .
 
@@ -3158,7 +3076,8 @@ baixinho
 
 
 --
-Ai!...
+Ai
+!...
 
 
 E
@@ -3173,11 +3092,9 @@ procuram
 e
 se
 fixam
-en
-a
+na
 direcção
-de
-o
+do
 ruído
 ,
 os
@@ -3187,8 +3104,7 @@ querem
 ver
 e
 que
-em
-um
+num
 desespero
 procuram
 ver
@@ -3203,8 +3119,7 @@ inquietos
 ,
 tornam-se
 expressivos
-a
-a
+à
 força
 de
 terror

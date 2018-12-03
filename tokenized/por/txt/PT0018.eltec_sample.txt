@@ -11,16 +11,14 @@ que
 só
 se
 vê
-en
-a
+na
 Avenida
 .
 
 E
 ella
 sentada
-en
-a
+na
 primeira
 fila
 de
@@ -33,11 +31,9 @@ um
 os
 pinhões
 descascados
-de
-a
+da
 mulher
-de
-o
+do
 capilé
 pôz-se
 a
@@ -60,16 +56,14 @@ bonita
 se
 os
 musicos
-de
-a
+da
 guarda
 republicana
 não
 tivessem
 o
 chapeu
-en
-a
+na
 cabeça
 .
 
@@ -107,7 +101,8 @@ nota
 que
 eu
 te
-dizia?...
+dizia
+?...
 
 Não
 achas
@@ -121,12 +116,13 @@ como
 o
 outro
 tivesse
-dito
-"
-effectivamente
-"
+ditoÂ
+«
+effectivamenteÂ
+»
 fazendo
-co'a
+co'
+a
 cabeça
 muitas
 vezes
@@ -143,12 +139,10 @@ aquella
 celebridade
 musical
 apesar
-de
-os
+dos
 tacões
 comidos
 ;
-
 e
 quando
 elles
@@ -159,8 +153,7 @@ abaixo
 poz-se
 a
 procurar
-en
-a
+na
 musica
 uma
 outra
@@ -176,7 +169,8 @@ de
 boa
 .
 
-N'esta
+N'
+esta
 altura
 uma
 mão
@@ -195,18 +189,17 @@ um
 joelho
 e
 voltando-se
-p'rá
+p'
+rá
 direita
 ouviu
 a
 musica
 acabar
-en
-os
+nos
 olhos
 contentes
-de
-o
+do
 senhor
 Barbosa
 que
@@ -232,12 +225,12 @@ que
 estava
 a
 ouvir
-os
-"
+osÂ
+«
 Sinos
 de
-Corneville
-"
+CornevilleÂ
+»
 tocados
 por
 um
@@ -257,13 +250,11 @@ julgando-a
 ruborizada
 por
 causa
-de
-os
+dos
 pinhões
 que
 ficaram
-en
-a
+na
 mão
 d'
 elle
@@ -276,8 +267,7 @@ e
 metteu-os
 á
 uma
-en
-a
+na
 bôcca
 o
 que
@@ -300,14 +290,16 @@ ia
 pra
 responder
 mas
-felizmente...
+felizmente
+...
 :
-
 Quantos
 logares
 deseja
 V.
-Ex.^a
+Ex
+.^
+a
 ?
 
 o
@@ -353,16 +345,14 @@ então
 que
 o
 velhinho
-de
-os
+dos
 bilhetes
 começou
 a
 comprehender
 a
 marósca
-de
-a
+da
 gorgêta
 .
 
@@ -382,8 +372,7 @@ com
 aquella
 mão
 impertinente
-de
-o
+do
 senhor
 Barbosa
 a
@@ -395,13 +384,11 @@ a
 fallar-lhe
 tão
 convictamente
-de
-o
+do
 tal
 primo
 ministro
-de
-o
+do
 fomento
 que
 se
@@ -421,8 +408,7 @@ que
 fazer
 por
 causa
-de
-a
+da
 declaração
 de
 guerra
@@ -481,7 +467,6 @@ se
 ouviam
 vivas
 ;
-
 os
 morras
 eram
@@ -502,8 +487,7 @@ e
 atiravam
 os
 bonets
-a
-o
+ao
 ar
 .
 
@@ -513,11 +497,9 @@ cambalhotas
 e
 quando
 passavam
-a
-o
+ao
 pé
-de
-os
+dos
 policias
 faziam
 achata
@@ -540,17 +522,14 @@ palmas
 ,
 de
 cima
-de
-as
+das
 arvores
 ,
 empoleirados
-en
-os
+nos
 electricos
 ,
-en
-os
+nos
 apertões
 e
 calçados
@@ -570,11 +549,9 @@ acima
 de
 um
 banco
-a
-o
+ao
 lado
-de
-os
+dos
 canteiros
 e
 gritou
@@ -597,8 +574,7 @@ lisongeiada
 ergueu
 em
 triumpho
-a
-os
+aos
 hombros
 o
 senhor
@@ -618,9 +594,11 @@ côco
 
 
 --
-Ah!
-sim...
+Ah
+!
 
+sim
+...
 o
 outro
 .
@@ -637,14 +615,11 @@ que
 teve
 o
 maximo
-en
-a
+na
 classificassão
-de
-as
+das
 mathematicas
-de
-o
+do
 meu
 curso
 e
@@ -683,10 +658,10 @@ engenheiro
 .
 
 E
-esta
-"
-blague
-"
+estaÂ
+«
+blagueÂ
+»
 deu-me
 logo
 as
@@ -696,8 +671,7 @@ poder
 ter
 sido
 educado
-en
-a
+na
 Allemanha
 ainda
 que
@@ -708,8 +682,7 @@ a
 não
 dar
 gorgêta
-a
-o
+ao
 Sebastião
 pla
 demora
@@ -741,9 +714,10 @@ impertinente
 Pois
 eu
 estou
-en
-o
-Algarve...
+no
+Algarve
+...
+
 (
 tinha-me
 enganado
@@ -753,9 +727,7 @@ o
 Algarve
 )
 ...
-
-en
-as
+nas
 herdades
 de
 meu
@@ -782,8 +754,7 @@ um
 primo
 d'
 ella
-de
-o
+do
 Algarve
 ,
 que
@@ -794,11 +765,14 @@ Olhão
 disse
 o
 gallego
-n'um
+n'
+um
 segredo
 que
 mettia
-x.
+x
+.
+
 em
 todas
 as
@@ -837,11 +811,11 @@ lhe
 pagava
 o
 dobro
-de
-o
+do
 que
 pedia
-n'um
+n'
+um
 gesto
 tão
 millionario
@@ -855,8 +829,8 @@ adeus
 
 Vaes
 pra
-cima?...
-
+cima
+?...
 tenho
 pêna
 ,
@@ -907,8 +881,7 @@ o
 caso
 extraordinario
 de
-en
-o
+no
 dia
 7
 de
@@ -945,16 +918,14 @@ tinha
 caído
 uma
 faisca
-en
-a
+na
 sala
 de
 jantar
 ,
 o
 resto
-de
-a
+da
 viagem
 fez-se
 em
@@ -972,11 +943,8 @@ se
 intensificavam
 perturbantemente
 apesar
-de
-o
-dr
-.
-
+do
+dr.
 allemão
 ter
 revelado
@@ -1005,7 +973,8 @@ recem-nascido
 .
 
 Depois
-d'esta
+d'
+esta
 a
 maior
 trovoada
@@ -1023,11 +992,9 @@ fechado
 chave
 de
 castigo
-en
-a
+na
 retrete
-de
-os
+dos
 professores
 .
 
@@ -1040,8 +1007,7 @@ indisciplinavel
 e
 perturbador
 até
-a
-o
+ao
 dia
 em
 que
@@ -1054,8 +1020,7 @@ se
 entornou
 por
 cima
-de
-o
+do
 livro
 de
 missa
@@ -1074,7 +1039,8 @@ muito
 bonito
 .
 
-N'esse
+N'
+esse
 mesmo
 dia
 fui
@@ -1099,8 +1065,7 @@ não
 tinham
 estreiado
 dentro
-de
-as
+das
 bolas
 de
 bilhar
@@ -1111,7 +1076,8 @@ muito
 velhas
 .
 
-P'la
+P'
+la
 noite
 ,
 infelizmente
@@ -1135,8 +1101,7 @@ FIM
 
 Chego-me
 junto
-de
-a
+da
 cama
 levanto
 as
@@ -1146,8 +1111,7 @@ záz
 ,
 uma
 chave
-de
-a
+da
 altura
 de
 um
@@ -1208,8 +1172,7 @@ aviasse
 mas
 ,
 longe
-de
-o
+do
 que
 eu
 queria
@@ -1254,8 +1217,7 @@ mexer-me
 com
 chaves
 até
-a
-o
+ao
 pescoço
 quando
 ella
@@ -1294,8 +1256,7 @@ Afinal
 era
 para
 brincar
-a
-os
+aos
 soldadinhos
 ,
 mas
@@ -1313,8 +1274,7 @@ ultimamente
 andava
 muito
 desgostosa
-de
-a
+da
 sua
 vida
 .
@@ -1325,15 +1285,13 @@ accordou
 com
 a
 passagem
-de
-o
+do
 primeiro
 electrico
 .
 
 Foi
-a
-o
+ao
 espêlho
 esfregar
 os
@@ -1351,14 +1309,13 @@ e
 descerrou
 as
 janellas
-co'os
+co'
+os
 operarios
-de
-a
+da
 obra
 defronte
-a
-o
+ao
 sol
 .
 
@@ -1384,8 +1341,7 @@ um
 góle
 de
 cognac
-en
-a
+na
 mezinha
 de
 cabeceira
@@ -1398,7 +1354,8 @@ cigarros
 .
 
 Havia
-n'ella
+n'
+ella
 uns
 remorsos
 distingidos
@@ -1430,8 +1387,7 @@ Começou
 de
 pôr
 carmins
-en
-os
+nos
 labios
 exageradamente
 e
@@ -1439,8 +1395,7 @@ depois
 ouvindo
 a
 voz
-de
-a
+da
 peixeira
 que
 era
@@ -1449,8 +1404,7 @@ d'
 ella
 veiu
 debruçar-se
-en
-o
+no
 parapeito
 a
 gritar
@@ -1470,8 +1424,7 @@ núa
 puxou
 um
 lençol
-de
-a
+da
 cama
 embrulhou-se
 descuidadamente
@@ -1520,11 +1473,9 @@ duzia
 e
 como
 reparasse
-en
-o
+no
 retrata
-de
-o
+do
 senhor
 Barbosa
 caréca
@@ -1533,15 +1484,13 @@ com
 tinta
 rôxa
 despregou-o
-de
-os
+dos
 pregos
 e
 deitou-o
 pra
 debaixo
-de
-o
+do
 sofá
 .
 
@@ -1560,8 +1509,7 @@ olhando
 fixamente
 os
 olhos
-de
-a
+da
 varina
 deixou
 cair
@@ -1601,7 +1549,8 @@ varina
 mexeu
 as
 ancas
-n'uma
+n'
+uma
 arrelia
 de
 que
@@ -1623,17 +1572,18 @@ prá
 varina
 e
 beijou-a
-en
-a
+na
 bôcca
 que
 até
-lh'a
+lh'
+a
 deixou
 magoada
 .
 
-N'um
+N'
+um
 ápice
 correu
 a
@@ -1654,8 +1604,7 @@ janellas
 sobre
 as
 obras
-a
-o
+ao
 sol
 .
 
@@ -1667,8 +1616,7 @@ ahi
 a
 pouco
 bateu
-de
-o
+do
 lado
 de
 cá
@@ -1685,8 +1633,7 @@ não
 sabia
 bem
 qual
-de
-as
+das
 duas
 era
 a
@@ -1700,8 +1647,7 @@ e
 seios
 a
 reluzir
-en
-a
+na
 saliva
 .
 
@@ -1718,8 +1664,7 @@ gato
 entrou
 fortemente
 convulsionado
-en
-as
+nas
 agonias
 de
 uma
@@ -1766,8 +1711,7 @@ arranjar
 as
 ultimas
 calças
-de
-a
+da
 hespanhola
 pra
 concluir
@@ -1776,8 +1720,7 @@ seu
 serão
 ,
 pediu
-a
-o
+ao
 patrão
 pra
 fazer
@@ -1795,8 +1738,7 @@ já
 estava
 pronta
 e
-en
-a
+na
 rua
 virou-se
 pra
@@ -1810,15 +1752,13 @@ indisciplinado
 um
 sincerissimo
 viva
-a
-a
+à
 Monarchia
 !
 
 
 Ir
-a
-o
+ao
 barbeiro
 é
 um
@@ -1827,17 +1767,14 @@ tão
 penoso
 como
 assistir
-a
-os
+aos
 Sinos
 de
 Corneville
 representado
-por
-os
+pelos
 velhinhos
-de
-o
+do
 Asylo
 de
 Mendicidade
@@ -1855,12 +1792,10 @@ bem
 escanhoada
 porque
 depois
-de
-o
+do
 jantar
 ia
-a
-o
+ao
 Asylo
 de
 Mendicidade
@@ -1876,8 +1811,7 @@ e
 que
 o
 Presidente
-de
-a
+da
 Republica
 tambem
 ia
@@ -1888,31 +1822,27 @@ depois
 de
 ter
 esboçado
-a
-o
+ao
 barbeiro
 o
 argumento
-de
-a
+da
 peça
 disse-lhe
 que
 gostava
 imenso
-de
-a
+da
 musica
 mas
 pó
 d'
 arroz
-en
-a
+na
 cara
 ,
-não!...
-
+não
+!...
 que
 não
 era
@@ -1954,15 +1884,13 @@ escrevinhado
 e
 chegando-se
 perto
-de
-o
+do
 senhor
 Barbosa
 com
 uma
 palmadinha
-en
-o
+no
 hombro
 :
 tambem
@@ -1976,11 +1904,9 @@ mandou
 o
 oficial
 dar
-a
-a
+à
 manivela
-de
-o
+do
 gramofone
 que
 ele
@@ -2005,9 +1931,10 @@ Barbosa
 disse
 com
 um
-A!
-a
-o
+A
+!
+
+ao
 oficial
 que
 Wagner
@@ -2023,13 +1950,13 @@ escanhoado
 pouco
 por
 debaixo
-de
-o
+do
 queixo
 .
 
 
-N'esta
+N'
+esta
 altura
 a
 porta
@@ -2068,8 +1995,7 @@ e
 porque
 gostava
 muito
-de
-os
+dos
 Sinos
 de
 Corneville
@@ -2138,8 +2064,7 @@ queria
 guardar
 prá
 saída
-de
-o
+do
 espectaculo
 .
 
@@ -2175,14 +2100,12 @@ era
 altura
 de
 preguntar
-a
-a
+à
 filha
 se
 tambem
 gostava
-de
-os
+dos
 Sinos
 de
 Corneville
@@ -2225,8 +2148,7 @@ estava
 cançada
 por
 causa
-de
-os
+dos
 electricos
 não
 andarem

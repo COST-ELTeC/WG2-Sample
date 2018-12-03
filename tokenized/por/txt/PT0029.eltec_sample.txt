@@ -15,8 +15,7 @@ em
 um
 angulo
 meridional
-de
-o
+do
 Rocio
 uma
 elegante
@@ -34,13 +33,11 @@ rijo
 com
 os
 copos
-de
-a
+da
 espada
 tres
 pancadas
-en
-o
+no
 portal
 e
 a
@@ -68,8 +65,7 @@ assim
 o
 primeiro
 andar
-de
-a
+da
 casa
 .
 
@@ -102,7 +98,8 @@ escarlate
 .
 
 
-D'esta
+D'
+esta
 sala
 passaram
 a
@@ -139,8 +136,7 @@ adiante
 abriu-se-lhes
 um
 salão
-de
-a
+da
 mais
 requintada
 opulencia
@@ -174,8 +170,7 @@ de
 uma
 preciosa
 fasenda
-de
-a
+da
 Persia
 que
 Dom
@@ -184,11 +179,9 @@ de
 Noronha
 mandara
 recentemente
-en
-os
+nos
 galeões
-de
-as
+das
 Indias
 .
 
@@ -237,33 +230,27 @@ as
 descobertas
 de
 Vasco
-de
-a
+da
 Gama
 ,
 pendiam
-de
-as
+das
 largas
 paredes
 .
 
 Varias
 figuras
-de
-a
+da
 melhor
 porcelana
-de
-a
+da
 China
 se
 viam
-a
-os
+aos
 recantos
-de
-o
+do
 salão
 sobre
 dous
@@ -317,19 +304,16 @@ pinturas
 eis
 que
 apparece
-en
-o
+no
 salão
 uma
-de
-as
+das
 mais
 prendadas
 e
 gentis
 damas
-de
-o
+do
 reinado
 de
 Dom
@@ -367,8 +351,7 @@ pescoço
 e
 tam
 curto
-de
-as
+das
 mangas
 que
 se
@@ -379,8 +362,7 @@ todas
 as
 rosadas
 carnes
-de
-o
+do
 seu
 braço
 .
@@ -436,29 +418,24 @@ estructura
 
 O
 contorno
-de
-o
+do
 nariz
 não
 cedia
 em
 perfeições
-a
-os
-de
-as
+aos
+das
 estatuas
 gregas
 que
 representam
 a
 deusa
-de
-as
+das
 graças
 e
-de
-os
+dos
 amores
 .
 
@@ -466,8 +443,7 @@ Os
 labios
 ,
 feitos
-de
-as
+das
 petalas
 de
 uma
@@ -525,8 +501,7 @@ escudos
 vende-se
 a
 alma
-a
-o
+ao
 diabo
 .
 
@@ -571,8 +546,7 @@ badage
 para
 se
 escapulir
-de
-o
+do
 carcere
 quando
 o
@@ -587,8 +561,7 @@ a
 passagem
 ,
 desfechou
-de
-as
+das
 suas
 guelas
 herculeas
@@ -623,8 +596,7 @@ escapula
 sem
 primeiro
 arrecadar
-en
-o
+no
 bolso
 os
 mil
@@ -665,8 +637,7 @@ Eu
 ,
 em
 troca
-de
-a
+da
 minha
 liberdade
 ,
@@ -705,11 +676,9 @@ Ophir
 difficilmente
 se
 arrecada
-en
-o
+no
 bolso
-de
-o
+do
 gibão
 .
 
@@ -723,15 +692,15 @@ fidalgo
 teremos
 o
 contracto
-desmanchado...
+desmanchado
+...
 
 Demais
 ,
 quasi
 estou
 repeso
-de
-o
+do
 que
 fiz
 .
@@ -742,17 +711,14 @@ acções
 produsem
 o
 effeito
-de
-a
+da
 ferrugem
-en
-os
+nos
 metaes
 :
 fasem
 mossa
-en
-a
+na
 consciencia
 .
 
@@ -813,7 +779,8 @@ Mas
 emfim
 sempre
 me
-pagam...
+pagam
+...
 
 
 --
@@ -828,11 +795,9 @@ mais
 val
 um
 passaro
-en
-a
+na
 mão
-de
-o
+do
 que
 dous
 a
@@ -893,8 +858,7 @@ de
 Portugal
 ,
 entregará
-a
-o
+ao
 portador
 a
 quantia
@@ -907,18 +871,14 @@ ou
 prata
 .
 
-De
-o
+Do
 cárcere
-de
-a
+da
 inquisição
-de
-o
+do
 Rocio
 ,
-a
-os
+aos
 29
 de
 desembro
@@ -930,8 +890,7 @@ Pedro
 ,
 o
 pagem
-.
-»
+.»
 
 
 --
@@ -939,8 +898,7 @@ Toma
 ,
 disse
 depois
-a
-o
+ao
 homunculo
 .
 
@@ -975,8 +933,7 @@ duas
 veses
 em
 frente
-de
-os
+dos
 olhos
 .
 
@@ -1036,12 +993,10 @@ ha
 outro
 mais
 protector
-de
-os
+dos
 pobres
 e
-de
-os
+dos
 infelises
 .
 
@@ -1147,8 +1102,7 @@ um
 cutelo
 a
 cabeça
-de
-o
+do
 snr
 .
 
@@ -1234,10 +1188,7 @@ sustentar
 mulher
 e
 filhos
-.
-
-.
-.
+...
 
 
 --
@@ -1306,15 +1257,12 @@ Vivi
 por
 longo
 tempo
-en
-a
+na
 innocencia
 e
-en
-o
+no
 socego
-de
-os
+dos
 sertões
 .
 
@@ -1324,50 +1272,43 @@ e
 meus
 parentes
 nutriam-se
-de
-os
+dos
 cachos
-de
-as
+das
 palmeiras
 ,
 com
 todo
 o
 fervor
-de
-as
+das
 suas
 almas
 fasiam
 as
 suas
 orações
-en
-o
+no
 templo
 de
 Trichandur
 e
 as
 tempestades
-de
-a
+da
 desgraça
 jámais
 varreram
 tanto
 o
 repouso
-de
-o
+do
 seu
 corpo
 como
 as
 crenças
-de
-o
+do
 seu
 espirito
 .
@@ -1375,8 +1316,7 @@ espirito
 Mas
 um
 dia
-en
-os
+nos
 mastareus
 de
 enormes
@@ -1386,7 +1326,8 @@ arvorada
 a
 bandeira
 lusitana
-n'esse
+n'
+esse
 grandioso
 imperio
 onde
@@ -1409,18 +1350,16 @@ bandeira
 significava
 o
 symbolo
-de
-a
-fé;
+da
+fé
+;
 era
 o
 labaro
-de
-a
+da
 paz
 e
-de
-a
+da
 fraternidade
 .
 
@@ -1438,8 +1377,7 @@ os
 companheiros
 de
 Vasco
-de
-a
+da
 Gama
 como
 irmãos
@@ -1450,8 +1388,7 @@ amigos
 Estabeleceu-se
 a
 troca
-de
-os
+dos
 generos
 ,
 entabolaram-se
@@ -1461,14 +1398,12 @@ transacções
 commerciaes
 ,
 vendiam-se
-por
-os
+pelos
 brocados
 de
 seda
 e
-por
-os
+pelos
 tecidos
 de
 lan
@@ -1504,8 +1439,7 @@ ah
 depressa
 a
 cobiça
-de
-as
+das
 riquesas
 transtornou
 a
@@ -1513,19 +1447,16 @@ paz
 e
 a
 ventura
-de
-as
+das
 Indias
 !
 
 Em
 vez
-de
-a
+da
 troca
 e
-de
-os
+dos
 contractos
 mercantis
 ,
@@ -1561,12 +1492,10 @@ a
 parte
 o
 facho
-de
-a
+da
 guerra
 e
-de
-a
+da
 discordia
 .
 
@@ -1594,20 +1523,16 @@ te
 farei
 a
 resenha
-de
-os
+dos
 roubos
 e
-de
-as
+das
 violencias
 ,
-de
-os
+dos
 combates
 e
-de
-os
+dos
 incendios
 .
 
@@ -1620,8 +1545,7 @@ que
 eu
 fiquei
 só
-en
-o
+no
 mundo
 :
 sem
@@ -1631,7 +1555,8 @@ sem
 dinheiro
 e
 sem
-amparo...
+amparo
+...
 
 
 --
@@ -1667,15 +1592,13 @@ vossa
 senhoria
 é
 mais
-de
-o
+do
 que
 inculca
 ou
 inculca
 mais
-de
-o
+do
 que
 é
 .
@@ -1698,17 +1621,16 @@ mim
 Pardés
 que
 não
-en
-os
+nos
 faltou
-susto!
+susto
+!
 
 apostrofou
 o
 timido
 cardeal
-a
-o
+ao
 mesmo
 tempo
 que
@@ -1716,8 +1638,7 @@ se
 aventurava
 a
 sair
-de
-a
+da
 toca
 d'
 essa
@@ -1818,8 +1739,7 @@ senhor
 são
 os
 despojos
-de
-a
+da
 caçada
 .
 
@@ -1833,8 +1753,7 @@ Dona
 Joanna
 as
 peripecias
-de
-o
+do
 fatal
 acontecimento
 e
@@ -1866,31 +1785,26 @@ esquecer
 as
 extraordinarias
 impressões
-de
-a
+da
 caçada
 ,
 recreava-se
 momentos
 depois
-en
-a
+na
 sua
 recamara
-de
-os
+dos
 paços
 de
 Almeirim
 com
 a
 leitura
-de
-as
+das
 trovas
 populares
-de
-o
+do
 celebre
 Juan
 de
@@ -1904,8 +1818,7 @@ empanava-lhe
 levemente
 o
 brilho
-de
-os
+dos
 olhos
 feiticeiros
 e
@@ -1923,8 +1836,7 @@ desconsoladoras
 
 Parecia
 inquieta
-de
-o
+do
 animo
 como
 se
@@ -1938,7 +1850,8 @@ novidade
 Entrou
 o
 pagem
-n'esta
+n'
+esta
 occasião
 e
 pé
@@ -1949,8 +1862,7 @@ para
 o
 lado
 esquerdo
-de
-a
+da
 rainha
 ,
 fitou-a
@@ -1975,8 +1887,7 @@ aborrecida
 e
 será
 muito
-de
-o
+do
 meu
 gosto
 ouvir
@@ -1992,7 +1903,8 @@ dirás
 o
 que
 tens
-feito...
+feito
+...
 
 
 --
@@ -2022,14 +1934,14 @@ lembra-te
 de
 que
 estás
-a
-o
+ao
 pé
 de
 quem
 deveras
 te
-estima...
+estima
+...
 
 
 --
@@ -2047,8 +1959,7 @@ pobre
 pagem
 deixar-se-hia
 estrangular
-por
-as
+pelas
 garras
 de
 um
@@ -2062,8 +1973,7 @@ compraser
 Não
 faseis
 ideia
-de
-a
+da
 minha
 dedicação
 ,
@@ -2072,8 +1982,7 @@ podeis
 medir
 a
 grandesa
-de
-o
+do
 meu
 amor
 !
@@ -2115,8 +2024,7 @@ jovial
 
 --
 Juro-o
-por
-os
+pelos
 Vedas
 .
 
@@ -2125,8 +2033,7 @@ Vedas
 Mas
 não
 reparas
-en
-os
+nos
 meus
 annos
 ?
@@ -2203,7 +2110,6 @@ as
 tuas
 galanterias
 ;
-
 mas
 emfim
 não
@@ -2248,9 +2154,9 @@ Deves
 desaferrolhar-me
 a
 porta
-de
-o
-carcere...
+do
+carcere
+...
 
 
 --
@@ -2325,8 +2231,7 @@ escudos
 vende-se
 a
 alma
-a
-o
+ao
 diabo
 .
 
@@ -2371,8 +2276,7 @@ badage
 para
 se
 escapulir
-de
-o
+do
 carcere
 quando
 o
@@ -2387,8 +2291,7 @@ a
 passagem
 ,
 desfechou
-de
-as
+das
 suas
 guelas
 herculeas
@@ -2423,8 +2326,7 @@ escapula
 sem
 primeiro
 arrecadar
-en
-o
+no
 bolso
 os
 mil
@@ -2465,8 +2367,7 @@ Eu
 ,
 em
 troca
-de
-a
+da
 minha
 liberdade
 ,
@@ -2505,11 +2406,9 @@ Ophir
 difficilmente
 se
 arrecada
-en
-o
+no
 bolso
-de
-o
+do
 gibão
 .
 
@@ -2523,15 +2422,15 @@ fidalgo
 teremos
 o
 contracto
-desmanchado...
+desmanchado
+...
 
 Demais
 ,
 quasi
 estou
 repeso
-de
-o
+do
 que
 fiz
 .
@@ -2542,17 +2441,14 @@ acções
 produsem
 o
 effeito
-de
-a
+da
 ferrugem
-en
-os
+nos
 metaes
 :
 fasem
 mossa
-en
-a
+na
 consciencia
 .
 
@@ -2613,7 +2509,8 @@ Mas
 emfim
 sempre
 me
-pagam...
+pagam
+...
 
 
 --
@@ -2628,11 +2525,9 @@ mais
 val
 um
 passaro
-en
-a
+na
 mão
-de
-o
+do
 que
 dous
 a
@@ -2693,8 +2588,7 @@ de
 Portugal
 ,
 entregará
-a
-o
+ao
 portador
 a
 quantia
@@ -2707,18 +2601,14 @@ ou
 prata
 .
 
-De
-o
+Do
 cárcere
-de
-a
+da
 inquisição
-de
-o
+do
 Rocio
 ,
-a
-os
+aos
 29
 de
 desembro
@@ -2730,8 +2620,7 @@ Pedro
 ,
 o
 pagem
-.
-»
+.»
 
 
 --
@@ -2739,8 +2628,7 @@ Toma
 ,
 disse
 depois
-a
-o
+ao
 homunculo
 .
 
@@ -2775,8 +2663,7 @@ duas
 veses
 em
 frente
-de
-os
+dos
 olhos
 .
 
