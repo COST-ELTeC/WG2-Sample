@@ -1,0 +1,3 @@
+cd /home/lou/Public/ELTeC-$1
+for f in `find level?/*.xml | shuf -n 20`; do echo $f;\
+  saxon $f ../WG2/selector.xsl > ../WG2-Sample/$1/$(basename $f .xml)_sample.xml ; done ; ls -l ../WG2-Sample/$1 | wc -l 
