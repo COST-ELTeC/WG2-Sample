@@ -1,0 +1,210 @@
+form	lemma	upos	freq.samp	errtype	is_correct	randomID	BAMTNOF
+diddle	diddle	NOUN	2	correct	TRUE	101	
+grub	grub	NOUN	1	upos	FALSE	60	
+farine	farine	NOUN	1	upos	FALSE	31	F
+glimmering	glimmering	NOUN	1	correct	TRUE	78	
+idly	idly	ADV	1	correct	TRUE	81	
+nearer	nearer	ADP	1	correct	TRUE	81	
+where	where	PRON	1	upos	FALSE	88	
+slanting	slante	VERB	1	lemma	FALSE	15	
+folle	folle	ADJ	1	upos	FALSE	3	F
+comrade	comrade	PROPN	1	correct	TRUE	76	
+lancelot	lancelot	PROPN	1	correct	TRUE	83	FN
+savage	savage	NOUN	1	upos	FALSE	83	
+anguish	anguish	NOUN	1	correct	TRUE	74	
+shot	shot	VERB	1	lemma	FALSE	98	
+fake	fake	VERB	1	upos	FALSE	67	
+heathen	heathen	NOUN	1	correct	TRUE	77	
+0	0	0	1	correct	TRUE	96	T
+folle—	folle—	NOUN	1	upos	FALSE	71	TB
+zeal	zeal	NOUN	1	correct	TRUE	99	
+-given	-given	NOUN	1	upos	FALSE	52	B
+louder	louder	NOUN	1	correct	TRUE	100	
+propos	propo	NOUN	2	upos	FALSE	101	F
+we	we	ADJ	1	upos	FALSE	82	
+ruin	ruin	ADV	1	upos	FALSE	2	
+jimmie	jimmie	PROPN	1	correct	TRUE	70	N
+raoul	raoul	PROPN	2	correct	TRUE	101	N
+spotted	spotted	ADJ	1	correct	TRUE	81	
+brandt	brandt	PROPN	2	correct	TRUE	101	N
+fools	fool	NOUN	1	correct	TRUE	96	
+amusing	amuse	VERB	1	correct	TRUE	86	
+flouted	floute	VERB	1	lemma	FALSE	8	
+jos	jos	PROPN	3	correct	TRUE	101	
+paradise	paradise	ADV	1	upos	FALSE	14	
+disputed	dispute	VERB	1	correct	TRUE	77	
+woven	woven	VERB	1	lemma	FALSE	16	
+jeered	jeer	VERB	1	correct	TRUE	78	
+chafed	chafed	VERB	1	upos	FALSE	66	
+presidencies	presidency	NOUN	1	correct	TRUE	93	
+ruefully	ruefully	ADV	1	correct	TRUE	76	
+anthea	anthea	PROPN	3	correct	TRUE	101	NF
+alice	alice	PROPN	2	correct	TRUE	101	N
+closed	close	ADJ	1	upos	FALSE	82	
+queer	queer	NOUN	1	upos	FALSE	8	
+laughs	laugh	NOUN	1	upos	FALSE	29	
+hadria	hadria	PROPN	2	correct	TRUE	101	FN
+’re	’re	VERB	1	lemma	FALSE	7	
+ranks	rank	VERB	1	correct	TRUE	79	
+nave	nave	NOUN	1	correct	TRUE	87	
+tears	tear	NOUN	2	correct	TRUE	101	
+soi-disant	soi-disant	ADJ	1	upos	FALSE	38	F
+esther	esther	DET	1	correct	TRUE	75	N
+mute	mute	NOUN	1	upos	FALSE	16	
+pudding	pudding	NOUN	1	correct	TRUE	73	
+fierce	fierce	NOUN	1	upos	FALSE	25	
+hesitated	hesitat	VERB	1	lemma	FALSE	68	
+listen	listen	PROPN	1	upos	FALSE	21	
+administer	administer	NOUN	1	upos	FALSE	89	
+whom	whom	X	1	lemmupos	FALSE	38	
+remains	remains	VERB	1	upos	FALSE	63	
+dared	dar	VERB	1	lemma	FALSE	54	
+craddock	craddock	VERB	1	upos	FALSE	62	
+meantime	meantime	PROPN	1	upos	FALSE	77	
+n’t	not	NOUN	1	upos	FALSE	51	
+morrow	morrow	NOUN	1	lemmupos	FALSE	93	O
+priceless	priceless	NOUN	1	upos	FALSE	28	
+irritability	irritability	NOUN	1	correct	TRUE	83	
+vultures	vulture	NOUN	1	correct	TRUE	90	
+constrained	constrain	VERB	1	correct	TRUE	76	
+bound	bound	VERB	1	lemma	FALSE	22	
+lammie	lammie	VERB	1	upos	FALSE	40	N
+scotch	scotch	NOUN	1	correct	TRUE	74	
+swathing	swathing	NOUN	1	lemmupos	FALSE	85	
+invigorating	invigorat	VERB	1	lemma	FALSE	28	
+qualms	qualm	NOUN	1	correct	TRUE	90	
+vauxhall	vauxhall	PROPN	2	correct	TRUE	101	F
+encourager	encourager	PROPN	1	upos	FALSE	41	F
+mind	mind	ADP	1	upos	FALSE	60	
+dickens	dickens	PROPN	1	correct	TRUE	82	N
+flashed	flash	VERB	1	features	FALSE	100	
+lepers	leper	NOUN	1	correct	TRUE	88	
+elinor	elinor	PROPN	6	correct	TRUE	101	N
+scorned	scorne	VERB	1	lemma	FALSE	39	
+hooted	hoote	VERB	1	lemma	FALSE	65	
+roving	roving	NOUN	1	upos	FALSE	37	
+dim	dim	PRON	1	correct	TRUE	82	
+wrestled	wrestle	VERB	2	correct	TRUE	101	
+nine	nine	ADJ	1	upos	FALSE	73	
+taskmaster	taskmaster	NOUN	1	correct	TRUE	100	
+walking	walking	VERB	1	correct	TRUE	84	
+kneeling	kneeling	NOUN	1	lemmupos	FALSE	89	
+terrified	terrify	VERB	1	features	FALSE	10	
+spectacles	spectacle	VERB	1	correct	TRUE	76	
+wandered	wander	VERB	1	correct	TRUE	88	
+strangeness	strangeness	NOUN	1	correct	TRUE	95	
+à	à	X	2	correct	TRUE	101	F
+pavement	pavement	NOUN	1	correct	TRUE	97	
+yer	yer	NOUN	2	lemmupos	FALSE	101	MO
+’re	’re	VERB	1	lemmupos	FALSE	7	
+germaine	germaine	PRON	1	correct	TRUE	71	N
+yer	yer	VERB	1	lemmupos	FALSE	68	MO
+blazed	blaze	VERB	1	features	FALSE	65	
+worrying	worrye	VERB	1	lemma	FALSE	75	
+mistress	mistress	NOUN	1	correct	TRUE	92	
+miss	miss	PROPN	2	correct	TRUE	101	
+jove	jove	PROPN	1	correct	TRUE	81	N
+kindred	kindr	VERB	1	lemmupos	FALSE	7	O
+fair	fair	NOUN	1	correct	TRUE	83	
+tongued	tongue	VERB	1	upos	FALSE	83	
+frail	frail	NOUN	1	upos	FALSE	53	
+maud	maud	PROPN	2	correct	TRUE	101	N
+nestle	nestle	VERB	1	correct	TRUE	95	
+flings	fling	NOUN	1	upos	FALSE	46	
+thistledown	thistledown	NOUN	1	correct	TRUE	86	
+voyage	voyage	NOUN	1	correct	TRUE	86	
+picturesque	picturesque	NOUN	1	upos	FALSE	86	
+parting	part	NOUN	1	lemma	FALSE	100	
+habitually	habitually	ADV	1	correct	TRUE	87	
+foul	foul	ADJ	2	correct	TRUE	101	
+o	o	ADV	1	upos	FALSE	77	
+darling	darling	NOUN	2	correct	TRUE	101	
+hamlin	hamlin	PROPN	3	correct	TRUE	101	N
+marney	marney	PROPN	2	correct	TRUE	101	N
+mistaken	mistaken	VERB	1	correct	TRUE	73	
+alight	alight	NOUN	1	upos	FALSE	91	
+psammead	psammead	PROPN	2	correct	TRUE	101	O
+farine	farine	NOUN	1	upos	FALSE	31	F
+pétroleuses	pétroleuse	NOUN	1	correct	TRUE	77	F
+sha	sha	PROPN	1	upos	FALSE	31	F
+twain	twain	PROPN	1	correct	TRUE	83	N
+o’reilly	o’reilly	ADV	1	upos	FALSE	45	N
+eldest	eldest	ADJ	1	correct	TRUE	79	
+insisting	insist	VERB	1	correct	TRUE	99	
+folle‐	folle‐	NOUN	1	upos	FALSE	86	FB
+papa	papa	INTJ	1	upos	FALSE	55	
+scarcely	scarcely	ADV	1	correct	TRUE	71	
+seaward	seaward	NOUN	1	upos	FALSE	46	
+entreated	entreate	VERB	1	lemma	FALSE	21	O
+solitude	solitude	NOUN	1	correct	TRUE	75	
+bade	bade	VERB	1	lemma	FALSE	40	
+nay	nay	INTJ	1	correct	TRUE	85	O
+glencora	glencora	PROPN	2	correct	TRUE	101	N
+calmly	calmly	ADV	1	correct	TRUE	84	
+persist	persist	VERB	1	correct	TRUE	89	
+stir	stir	NOUN	1	upos	FALSE	96	
+’ll	’ll	AUX	4	correct	TRUE	101	
+tender	tender	NOUN	1	upos	FALSE	55	
+isaac	isaac	PROPN	2	correct	TRUE	101	N
+interferences	interferences	NOUN	1	lemma	FALSE	19	
+afloat	afloat	ADV	1	upos	FALSE	13	
+tear	tear	PROPN	1	upos	FALSE	73	
+’d	’d	VERB	1	lemma	FALSE	2	
+swelled	swell	VERB	1	features	FALSE	22	
+absent	absent	VERB	1	upos	FALSE	29	
+browsing	browsing	NOUN	1	lemmupos	FALSE	64	
+glistening	glistening	VERB	1	correct	TRUE	100	
+triumphant	triumphant	ADJ	1	correct	TRUE	70	
+alarming	alar	VERB	1	lemma	FALSE	18	
+burned	burn	VERB	1	features	FALSE	2	
+faint	faint	VERB	1	upos	FALSE	44	
+palliser	palliser	PROPN	1	correct	TRUE	82	
+rushed	rushe	VERB	1	lemma	FALSE	96	
+bast	bast	ADV	1	upos	FALSE	2	F
+bitter	bitter	NOUN	1	upos	FALSE	82	
+hurried	hurry	VERB	2	correct	TRUE	101	
+ornament	ornamend	VERB	1	lemma	FALSE	31	
+faint	faint	NOUN	1	upos	FALSE	44	
+morosely	morosely	ADV	1	correct	TRUE	73	
+tone	tone	NOUN	2	correct	TRUE	101	
+lodgings	lodging	NOUN	1	correct	TRUE	91	
+psammead	psammead	NOUN	1	upos	FALSE	18	O
+helen	helen	PROPN	1	correct	TRUE	77	N
+silence	silence	NOUN	2	correct	TRUE	101	
+‘i	‘i	PRON	2	correct	TRUE	101	BF
+mal	mal	ADJ	1	upos	FALSE	93	F
+lays	lay	VERB	1	correct	TRUE	70	
+lips	lip	NOUN	2	correct	TRUE	101	
+woe	woe	NOUN	2	correct	TRUE	101	
+engleton	engleton	PROPN	2	correct	TRUE	101	N
+esther	esther	PROPN	2	correct	TRUE	101	N
+ead	ead	NOUN	1	correct	TRUE	77	
+triumphantly	triumphantly	ADV	1	correct	TRUE	71	
+drawled	draw	VERB	1	lemma	FALSE	82	
+overheard	overheard	ADV	1	upos	FALSE	62	
+mystic	mystic	ADJ	1	correct	TRUE	100	
+committed	committ	VERB	1	lemma	FALSE	14	
+prinsep	prinsep	PROPN	1	correct	TRUE	91	NF
+singing	singe	VERB	1	lemma	FALSE	30	
+'ere	'ere	ADV	1	lemmupos	FALSE	28	B
+breezy	breezy	ADJ	1	correct	TRUE	87	
+neglect	neglect	NOUN	1	correct	TRUE	92	
+remembered	remembe	VERB	1	lemma	FALSE	14	
+'i	'i	PRON	1	lemma	FALSE	1	BF
+farther	farther	ADJ	1	upos	FALSE	94	
+restless	restless	NOUN	1	upos	FALSE	47	
+ladylift	ladylift	PROPN	2	correct	TRUE	101	
+expanse	expanse	NOUN	1	correct	TRUE	71	
+wharves	wharve	NOUN	1	lemma	FALSE	76	
+throes	throe	NOUN	1	lemma	FALSE	83	
+charming	charming	NOUN	1	upos	FALSE	48	
+morrow	morrow	NOUN	1	correct	TRUE	93	O
+escaped	escap	VERB	1	lemma	FALSE	70	
+housewifely	housewifely	ADV	1	upos	FALSE	19	
+unalterable	unalterable	ADJ	1	correct	TRUE	72	
+bed	be	VERB	1	lemmupos	FALSE	13	
+lust	lust	NOUN	1	correct	TRUE	73	
+n't	not	VERB	1	correct	TRUE	90	
+dandelion	dandelion	NOUN	1	correct	TRUE	94	
+elfie	elfie	PROPN	3	correct	TRUE	101	
+waxed	wax	VERB	1	features	FALSE	12	
