@@ -1,704 +1,704 @@
-"form"	"lemma"	"upos"	"freq.samp"	"errtype"	"is_correct"	"BAMTINOF"
-"épanouissait"	"épanouisser"	"VERB"	1	"lemma"	"FALSE"	
-"voyant"	"voir"	"AUX"	2	"correct"	"TRUE"	
-"petit-château"	"petit-château"	"PROPN"	2	"correct"	"TRUE"	
-"chargiez"	"chargier"	"VERB"	1	"lemma"	"FALSE"	
-"astucieuse"	"astucieur"	"NOUN"	1	"lemmupos"	"FALSE"	
-"pressé"	"presser"	"ADJ"	1	"lemma"	"FALSE"	
-"féroces"	"féroce"	"ADJ"	2	"correct"	"TRUE"	
-"délire"	"délire"	"NOUN"	1	"correct"	"TRUE"	
-"belle-fille"	"belle-fille"	"NOUN"	1	"correct"	"TRUE"	
-"pleurait"	"pleurait"	"VERB"	1	"lemma"	"FALSE"	
-"adieu"	"adieu"	"PROPN"	1	"upos"	"FALSE"	
-"barricade"	"barricade"	"NOUN"	2	"correct"	"TRUE"	
-"houillère"	"houiller"	"NOUN"	1	"lemma"	"FALSE"	
-"-elle"	"elle"	"PRON"	1	"lemma"	"FALSE"	
-"appréhension"	"appréhension"	"NOUN"	1	"correct"	"TRUE"	
-"fourmis"	"fourmis"	"PROPN"	1	"lemmupos"	"FALSE"	
-"étrange"	"étrange"	"PROPN"	1	"upos"	"FALSE"	
-"entre-bâillure"	"entre-bâillure"	"NOUN"	1	"correct"	"TRUE"	
-"provençal"	"provençal"	"ADJ"	1	"upos"	"FALSE"	
-"-là"	"-là"	"PART"	1	"lemma"	"FALSE"	
-"resta"	"rester"	"NOUN"	1	"upos"	"FALSE"	
-"bouleversées"	"bouleverser"	"VERB"	1	"correct"	"TRUE"	
-"jusqu’"	"jusqu’"	"PROPN"	3	"lemmupos"	"FALSE"	
-"bavardaient"	"bavarder"	"VERB"	1	"correct"	"TRUE"	
-"pis"	"pir"	"VERB"	1	"lemmupos"	"FALSE"	
-"labourait"	"labourait"	"NOUN"	1	"lemmupos"	"FALSE"	
-"brisée"	"briser"	"VERB"	2	"correct"	"TRUE"	
-"valaient"	"valaenir"	"VERB"	1	"lemma"	"FALSE"	
-"femme"	"femme"	"ADP"	1	"upos"	"FALSE"	
-"ranimer"	"ranimer"	"VERB"	2	"correct"	"TRUE"	
-"brûlantes"	"brûlant"	"ADJ"	1	"correct"	"TRUE"	
-"vois"	"vois"	"ADV"	1	"lemmupos"	"FALSE"	
-"tassée"	"tasser"	"ADJ"	1	"upos"	"FALSE"	
-"présente"	"présenter"	"ADJ"	1	"lemma"	"FALSE"	
-"boas"	"boas"	"NOUN"	1	"lemma"	"FALSE"	
-"affaissait"	"affaisser"	"VERB"	1	"correct"	"TRUE"	
-"envahissante"	"envahissant"	"ADJ"	2	"correct"	"TRUE"	
-"reverrons"	"reverr"	"VERB"	1	"lemma"	"FALSE"	
-"ah"	"ah"	"PROPN"	2	"upos"	"FALSE"	
-"ébranla"	"ébranla"	"PROPN"	1	"lemmupos"	"FALSE"	
-"bruyants"	"bruyant"	"ADJ"	1	"correct"	"TRUE"	
-"efforçait"	"efforcer"	"VERB"	1	"correct"	"TRUE"	
-"enchanta"	"enchanter"	"VERB"	1	"correct"	"TRUE"	
-"encrassé"	"encrasser"	"VERB"	1	"correct"	"TRUE"	
-"sanglé"	"sangller"	"VERB"	1	"lemma"	"FALSE"	
-"allumai"	"allum"	"VERB"	1	"lemma"	"FALSE"	
-"trempai"	"tremp"	"VERB"	1	"lemma"	"FALSE"	
-"craignant"	"craindre"	"PROPN"	1	"lemmupos"	"FALSE"	
-"taisaient"	"taiser"	"VERB"	1	"lemma"	"FALSE"	
-"bah"	"bah"	"INTJ"	1	"correct"	"TRUE"	
-"lasse"	"lasse"	"ADJ"	1	"lemma"	"FALSE"	
-"n’"	"n’"	"PROPN"	10	"lemmupos"	"FALSE"	
-"aperçut"	"apercevoir"	"VERB"	1	"features"	"FALSE"	
-"aplatit"	"aplatit"	"VERB"	1	"lemma"	"FALSE"	
-"attelage"	"attelage"	"NOUN"	2	"correct"	"TRUE"	
-"l’"	"l’"	"PROPN"	3	"tokenization"	"FALSE"	
-"dévouée"	"dévoué"	"ADJ"	1	"correct"	"TRUE"	
-"déridait"	"déridre"	"VERB"	1	"lemma"	"FALSE"	
-"délié"	"délié"	"VERB"	1	"lemma"	"FALSE"	
-"pauvre"	"pauvre"	"NOUN"	1	"features"	"FALSE"	
-"delmar"	"delmar"	"PROPN"	1	"correct"	"TRUE"	
-"l’"	"l’"	"PROPN"	41	"lemmupos"	"FALSE"	
-"repoussais"	"repousser"	"VERB"	1	"features"	"FALSE"	
-"carrousel"	"carrousel"	"PROPN"	1	"correct"	"TRUE"	
-"borner"	"borner"	"VERB"	1	"correct"	"TRUE"	
-"crut"	"craître"	"VERB"	1	"lemma"	"FALSE"	
-"impassible"	"impassible"	"ADJ"	2	"correct"	"TRUE"	
-"coucou-blanc"	"coucou-blanc"	"PROPN"	1	"correct"	"TRUE"	
-"prodiguant"	"prodigure"	"VERB"	1	"lemma"	"FALSE"	
-"aps"	"aps"	"PROPN"	1	"correct"	"TRUE"	
-"dirait"	"dire"	"AUX"	1	"correct"	"TRUE"	
-"conservait"	"conserver"	"VERB"	1	"correct"	"TRUE"	
-"émeute"	"émeute"	"PRON"	1	"correct"	"TRUE"	
-"emportée"	"emporter"	"VERB"	1	"correct"	"TRUE"	
-"drap"	"drap"	"NOUN"	1	"correct"	"TRUE"	
-"développant"	"développer"	"VERB"	1	"correct"	"TRUE"	
-"ouvert"	"ouvrir"	"ADJ"	1	"lemma"	"FALSE"	
-"beau"	"beau"	"VERB"	1	"upos"	"FALSE"	
-"jamais"	"jamais"	"CCONJ"	1	"upos"	"FALSE"	
-"allez-vous"	"allez-le"	"PRON"	1	"tokenization"	"FALSE"	
-"contemplation"	"contemplation"	"NOUN"	1	"correct"	"TRUE"	
-"boissaric"	"boissaric"	"PROPN"	3	"correct"	"TRUE"	
-"venez"	"venir"	"PROPN"	1	"upos"	"FALSE"	
-"causèrent"	"causer"	"VERB"	1	"correct"	"TRUE"	
-"drôles"	"drôle"	"NOUN"	1	"correct"	"TRUE"	
-"effaça"	"effacer"	"VERB"	1	"correct"	"TRUE"	
-"-la"	"-le"	"PRON"	1	"lemma"	"FALSE"	
-"allez"	"aller"	"X"	1	"upos"	"FALSE"	
-"rires"	"rire"	"ADJ"	1	"upos"	"FALSE"	
-"allé"	"aller"	"AUX"	1	"correct"	"TRUE"	
-"janique"	"janique"	"PROPN"	2	"correct"	"TRUE"	
-"araignée"	"araignée"	"PROPN"	1	"upos"	"FALSE"	
-"fume"	"fume"	"VERB"	1	"lemma"	"FALSE"	
-"irons"	"irer"	"VERB"	1	"lemma"	"FALSE"	
-"éclatants"	"éclatant"	"NOUN"	1	"upos"	"FALSE"	
-"êtes"	"être"	"NOUN"	1	"upos"	"FALSE"	
-"voulais"	"vouler"	"VERB"	1	"lemma"	"FALSE"	
-"paraîtrez"	"paraîtrer"	"VERB"	1	"lemma"	"FALSE"	
-"apparaissait"	"apparaître"	"VERB"	1	"correct"	"TRUE"	
-"battement"	"battement"	"NOUN"	1	"correct"	"TRUE"	
-"bras"	"bras"	"ADJ"	1	"correct"	"TRUE"	
-"anglaise"	"anglaise"	"PROPN"	1	"lemmupos"	"FALSE"	
-"prendrai"	"prendr"	"VERB"	1	"lemma"	"FALSE"	
-"étendis"	"étendire"	"VERB"	1	"lemma"	"FALSE"	
-"amuserais"	"amuser"	"VERB"	1	"correct"	"TRUE"	
-"cents"	"cent"	"NOUN"	1	"upos"	"FALSE"	
-"civilisatrice"	"civilisateur"	"ADJ"	1	"correct"	"TRUE"	
-"barbes"	"barbe"	"NOUN"	2	"correct"	"TRUE"	
-"sénécal"	"sénécal"	"PROPN"	4	"correct"	"TRUE"	
-"sienne"	"sien"	"PROPN"	1	"upos"	"FALSE"	
-"impuissant"	"impuisre"	"VERB"	1	"lemmupos"	"FALSE"	
-"attitudes"	"attitude"	"NOUN"	1	"correct"	"TRUE"	
-"embrassant"	"embrasser"	"VERB"	1	"correct"	"TRUE"	
-"négresse"	"négresse"	"PROPN"	2	"lemmupos"	"FALSE"	
-"aisé"	"aisé"	"VERB"	1	"correct"	"TRUE"	
-"donnaient"	"donner"	"VERB"	1	"correct"	"TRUE"	
-"approche"	"approche"	"ADJ"	1	"lemmupos"	"FALSE"	
-"impatience"	"impatience"	"NOUN"	2	"correct"	"TRUE"	
-"bas-de-cuir"	"bas-de-cuir"	"PROPN"	1	"correct"	"TRUE"	
-"interdisant"	"interdire"	"ADJ"	1	"upos"	"FALSE"	
-"admirer"	"admirer"	"VERB"	1	"correct"	"TRUE"	
-"aimez-vous"	"aimez-le"	"PROPN"	1	"tokenization"	"FALSE"	
-"enfournement"	"enfournement"	"ADV"	1	"upos"	"FALSE"	
-"-les"	"le"	"NOUN"	1	"upos"	"FALSE"	
-"ignorons"	"ignorer"	"VERB"	1	"features"	"FALSE"	
-"amenait"	"amener"	"VERB"	1	"correct"	"TRUE"	
-"verrait"	"verre"	"VERB"	1	"lemma"	"FALSE"	
-"écria"	"écrier"	"VERB"	1	"correct"	"TRUE"	
-"aperçus"	"apercevoir"	"VERB"	1	"correct"	"TRUE"	
-"civière"	"civière"	"NOUN"	2	"correct"	"TRUE"	
-"sourd"	"sourd"	"ADJ"	2	"correct"	"TRUE"	
-"affaires-etrangères"	"affaires-etrangère"	"NOUN"	1	"upos"	"FALSE"	
-"corbeille"	"corbeille"	"NOUN"	2	"correct"	"TRUE"	
-"raconta"	"raconter"	"VERB"	2	"correct"	"TRUE"	
-"contentâmes"	"contenter"	"VERB"	1	"correct"	"TRUE"	
-"méprisante"	"méprisant"	"NOUN"	1	"upos"	"FALSE"	
-"languissantes"	"languissante"	"ADJ"	1	"lemma"	"FALSE"	
-"aigu"	"aigu"	"ADJ"	1	"correct"	"TRUE"	
-"laissait"	"laisser"	"VERB"	2	"correct"	"TRUE"	
-"cents"	"cents"	"NOUN"	2	"lemmupos"	"FALSE"	
-"loutre"	"loutre"	"VERB"	1	"upos"	"FALSE"	
-"escaliers"	"escalier"	"NOUN"	1	"correct"	"TRUE"	
-"rassure-toi"	"rassure-toi"	"NOUN"	1	"tokenization"	"FALSE"	
-"madame"	"monsieur"	"ADJ"	1	"lemmupos"	"FALSE"	
-"augmentait"	"augmenter"	"VERB"	1	"correct"	"TRUE"	
-"chandelle"	"chandel"	"NOUN"	1	"lemma"	"FALSE"	
-"dévouement"	"dévouement"	"NOUN"	2	"correct"	"TRUE"	
-"ardéchois"	"ardéchois"	"NOUN"	1	"upos"	"FALSE"	
-"besogne"	"besogner"	"VERB"	1	"lemmupos"	"FALSE"	
-"embrassa"	"embrasser"	"VERB"	1	"correct"	"TRUE"	
-"hé"	"hé"	"VERB"	1	"lemmupos"	"FALSE"	
-"alandiers"	"alandier"	"NOUN"	1	"correct"	"TRUE"	
-"entrons"	"entrer"	"VERB"	1	"features"	"FALSE"	
-"éclairait"	"éclair"	"VERB"	1	"correct"	"TRUE"	
-"arrivais"	"arrivoir"	"VERB"	1	"lemma"	"FALSE"	
-"aperçut"	"apercevoir"	"VERB"	3	"correct"	"TRUE"	
-"goutte"	"goutte"	"NOUN"	3	"correct"	"TRUE"	
-"ballant"	"baller"	"VERB"	1	"lemmupos"	"FALSE"	
-"de"	"un"	"ADP"	1	"correct"	"TRUE"	
-"parbleu"	"parbleu"	"ADV"	1	"upos"	"FALSE"	
-"grosse"	"gros"	"NOUN"	1	"upos"	"FALSE"	
-"embrassai"	"embrass"	"VERB"	1	"lemma"	"FALSE"	
-"muguets"	"muguets"	"PROPN"	1	"lemmupos"	"FALSE"	
-"vît"	"vître"	"VERB"	1	"lemma"	"FALSE"	
-"-la"	"-le"	"PROPN"	1	"lemmupos"	"FALSE"	
-"écria"	"écrier"	"PROPN"	1	"upos"	"FALSE"	
-"çà"	"çà"	"ADV"	1	"lemma"	"FALSE"	
-"couteau"	"couteau"	"NOUN"	1	"correct"	"TRUE"	
-"francs"	"franc"	"ADJ"	3	"upos"	"FALSE"	
-"applaudie"	"applaudier"	"ADJ"	1	"lemmupos"	"FALSE"	
-"artiste"	"artister"	"VERB"	1	"lemmupos"	"FALSE"	
-"crinières"	"crinière"	"NOUN"	1	"correct"	"TRUE"	
-"débouchant"	"débouchant"	"VERB"	1	"correct"	"TRUE"	
-"coquilles"	"coquille"	"NOUN"	1	"correct"	"TRUE"	
-"déployait"	"déployer"	"VERB"	1	"correct"	"TRUE"	
-"émut"	"émut"	"VERB"	1	"lemma"	"FALSE"	
-"cavaignac"	"cavaignac"	"PROPN"	1	"correct"	"TRUE"	
-"préparez-vous"	"préparez-le"	"NOUN"	1	"tokenization"	"FALSE"	
-"grillon"	"grillon"	"PROPN"	1	"lemmupos"	"FALSE"	
-"parisiens"	"parisiens"	"PROPN"	1	"lemmupos"	"FALSE"	
-"kakatoès"	"kakatoè"	"NOUN"	1	"lemma"	"FALSE"	
-"bées"	"bé"	"VERB"	1	"lemmupos"	"FALSE"	
-"lâcher"	"lâcher"	"NOUN"	1	"upos"	"FALSE"	
-"fis"	"fils"	"ADJ"	1	"lemmupos"	"FALSE"	
-"eu"	"eu"	"VERB"	1	"lemma"	"FALSE"	
-"comptons"	"compter"	"VERB"	1	"correct"	"TRUE"	
-"étendit"	"étendre"	"VERB"	2	"correct"	"TRUE"	
-"entrai"	"entr"	"VERB"	1	"lemma"	"FALSE"	
-"mrs"	"mrs"	"PROPN"	1	"lemmupos"	"FALSE"	
-"insurgé"	"insurger"	"VERB"	1	"lemmupos"	"FALSE"	
-"ta"	"ta"	"VERB"	1	"lemmupos"	"FALSE"	
-"emphatique"	"emphatique"	"ADJ"	1	"correct"	"TRUE"	
-"messieurs"	"messieur"	"NOUN"	2	"lemma"	"FALSE"	
-"devinait"	"deviner"	"VERB"	1	"correct"	"TRUE"	
-"dis-moi"	"dis-moi"	"SCONJ"	1	"tokenization"	"FALSE"	
-"deviné"	"deviner"	"VERB"	1	"correct"	"TRUE"	
-"-je"	"-je"	"PRON"	1	"lemma"	"FALSE"	
-"éclats"	"éclat"	"NOUN"	1	"correct"	"TRUE"	
-"orties"	"orties"	"PROPN"	1	"lemmupos"	"FALSE"	
-"turc"	"turc"	"PROPN"	1	"upos"	"FALSE"	
-"barbès"	"barbès"	"PROPN"	1	"correct"	"TRUE"	
-"vasistas"	"vasista"	"NOUN"	1	"lemma"	"FALSE"	
-"ronflants"	"ronflant"	"NOUN"	1	"upos"	"FALSE"	
-"cannibales"	"cannibale"	"NOUN"	1	"features"	"FALSE"	
-"attachée"	"attacher"	"VERB"	1	"correct"	"TRUE"	
-"écroulement"	"écroulement"	"NOUN"	1	"correct"	"TRUE"	
-"arriverait"	"arriver"	"VERB"	1	"features"	"FALSE"	
-"maniaient"	"maniaenir"	"VERB"	1	"lemma"	"FALSE"	
-"revins"	"revin"	"VERB"	1	"lemma"	"FALSE"	
-"autre"	"autre"	"VERB"	1	"correct"	"TRUE"	
-"tenant"	"tenir"	"ADV"	1	"upos"	"FALSE"	
-"changent"	"changer"	"NOUN"	1	"upos"	"FALSE"	
-"allons"	"aller"	"NOUN"	1	"upos"	"FALSE"	
-"bordaient"	"border"	"VERB"	1	"correct"	"TRUE"	
-"débattaient"	"débatter"	"VERB"	1	"lemma"	"FALSE"	
-"disparues"	"disparu"	"VERB"	1	"lemma"	"FALSE"	
-"apprenait"	"apprendre"	"VERB"	1	"correct"	"TRUE"	
-"cents"	"cent"	"NOUN"	1	"correct"	"TRUE"	
-"arrosai"	"arrosai"	"VERB"	1	"features"	"FALSE"	
-"calma"	"calmer"	"VERB"	1	"correct"	"TRUE"	
-"scorpions"	"scorpions"	"PROPN"	1	"lemmupos"	"FALSE"	
-"cher"	"sche"	"ADJ"	1	"lemma"	"FALSE"	
-"admireraient"	"admirerer"	"VERB"	1	"lemma"	"FALSE"	
-"dis-nous"	"dis-le"	"PRON"	1	"tokenization"	"FALSE"	
-"souviens"	"souvenir"	"ADJ"	1	"upos"	"FALSE"	
-"kakatoès"	"kakatoès"	"NOUN"	2	"correct"	"TRUE"	
-"madame"	"madamer"	"VERB"	1	"lemmupos"	"FALSE"	
-"arrêta"	"arrêter"	"VERB"	1	"correct"	"TRUE"	
-"hais"	"her"	"VERB"	1	"lemma"	"FALSE"	
-"émoustilla"	"émoustilla"	"VERB"	1	"lemma"	"FALSE"	
-"effusions"	"effusion"	"NOUN"	1	"correct"	"TRUE"	
-"écoeurante"	"écoeurant"	"ADJ"	1	"correct"	"TRUE"	
-"chante"	"chant"	"NOUN"	1	"lemmupos"	"FALSE"	
-"tante"	"tant"	"NOUN"	2	"lemma"	"FALSE"	
-"réglé"	"régller"	"VERB"	1	"lemma"	"FALSE"	
-"détermina"	"détermina"	"ADJ"	1	"lemmupos"	"FALSE"	
-"personne"	"personne"	"VERB"	1	"upos"	"FALSE"	
-"trouvais"	"trouvoir"	"VERB"	2	"lemma"	"FALSE"	
-"voué"	"vouer"	"VERB"	1	"correct"	"TRUE"	
-"billards"	"billard"	"NOUN"	1	"correct"	"TRUE"	
-"décombres"	"décombre"	"NOUN"	1	"lemma"	"FALSE"	
-"usées"	"user"	"ADJ"	1	"lemma"	"FALSE"	
-"assemblée"	"assemblée"	"ADV"	1	"upos"	"FALSE"	
-"bras"	"bra"	"NOUN"	1	"lemma"	"FALSE"	
-"pleure"	"pleurer"	"VERB"	2	"correct"	"TRUE"	
-"blagueur"	"blagueur"	"ADJ"	1	"correct"	"TRUE"	
-"papillon"	"papillon"	"PROPN"	1	"lemmupos"	"FALSE"	
-"ému"	"ému"	"VERB"	1	"correct"	"TRUE"	
-"serra"	"soyer"	"VERB"	2	"lemma"	"FALSE"	
-"branchés"	"branché"	"ADJ"	1	"correct"	"TRUE"	
-"closerie"	"closerie"	"PROPN"	1	"correct"	"TRUE"	
-"batracien"	"batracien"	"NOUN"	1	"correct"	"TRUE"	
-"tiens"	"tiens"	"ADJ"	1	"lemmupos"	"FALSE"	
-"entrain"	"entrain"	"NOUN"	1	"correct"	"TRUE"	
-"enchantait"	"enchantre"	"VERB"	1	"lemma"	"FALSE"	
-"vinrent"	"vinrent"	"VERB"	1	"lemma"	"FALSE"	
-"crinière"	"crinière"	"NOUN"	1	"correct"	"TRUE"	
-"lis"	"lire"	"NOUN"	1	"lemmupos"	"FALSE"	
-"té"	"té"	"PROPN"	1	"lemmupos"	"FALSE"	
-"emportement"	"emportement"	"NOUN"	1	"correct"	"TRUE"	
-"plaire"	"plaite"	"VERB"	1	"lemma"	"FALSE"	
-"bousculait"	"bousculer"	"VERB"	1	"correct"	"TRUE"	
-"jolie"	"jolie"	"ADJ"	1	"lemma"	"FALSE"	
-"courait"	"coure"	"VERB"	1	"lemma"	"FALSE"	
-"j’"	"j’"	"PROPN"	3	"lemmupos"	"FALSE"	
-"pus"	"pre"	"VERB"	1	"lemma"	"FALSE"	
-"attendrie"	"attendrier"	"VERB"	1	"lemma"	"FALSE"	
-"entendais"	"entendais"	"AUX"	1	"lemmupos"	"FALSE"	
-"veillée"	"veiller"	"NOUN"	1	"lemma"	"FALSE"	
-"magnifiques"	"magnifique"	"NOUN"	1	"upos"	"FALSE"	
-"c’"	"c’"	"PROPN"	4	"lemmupos"	"FALSE"	
-"émeute"	"émeute"	"PRON"	1	"upos"	"FALSE"	
-"promesse"	"promes"	"ADJ"	1	"lemmupos"	"FALSE"	
-"théâtre"	"théâtre"	"VERB"	1	"upos"	"FALSE"	
-"attendait"	"attendre"	"VERB"	2	"correct"	"TRUE"	
-"faites"	"faire"	"ADJ"	1	"upos"	"FALSE"	
-"lucre"	"lucrer"	"NOUN"	1	"lemma"	"FALSE"	
-"voûtée"	"voûté"	"VERB"	1	"lemma"	"FALSE"	
-"sortaient"	"sortir"	"VERB"	2	"correct"	"TRUE"	
-"muets"	"muet"	"VERB"	1	"upos"	"FALSE"	
-"enthousiasmé"	"enthousiasmer"	"VERB"	1	"correct"	"TRUE"	
-"tombent"	"tombent"	"VERB"	1	"lemma"	"FALSE"	
-"ouvris"	"ouvrendre"	"VERB"	1	"lemma"	"FALSE"	
-"arrêtâmes"	"arrêter"	"VERB"	1	"correct"	"TRUE"	
-"descendirent"	"descendirer"	"VERB"	2	"lemma"	"FALSE"	
-"vatnaz"	"vatnaz"	"PROPN"	2	"correct"	"TRUE"	
-"dis-moi"	"dis-moi"	"NOUN"	1	"tokenization"	"FALSE"	
-"désastre"	"désastre"	"NOUN"	1	"correct"	"TRUE"	
-"malle"	"mal"	"ADJ"	1	"lemma"	"FALSE"	
-"serai"	"ser"	"VERB"	2	"lemma"	"FALSE"	
-"malmus"	"malmus"	"PROPN"	2	"correct"	"TRUE"	
-"quittait"	"quitter"	"VERB"	3	"correct"	"TRUE"	
-"cous"	"cous"	"NOUN"	1	"lemma"	"FALSE"	
-"cadaillac"	"cadaillac"	"PROPN"	1	"correct"	"TRUE"	
-"modeste"	"modeste"	"NOUN"	1	"upos"	"FALSE"	
-"arcade"	"arcade"	"PROPN"	1	"correct"	"TRUE"	
-"jolies"	"joly"	"ADJ"	2	"lemma"	"FALSE"	
-"aristocratique"	"aristocratique"	"ADJ"	1	"correct"	"TRUE"	
-"ondulaient"	"ondulaenir"	"VERB"	1	"lemma"	"FALSE"	
-"eyssette"	"eyssette"	"PROPN"	6	"correct"	"TRUE"	
-"bompard"	"bompard"	"PROPN"	3	"correct"	"TRUE"	
-"dégageait"	"dégager"	"VERB"	1	"correct"	"TRUE"	
-"empressés"	"empresser"	"VERB"	1	"correct"	"TRUE"	
-"délicatesses"	"délicatesse"	"NOUN"	2	"correct"	"TRUE"	
-"dormiras"	"dormiras"	"ADV"	1	"lemmupos"	"FALSE"	
-"rachèterez"	"rachèter"	"VERB"	1	"lemma"	"FALSE"	
-"gouailleurs"	"gouailleur"	"NOUN"	1	"upos"	"FALSE"	
-"oh"	"oh"	"PROPN"	1	"lemmupos"	"FALSE"	
-"eliacin"	"eliacin"	"PROPN"	2	"correct"	"TRUE"	
-"apportés"	"apporter"	"VERB"	1	"correct"	"TRUE"	
-"décidai"	"décid"	"VERB"	1	"lemma"	"FALSE"	
-"confirma"	"confirma"	"NOUN"	1	"lemmupos"	"FALSE"	
-"coulait"	"couloir"	"VERB"	1	"lemma"	"FALSE"	
-"aco"	"aco"	"NOUN"	1	"tokenization"	"FALSE"	
-"tiens"	"tyen"	"NOUN"	1	"lemmupos"	"FALSE"	
-"mayol"	"mayol"	"PROPN"	2	"correct"	"TRUE"	
-"légers"	"léger"	"NOUN"	1	"upos"	"FALSE"	
-"agnelet"	"agnelet"	"NOUN"	1	"correct"	"TRUE"	
-"débrider"	"débrider"	"VERB"	1	"correct"	"TRUE"	
-"guéri"	"guéri"	"NOUN"	1	"lemmupos"	"FALSE"	
-"allons-nous"	"allons-nous"	"PROPN"	1	"tokenization"	"FALSE"	
-"blotties"	"blottie"	"VERB"	1	"lemma"	"FALSE"	
-"hélas"	"hélas"	"NOUN"	2	"upos"	"FALSE"	
-"débordait"	"débordre"	"VERB"	1	"lemma"	"FALSE"	
-"durement"	"durement"	"ADV"	1	"correct"	"TRUE"	
-"baissés"	"baisser"	"VERB"	1	"correct"	"TRUE"	
-"éboulement"	"éboulement"	"NOUN"	1	"correct"	"TRUE"	
-"bete"	"bete"	"PROPN"	10	"tokenization"	"FALSE"	
-"ladra"	"ladre"	"VERB"	1	"lemmupos"	"FALSE"	
-"ferdinande"	"ferdinande"	"PROPN"	3	"correct"	"TRUE"	
-"curieux"	"curiel"	"NOUN"	4	"lemma"	"FALSE"	
-"biniou"	"biniou"	"ADJ"	1	"correct"	"TRUE"	
-"courageuse"	"courageux"	"ADJ"	1	"correct"	"TRUE"	
-"honte"	"honte"	"ADJ"	1	"upos"	"FALSE"	
-"emportait"	"emporter"	"VERB"	1	"correct"	"TRUE"	
-"buvant"	"buvant"	"ADP"	1	"lemmupos"	"FALSE"	
-"fringant"	"fringer"	"VERB"	1	"lemmupos"	"FALSE"	
-"repu"	"repre"	"VERB"	1	"lemmupos"	"FALSE"	
-"écarta"	"écarter"	"VERB"	1	"correct"	"TRUE"	
-"apercevait"	"apercevoir"	"VERB"	1	"correct"	"TRUE"	
-"criaient"	"crier"	"VERB"	1	"correct"	"TRUE"	
-"enverrai"	"envevoir"	"AUX"	1	"lemmupos"	"FALSE"	
-"apprêts"	"apprêt"	"NOUN"	1	"correct"	"TRUE"	
-"vas"	"vas"	"ADV"	2	"lemmupos"	"FALSE"	
-"avança"	"avanç"	"VERB"	1	"lemma"	"FALSE"	
-"midi"	"midi"	"PROPN"	1	"upos"	"FALSE"	
-"délogé"	"déloger"	"VERB"	1	"correct"	"TRUE"	
-"autruches"	"autruche"	"NOUN"	1	"correct"	"TRUE"	
-"bouffi"	"bouffi"	"ADJ"	1	"correct"	"TRUE"	
-"emplit"	"emplir"	"VERB"	1	"features"	"FALSE"	
-"escalier"	"escalier"	"PROPN"	1	"correct"	"TRUE"	
-"connaissez-vous"	"connaissez-vous"	"NOUN"	1	"tokenization"	"FALSE"	
-"reposeras"	"reposera"	"NOUN"	1	"lemmupos"	"FALSE"	
-"roulai"	"roul"	"VERB"	1	"lemma"	"FALSE"	
-"triomphes"	"triomph"	"NOUN"	1	"lemma"	"FALSE"	
-"fus"	"fre"	"VERB"	1	"lemma"	"FALSE"	
-"embrasser"	"embrasser"	"VERB"	2	"correct"	"TRUE"	
-"enchaînées"	"enchaîné"	"ADJ"	1	"lemmupos"	"FALSE"	
-"ensoleillée"	"ensoleiller"	"VERB"	1	"lemmupos"	"FALSE"	
-"bénit"	"bénir"	"VERB"	1	"correct"	"TRUE"	
-"quès"	"quès"	"ADP"	1	"tokenization"	"FALSE"	
-"défilaient"	"défilaenir"	"VERB"	1	"lemma"	"FALSE"	
-"d’"	"d’"	"PROPN"	31	"lemmupos"	"FALSE"	
-"beautés"	"beauté"	"NOUN"	2	"correct"	"TRUE"	
-"perdraient"	"perdraenir"	"VERB"	1	"lemma"	"FALSE"	
-"manque"	"manque"	"ADJ"	1	"lemmupos"	"FALSE"	
-"bâche"	"bâche"	"NOUN"	1	"correct"	"TRUE"	
-"accroissant"	"accroître"	"VERB"	1	"correct"	"TRUE"	
-"carpes"	"carpes"	"PROPN"	1	"lemmupos"	"FALSE"	
-"inconnu"	"inconnir"	"VERB"	1	"lemmupos"	"FALSE"	
-"divins"	"divin"	"NOUN"	1	"upos"	"FALSE"	
-"danser"	"danser"	"VERB"	1	"correct"	"TRUE"	
-"barrot"	"barrot"	"PROPN"	1	"correct"	"TRUE"	
-"dansaient"	"danser"	"VERB"	1	"correct"	"TRUE"	
-"aimable"	"aimable"	"NOUN"	2	"upos"	"FALSE"	
-"as"	"a"	"NOUN"	1	"lemmupos"	"FALSE"	
-"vibra"	"vibrer"	"VERB"	1	"features"	"FALSE"	
-"dis"	"dis"	"ADV"	2	"lemmupos"	"FALSE"	
-"dirait"	"dire"	"VERB"	2	"features"	"FALSE"	
-"parla"	"parler"	"VERB"	2	"correct"	"TRUE"	
-"détalant"	"détaler"	"VERB"	1	"correct"	"TRUE"	
-"dételé"	"dételer"	"VERB"	1	"correct"	"TRUE"	
-"brûlures"	"brûlure"	"NOUN"	1	"correct"	"TRUE"	
-"envolèrent"	"envoler"	"VERB"	1	"correct"	"TRUE"	
-"bravard"	"bravard"	"PROPN"	1	"correct"	"TRUE"	
-"marche"	"marche"	"ADJ"	1	"upos"	"FALSE"	
-"enchantements"	"enchantement"	"NOUN"	1	"correct"	"TRUE"	
-"périgourdin"	"périgourdin"	"PROPN"	1	"upos"	"FALSE"	
-"lissait"	"lisre"	"VERB"	1	"lemma"	"FALSE"	
-"voudraient"	"voudrer"	"VERB"	1	"lemma"	"FALSE"	
-"borax"	"borax"	"NOUN"	1	"correct"	"TRUE"	
-"grossier"	"grossier"	"NOUN"	1	"upos"	"FALSE"	
-"escargots"	"escargots"	"NOUN"	1	"lemma"	"FALSE"	
-"initiais"	"initier"	"NOUN"	1	"upos"	"FALSE"	
-"demeurait"	"demeurer"	"AUX"	1	"correct"	"TRUE"	
-"atours"	"atours"	"NOUN"	1	"lemma"	"FALSE"	
-"bossu"	"bossue"	"NOUN"	3	"lemma"	"FALSE"	
-"irma"	"irma"	"PROPN"	4	"correct"	"TRUE"	
-"hé"	"hé"	"PROPN"	1	"lemmupos"	"FALSE"	
-"circulaient"	"circuler"	"VERB"	1	"correct"	"TRUE"	
-"léchaient"	"léchaient"	"NOUN"	1	"lemmupos"	"FALSE"	
-"de"	"un"	"ADP"	1	"lemma"	"FALSE"	
-"pressentiments"	"pressentiment"	"ADJ"	1	"upos"	"FALSE"	
-"appelaient"	"appeler"	"VERB"	1	"correct"	"TRUE"	
-"auvergnat"	"auvergnat"	"NOUN"	1	"upos"	"FALSE"	
-"chose"	"chose"	"PROPN"	1	"upos"	"FALSE"	
-"croyaient"	"croyer"	"VERB"	1	"lemma"	"FALSE"	
-"soeur"	"soeur"	"PROPN"	1	"upos"	"FALSE"	
-"otant"	"otant"	"PROPN"	1	"lemmupos"	"FALSE"	
-"arrachant"	"arracher"	"VERB"	1	"correct"	"TRUE"	
-"consentaient"	"consentir"	"VERB"	1	"correct"	"TRUE"	
-"médailles"	"médaille"	"ADJ"	1	"upos"	"FALSE"	
-"pellerin"	"pellerin"	"PROPN"	2	"correct"	"TRUE"	
-"écoutez"	"écouter"	"VERB"	1	"correct"	"TRUE"	
-"bêlements"	"bêlement"	"NOUN"	1	"correct"	"TRUE"	
-"dépêche"	"dépêche"	"NOUN"	8	"correct"	"TRUE"	
-"pilois"	"pilois"	"PROPN"	2	"correct"	"TRUE"	
-"baraque"	"baraque"	"NOUN"	1	"correct"	"TRUE"	
-"a"	"à"	"AUX"	1	"lemma"	"FALSE"	
-"délicatesse"	"délicatesse"	"NOUN"	2	"correct"	"TRUE"	
-"répondis"	"répondire"	"VERB"	2	"lemma"	"FALSE"	
-"enleva"	"enlever"	"VERB"	1	"correct"	"TRUE"	
-"tantes"	"tant"	"NOUN"	1	"lemma"	"FALSE"	
-"écarté"	"écarter"	"VERB"	1	"correct"	"TRUE"	
-"ayez"	"ayer"	"VERB"	1	"lemma"	"FALSE"	
-"tâtons"	"tâton"	"NOUN"	1	"lemma"	"FALSE"	
-"reculait"	"reculoir"	"VERB"	1	"lemma"	"FALSE"	
-"bentaboulech"	"bentaboulech"	"PROPN"	1	"correct"	"TRUE"	
-"chenilles"	"chenilles"	"PROPN"	2	"lemmupos"	"FALSE"	
-"entraînant"	"entraîner"	"NOUN"	1	"upos"	"FALSE"	
-"manque"	"manque"	"VERB"	1	"lemma"	"FALSE"	
-"bonshommes"	"bonshomme"	"NOUN"	1	"lemma"	"FALSE"	
-"bouches"	"bouche"	"NOUN"	1	"correct"	"TRUE"	
-"physionomie"	"physionomie"	"NOUN"	3	"correct"	"TRUE"	
-"brumeuse"	"brumeux"	"ADJ"	1	"correct"	"TRUE"	
-"conduis"	"conduérir"	"VERB"	1	"lemma"	"FALSE"	
-"respectait"	"respecter"	"VERB"	2	"correct"	"TRUE"	
-"retint"	"retint"	"VERB"	1	"lemma"	"FALSE"	
-"guéri"	"guéri"	"VERB"	1	"lemma"	"FALSE"	
-"gêné"	"gênaître"	"VERB"	1	"lemmupos"	"FALSE"	
-"irrité"	"irrité"	"NOUN"	1	"upos"	"FALSE"	
-"tremblaient"	"trembler"	"VERB"	2	"correct"	"TRUE"	
-"saurez"	"saurer"	"VERB"	1	"lemma"	"FALSE"	
-"louez"	"louer"	"PROPN"	1	"upos"	"FALSE"	
-"ta"	"ta"	"NOUN"	3	"lemmupos"	"FALSE"	
-"athalie"	"athalie"	"PROPN"	2	"correct"	"TRUE"	
-"foutré"	"foutré"	"VERB"	1	"upos"	"FALSE"	
-"bravos"	"bravos"	"NOUN"	3	"lemma"	"FALSE"	
-"extasiées"	"extasié"	"VERB"	1	"lemma"	"FALSE"	
-"scarabée"	"scarabée"	"PROPN"	1	"lemmupos"	"FALSE"	
-"saisissaient"	"saisisser"	"VERB"	1	"lemma"	"FALSE"	
-"belles"	"beau"	"NOUN"	1	"upos"	"FALSE"	
-"allons"	"allons"	"PROPN"	1	"lemmupos"	"FALSE"	
-"rejoignaient"	"rejoignaenir"	"VERB"	1	"lemma"	"FALSE"	
-"réjoui"	"réjoui"	"NOUN"	1	"upos"	"FALSE"	
-"avançaient"	"avançer"	"VERB"	1	"correct"	"TRUE"	
-"dilatée"	"dilaté"	"VERB"	1	"lemma"	"FALSE"	
-"déconcertaient"	"déconcerter"	"VERB"	1	"correct"	"TRUE"	
-"ravissaient"	"ravissaenir"	"VERB"	1	"lemma"	"FALSE"	
-"ouly"	"ouly"	"PROPN"	3	"correct"	"TRUE"	
-"étourdissait"	"étourdisser"	"VERB"	1	"lemma"	"FALSE"	
-"remplissaient"	"remplissaier"	"VERB"	1	"lemma"	"FALSE"	
-"battit"	"battre"	"NOUN"	1	"upos"	"FALSE"	
-"prit"	"prit"	"NOUN"	1	"lemmupos"	"FALSE"	
-"béni"	"bénir"	"VERB"	1	"correct"	"TRUE"	
-"tressaillirent"	"tressaillirer"	"VERB"	1	"lemma"	"FALSE"	
-"vint"	"vint"	"ADJ"	1	"lemmupos"	"FALSE"	
-"liébert"	"liébert"	"PROPN"	10	"correct"	"TRUE"	
-"alla"	"aller"	"VERB"	2	"correct"	"TRUE"	
-"embrasse-moi"	"embrasse-moi"	"NOUN"	1	"tokenization"	"FALSE"	
-"moussu"	"moussu"	"PROPN"	2	"upos"	"FALSE"	
-"abordait"	"aborder"	"VERB"	1	"correct"	"TRUE"	
-"maman"	"maman"	"PROPN"	1	"upos"	"FALSE"	
-"sentais"	"senter"	"VERB"	2	"lemma"	"FALSE"	
-"ac"	"ac"	"NOUN"	1	"lemmupos"	"FALSE"	
-"eussions"	"eussoir"	"AUX"	1	"lemma"	"FALSE"	
-"attendons"	"attendons"	"PROPN"	2	"lemmupos"	"FALSE"	
-"drues"	"dru"	"ADJ"	1	"correct"	"TRUE"	
-"cria"	"crier"	"VERB"	1	"correct"	"TRUE"	
-"accourue"	"accourir"	"VERB"	1	"correct"	"TRUE"	
-"noirci"	"noirci"	"INTJ"	1	"upos"	"FALSE"	
-"mentais"	"menter"	"VERB"	1	"lemma"	"FALSE"	
-"brûlait"	"brûler"	"VERB"	1	"correct"	"TRUE"	
-"hait"	"her"	"VERB"	1	"lemma"	"FALSE"	
-"dévouer"	"dévouer"	"VERB"	1	"correct"	"TRUE"	
-"lire"	"lire"	"NOUN"	1	"upos"	"FALSE"	
-"envers"	"envers"	"PROPN"	1	"upos"	"FALSE"	
-"cru"	"croître"	"VERB"	1	"lemma"	"FALSE"	
-"serrant"	"serrir"	"VERB"	1	"lemma"	"FALSE"	
-"poussah"	"poussah"	"ADJ"	1	"upos"	"FALSE"	
-"déchirements"	"déchirement"	"NOUN"	1	"correct"	"TRUE"	
-"répétai"	"répét"	"VERB"	1	"lemma"	"FALSE"	
-"alignaient"	"aligner"	"VERB"	1	"correct"	"TRUE"	
-"dites-moi"	"dites-moi"	"PROPN"	1	"tokenization"	"FALSE"	
-"passants"	"passants"	"NOUN"	1	"lemma"	"FALSE"	
-"ménagère"	"ménager"	"NOUN"	1	"lemma"	"FALSE"	
-"bannières"	"bannière"	"NOUN"	1	"correct"	"TRUE"	
-"files"	"fille"	"NOUN"	2	"lemma"	"FALSE"	
-"emmenaient"	"emmener"	"VERB"	1	"correct"	"TRUE"	
-"voltigeaient"	"voltigeaient"	"VERB"	1	"lemma"	"FALSE"	
-"pyrénéen"	"pyrénéen"	"NOUN"	1	"upos"	"FALSE"	
-"costumé"	"costumer"	"VERB"	1	"correct"	"TRUE"	
-"désastreuse"	"désastreux"	"VERB"	1	"upos"	"FALSE"	
-"diligence"	"diligence"	"NOUN"	2	"correct"	"TRUE"	
-"déclaraient"	"déclarer"	"VERB"	1	"correct"	"TRUE"	
-"caverne"	"caverne"	"NOUN"	1	"correct"	"TRUE"	
-"assis"	"assir"	"VERB"	1	"lemma"	"FALSE"	
-"lisez"	"lire"	"ADV"	1	"upos"	"FALSE"	
-"pénible"	"pénible"	"ADJ"	3	"correct"	"TRUE"	
-"biniou"	"biniou"	"NOUN"	1	"correct"	"TRUE"	
-"méprisait"	"mépriser"	"VERB"	2	"correct"	"TRUE"	
-"quelques-uns"	"quelques-un"	"PRON"	1	"lemma"	"FALSE"	
-"vengerons"	"venger"	"VERB"	2	"correct"	"TRUE"	
-"cuisse"	"cuisse"	"NOUN"	1	"correct"	"TRUE"	
-"demi-tasse"	"demi-tasse"	"NOUN"	1	"correct"	"TRUE"	
-"esquimaux"	"esquimaux"	"PROPN"	1	"lemmupos"	"FALSE"	
-"vide"	"vide"	"VERB"	1	"upos"	"FALSE"	
-"serons"	"sere"	"VERB"	1	"lemma"	"FALSE"	
-"mademoiselle"	"monsieur"	"ADJ"	1	"lemmupos"	"FALSE"	
-"témoignait"	"témoigner"	"VERB"	2	"correct"	"TRUE"	
-"christ"	"christ"	"NOUN"	1	"lemmupos"	"FALSE"	
-"balayés"	"balayer"	"VERB"	1	"correct"	"TRUE"	
-"étouffaient"	"étouffaenir"	"VERB"	1	"lemma"	"FALSE"	
-"affreux"	"affreux"	"ADJ"	1	"correct"	"TRUE"	
-"audiberte"	"audiberte"	"PROPN"	1	"correct"	"TRUE"	
-"hâtent"	"hâtre"	"VERB"	1	"lemma"	"FALSE"	
-"quittes"	"quitre"	"VERB"	1	"lemma"	"FALSE"	
-"amenez"	"amenir"	"VERB"	1	"lemma"	"FALSE"	
-"assidûment"	"assidûment"	"ADV"	1	"correct"	"TRUE"	
-"conviction"	"conviction"	"NOUN"	1	"correct"	"TRUE"	
-"chaise"	"chaise"	"NOUN"	1	"tokenization"	"FALSE"	
-"pittoresque"	"pittoresque"	"ADV"	1	"upos"	"FALSE"	
-"sorties"	"sorty"	"NOUN"	1	"lemma"	"FALSE"	
-"l'"	"le"	"PART"	1	"upos"	"FALSE"	
-"croisaient"	"croiser"	"VERB"	1	"correct"	"TRUE"	
-"éclata"	"éclater"	"VERB"	1	"correct"	"TRUE"	
-"cachemires"	"cachemire"	"NOUN"	1	"correct"	"TRUE"	
-"habits"	"habit"	"NOUN"	2	"correct"	"TRUE"	
-"rigoureux"	"rigoureux"	"ADJ"	1	"features"	"FALSE"	
-"dani-dan"	"dani-dan"	"PROPN"	2	"correct"	"TRUE"	
-"suivaient"	"suivaenir"	"VERB"	1	"lemma"	"FALSE"	
-"pieu"	"pieu"	"NOUN"	2	"correct"	"TRUE"	
-"applaudissaient"	"applaudisser"	"VERB"	1	"lemma"	"FALSE"	
-"circulez"	"circulez"	"X"	2	"lemmupos"	"FALSE"	
-"fixe"	"fixe"	"VERB"	1	"upos"	"FALSE"	
-"bas"	"bas"	"PROPN"	1	"upos"	"FALSE"	
-"arnoux"	"arnoux"	"PROPN"	6	"correct"	"TRUE"	
-"infamie"	"infamie"	"ADJ"	1	"upos"	"FALSE"	
-"regarda"	"regarder"	"VERB"	2	"correct"	"TRUE"	
-"proposa"	"propos"	"VERB"	1	"lemma"	"FALSE"	
-"apprit"	"apprendre"	"VERB"	1	"correct"	"TRUE"	
-"mesdemoiselles"	"mesdemoisel"	"NOUN"	1	"lemma"	"FALSE"	
-"bondi"	"bondi"	"NOUN"	1	"lemmupos"	"FALSE"	
-"qu’"	"qu’"	"PROPN"	6	"lemmupos"	"FALSE"	
-"rauque"	"rauque"	"ADJ"	2	"correct"	"TRUE"	
-"théâtre-français"	"théâtre-français"	"NOUN"	1	"upos"	"FALSE"	
-"aumale"	"aumale"	"PROPN"	1	"correct"	"TRUE"	
-"perdre"	"perdre"	"NOUN"	1	"upos"	"FALSE"	
-"avec"	"ave"	"ADP"	1	"lemma"	"FALSE"	
-"brune"	"brune"	"ADJ"	2	"correct"	"TRUE"	
-"revit"	"rere"	"VERB"	1	"lemma"	"FALSE"	
-"arrêtèrent"	"arrêter"	"VERB"	1	"correct"	"TRUE"	
-"pécaïré"	"pécaïré"	"PROPN"	1	"lemmupos"	"FALSE"	
-"s’"	"s’"	"PROPN"	14	"lemmupos"	"FALSE"	
-"adoucissement"	"adoucissement"	"NOUN"	1	"correct"	"TRUE"	
-"criait"	"crier"	"VERB"	1	"correct"	"TRUE"	
-"consternation"	"consternation"	"NOUN"	1	"lemma"	"FALSE"	
-"égoïsme"	"égoïsme"	"NOUN"	1	"correct"	"TRUE"	
-"muguets"	"muguets"	"NOUN"	1	"lemma"	"FALSE"	
-"clameur"	"clameur"	"NOUN"	1	"correct"	"TRUE"	
-"résistait"	"résistre"	"VERB"	1	"lemma"	"FALSE"	
-"confondait"	"confondre"	"VERB"	1	"correct"	"TRUE"	
-"hâtez-vous"	"hâtez-le"	"NOUN"	1	"tokenization"	"FALSE"	
-"compain"	"compain"	"PROPN"	2	"correct"	"TRUE"	
-"étreignirent"	"étreignirer"	"VERB"	1	"lemma"	"FALSE"	
-"parisiennes"	"parisiennes"	"PROPN"	1	"upos"	"FALSE"	
-"enfui"	"enfui"	"VERB"	1	"correct"	"TRUE"	
-"cracher"	"cracher"	"VERB"	1	"correct"	"TRUE"	
-"gazza"	"gazza"	"PROPN"	1	"upos"	"FALSE"	
-"songer"	"songer"	"VERB"	2	"correct"	"TRUE"	
-"appointements"	"appointement"	"NOUN"	1	"lemma"	"FALSE"	
-"collègues"	"collèg"	"ADJ"	1	"lemmupos"	"FALSE"	
-"braves"	"braf"	"ADJ"	1	"lemma"	"FALSE"	
-"agrément"	"agrément"	"NOUN"	1	"correct"	"TRUE"	
-"accessoire"	"accessoire"	"NOUN"	1	"correct"	"TRUE"	
-"enthousiasme"	"enthousiasme"	"PROPN"	1	"correct"	"TRUE"	
-"clameurs"	"clameur"	"NOUN"	1	"correct"	"TRUE"	
-"numa"	"numa"	"PROPN"	6	"correct"	"TRUE"	
-"berchère"	"berchère"	"PROPN"	1	"correct"	"TRUE"	
-"épis"	"épis"	"ADJ"	1	"lemmupos"	"FALSE"	
-"trembla"	"trembla"	"PRON"	1	"lemmupos"	"FALSE"	
-"croupes"	"croupe"	"NOUN"	1	"correct"	"TRUE"	
-"confidentielle"	"confidentiel"	"ADJ"	1	"correct"	"TRUE"	
-"fracas"	"fracas"	"NOUN"	2	"correct"	"TRUE"	
-"impromptus"	"impromptus"	"NOUN"	1	"lemma"	"FALSE"	
-"pauvre"	"pauvre"	"NOUN"	4	"correct"	"TRUE"	
-"papillon"	"papillon"	"PROPN"	1	"upos"	"FALSE"	
-"montait"	"monter"	"VERB"	2	"correct"	"TRUE"	
-"te"	"ter"	"PRON"	1	"lemma"	"FALSE"	
-"vrières"	"vrières"	"PROPN"	6	"correct"	"TRUE"	
-"blouse"	"blouse"	"NOUN"	3	"correct"	"TRUE"	
-"signez"	"signez"	"VERB"	1	"lemma"	"FALSE"	
-"entendis"	"entendire"	"VERB"	1	"lemma"	"FALSE"	
-"restai"	"rest"	"VERB"	1	"lemma"	"FALSE"	
-"effroyable"	"effroyable"	"ADJ"	1	"correct"	"TRUE"	
-"convint"	"convenir"	"VERB"	1	"correct"	"TRUE"	
-"déranger"	"déranger"	"VERB"	1	"correct"	"TRUE"	
-"toute"	"toute"	"DET"	2	"lemmupos"	"FALSE"	
-"féroce"	"féroce"	"ADJ"	2	"correct"	"TRUE"	
-"drapées"	"draper"	"VERB"	1	"correct"	"TRUE"	
-"particulière"	"particulier"	"NOUN"	1	"upos"	"FALSE"	
-"us"	"u"	"NOUN"	1	"lemmupos"	"FALSE"	
-"durci"	"durci"	"ADV"	1	"upos"	"FALSE"	
-"abattage"	"abattage"	"NOUN"	1	"correct"	"TRUE"	
-"gascon"	"gascon"	"NOUN"	1	"upos"	"FALSE"	
-"carpillons"	"carpillon"	"NOUN"	1	"correct"	"TRUE"	
-"faisais"	"faire"	"VERB"	2	"correct"	"TRUE"	
-"contentait"	"contenter"	"VERB"	1	"correct"	"TRUE"	
-"prétendait"	"prétendre"	"NOUN"	1	"upos"	"FALSE"	
-"couvrirent"	"couvrir"	"VERB"	1	"correct"	"TRUE"	
-"mme"	"mme"	"NOUN"	9	"lemma"	"FALSE"	
-"anxieux"	"anxieux"	"ADJ"	1	"correct"	"TRUE"	
-"frits"	"frire"	"ADJ"	1	"upos"	"FALSE"	
-"avertissant"	"avertir"	"VERB"	1	"correct"	"TRUE"	
-"engobes"	"engobe"	"NOUN"	1	"correct"	"TRUE"	
-"dirait"	"dire"	"VERB"	1	"correct"	"TRUE"	
-"bribes"	"bribe"	"NOUN"	1	"correct"	"TRUE"	
-"théories"	"théory"	"NOUN"	1	"lemma"	"FALSE"	
-"parisiens"	"parisiens"	"ADJ"	1	"lemmupos"	"FALSE"	
-"roumestan"	"roumestan"	"PROPN"	6	"correct"	"TRUE"	
-"trahît"	"trahît"	"NOUN"	1	"lemmupos"	"FALSE"	
-"échauffait"	"échauffaire"	"VERB"	1	"lemma"	"FALSE"	
-"fus"	"fre"	"VERB"	1	"lemma"	"FALSE"	
-"bréa"	"bréa"	"PROPN"	1	"correct"	"TRUE"	
-"accouraient"	"accourer"	"VERB"	1	"lemma"	"FALSE"	
-"nourrice"	"noureur"	"NOUN"	1	"lemma"	"FALSE"	
-"éclair"	"éclair"	"NOUN"	1	"correct"	"TRUE"	
-"muguets"	"muguets"	"PROPN"	1	"lemma"	"FALSE"	
-"vive"	"vive"	"PROPN"	1	"lemmupos"	"FALSE"	
-"boiseries"	"boiserie"	"NOUN"	1	"correct"	"TRUE"	
-"-en"	"-en"	"PROPN"	1	"lemmupos"	"FALSE"	
-"voisine"	"voisiner"	"VERB"	1	"lemmupos"	"FALSE"	
-"débite"	"débiter"	"VERB"	1	"features"	"FALSE"	
-"balayais"	"balayer"	"VERB"	1	"correct"	"TRUE"	
-"pérorait"	"péror"	"VERB"	1	"lemma"	"FALSE"	
-"escarcelles"	"escarcelle"	"NOUN"	1	"correct"	"TRUE"	
-"agrément"	"agrément"	"ADV"	1	"upos"	"FALSE"	
-"pressait"	"presre"	"VERB"	2	"lemma"	"FALSE"	
-"abuser"	"abuser"	"VERB"	1	"correct"	"TRUE"	
-"bouillie"	"bouillie"	"NOUN"	1	"correct"	"TRUE"	
-"anéantis"	"anéanti"	"NOUN"	1	"upos"	"FALSE"	
-"dussardier"	"dussardier"	"PROPN"	3	"correct"	"TRUE"	
-"danserez"	"danser"	"VERB"	1	"correct"	"TRUE"	
-"toulousain"	"toulousain"	"PROPN"	1	"lemmupos"	"FALSE"	
-"claque"	"claque"	"NOUN"	1	"correct"	"TRUE"	
-"proféra"	"profér"	"VERB"	1	"lemma"	"FALSE"	
-"belles-sœurs"	"belles-sœur"	"NOUN"	1	"lemma"	"FALSE"	
-"affaire"	"affaite"	"NOUN"	1	"lemma"	"FALSE"	
-"intrigant"	"intriger"	"ADJ"	1	"lemmupos"	"FALSE"	
-"désert"	"désert"	"ADJ"	1	"correct"	"TRUE"	
-"bondit"	"bondre"	"VERB"	1	"lemma"	"FALSE"	
-"quelqu’un"	"quelqu’un"	"PRON"	2	"correct"	"TRUE"	
-"câline"	"câlin"	"ADJ"	1	"correct"	"TRUE"	
-"favorisait"	"favorire"	"VERB"	1	"lemma"	"FALSE"	
-"souriait"	"sourier"	"VERB"	1	"lemma"	"FALSE"	
-"méfie"	"méfier"	"VERB"	2	"correct"	"TRUE"	
-"capitale"	"capitale"	"PROPN"	1	"upos"	"FALSE"	
-"surprit"	"surprit"	"VERB"	1	"features"	"FALSE"	
-"allaient"	"aller"	"VERB"	1	"correct"	"TRUE"	
-"parle"	"parler"	"PROPN"	1	"upos"	"FALSE"	
-"etes-vous"	"etes-le"	"PRON"	1	"tokenization"	"FALSE"	
-0	0	0	1	"correct"	"TRUE"	
-"mîmes"	"mîme"	"ADJ"	1	"lemmupos"	"FALSE"	
-"réfugia"	"réfugier"	"VERB"	2	"correct"	"TRUE"	
-"dormant"	"dormir"	"NOUN"	1	"upos"	"FALSE"	
-"grondait"	"grondre"	"VERB"	1	"lemma"	"FALSE"	
-"enveloppaient"	"envelopper"	"VERB"	1	"correct"	"TRUE"	
-"brosse"	"brosse"	"NOUN"	1	"correct"	"TRUE"	
-"va"	"va"	"PROPN"	1	"lemmupos"	"FALSE"	
-"criard"	"criard"	"NOUN"	1	"upos"	"FALSE"	
-"saint-alban"	"saint-alban"	"PROPN"	7	"correct"	"TRUE"	
-"furieux"	"furieux"	"ADJ"	2	"correct"	"TRUE"	
-"citations"	"citation"	"NOUN"	1	"correct"	"TRUE"	
-"ariégeois"	"ariégeois"	"NOUN"	1	"upos"	"FALSE"	
-"payées"	"payer"	"ADJ"	1	"lemmupos"	"FALSE"	
-"aujourd’hui"	"aujourd’hui"	"ADV"	2	"correct"	"TRUE"	
-"bourre"	"bourre"	"NOUN"	1	"correct"	"TRUE"	
-"pourrions"	"pourroir"	"AUX"	1	"lemmupos"	"FALSE"	
-"de"	"de"	"DET"	1	"correct"	"TRUE"	
-"fileuse"	"fileur"	"NOUN"	1	"lemma"	"FALSE"	
-"débouchaient"	"déboucher"	"VERB"	1	"correct"	"TRUE"	
-"sanglots"	"sanglot"	"NOUN"	2	"correct"	"TRUE"	
-"emmena"	"emmener"	"VERB"	1	"correct"	"TRUE"	
-"dissiperont"	"dissiper"	"VERB"	1	"correct"	"TRUE"	
-"troublée"	"troublée"	"ADV"	1	"lemmupos"	"FALSE"	
-"moustache"	"moustache"	"NOUN"	2	"correct"	"TRUE"	
-"dorés"	"doré"	"VERB"	1	"upos"	"FALSE"	
-"muets"	"muet"	"VERB"	1	"upos"	"FALSE"	
-"diables"	"diable"	"NOUN"	1	"correct"	"TRUE"	
-"balcons"	"balcon"	"NOUN"	1	"correct"	"TRUE"	
-"courus"	"courir"	"VERB"	1	"correct"	"TRUE"	
-"balancier"	"balancier"	"NOUN"	1	"correct"	"TRUE"	
-"frisée"	"friser"	"NOUN"	1	"upos"	"FALSE"	
+form	lemma	upos	freq.samp	errtype	is_correct	rand_int	BAMTINOF
+épanouissait	épanouisser	VERB	1	lemma	FALSE		
+apprêts	apprêt	NOUN	1	correct	TRUE	571	
+produisait	produire	VERB	1	correct	TRUE	590	
+chargiez	chargier	VERB	1	lemma	FALSE		
+astucieuse	astucieur	NOUN	1	lemmupos	FALSE		
+pressé	presser	ADJ	1	lemma	FALSE		
+escopette	escopette	NOUN	1	correct	TRUE	607	
+exsangues	exsangue	ADJ	1	correct	TRUE	421	
+pinceaux	pinceau	NOUN	1	correct	TRUE	506	
+pleurait	pleurait	VERB	1	lemma	FALSE		
+adieu	adieu	PROPN	1	upos	FALSE		
+indécence	indécence	NOUN	1	correct	TRUE	625	
+houillère	houiller	NOUN	1	lemma	FALSE		
+-elle	elle	PRON	1	lemma	FALSE		
+persuader	persuader	VERB	1	correct	TRUE	543	
+fourmis	fourmis	PROPN	1	lemmupos	FALSE		
+étrange	étrange	PROPN	1	upos	FALSE		
+pyroscopes	pyroscope	NOUN	1	correct	TRUE	359	
+provençal	provençal	ADJ	1	upos	FALSE		
+-la	-le	PRON	1	lemma	FALSE		
+resta	rester	NOUN	1	upos	FALSE		
+interrogea	interroger	VERB	1	correct	TRUE	490	
+jusqu’	jusqu’	PROPN	3	lemmupos	FALSE		
+déclaraient	déclarer	VERB	1	correct	TRUE	508	
+pis	pir	VERB	1	lemmupos	FALSE		
+labourait	labourait	NOUN	1	lemmupos	FALSE		
+invitations	invitation	NOUN	1	correct	TRUE	623	
+valaient	valaenir	VERB	1	lemma	FALSE		
+femme	femme	ADP	1	upos	FALSE		
+solitude	solitude	NOUN	1	correct	TRUE	584	
+sollicitude	sollicitude	NOUN	1	correct	TRUE	480	
+vois	vois	ADV	1	lemmupos	FALSE		
+tassée	tasser	ADJ	1	upos	FALSE		
+présente	présenter	ADJ	1	lemma	FALSE		
+boas	boas	NOUN	1	lemma	FALSE		
+mystérieuses	mystérieux	ADJ	1	correct	TRUE	561	
+oubliait	oublier	VERB	1	correct	TRUE	611	
+reverrons	reverr	VERB	1	lemma	FALSE		
+ah	ah	PROPN	2	upos	FALSE		
+ébranla	ébranla	PROPN	1	lemmupos	FALSE		
+indignation	indignation	NOUN	1	correct	TRUE	477	
+soupiré	soupirer	VERB	1	correct	TRUE	383	
+encrassé	encrasser	VERB	1	correct	TRUE	365	
+arrêta	arrêter	VERB	1	correct	TRUE	368	
+sanglé	sangller	VERB	1	lemma	FALSE		
+allumai	allum	VERB	1	lemma	FALSE		
+trempai	tremp	VERB	1	lemma	FALSE		
+craignant	craindre	PROPN	1	lemmupos	FALSE		
+taisaient	taiser	VERB	1	lemma	FALSE		
+causèrent	causer	VERB	1	correct	TRUE	522	
+lasse	lasse	ADJ	1	lemma	FALSE		
+n’	n’	PROPN	10	lemmupos	FALSE		
+aperçut	apercevoir	VERB	1	features	FALSE		
+aplatit	aplatit	VERB	1	lemma	FALSE		
+vermillon	vermillon	NOUN	1	correct	TRUE	629	
+l’	l’	PROPN	3	tokenization	FALSE		
+drues	dru	ADJ	1	correct	TRUE	407	
+déridait	déridre	VERB	1	lemma	FALSE		
+délié	délié	VERB	1	lemma	FALSE		
+pauvre	pauvre	NOUN	1	features	FALSE		
+aps	aps	PROPN	1	correct	TRUE	420	
+l’	l’	PROPN	41	lemmupos	FALSE		
+repoussais	repousser	VERB	1	features	FALSE		
+négrier	négrier	PROPN	1	correct	TRUE	471	
+vaguement	vaguement	ADV	1	correct	TRUE	494	
+crut	craître	VERB	1	lemma	FALSE		
+ignoraient	ignorer	VERB	1	correct	TRUE	603	
+bah	bah	INTJ	1	correct	TRUE	447	
+prodiguant	prodigure	VERB	1	lemma	FALSE		
+hausse	hausser	VERB	1	correct	TRUE	539	
+improvisé	improviser	NOUN	1	correct	TRUE	404	
+escalier	escalier	PROPN	1	correct	TRUE	455	
+villasse	villasse	NOUN	1	correct	TRUE	377	
+aumale	aumale	PROPN	1	correct	TRUE	372	
+sourires	sourire	NOUN	1	correct	TRUE	400	
+étoffes	étoffe	NOUN	1	correct	TRUE	410	
+ouvert	ouvrir	ADJ	1	lemma	FALSE		
+beau	beau	VERB	1	upos	FALSE		
+jamais	jamais	CCONJ	1	upos	FALSE		
+allez-vous	allez-le	PRON	1	tokenization	FALSE		
+frissonnant	frissonnant	VERB	1	correct	TRUE	454	
+témoignèrent	témoigner	VERB	1	correct	TRUE	640	
+venez	venir	PROPN	1	upos	FALSE		
+prétention	prétention	NOUN	1	correct	TRUE	470	
+écroulement	écroulement	NOUN	1	correct	TRUE	398	
+circulaient	circuler	VERB	1	correct	TRUE	384	
+-là	-là	PART	1	lemma	FALSE		
+allez	aller	X	1	upos	FALSE		
+rires	rire	ADJ	1	upos	FALSE		
+crinière	crinière	NOUN	1	correct	TRUE	552	
+incrédulité	incrédulité	NOUN	1	correct	TRUE	601	
+araignée	araignée	PROPN	1	upos	FALSE		
+fume	fume	VERB	1	lemma	FALSE		
+irons	irer	VERB	1	lemma	FALSE		
+éclatants	éclatant	NOUN	1	upos	FALSE		
+êtes	être	NOUN	1	upos	FALSE		
+voulais	vouler	VERB	1	lemma	FALSE		
+paraîtrez	paraîtrer	VERB	1	lemma	FALSE		
+amuserais	amuser	VERB	1	correct	TRUE	546	
+tremblante	tremblant	ADJ	1	correct	TRUE	509	
+four-saint-germain	four-saint-germain	PROPN	1	correct	TRUE	486	
+anglaise	anglaise	PROPN	1	lemmupos	FALSE		
+prendrai	prendr	VERB	1	lemma	FALSE		
+étendis	étendire	VERB	1	lemma	FALSE		
+écoeurante	écoeurant	ADJ	1	correct	TRUE	550	
+cents	cent	NOUN	1	upos	FALSE		
+regardais	regarder	VERB	1	correct	TRUE	464	
+rentrait	rentrer	VERB	1	correct	TRUE	626	
+impatientait	impatienter	VERB	1	correct	TRUE	643	
+sienne	sien	PROPN	1	upos	FALSE		
+impuissant	impuisre	VERB	1	lemmupos	FALSE		
+recommençait	recommencer	VERB	1	correct	TRUE	530	
+aristocratique	aristocratique	ADJ	1	correct	TRUE	378	
+négresse	négresse	PROPN	2	lemmupos	FALSE		
+limoniers	limonier	NOUN	1	correct	TRUE	556	
+montre	montrer	NOUN	1	correct	TRUE	401	
+approche	approche	ADJ	1	lemmupos	FALSE		
+impatients	impatient	ADJ	1	correct	TRUE	602	
+fulgurantes	fulgurant	ADJ	1	correct	TRUE	511	
+interdisant	interdire	ADJ	1	upos	FALSE		
+répondent	répondre	VERB	1	correct	TRUE	563	
+aimez-vous	aimez-le	PROPN	1	tokenization	FALSE		
+enfournement	enfournement	ADV	1	upos	FALSE		
+-les	le	NOUN	1	upos	FALSE		
+ignorons	ignorer	VERB	1	features	FALSE		
+détalant	détaler	VERB	1	correct	TRUE	551	
+verrait	verre	VERB	1	lemma	FALSE		
+navrés	navrer	VERB	1	correct	TRUE	386	
+tambourin	tambourin	NOUN	1	correct	TRUE	547	
+viens	venir	VERB	1	correct	TRUE	621	
+éclats	éclat	NOUN	1	correct	TRUE	576	
+affaires-etrangères	affaires-etrangère	NOUN	1	upos	FALSE		
+régalade	régalade	NOUN	1	correct	TRUE	619	
+baissés	baisser	VERB	1	correct	TRUE	585	
+gymnase	gymnase	PROPN	1	correct	TRUE	452	
+méprisante	méprisant	NOUN	1	upos	FALSE		
+languissantes	languissante	ADJ	1	lemma	FALSE		
+regrettait	regretter	VERB	1	correct	TRUE	557	
+troubler	troubler	VERB	1	correct	TRUE	599	
+cents	cents	NOUN	2	lemmupos	FALSE		
+loutre	loutre	VERB	1	upos	FALSE		
+racler	racler	VERB	1	correct	TRUE	355	
+rassure-toi	rassure-toi	NOUN	1	tokenization	FALSE		
+madame	monsieur	ADJ	1	lemmupos	FALSE		
+relire	relire	NOUN	1	correct	TRUE	528	
+chandelle	chandel	NOUN	1	lemma	FALSE		
+courus	courir	VERB	1	correct	TRUE	615	
+ardéchois	ardéchois	NOUN	1	upos	FALSE		
+besogne	besogner	VERB	1	lemmupos	FALSE		
+boiseries	boiserie	NOUN	1	correct	TRUE	379	
+hé	hé	VERB	1	lemmupos	FALSE		
+couvrirent	couvrir	VERB	1	correct	TRUE	555	
+entrons	entrer	VERB	1	features	FALSE		
+inventives	inventive	ADJ	1	correct	TRUE	391	
+arrivais	arrivoir	VERB	1	lemma	FALSE		
+bouffi	bouffi	ADJ	1	correct	TRUE	642	
+belle-fille	belle-fille	NOUN	1	correct	TRUE	636	
+ballant	baller	VERB	1	lemmupos	FALSE		
+tutti	tutti	NOUN	1	correct	TRUE	429	
+parbleu	parbleu	ADV	1	upos	FALSE		
+grosse	gros	NOUN	1	upos	FALSE		
+embrassai	embrass	VERB	1	lemma	FALSE		
+muguets	muguets	PROPN	1	lemmupos	FALSE		
+vît	vître	VERB	1	lemma	FALSE		
+-la	-le	PROPN	1	lemmupos	FALSE		
+écria	écrier	PROPN	1	upos	FALSE		
+çà	çà	ADV	1	lemma	FALSE		
+ferré	ferrer	VERB	1	correct	TRUE	444	
+francs	franc	ADJ	3	upos	FALSE		
+applaudie	applaudier	ADJ	1	lemmupos	FALSE		
+artiste	artister	VERB	1	lemmupos	FALSE		
+confidentielle	confidentiel	ADJ	1	correct	TRUE	437	
+accroissant	accroître	VERB	1	correct	TRUE	427	
+hommages	hommage	NOUN	1	correct	TRUE	449	
+impatiente	impatient	ADJ	1	correct	TRUE	416	
+émut	émut	VERB	1	lemma	FALSE		
+guéri	guérir	VERB	1	correct	TRUE	469	
+préparez-vous	préparez-le	NOUN	1	tokenization	FALSE		
+grillon	grillon	PROPN	1	lemmupos	FALSE		
+parisiens	parisiens	PROPN	1	lemmupos	FALSE		
+kakatoès	kakatoè	NOUN	1	lemma	FALSE		
+bées	bé	VERB	1	lemmupos	FALSE		
+lâcher	lâcher	NOUN	1	upos	FALSE		
+fis	fils	ADJ	1	lemmupos	FALSE		
+eu	eu	VERB	1	lemma	FALSE		
+de	un	ADP	1	correct	TRUE	459	
+exprès	exprès	ADP	1	correct	TRUE	610	
+entrai	entr	VERB	1	lemma	FALSE		
+mrs	mrs	PROPN	1	lemmupos	FALSE		
+insurgé	insurger	VERB	1	lemmupos	FALSE		
+ta	ta	VERB	1	lemmupos	FALSE		
+postillon	postillon	NOUN	1	correct	TRUE	374	
+messieurs	messieur	NOUN	2	lemma	FALSE		
+pintadon	pintadon	NOUN	1	correct	TRUE	409	
+dis-moi	dis-moi	SCONJ	1	tokenization	FALSE		
+formaient	former	VERB	1	correct	TRUE	408	
+-je	-je	PRON	1	lemma	FALSE		
+regimbart	regimbart	PROPN	1	correct	TRUE	389	
+orties	orties	PROPN	1	lemmupos	FALSE		
+turc	turc	PROPN	1	upos	FALSE		
+satyres	satyre	NOUN	1	correct	TRUE	513	
+vasistas	vasista	NOUN	1	lemma	FALSE		
+ronflants	ronflant	NOUN	1	upos	FALSE		
+cannibales	cannibale	NOUN	1	features	FALSE		
+tenant	tenir	ADV	1	correct	TRUE	531	
+delmar	delmar	PROPN	1	correct	TRUE	385	
+arriverait	arriver	VERB	1	features	FALSE		
+maniaient	maniaenir	VERB	1	lemma	FALSE		
+revins	revin	VERB	1	lemma	FALSE		
+illustres	illustre	ADJ	1	correct	TRUE	526	
+tenant	tenir	ADV	1	upos	FALSE		
+changent	changer	NOUN	1	upos	FALSE		
+allons	aller	NOUN	1	upos	FALSE		
+poupon	poupon	NOUN	1	correct	TRUE	495	
+débattaient	débatter	VERB	1	lemma	FALSE		
+disparues	disparu	VERB	1	lemma	FALSE		
+pareils	pareil	ADJ	1	correct	TRUE	542	
+bouches	bouche	NOUN	1	correct	TRUE	467	
+arrosai	arrosai	VERB	1	features	FALSE		
+clameur	clameur	NOUN	1	correct	TRUE	473	
+scorpions	scorpions	PROPN	1	lemmupos	FALSE		
+cher	sche	ADJ	1	lemma	FALSE		
+admireraient	admirerer	VERB	1	lemma	FALSE		
+dis-nous	dis-le	PRON	1	tokenization	FALSE		
+souviens	souvenir	ADJ	1	upos	FALSE		
+carrousel	carrousel	PROPN	1	correct	TRUE	600	
+madame	madamer	VERB	1	lemmupos	FALSE		
+appelaient	appeler	VERB	1	correct	TRUE	535	
+hais	her	VERB	1	lemma	FALSE		
+émoustilla	émoustilla	VERB	1	lemma	FALSE		
+méfient	méfier	VERB	1	correct	TRUE	381	
+essayait	essayer	VERB	1	correct	TRUE	388	
+chante	chant	NOUN	1	lemmupos	FALSE		
+tante	tant	NOUN	2	lemma	FALSE		
+réglé	régller	VERB	1	lemma	FALSE		
+détermina	détermina	ADJ	1	lemmupos	FALSE		
+personne	personne	VERB	1	upos	FALSE		
+trouvais	trouvoir	VERB	2	lemma	FALSE		
+trompais	tromper	VERB	1	correct	TRUE	1	
+cuisse	cuisse	NOUN	1	correct	TRUE	501	
+décombres	décombre	NOUN	1	lemma	FALSE		
+usées	user	ADJ	1	lemma	FALSE		
+assemblée	assemblée	ADV	1	upos	FALSE		
+bras	bra	NOUN	1	lemma	FALSE		
+garnement	garnement	NOUN	1	correct	TRUE	587	
+chanonat	chanonat	PROPN	1	correct	TRUE	498	
+papillon	papillon	PROPN	1	lemmupos	FALSE		
+imprima	imprimer	VERB	1	correct	TRUE	369	
+serra	soyer	VERB	2	lemma	FALSE		
+marseillaise	marseillaise	PROPN	1	correct	TRUE	487	
+surveillant	surveillant	NOUN	1	correct	TRUE	460	
+repentirs	repentir	NOUN	1	correct	TRUE	510	
+tiens	tiens	ADJ	1	lemmupos	FALSE		
+ému	ému	VERB	1	correct	TRUE	360	
+enchantait	enchantre	VERB	1	lemma	FALSE		
+vinrent	vinrent	VERB	1	lemma	FALSE		
+venais	venir	VERB	1	correct	TRUE	438	
+lis	lire	NOUN	1	lemmupos	FALSE		
+té	té	PROPN	1	lemmupos	FALSE		
+espérances	espérance	NOUN	1	correct	TRUE	371	
+plaire	plaite	VERB	1	lemma	FALSE		
+0	0	0	1	correct	TRUE	488	
+jolie	jolie	ADJ	1	lemma	FALSE		
+courait	coure	VERB	1	lemma	FALSE		
+j’	j’	PROPN	3	lemmupos	FALSE		
+pus	pre	VERB	1	lemma	FALSE		
+attendrie	attendrier	VERB	1	lemma	FALSE		
+entendais	entendais	AUX	1	lemmupos	FALSE		
+veillée	veiller	NOUN	1	lemma	FALSE		
+magnifiques	magnifique	NOUN	1	upos	FALSE		
+c’	c’	PROPN	4	lemmupos	FALSE		
+émeute	émeute	PRON	1	upos	FALSE		
+promesse	promes	ADJ	1	lemmupos	FALSE		
+théâtre	théâtre	VERB	1	upos	FALSE		
+mansarde	mansarde	NOUN	1	correct	TRUE	628	
+faites	faire	ADJ	1	upos	FALSE		
+lucre	lucrer	NOUN	1	lemma	FALSE		
+voûtée	voûté	VERB	1	lemma	FALSE		
+cents	cent	NOUN	1	correct	TRUE	577	
+muets	muet	VERB	1	upos	FALSE		
+paisiblement	paisiblement	ADV	1	correct	TRUE	361	
+tombent	tombent	VERB	1	lemma	FALSE		
+ouvris	ouvrendre	VERB	1	lemma	FALSE		
+salons	salon	NOUN	1	correct	TRUE	534	
+descendirent	descendirer	VERB	2	lemma	FALSE		
+deviné	deviner	VERB	1	correct	TRUE	573	
+dis-moi	dis-moi	NOUN	1	tokenization	FALSE		
+flétries	flétri	ADJ	1	correct	TRUE	414	
+malle	mal	ADJ	1	lemma	FALSE		
+serai	ser	VERB	2	lemma	FALSE		
+closerie	closerie	PROPN	1	correct	TRUE	598	
+saint-antoine	saint-antoine	PROPN	1	correct	TRUE	632	
+cous	cous	NOUN	1	lemma	FALSE		
+aisé	aisé	VERB	1	correct	TRUE	476	
+modeste	modeste	NOUN	1	upos	FALSE		
+audiberte	audiberte	PROPN	1	correct	TRUE	538	
+jolies	joly	ADJ	2	lemma	FALSE		
+retrouvait	retrouver	VERB	1	correct	TRUE	537	
+ondulaient	ondulaenir	VERB	1	lemma	FALSE		
+avançaient	avançer	VERB	1	correct	TRUE	649	
+enleva	enlever	VERB	1	correct	TRUE	639	
+clameurs	clameur	NOUN	1	correct	TRUE	423	
+sang-froid	sang-froid	NOUN	1	correct	TRUE	370	
+roulant	rouler	VERB	1	correct	TRUE	616	
+dormiras	dormiras	ADV	1	lemmupos	FALSE		
+rachèterez	rachèter	VERB	1	lemma	FALSE		
+gouailleurs	gouailleur	NOUN	1	upos	FALSE		
+oh	oh	PROPN	1	lemmupos	FALSE		
+escarcelles	escarcelle	NOUN	1	correct	TRUE	613	
+lingot	lingot	NOUN	1	correct	TRUE	544	
+décidai	décid	VERB	1	lemma	FALSE		
+confirma	confirma	NOUN	1	lemmupos	FALSE		
+coulait	couloir	VERB	1	lemma	FALSE		
+aco	aco	NOUN	1	tokenization	FALSE		
+tiens	tyen	NOUN	1	lemmupos	FALSE		
+chercha	chercher	VERB	1	correct	TRUE	597	
+légers	léger	NOUN	1	upos	FALSE		
+poussèrent	pousser	VERB	1	correct	TRUE	559	
+barrot	barrot	PROPN	1	correct	TRUE	426	
+guéri	guéri	NOUN	1	lemmupos	FALSE		
+allons-nous	allons-nous	PROPN	1	tokenization	FALSE		
+blotties	blottie	VERB	1	lemma	FALSE		
+hélas	hélas	NOUN	2	upos	FALSE		
+débordait	débordre	VERB	1	lemma	FALSE		
+habitez	habiter	VERB	1	correct	TRUE	396	
+ironie	ironie	NOUN	1	correct	TRUE	520	
+regardèrent	regarder	VERB	1	correct	TRUE	395	
+bete	bete	PROPN	10	tokenization	FALSE		
+ladra	ladre	VERB	1	lemmupos	FALSE		
+adoucissement	adoucissement	NOUN	1	correct	TRUE	637	
+curieux	curiel	NOUN	4	lemma	FALSE		
+dételé	dételer	VERB	1	correct	TRUE	500	
+lappara	lappara	PROPN	1	correct	TRUE	446	
+honte	honte	ADJ	1	upos	FALSE		
+confondait	confondre	VERB	1	correct	TRUE	373	
+buvant	buvant	ADP	1	lemmupos	FALSE		
+fringant	fringer	VERB	1	lemmupos	FALSE		
+repu	repre	VERB	1	lemmupos	FALSE		
+incendie	incendie	ADJ	1	correct	TRUE	394	
+emportement	emportement	NOUN	1	correct	TRUE	548	
+aigu	aigu	ADJ	1	correct	TRUE	440	
+enverrai	envevoir	AUX	1	lemmupos	FALSE		
+agnelet	agnelet	NOUN	1	correct	TRUE	541	
+vas	vas	ADV	2	lemmupos	FALSE		
+avança	avanç	VERB	1	lemma	FALSE		
+midi	midi	PROPN	1	upos	FALSE		
+là-dedans	là-dedans	ADP	1	correct	TRUE	419	
+étreintes	étreinte	ADJ	1	correct	TRUE	525	
+emmenaient	emmener	VERB	1	correct	TRUE	493	
+emplit	emplir	VERB	1	features	FALSE		
+rougir	rougir	VERB	1	correct	TRUE	356	
+connaissez-vous	connaissez-vous	NOUN	1	tokenization	FALSE		
+reposeras	reposera	NOUN	1	lemmupos	FALSE		
+roulai	roul	VERB	1	lemma	FALSE		
+triomphes	triomph	NOUN	1	lemma	FALSE		
+fus	fre	VERB	1	lemma	FALSE		
+leva	lever	VERB	1	correct	TRUE	612	
+enchaînées	enchaîné	ADJ	1	lemmupos	FALSE		
+ensoleillée	ensoleiller	VERB	1	lemmupos	FALSE		
+vagues	vague	NOUN	1	correct	TRUE	504	
+quès	quès	ADP	1	tokenization	FALSE		
+défilaient	défilaenir	VERB	1	lemma	FALSE		
+d’	d’	PROPN	31	lemmupos	FALSE		
+arcade	arcade	PROPN	1	correct	TRUE	624	
+perdraient	perdraenir	VERB	1	lemma	FALSE		
+manque	manque	ADJ	1	lemmupos	FALSE		
+charbonnel	charbonnel	PROPN	1	correct	TRUE	521	
+pare	parer	VERB	1	correct	TRUE	564	
+carpes	carpes	PROPN	1	lemmupos	FALSE		
+inconnu	inconnir	VERB	1	lemmupos	FALSE		
+divins	divin	NOUN	1	upos	FALSE		
+pareil	pareil	NOUN	1	correct	TRUE	432	
+térébenthine	térébenthine	NOUN	1	correct	TRUE	512	
+mugissements	mugissement	NOUN	1	correct	TRUE	433	
+aimable	aimable	NOUN	2	upos	FALSE		
+as	a	NOUN	1	lemmupos	FALSE		
+vibra	vibrer	VERB	1	features	FALSE		
+dis	dis	ADV	2	lemmupos	FALSE		
+dirait	dire	VERB	2	features	FALSE		
+raisonner	raisonner	VERB	1	correct	TRUE	592	
+appréhension	appréhension	NOUN	1	correct	TRUE	412	
+apprenait	apprendre	VERB	1	correct	TRUE	411	
+renseignée	renseigner	VERB	1	correct	TRUE	479	
+strophe	strophe	NOUN	1	correct	TRUE	357	
+dévouer	dévouer	VERB	1	correct	TRUE	485	
+marche	marche	ADJ	1	upos	FALSE		
+saufs	sauf	NOUN	1	correct	TRUE	364	
+périgourdin	périgourdin	PROPN	1	upos	FALSE		
+lissait	lisre	VERB	1	lemma	FALSE		
+voudraient	voudrer	VERB	1	lemma	FALSE		
+riante	riant	ADJ	1	correct	TRUE	496	
+grossier	grossier	NOUN	1	upos	FALSE		
+escargots	escargots	NOUN	1	lemma	FALSE		
+initiais	initier	NOUN	1	upos	FALSE		
+émeute	émeute	PRON	1	correct	TRUE	418	
+atours	atours	NOUN	1	lemma	FALSE		
+bossu	bossue	NOUN	3	lemma	FALSE		
+rosalie	rosalie	PROPN	1	correct	TRUE	645	
+hé	hé	PROPN	1	lemmupos	FALSE		
+déployait	déployer	VERB	1	correct	TRUE	466	
+léchaient	léchaient	NOUN	1	lemmupos	FALSE		
+de	un	ADP	1	lemma	FALSE		
+pressentiments	pressentiment	ADJ	1	upos	FALSE		
+dirait	dire	VERB	1	correct	TRUE	545	
+auvergnat	auvergnat	NOUN	1	upos	FALSE		
+chose	chose	PROPN	1	upos	FALSE		
+croyaient	croyer	VERB	1	lemma	FALSE		
+soeur	soeur	PROPN	1	upos	FALSE		
+otant	otant	PROPN	1	lemmupos	FALSE		
+sympathies	sympathie	NOUN	1	correct	TRUE	536	
+rugissement	rugissement	NOUN	1	correct	TRUE	456	
+médailles	médaille	ADJ	1	upos	FALSE		
+mort	mort	VERB	1	correct	TRUE	591	
+balayés	balayer	VERB	1	correct	TRUE	387	
+fée	fée	NOUN	1	correct	TRUE	507	
+recevais	recevoir	VERB	1	correct	TRUE	652	
+vacarme	vacarme	NOUN	1	correct	TRUE	588	
+méfiants	méfiant	ADJ	1	correct	TRUE	514	
+a	à	AUX	1	lemma	FALSE		
+déranger	déranger	VERB	1	correct	TRUE	617	
+répondis	répondire	VERB	2	lemma	FALSE		
+chevalin	chevalin	ADJ	1	correct	TRUE	363	
+tantes	tant	NOUN	1	lemma	FALSE		
+mondaine	mondain	ADJ	1	correct	TRUE	393	
+ayez	ayer	VERB	1	lemma	FALSE		
+tâtons	tâton	NOUN	1	lemma	FALSE		
+reculait	reculoir	VERB	1	lemma	FALSE		
+cherchaient	chercher	VERB	1	correct	TRUE	503	
+chenilles	chenilles	PROPN	2	lemmupos	FALSE		
+entraînant	entraîner	NOUN	1	upos	FALSE		
+manque	manque	VERB	1	lemma	FALSE		
+bonshommes	bonshomme	NOUN	1	lemma	FALSE		
+coquilles	coquille	NOUN	1	correct	TRUE	492	
+biniou	biniou	NOUN	1	correct	TRUE	633	
+posage	posage	NOUN	1	correct	TRUE	478	
+conduis	conduérir	VERB	1	lemma	FALSE		
+enthousiasme	enthousiasme	PROPN	1	correct	TRUE	580	
+retint	retint	VERB	1	lemma	FALSE		
+guéri	guéri	VERB	1	lemma	FALSE		
+gêné	gênaître	VERB	1	lemmupos	FALSE		
+irrité	irrité	NOUN	1	upos	FALSE		
+fours	fours	NOUN	1	correct	TRUE	574	
+saurez	saurer	VERB	1	lemma	FALSE		
+louez	louer	PROPN	1	upos	FALSE		
+ta	ta	NOUN	3	lemmupos	FALSE		
+emmena	emmener	VERB	1	correct	TRUE	630	
+foutré	foutré	VERB	1	upos	FALSE		
+bravos	bravos	NOUN	3	lemma	FALSE		
+extasiées	extasié	VERB	1	lemma	FALSE		
+scarabée	scarabée	PROPN	1	lemmupos	FALSE		
+saisissaient	saisisser	VERB	1	lemma	FALSE		
+belles	beau	NOUN	1	upos	FALSE		
+allons	allons	PROPN	1	lemmupos	FALSE		
+rejoignaient	rejoignaenir	VERB	1	lemma	FALSE		
+réjoui	réjoui	NOUN	1	upos	FALSE		
+groupant	grouper	VERB	1	correct	TRUE	524	
+dilatée	dilaté	VERB	1	lemma	FALSE		
+superstitieuse	superstitieux	ADJ	1	correct	TRUE	424	
+ravissaient	ravissaenir	VERB	1	lemma	FALSE		
+joli	joli	ADJ	1	correct	TRUE	635	
+étourdissait	étourdisser	VERB	1	lemma	FALSE		
+remplissaient	remplissaier	VERB	1	lemma	FALSE		
+battit	battre	NOUN	1	upos	FALSE		
+prit	prit	NOUN	1	lemmupos	FALSE		
+parvenaient	parvenir	VERB	1	correct	TRUE	505	
+tressaillirent	tressaillirer	VERB	1	lemma	FALSE		
+vint	vint	ADJ	1	lemmupos	FALSE		
+lenteurs	lenteur	NOUN	1	correct	TRUE	653	
+civilisatrice	civilisateur	ADJ	1	correct	TRUE	631	
+embrasse-moi	embrasse-moi	NOUN	1	tokenization	FALSE		
+moussu	moussu	PROPN	2	upos	FALSE		
+surpris	surpris	VERB	1	correct	TRUE	568	
+maman	maman	PROPN	1	upos	FALSE		
+sentais	senter	VERB	2	lemma	FALSE		
+ac	ac	NOUN	1	lemmupos	FALSE		
+eussions	eussoir	AUX	1	lemma	FALSE		
+attendons	attendons	PROPN	2	lemmupos	FALSE		
+toute	tout	ADV	1	correct	TRUE	397	
+débouchaient	déboucher	VERB	1	correct	TRUE	441	
+mûre	mûr	ADJ	1	correct	TRUE	565	
+noirci	noirci	INTJ	1	upos	FALSE		
+mentais	menter	VERB	1	lemma	FALSE		
+de	de	DET	1	correct	TRUE	481	
+hait	her	VERB	1	lemma	FALSE		
+mathurin	mathurin	PROPN	1	correct	TRUE	406	
+lire	lire	NOUN	1	upos	FALSE		
+envers	envers	PROPN	1	upos	FALSE		
+cru	croître	VERB	1	lemma	FALSE		
+serrant	serrir	VERB	1	lemma	FALSE		
+poussah	poussah	ADJ	1	upos	FALSE		
+chaises	chaise	NOUN	1	correct	TRUE	422	
+répétai	répét	VERB	1	lemma	FALSE		
+danser	danser	VERB	1	correct	TRUE	554	
+dites-moi	dites-moi	PROPN	1	tokenization	FALSE		
+passants	passants	NOUN	1	lemma	FALSE		
+ménagère	ménager	NOUN	1	lemma	FALSE		
+sincères	sincère	ADJ	1	correct	TRUE	515	
+files	fille	NOUN	2	lemma	FALSE		
+lis	lire	NOUN	1	correct	TRUE	375	
+voltigeaient	voltigeaient	VERB	1	lemma	FALSE		
+pyrénéen	pyrénéen	NOUN	1	upos	FALSE		
+étonnement	étonnement	NOUN	1	correct	TRUE	448	
+désastreuse	désastreux	VERB	1	upos	FALSE		
+indigné	indigner	VERB	1	correct	TRUE	614	
+naufragés	naufragé	NOUN	1	correct	TRUE	425	
+fatiguais	fatiguer	VERB	1	correct	TRUE	468	
+assis	assir	VERB	1	lemma	FALSE		
+lisez	lire	ADV	1	upos	FALSE		
+billards	billard	NOUN	1	correct	TRUE	634	
+contentâmes	contenter	VERB	1	correct	TRUE	499	
+biniou	biniou	ADJ	1	correct	TRUE	595	
+quelques-uns	quelques-un	PRON	1	lemma	FALSE		
+tragédienne	tragédien	NOUN	1	correct	TRUE	572	
+plaisantez	plaisanter	VERB	1	correct	TRUE	434	
+interposa	interposer	VERB	1	correct	TRUE	417	
+esquimaux	esquimaux	PROPN	1	lemmupos	FALSE		
+vide	vide	VERB	1	upos	FALSE		
+serons	sere	VERB	1	lemma	FALSE		
+mademoiselle	monsieur	ADJ	1	lemmupos	FALSE		
+savate	savate	NOUN	1	correct	TRUE	575	
+christ	christ	NOUN	1	lemmupos	FALSE		
+givre	givre	NOUN	1	correct	TRUE	517	
+étouffaient	étouffaenir	VERB	1	lemma	FALSE		
+déchirements	déchirement	NOUN	1	correct	TRUE	560	
+sous-directeur	sous-directeur	NOUN	1	correct	TRUE	529	
+hâtent	hâtre	VERB	1	lemma	FALSE		
+quittes	quitre	VERB	1	lemma	FALSE		
+amenez	amenir	VERB	1	lemma	FALSE		
+gaieté	gaieté	NOUN	1	correct	TRUE	532	
+enveloppaient	envelopper	VERB	1	correct	TRUE	451	
+chaise	chaise	NOUN	1	tokenization	FALSE		
+pittoresque	pittoresque	ADV	1	upos	FALSE		
+sorties	sorty	NOUN	1	lemma	FALSE		
+l'	le	PART	1	upos	FALSE		
+fantaisie	fantaisie	NOUN	1	correct	TRUE	436	
+nabab	nabab	PROPN	1	correct	TRUE	390	
+orphéons	orphéon	NOUN	1	correct	TRUE	475	
+remontait	remonter	VERB	1	correct	TRUE	604	
+rigoureux	rigoureux	ADJ	1	features	FALSE		
+flaques	flaque	NOUN	1	correct	TRUE	618	
+suivaient	suivaenir	VERB	1	lemma	FALSE		
+chut	chut	NOUN	1	correct	TRUE	589	
+applaudissaient	applaudisser	VERB	1	lemma	FALSE		
+circulez	circulez	X	2	lemmupos	FALSE		
+fixe	fixe	VERB	1	upos	FALSE		
+bas	bas	PROPN	1	upos	FALSE		
+crinières	crinière	NOUN	1	correct	TRUE	650	
+infamie	infamie	ADJ	1	upos	FALSE		
+cachemires	cachemire	NOUN	1	correct	TRUE	581	
+proposa	propos	VERB	1	lemma	FALSE		
+grigny	grigny	PROPN	1	correct	TRUE	540	
+mesdemoiselles	mesdemoisel	NOUN	1	lemma	FALSE		
+bondi	bondi	NOUN	1	lemmupos	FALSE		
+qu’	qu’	PROPN	6	lemmupos	FALSE		
+promettait	promettre	AUX	1	correct	TRUE	583	
+théâtre-français	théâtre-français	NOUN	1	upos	FALSE		
+brumeuse	brumeux	ADJ	1	correct	TRUE	527	
+perdre	perdre	NOUN	1	upos	FALSE		
+avec	ave	ADP	1	lemma	FALSE		
+rangèrent	ranger	VERB	1	correct	TRUE	622	
+revit	rere	VERB	1	lemma	FALSE		
+cria	crier	VERB	1	correct	TRUE	533	
+pécaïré	pécaïré	PROPN	1	lemmupos	FALSE		
+s’	s’	PROPN	14	lemmupos	FALSE		
+attachée	attacher	VERB	1	correct	TRUE	562	
+mobiles	mobile	NOUN	1	correct	TRUE	439	
+consternation	consternation	NOUN	1	lemma	FALSE		
+costumé	costumer	VERB	1	correct	TRUE	380	
+muguets	muguets	NOUN	1	lemma	FALSE		
+variée	varier	ADJ	1	correct	TRUE	463	
+résistait	résistre	VERB	1	lemma	FALSE		
+intonation	intonation	NOUN	1	correct	TRUE	457	
+hâtez-vous	hâtez-le	NOUN	1	tokenization	FALSE		
+bourre	bourre	NOUN	1	correct	TRUE	620	
+étreignirent	étreignirer	VERB	1	lemma	FALSE		
+parisiennes	parisiennes	PROPN	1	upos	FALSE		
+délire	délire	NOUN	1	correct	TRUE	367	
+menait	mener	VERB	1	correct	TRUE	442	
+gazza	gazza	PROPN	1	upos	FALSE		
+manqués	manquer	VERB	1	correct	TRUE	578	
+appointements	appointement	NOUN	1	lemma	FALSE		
+collègues	collèg	ADJ	1	lemmupos	FALSE		
+braves	braf	ADJ	1	lemma	FALSE		
+laissèrent	laisser	VERB	1	correct	TRUE	558	
+guizot	guizot	PROPN	1	correct	TRUE	566	
+happer	happer	VERB	1	correct	TRUE	362	
+parements	parement	NOUN	1	correct	TRUE	462	
+incommodé	incommoder	VERB	1	correct	TRUE	648	
+arrachant	arracher	VERB	1	correct	TRUE	502	
+épis	épis	ADJ	1	lemmupos	FALSE		
+trembla	trembla	PRON	1	lemmupos	FALSE		
+portal	portal	PROPN	1	correct	TRUE	435	
+cracher	cracher	VERB	1	correct	TRUE	458	
+fuyait	fuir	VERB	1	correct	TRUE	606	
+impromptus	impromptus	NOUN	1	lemma	FALSE		
+exhalait	exhaler	VERB	1	correct	TRUE	644	
+papillon	papillon	PROPN	1	upos	FALSE		
+pupitres	pupitre	NOUN	1	correct	TRUE	594	
+te	ter	PRON	1	lemma	FALSE		
+rajustages	rajustage	NOUN	1	correct	TRUE	646	
+l'	le	PART	1	correct	TRUE	641	
+signez	signez	VERB	1	lemma	FALSE		
+entendis	entendire	VERB	1	lemma	FALSE		
+restai	rest	VERB	1	lemma	FALSE		
+surprit	surprendre	VERB	1	correct	TRUE	382	
+favorisait	favoriser	VERB	1	correct	TRUE	450	
+submerger	submerger	VERB	1	correct	TRUE	415	
+toute	toute	DET	2	lemmupos	FALSE		
+gamin	gamin	NOUN	1	correct	TRUE	608	
+interrompait	interrompre	VERB	1	correct	TRUE	399	
+particulière	particulier	NOUN	1	upos	FALSE		
+us	u	NOUN	1	lemmupos	FALSE		
+durci	durci	ADV	1	upos	FALSE		
+flamber	flamber	VERB	1	correct	TRUE	569	
+gascon	gascon	NOUN	1	upos	FALSE		
+vitrage	vitrage	NOUN	1	correct	TRUE	472	
+sonnaient	sonner	VERB	1	correct	TRUE	609	
+bribes	bribe	NOUN	1	correct	TRUE	453	
+prétendait	prétendre	NOUN	1	upos	FALSE		
+mienne	mien	NOUN	1	correct	TRUE	443	
+mme	mme	NOUN	9	lemma	FALSE		
+valmajour	valmajour	PROPN	1	correct	TRUE	549	
+frits	frire	ADJ	1	upos	FALSE		
+sénécal	sénécal	NOUN	1	correct	TRUE	523	
+prodigalité	prodigalité	NOUN	1	correct	TRUE	366	
+chœurs	chœur	NOUN	1	correct	TRUE	403	
+devinait	deviner	VERB	1	correct	TRUE	483	
+théories	théory	NOUN	1	lemma	FALSE		
+parisiens	parisiens	ADJ	1	lemmupos	FALSE		
+bénit	bénir	VERB	1	correct	TRUE	647	
+trahît	trahît	NOUN	1	lemmupos	FALSE		
+échauffait	échauffaire	VERB	1	lemma	FALSE		
+fus	fre	VERB	1	lemma	FALSE		
+avertissant	avertir	VERB	1	correct	TRUE	484	
+accouraient	accourer	VERB	1	lemma	FALSE		
+nourrice	noureur	NOUN	1	lemma	FALSE		
+vociférations	vocifération	NOUN	1	correct	TRUE	392	
+muguets	muguets	PROPN	1	lemma	FALSE		
+vive	vive	PROPN	1	lemmupos	FALSE		
+rigolo	rigolo	ADJ	1	correct	TRUE	497	
+-en	-en	PROPN	1	lemmupos	FALSE		
+voisine	voisiner	VERB	1	lemmupos	FALSE		
+débite	débiter	VERB	1	features	FALSE		
+vivienne	vivienne	PROPN	1	correct	TRUE	518	
+pérorait	péror	VERB	1	lemma	FALSE		
+marchepied	marchepied	NOUN	1	correct	TRUE	354	
+agrément	agrément	ADV	1	upos	FALSE		
+pressait	presre	VERB	2	lemma	FALSE		
+othello	othello	PROPN	1	correct	TRUE	567	
+brûlures	brûlure	NOUN	1	correct	TRUE	491	
+anéantis	anéanti	NOUN	1	upos	FALSE		
+désert	désert	ADJ	1	correct	TRUE	638	
+explicable	explicable	ADJ	1	correct	TRUE	431	
+toulousain	toulousain	PROPN	1	lemmupos	FALSE		
+augmentait	augmenter	VERB	1	correct	TRUE	461	
+proféra	profér	VERB	1	lemma	FALSE		
+belles-sœurs	belles-sœur	NOUN	1	lemma	FALSE		
+affaire	affaite	NOUN	1	lemma	FALSE		
+intrigant	intriger	ADJ	1	lemmupos	FALSE		
+dissiperont	dissiper	VERB	1	correct	TRUE	413	
+bondit	bondre	VERB	1	lemma	FALSE		
+désastre	désastre	NOUN	1	correct	TRUE	586	
+fédéraux	fédéral	ADJ	1	correct	TRUE	474	
+favorisait	favorire	VERB	1	lemma	FALSE		
+souriait	sourier	VERB	1	lemma	FALSE		
+coucou-blanc	coucou-blanc	PROPN	1	correct	TRUE	596	
+capitale	capitale	PROPN	1	upos	FALSE		
+surprit	surprit	VERB	1	features	FALSE		
+exaltation	exaltation	NOUN	1	correct	TRUE	553	
+parle	parler	PROPN	1	upos	FALSE		
+etes-vous	etes-le	PRON	1	tokenization	FALSE		
+signe	signer	NOUN	1	correct	TRUE	570	
+mîmes	mîme	ADJ	1	lemmupos	FALSE		
+milligan	milligan	PROPN	1	correct	TRUE	582	
+dormant	dormir	NOUN	1	upos	FALSE		
+grondait	grondre	VERB	1	lemma	FALSE		
+plates	plat	ADJ	1	correct	TRUE	358	
+mortuaire	mortuaire	ADJ	1	correct	TRUE	482	
+va	va	PROPN	1	lemmupos	FALSE		
+criard	criard	NOUN	1	upos	FALSE		
+rompre	rompre	VERB	1	correct	TRUE	651	
+tisserands	tisserand	NOUN	1	correct	TRUE	605	
+montaient	monter	VERB	1	correct	TRUE	465	
+ariégeois	ariégeois	NOUN	1	upos	FALSE		
+payées	payer	ADJ	1	lemmupos	FALSE		
+bâche	bâche	NOUN	1	correct	TRUE	627	
+paré	parer	VERB	1	correct	TRUE	489	
+pourrions	pourroir	AUX	1	lemmupos	FALSE		
+récria	récrier	VERB	1	correct	TRUE	430	
+fileuse	fileur	NOUN	1	lemma	FALSE		
+motions	motion	NOUN	1	correct	TRUE	428	
+flatté	flatter	VERB	1	correct	TRUE	579	
+sourdun	sourdun	PROPN	1	correct	TRUE	376	
+enchantements	enchantement	NOUN	1	correct	TRUE	402	
+troublée	troublée	ADV	1	lemmupos	FALSE		
+conviction	conviction	NOUN	1	correct	TRUE	593	
+dorés	doré	VERB	1	upos	FALSE		
+muets	muet	VERB	1	upos	FALSE		
+grâces	grâce	NOUN	1	correct	TRUE	405	
+flammées	flammé	ADJ	1	correct	TRUE	516	
+paraissait	paraître	VERB	1	correct	TRUE	445	
+délogé	déloger	VERB	1	correct	TRUE	519	
+frisée	friser	NOUN	1	upos	FALSE		

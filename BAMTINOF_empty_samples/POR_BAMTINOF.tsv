@@ -1,537 +1,537 @@
-"form"	"lemma"	"upos"	"freq.samp"	"errtype"	"is_correct"	"BAMTINOF"
-"capitaes"	"capitae"	"NOUN"	1	"lemma"	"FALSE"	
-"alucinado"	"alucinado"	"NOUN"	1	"correct"	"TRUE"	
-"admiravel"	"admiravel"	"ADJ"	1	"correct"	"TRUE"	
-"jardins"	"jardin"	"NOUN"	1	"lemma"	"FALSE"	
-"lerás"	"lerá"	"NOUN"	1	"lemmupos"	"FALSE"	
-"adormecida"	"adormecer"	"VERB"	1	"lemmupos"	"FALSE"	
-"abobadas"	"abobada"	"NOUN"	1	"correct"	"TRUE"	
-"cortasse"	"cortar"	"VERB"	1	"correct"	"TRUE"	
-"brio"	"brio"	"NOUN"	1	"correct"	"TRUE"	
-"acabas"	"acaba"	"NOUN"	1	"lemmupos"	"FALSE"	
-"coitado"	"coitar"	"VERB"	1	"upos"	"FALSE"	
-"horisonte"	"horisonte"	"NOUN"	2	"correct"	"TRUE"	
-"hei"	"h"	"AUX"	1	"lemma"	"FALSE"	
-"duvidarás"	"duvidar"	"VERB"	1	"features"	"FALSE"	
-"arranjou"	"arranjar"	"VERB"	1	"correct"	"TRUE"	
-"propria"	"propr"	"VERB"	1	"lemmupos"	"FALSE"	
-"fructos"	"fructo"	"ADJ"	1	"upos"	"FALSE"	
-"doçura"	"doçura"	"NOUN"	1	"correct"	"TRUE"	
-"só"	"só"	"NOUN"	1	"upos"	"FALSE"	
-"el-rei"	"el-rei"	"PROPN"	1	"features"	"FALSE"	
-"geraes"	"gerae"	"ADJ"	1	"lemma"	"FALSE"	
-"capellão"	"capellão"	"NOUN"	1	"correct"	"TRUE"	
-"ella"	"elle"	"PRON"	2	"lemma"	"FALSE"	
-"bombazina"	"bombazina"	"NOUN"	1	"correct"	"TRUE"	
-"vaes"	"vae"	"NOUN"	1	"lemmupos"	"FALSE"	
-"saloia"	"saloiar"	"VERB"	1	"lemmupos"	"FALSE"	
-"chapeu"	"chapeu"	"NOUN"	2	"correct"	"TRUE"	
-"eguaes"	"eguae"	"NOUN"	1	"lemmupos"	"FALSE"	
-"fernando"	"fernando"	"ADV"	1	"upos"	"FALSE"	
-"afidalgar"	"afidalgar"	"VERB"	1	"correct"	"TRUE"	
-"carcereiro"	"carcereiro"	"NOUN"	1	"correct"	"TRUE"	
-"m'a"	"m'a"	"NOUN"	1	"tokenization"	"FALSE"	
-"...v."	"...v."	"PROPN"	1	"correct"	"TRUE"	
-"vinham"	"ver"	"VERB"	1	"lemma"	"FALSE"	
-"impares"	"impar"	"ADJ"	1	"features"	"FALSE"	
-"amo"	"amo"	"NOUN"	1	"correct"	"TRUE"	
-"salvaterra"	"salvaterra"	"PROPN"	2	"correct"	"TRUE"	
-"caçoem"	"caçoem"	"PROPN"	1	"lemmupos"	"FALSE"	
-"achas"	"achar"	"VERB"	1	"features"	"FALSE"	
-"morgada"	"morgar"	"VERB"	1	"lemmupos"	"FALSE"	
-"cartorario"	"cartorario"	"NOUN"	1	"correct"	"TRUE"	
-"descuidadamente"	"descuidadamente"	"ADV"	1	"correct"	"TRUE"	
-"dirigindo-se"	"_"	"_"	1	"correct"	"TRUE"	
-"dhalia"	"dhalia"	"NOUN"	1	"correct"	"TRUE"	
-"cançada"	"cançar"	"VERB"	1	"lemmupos"	"FALSE"	
-"reçumava"	"reçumava"	"NOUN"	1	"upos"	"FALSE"	
-"d'"	"dsegundo"	"NOUN"	1	"lemmupos"	"FALSE"	
-"lareira"	"lareiro"	"ADJ"	1	"lemmupos"	"FALSE"	
-"colhel"	"colhel"	"ADJ"	1	"lemmupos"	"FALSE"	
-"austria"	"austria"	"PROPN"	1	"correct"	"TRUE"	
-"chegára"	"chegárar"	"VERB"	1	"lemma"	"FALSE"	
-"á"	"á"	"ADV"	7	"lemmupos"	"FALSE"	
-"alli"	"alli"	"ADV"	1	"features"	"FALSE"	
-"inquieta"	"inquieta"	"NOUN"	1	"upos"	"FALSE"	
-"existencia"	"existencia"	"NOUN"	2	"correct"	"TRUE"	
-"ninguem"	"ninguem"	"PRON"	2	"features"	"FALSE"	
-"crenças"	"crença"	"NOUN"	1	"correct"	"TRUE"	
-"planta"	"planta"	"NOUN"	1	"features"	"FALSE"	
-"estás"	"está"	"NOUN"	1	"upos"	"FALSE"	
-"brandir"	"brandir"	"NOUN"	1	"features"	"FALSE"	
-"convencer-se"	"_"	"_"	1	"correct"	"TRUE"	
-"sábia"	"sábia"	"NOUN"	1	"upos"	"FALSE"	
-"cadaver"	"cadaver"	"NOUN"	1	"features"	"FALSE"	
-"cathedra"	"cathedra"	"NOUN"	1	"correct"	"TRUE"	
-"camarido"	"camarido"	"PROPN"	1	"correct"	"TRUE"	
-"morto"	"morto"	"NOUN"	1	"features"	"FALSE"	
-"abri"	"abrir"	"VERB"	1	"correct"	"TRUE"	
-"comprehendeu"	"comprehender"	"VERB"	1	"correct"	"TRUE"	
-"suppôr"	"suppor"	"VERB"	1	"lemma"	"FALSE"	
-"arrastar"	"arrastar"	"VERB"	1	"correct"	"TRUE"	
-"crepusculo"	"crepusculo"	"NOUN"	1	"correct"	"TRUE"	
-"cocheiro"	"cocheiro"	"NOUN"	1	"correct"	"TRUE"	
-"desembarcaram"	"desembarcar"	"VERB"	1	"correct"	"TRUE"	
-"desenganar"	"desenganar"	"VERB"	1	"correct"	"TRUE"	
-"cruz"	"cruz"	"NOUN"	1	"correct"	"TRUE"	
-"cortinas"	"cortina"	"NOUN"	1	"correct"	"TRUE"	
-"morras"	"morro"	"NOUN"	1	"lemma"	"FALSE"	
-"alli"	"alli"	"NOUN"	1	"upos"	"FALSE"	
-"desprender"	"desprender"	"VERB"	1	"features"	"FALSE"	
-"vindas"	"vindas"	"NOUN"	1	"lemmupos"	"FALSE"	
-"comtudo"	"comtudo"	"ADV"	1	"upos"	"FALSE"	
-"pae"	"pae"	"NOUN"	3	"correct"	"TRUE"	
-"alongou"	"alongar"	"VERB"	1	"correct"	"TRUE"	
-"catharina"	"catharina"	"PROPN"	1	"correct"	"TRUE"	
-"cumulo"	"cumulo"	"NOUN"	1	"correct"	"TRUE"	
-"derramando"	"derramar"	"VERB"	1	"correct"	"TRUE"	
-"doces"	"doce"	"NOUN"	1	"upos"	"FALSE"	
-"p'rá"	"p'r"	"VERB"	1	"tokenization"	"FALSE"	
-"francezes"	"francez"	"NOUN"	2	"correct"	"TRUE"	
-"annullar"	"annullar"	"VERB"	1	"correct"	"TRUE"	
-"abri-los"	"_"	"_"	1	"correct"	"TRUE"	
-"pró"	"pró"	"ADJ"	1	"tokenization"	"FALSE"	
-"vivera"	"viver"	"VERB"	1	"features"	"FALSE"	
-"conhecia"	"conheciar"	"VERB"	1	"lemma"	"FALSE"	
-"cobriam"	"cobrir"	"VERB"	1	"correct"	"TRUE"	
-"modista"	"modista"	"ADJ"	1	"upos"	"FALSE"	
-"creados"	"crear"	"VERB"	1	"lemmupos"	"FALSE"	
-"virtutum"	"virtutum"	"PRON"	1	"upos"	"FALSE"	
-"antolhou"	"antolhar"	"VERB"	1	"correct"	"TRUE"	
-"bastantes"	"bastante"	"ADJ"	1	"correct"	"TRUE"	
-"candura"	"candura"	"NOUN"	1	"correct"	"TRUE"	
-"deixar-se-hia"	"deixar-se-hio"	"ADJ"	1	"lemmupos"	"FALSE"	
-"bello"	"bello"	"NOUN"	1	"upos"	"FALSE"	
-"poderosa"	"poderosa"	"PROPN"	1	"features"	"FALSE"	
-"participar-mo-ás"	"participar-mo-á"	"NOUN"	1	"tokenization"	"FALSE"	
-"comoveres"	"comover"	"NOUN"	1	"features"	"FALSE"	
-"cavalheiro"	"cavalheiro"	"NOUN"	1	"correct"	"TRUE"	
-"m'o"	"m'o"	"NOUN"	1	"tokenization"	"FALSE"	
-"elles"	"elle"	"PRON"	3	"correct"	"TRUE"	
-"logares"	"logare"	"NOUN"	1	"lemma"	"FALSE"	
-"impulso"	"impulso"	"ADJ"	1	"upos"	"FALSE"	
-"assestar"	"assestar"	"VERB"	1	"correct"	"TRUE"	
-"desafiando-a"	"_"	"_"	1	"correct"	"TRUE"	
-"ella"	"ellar"	"VERB"	2	"lemmupos"	"FALSE"	
-"meus"	"meu"	"NOUN"	1	"upos"	"FALSE"	
-"cousas"	"cousa"	"NOUN"	1	"correct"	"TRUE"	
-"ininterrompido"	"ininterrompido"	"NOUN"	1	"upos"	"FALSE"	
-"abrangia"	"abranger"	"VERB"	1	"correct"	"TRUE"	
-"aviasse"	"aviar"	"VERB"	1	"correct"	"TRUE"	
-"primor"	"primor"	"ADJ"	1	"upos"	"FALSE"	
-"alvura"	"alvura"	"NOUN"	1	"correct"	"TRUE"	
-"illustri"	"illustrir"	"VERB"	1	"lemmupos"	"FALSE"	
-"triste"	"tristir"	"VERB"	1	"lemmupos"	"FALSE"	
-"farta"	"farta"	"ADJ"	1	"features"	"FALSE"	
-"n'um"	"n'um"	"DET"	2	"tokenization"	"FALSE"	
-"animalculos"	"animalculo"	"NOUN"	1	"correct"	"TRUE"	
-"maus"	"mau"	"DET"	1	"upos"	"FALSE"	
-"declinando"	"declinar"	"VERB"	1	"correct"	"TRUE"	
-"annullar-se"	"_"	"_"	1	"correct"	"TRUE"	
-"prompto"	"prompto"	"ADV"	1	"upos"	"FALSE"	
-"ajuntou"	"ajuntar"	"VERB"	1	"correct"	"TRUE"	
-"andára"	"andárar"	"VERB"	1	"lemma"	"FALSE"	
-"lagrimas"	"lagrima"	"NOUN"	2	"correct"	"TRUE"	
-"voltaire"	"voltaire"	"ADJ"	1	"upos"	"FALSE"	
-"circumstantes"	"circumstante"	"NOUN"	1	"correct"	"TRUE"	
-"rapidas"	"rapida"	"NOUN"	1	"upos"	"FALSE"	
-"animaes"	"animae"	"NOUN"	1	"lemma"	"FALSE"	
-"amava"	"amar"	"VERB"	1	"correct"	"TRUE"	
-"seguem-n'a"	"seguem-n'o"	"ADJ"	1	"tokenization"	"FALSE"	
-"d'um"	"d'um"	"DET"	3	"tokenization"	"FALSE"	
-"ahi"	"aher"	"VERB"	2	"lemmupos"	"FALSE"	
-"desposar-te"	"_"	"_"	1	"correct"	"TRUE"	
-"cá"	"c"	"VERB"	1	"lemmupos"	"FALSE"	
-"sabes"	"sabes"	"PROPN"	1	"lemmupos"	"FALSE"	
-"terrea"	"terrea"	"NOUN"	1	"lemmupos"	"FALSE"	
-"sentindo"	"sentir"	"VERB"	1	"features"	"FALSE"	
-"libania"	"libania"	"PROPN"	2	"correct"	"TRUE"	
-"feridas"	"ferida"	"NOUN"	2	"correct"	"TRUE"	
-"coitado"	"coitar"	"VERB"	1	"lemmupos"	"FALSE"	
-"dêdo"	"dêdo"	"NOUN"	1	"correct"	"TRUE"	
-"enthusiasmado"	"enthusiasmar"	"VERB"	1	"lemmupos"	"FALSE"	
-"núa"	"núa"	"NOUN"	1	"lemmupos"	"FALSE"	
-"és"	"é"	"NOUN"	2	"lemmupos"	"FALSE"	
-"eu"	"eu"	"ADJ"	1	"upos"	"FALSE"	
-"arreliar"	"arreliar"	"VERB"	1	"features"	"FALSE"	
-"vae"	"vae"	"NOUN"	1	"lemmupos"	"FALSE"	
-"capello"	"capello"	"NOUN"	2	"correct"	"TRUE"	
-"cançado"	"cançar"	"VERB"	1	"lemmupos"	"FALSE"	
-"condemnámos"	"condemnar"	"VERB"	1	"correct"	"TRUE"	
-"trez"	"trez"	"PROPN"	1	"upos"	"FALSE"	
-"electricos"	"electrico"	"NOUN"	2	"correct"	"TRUE"	
-"gemer"	"gemer"	"VERB"	1	"features"	"FALSE"	
-"amava"	"amava"	"PROPN"	1	"lemmupos"	"FALSE"	
-"aceitasse"	"aceitasse"	"NOUN"	1	"lemmupos"	"FALSE"	
-"apaixonadas"	"apaixonar"	"VERB"	1	"lemmupos"	"FALSE"	
-"elle"	"elle"	"NOUN"	1	"upos"	"FALSE"	
-"conde"	"conde"	"NOUN"	1	"features"	"FALSE"	
-"lh'a"	"lh'a"	"NOUN"	1	"tokenization"	"FALSE"	
-"disse-lhe"	"_"	"_"	1	"correct"	"TRUE"	
-"aquelle"	"aquellar"	"VERB"	1	"lemmupos"	"FALSE"	
-"arvorada"	"arvorar"	"VERB"	1	"lemmupos"	"FALSE"	
-"commandante"	"commandante"	"NOUN"	1	"correct"	"TRUE"	
-"ella"	"ello"	"ADJ"	1	"lemmupos"	"FALSE"	
-"cintura"	"cintura"	"NOUN"	1	"correct"	"TRUE"	
-"conhecia-a"	"_"	"_"	1	"correct"	"TRUE"	
-"estrangular"	"estrangular"	"VERB"	1	"features"	"FALSE"	
-"capitão"	"capitão"	"PROPN"	1	"correct"	"TRUE"	
-"animo"	"animo"	"NOUN"	1	"correct"	"TRUE"	
-"á"	"ar"	"VERB"	1	"lemmupos"	"FALSE"	
-"vejo"	"vejo"	"ADJ"	1	"lemmupos"	"FALSE"	
-"queimados"	"queimar"	"VERB"	1	"lemmupos"	"FALSE"	
-"arroubada"	"arroubar"	"VERB"	1	"lemmupos"	"FALSE"	
-"deixe-me"	"_"	"_"	1	"correct"	"TRUE"	
-"vel-a"	"vel-a"	"NOUN"	1	"tokenization"	"FALSE"	
-"cheiram"	"cheirar"	"VERB"	1	"features"	"FALSE"	
-"carrapito"	"carrapito"	"NOUN"	1	"correct"	"TRUE"	
-"peitos"	"peito"	"NOUN"	2	"correct"	"TRUE"	
-"esmerada"	"esmerado"	"ADJ"	1	"features"	"FALSE"	
-"ha"	"ho"	"ADJ"	1	"lemmupos"	"FALSE"	
-"m'o"	"m'o"	"NOUN"	2	"tokenization"	"FALSE"	
-"supplicas"	"supplico"	"ADJ"	1	"lemmupos"	"FALSE"	
-"curvado"	"curvar"	"VERB"	1	"correct"	"TRUE"	
-"dispor-me-á"	"_"	"_"	1	"correct"	"TRUE"	
-"consentiram"	"consentir"	"VERB"	1	"correct"	"TRUE"	
-"tu"	"tr"	"VERB"	2	"lemmupos"	"FALSE"	
-"viera"	"vierar"	"VERB"	1	"lemma"	"FALSE"	
-"d'"	"dsegundo"	"NOUN"	2	"lemmupos"	"FALSE"	
-"corrido"	"correr"	"VERB"	1	"correct"	"TRUE"	
-"gallego"	"gallego"	"ADJ"	1	"upos"	"FALSE"	
-"acanhamento"	"acanhamento"	"NOUN"	1	"correct"	"TRUE"	
-"attencioso"	"attencioso"	"ADJ"	1	"correct"	"TRUE"	
-"pôz"	"pôzir"	"VERB"	1	"lemma"	"FALSE"	
-"luz"	"luz"	"ADJ"	1	"upos"	"FALSE"	
-"ratinho"	"ratinho"	"PROPN"	3	"features"	"FALSE"	
-"aquelle"	"aquelle"	"PRON"	1	"correct"	"TRUE"	
-"bilhar"	"bilhar"	"VERB"	1	"upos"	"FALSE"	
-"tambem"	"tambem"	"ADV"	5	"features"	"FALSE"	
-"ordena"	"ordenar"	"VERB"	1	"features"	"FALSE"	
-"devida"	"devidar"	"VERB"	1	"lemma"	"FALSE"	
-"continuo"	"continuo"	"NOUN"	1	"upos"	"FALSE"	
-"visconde"	"visconde"	"NOUN"	1	"features"	"FALSE"	
-"descerrou"	"descerrar"	"VERB"	1	"correct"	"TRUE"	
-"noite"	"noite"	"ADV"	1	"upos"	"FALSE"	
-"dar-lhe-ei"	"dar-lhe-ar"	"VERB"	1	"tokenization"	"FALSE"	
-"blague"	"blague"	"NOUN"	1	"features"	"FALSE"	
-"defronte"	"defrontir"	"VERB"	1	"lemmupos"	"FALSE"	
-"ler"	"ler"	"NOUN"	1	"upos"	"FALSE"	
-"canteiros"	"canteiro"	"NOUN"	1	"correct"	"TRUE"	
-"ella"	"elle"	"PRON"	9	"lemma"	"FALSE"	
-"desesperadores"	"desesperador"	"NOUN"	1	"upos"	"FALSE"	
-"ella"	"elle"	"PRON"	1	"lemma"	"FALSE"	
-"desinteressada"	"desinteressar"	"VERB"	1	"lemmupos"	"FALSE"	
-"pagem"	"pagem"	"NOUN"	2	"features"	"FALSE"	
-"amargamente"	"amargamente"	"ADV"	1	"correct"	"TRUE"	
-"compaixão"	"compaixão"	"NOUN"	1	"correct"	"TRUE"	
-"vão"	"vão"	"NOUN"	1	"upos"	"FALSE"	
-"tristes"	"triste"	"NOUN"	1	"upos"	"FALSE"	
-"della"	"dellar"	"VERB"	1	"tokenization"	"FALSE"	
-"acompanharia"	"acompanharia"	"NOUN"	1	"lemmupos"	"FALSE"	
-"começava"	"começar"	"VERB"	1	"features"	"FALSE"	
-"deante"	"deante"	"DET"	1	"upos"	"FALSE"	
-"contrictamente"	"contrictamente"	"ADV"	1	"correct"	"TRUE"	
-"subo"	"subo"	"ADJ"	1	"lemmupos"	"FALSE"	
-"desumano"	"desumano"	"ADJ"	1	"correct"	"TRUE"	
-"taverna"	"taverna"	"NOUN"	1	"features"	"FALSE"	
-"contaminado"	"contaminar"	"VERB"	1	"lemmupos"	"FALSE"	
-"aprendêra"	"aprendêrar"	"VERB"	1	"lemma"	"FALSE"	
-"desprender-se"	"_"	"_"	1	"correct"	"TRUE"	
-"deixassem"	"deixar"	"VERB"	1	"correct"	"TRUE"	
-"chaves"	"chave"	"ADJ"	1	"upos"	"FALSE"	
-"mártire"	"mártire"	"NOUN"	1	"upos"	"FALSE"	
-"ora"	"ora"	"PROPN"	1	"upos"	"FALSE"	
-"esses"	"esse"	"NOUN"	1	"upos"	"FALSE"	
-"estupidos"	"estuper"	"VERB"	1	"lemmupos"	"FALSE"	
-"restavam"	"restavar"	"VERB"	1	"lemma"	"FALSE"	
-"authentico"	"authentico"	"ADJ"	1	"correct"	"TRUE"	
-"trez"	"trez"	"NOUN"	1	"upos"	"FALSE"	
-"subscrevi"	"subscrevi"	"NOUN"	1	"lemmupos"	"FALSE"	
-"commendador"	"commendador"	"ADJ"	1	"upos"	"FALSE"	
-"bellesa"	"bellesa"	"NOUN"	1	"correct"	"TRUE"	
-"enchia"	"ench"	"VERB"	1	"lemma"	"FALSE"	
-"asylo"	"asylo"	"PROPN"	1	"correct"	"TRUE"	
-"á"	"á"	"ADV"	2	"tokenization"	"FALSE"	
-"criados"	"criado"	"NOUN"	1	"correct"	"TRUE"	
-"sadio"	"sadio"	"NOUN"	1	"upos"	"FALSE"	
-"julgas"	"julga"	"NOUN"	1	"lemmupos"	"FALSE"	
-"affectos"	"affecto"	"ADJ"	1	"upos"	"FALSE"	
-"paiz"	"paiz"	"NOUN"	1	"features"	"FALSE"	
-"encovarem-se"	"encovarem-se"	"NOUN"	1	"tokenization"	"FALSE"	
-"prece"	"precer"	"VERB"	1	"lemmupos"	"FALSE"	
-"compraser"	"compraser"	"NOUN"	1	"upos"	"FALSE"	
-"azul"	"azul"	"NOUN"	1	"correct"	"TRUE"	
-"torpes"	"torpe"	"NOUN"	1	"upos"	"FALSE"	
-"tua"	"tuo"	"ADJ"	1	"lemma"	"FALSE"	
-"compassado"	"compassar"	"VERB"	1	"lemmupos"	"FALSE"	
-"vês"	"vê"	"PRON"	2	"lemmupos"	"FALSE"	
-"ha"	"har"	"VERB"	4	"lemma"	"FALSE"	
-"sebastião"	"sebastião"	"NOUN"	2	"upos"	"FALSE"	
-"irei"	"ir"	"VERB"	1	"features"	"FALSE"	
-"quiz"	"quiz"	"NOUN"	1	"lemmupos"	"FALSE"	
-"própria"	"própr"	"VERB"	1	"lemmupos"	"FALSE"	
-"andarem"	"andar"	"VERB"	1	"correct"	"TRUE"	
-"admirado"	"admirado"	"ADJ"	1	"correct"	"TRUE"	
-"doe"	"doar"	"VERB"	1	"lemma"	"FALSE"	
-"corneville"	"corneville"	"PROPN"	2	"correct"	"TRUE"	
-"briche"	"briche"	"NOUN"	1	"correct"	"TRUE"	
-"elle"	"ellar"	"VERB"	2	"lemmupos"	"FALSE"	
-"commentarios"	"commentario"	"NOUN"	1	"correct"	"TRUE"	
-"adivinhasse"	"adivinhar"	"VERB"	1	"correct"	"TRUE"	
-"máu"	"máu"	"ADJ"	1	"features"	"FALSE"	
-"estremecerem"	"estremecer"	"VERB"	1	"features"	"FALSE"	
-"caçoem"	"caço"	"VERB"	1	"lemma"	"FALSE"	
-"escrava"	"escrar"	"VERB"	1	"lemmupos"	"FALSE"	
-"animal"	"animal"	"NOUN"	1	"correct"	"TRUE"	
-"fôsse"	"fôsse"	"NOUN"	1	"lemmupos"	"FALSE"	
-"podem"	"podem"	"NOUN"	1	"lemmupos"	"FALSE"	
-"brochado"	"brochado"	"PROPN"	1	"correct"	"TRUE"	
-"classificassão"	"classificassão"	"NOUN"	1	"correct"	"TRUE"	
-"aborrecida"	"aborrecida"	"NOUN"	1	"upos"	"FALSE"	
-"empregues"	"empregar"	"VERB"	1	"features"	"FALSE"	
-"tinha-me"	"_"	"_"	2	"correct"	"TRUE"	
-"condiscipulo"	"condiscipulo"	"NOUN"	2	"correct"	"TRUE"	
-"pernoitára"	"pernoitárar"	"VERB"	1	"lemma"	"FALSE"	
-"bilhar"	"bilhar"	"NOUN"	1	"features"	"FALSE"	
-"desappareceu"	"desapparecer"	"VERB"	1	"correct"	"TRUE"	
-"fóra"	"fóro"	"ADJ"	1	"lemmupos"	"FALSE"	
-"á"	"á"	"PROPN"	1	"lemmupos"	"FALSE"	
-"serei"	"ser"	"VERB"	1	"features"	"FALSE"	
-"aquelles"	"aquelle"	"DET"	1	"correct"	"TRUE"	
-"italia"	"italia"	"PROPN"	4	"correct"	"TRUE"	
-"exclamou"	"exclamar"	"VERB"	3	"correct"	"TRUE"	
-"grecia"	"grecia"	"PROPN"	1	"features"	"FALSE"	
-"conservado"	"conservar"	"VERB"	1	"correct"	"TRUE"	
-"ella"	"ellar"	"VERB"	1	"lemmupos"	"FALSE"	
-"cegamente"	"cegamente"	"ADV"	1	"correct"	"TRUE"	
-"apurado"	"apurar"	"VERB"	1	"upos"	"FALSE"	
-"contigo"	"contigo"	"NOUN"	1	"upos"	"FALSE"	
-"altivos"	"altivo"	"NOUN"	1	"upos"	"FALSE"	
-"janellas"	"janella"	"NOUN"	2	"correct"	"TRUE"	
-"alvejantes"	"alvejante"	"ADJ"	1	"correct"	"TRUE"	
-"voltar"	"voltar"	"NOUN"	1	"upos"	"FALSE"	
-"altesa"	"altesa"	"NOUN"	1	"correct"	"TRUE"	
-"diverso"	"diverso"	"ADJ"	1	"correct"	"TRUE"	
-"deolindinha"	"deolindinha"	"PROPN"	1	"features"	"FALSE"	
-"mystica"	"mystica"	"NOUN"	1	"upos"	"FALSE"	
-"mercenarios"	"mercenario"	"ADJ"	1	"upos"	"FALSE"	
-"conjecturas"	"conjectura"	"NOUN"	1	"correct"	"TRUE"	
-"afidalgar-se"	"_"	"_"	1	"correct"	"TRUE"	
-"caracter"	"caracter"	"NOUN"	1	"correct"	"TRUE"	
-"pae"	"pae"	"ADJ"	1	"upos"	"FALSE"	
-"cabellos"	"cabello"	"NOUN"	3	"correct"	"TRUE"	
-"ultimo"	"ultimo"	"ADJ"	1	"features"	"FALSE"	
-"á"	"á"	"NOUN"	3	"lemmupos"	"FALSE"	
-"vulto"	"vulto"	"NOUN"	1	"correct"	"TRUE"	
-"ramos"	"rar"	"VERB"	1	"lemmupos"	"FALSE"	
-"vejamos"	"vejamos"	"NOUN"	1	"lemmupos"	"FALSE"	
-"infelises"	"infelise"	"NOUN"	1	"lemma"	"FALSE"	
-"continuaria"	"continuar"	"AUX"	1	"correct"	"TRUE"	
-"agradavel"	"agradavel"	"ADJ"	1	"correct"	"TRUE"	
-"allemão"	"allemão"	"ADV"	1	"upos"	"FALSE"	
-"contracções"	"contracção"	"NOUN"	1	"correct"	"TRUE"	
-"dispor-m"	"dispor-r"	"VERB"	1	"tokenization"	"FALSE"	
-"cadaveres"	"cadaver"	"NOUN"	1	"correct"	"TRUE"	
-"cunhado"	"cunhado"	"NOUN"	1	"correct"	"TRUE"	
-"concedido"	"conceder"	"VERB"	1	"correct"	"TRUE"	
-"protector"	"protector"	"NOUN"	1	"upos"	"FALSE"	
-"casamentos"	"casamento"	"NOUN"	1	"correct"	"TRUE"	
-"allemanha"	"allemanha"	"PROPN"	1	"correct"	"TRUE"	
-"coitadinha"	"coitadinha"	"NOUN"	1	"lemmupos"	"FALSE"	
-"alfinetes"	"alfinete"	"NOUN"	1	"correct"	"TRUE"	
-"cadavericas"	"cadaverico"	"ADJ"	1	"correct"	"TRUE"	
-"sae"	"saer"	"VERB"	1	"lemma"	"FALSE"	
-"ahi"	"ahi"	"ADJ"	1	"upos"	"FALSE"	
-"musica"	"musica"	"NOUN"	1	"features"	"FALSE"	
-"passára"	"passárar"	"VERB"	1	"lemma"	"FALSE"	
-"praia"	"praio"	"ADJ"	1	"lemmupos"	"FALSE"	
-"capilé"	"capilé"	"NOUN"	1	"correct"	"TRUE"	
-"entoar"	"entoar"	"VERB"	1	"features"	"FALSE"	
-"desembro"	"desembro"	"NOUN"	1	"correct"	"TRUE"	
-"escura"	"escurar"	"VERB"	1	"lemmupos"	"FALSE"	
-"condessa"	"condessa"	"NOUN"	1	"correct"	"TRUE"	
-"conto"	"conto"	"NOUN"	2	"correct"	"TRUE"	
-"perolas"	"perola"	"ADJ"	1	"upos"	"FALSE"	
-"canta-storie"	"canta-storie"	"NOUN"	1	"correct"	"TRUE"	
-"ouça"	"ouçar"	"VERB"	1	"lemma"	"FALSE"	
-"defronte"	"defronte"	"ADJ"	1	"upos"	"FALSE"	
-"mandára"	"mandára"	"NOUN"	1	"upos"	"FALSE"	
-"calculou"	"calcular"	"VERB"	1	"correct"	"TRUE"	
-"oitocentos"	"oitocento"	"NOUN"	1	"lemmupos"	"FALSE"	
-"ápice"	"ápice"	"NOUN"	1	"features"	"FALSE"	
-"delicadeza"	"delicadeza"	"NOUN"	1	"correct"	"TRUE"	
-"recordava"	"recordar"	"VERB"	1	"features"	"FALSE"	
-"concertar"	"concertar"	"VERB"	1	"correct"	"TRUE"	
-"explica-m'o"	"explica-m'o"	"NOUN"	1	"tokenization"	"FALSE"	
-"obtiveres"	"obtiverer"	"VERB"	1	"features"	"FALSE"	
-"atrazo"	"atrazo"	"NOUN"	1	"correct"	"TRUE"	
-"ámanhã"	"ámanhã"	"ADV"	1	"correct"	"TRUE"	
-"acudiram"	"acudir"	"VERB"	1	"correct"	"TRUE"	
-"aventureiro"	"aventureiro"	"NOUN"	1	"correct"	"TRUE"	
-"annos"	"anno"	"NOUN"	3	"correct"	"TRUE"	
-"tristes"	"triste"	"NOUN"	1	"upos"	"FALSE"	
-"bravo"	"bravo"	"ADJ"	1	"correct"	"TRUE"	
-"cama"	"camar"	"VERB"	1	"lemmupos"	"FALSE"	
-"boccas"	"bocca"	"NOUN"	1	"correct"	"TRUE"	
-"augmentou"	"augmentar"	"VERB"	1	"correct"	"TRUE"	
-"coruche"	"coruche"	"PROPN"	1	"correct"	"TRUE"	
-"vae"	"vae"	"PROPN"	1	"lemmupos"	"FALSE"	
-"fôr"	"fôr"	"VERB"	1	"lemma"	"FALSE"	
-"corando"	"corar"	"VERB"	1	"correct"	"TRUE"	
-"pietro"	"pietro"	"PROPN"	2	"correct"	"TRUE"	
-"cahira-lhe"	"_"	"_"	1	"correct"	"TRUE"	
-"gosta"	"gosto"	"ADJ"	1	"lemmupos"	"FALSE"	
-"sobresalto"	"sobresalto"	"ADJ"	1	"upos"	"FALSE"	
-"circumstancia"	"circumstancia"	"NOUN"	1	"correct"	"TRUE"	
-"apressados"	"apressado"	"ADJ"	1	"correct"	"TRUE"	
-"aclarando"	"aclarar"	"VERB"	1	"correct"	"TRUE"	
-"quarto"	"quarto"	"ADV"	1	"upos"	"FALSE"	
-"anonymos"	"anonymo"	"NOUN"	1	"correct"	"TRUE"	
-"procurá"	"procurar"	"VERB"	1	"features"	"FALSE"	
-"rapazes"	"rapaz"	"ADJ"	1	"upos"	"FALSE"	
-"estive"	"ester"	"AUX"	1	"lemma"	"FALSE"	
-"braços--são"	"braços--são"	"NOUN"	1	"tokenization"	"FALSE"	
-"atalhou"	"atalhar"	"VERB"	1	"correct"	"TRUE"	
-"afagando"	"afagar"	"VERB"	1	"correct"	"TRUE"	
-"cobria"	"cobria"	"NOUN"	1	"lemmupos"	"FALSE"	
-"escaldada"	"escaldar"	"VERB"	1	"upos"	"FALSE"	
-"investindo"	"investir"	"VERB"	1	"features"	"FALSE"	
-"murgeira"	"murgeira"	"PROPN"	4	"correct"	"TRUE"	
-"forcados"	"forcar"	"VERB"	1	"lemmupos"	"FALSE"	
-"louvores"	"louvor"	"ADJ"	1	"upos"	"FALSE"	
-"consciencia"	"consciencia"	"NOUN"	2	"correct"	"TRUE"	
-"seria"	"seria"	"PROPN"	1	"lemmupos"	"FALSE"	
-"divididos"	"divididos"	"NOUN"	1	"lemmupos"	"FALSE"	
-"escanhoada"	"escanhoar"	"VERB"	1	"features"	"FALSE"	
-"tu"	"tu"	"PROPN"	1	"upos"	"FALSE"	
-"imploro"	"imploro"	"ADJ"	1	"upos"	"FALSE"	
-"ligeiro"	"ligeiro"	"NOUN"	1	"upos"	"FALSE"	
-"descascados"	"descascar"	"VERB"	1	"correct"	"TRUE"	
-"detestaveis"	"detestavel"	"ADJ"	1	"correct"	"TRUE"	
-"afagando-lhe"	"_"	"_"	1	"correct"	"TRUE"	
-"tens"	"ten"	"NOUN"	1	"lemmupos"	"FALSE"	
-"vae"	"vaer"	"VERB"	1	"lemma"	"FALSE"	
-"trate"	"trate"	"NOUN"	1	"lemmupos"	"FALSE"	
-"fóra"	"fóra"	"NOUN"	2	"upos"	"FALSE"	
-"caprichos"	"capricho"	"NOUN"	1	"correct"	"TRUE"	
-"elle"	"elle"	"PRON"	6	"correct"	"TRUE"	
-"musica"	"musica"	"NOUN"	2	"correct"	"TRUE"	
-"á"	"á"	"ADV"	1	"upos"	"FALSE"	
-"corina"	"corina"	"PROPN"	1	"correct"	"TRUE"	
-"val"	"val"	"ADJ"	1	"lemmupos"	"FALSE"	
-"lembra-te"	"_"	"_"	2	"correct"	"TRUE"	
-"demora"	"demora"	"ADV"	1	"correct"	"TRUE"	
-"capuana"	"capuana"	"PROPN"	1	"correct"	"TRUE"	
-"propria"	"propria"	"NOUN"	2	"lemmupos"	"FALSE"	
-"logar"	"logar"	"VERB"	1	"upos"	"FALSE"	
-"confundindo"	"confundir"	"VERB"	1	"correct"	"TRUE"	
-"familia"	"familia"	"NOUN"	4	"correct"	"TRUE"	
-"almoçar"	"almoçar"	"VERB"	1	"correct"	"TRUE"	
-"aguas"	"agua"	"NOUN"	3	"correct"	"TRUE"	
-"casasse"	"casassar"	"VERB"	1	"lemma"	"FALSE"	
-"acabava"	"acabar"	"VERB"	1	"correct"	"TRUE"	
-"contenta"	"contentar"	"VERB"	1	"correct"	"TRUE"	
-"fidalgo"	"fidalgo"	"NOUN"	2	"features"	"FALSE"	
-"escadas"	"escar"	"VERB"	1	"lemmupos"	"FALSE"	
-"desposar"	"desposar"	"VERB"	1	"correct"	"TRUE"	
-"cemiterio"	"cemiterio"	"PROPN"	1	"correct"	"TRUE"	
-"cançada"	"cançado"	"ADJ"	1	"correct"	"TRUE"	
-"doirava"	"doirar"	"VERB"	1	"features"	"FALSE"	
-"côco"	"côco"	"NOUN"	1	"correct"	"TRUE"	
-"vejo"	"vejo"	"NOUN"	1	"lemmupos"	"FALSE"	
-"capote"	"capote"	"NOUN"	1	"correct"	"TRUE"	
-"paes"	"pae"	"NOUN"	2	"correct"	"TRUE"	
-"doces"	"doce"	"ADJ"	1	"correct"	"TRUE"	
-"colhel-as"	"_"	"_"	1	"correct"	"TRUE"	
-"desenfiar"	"desenfiar"	"VERB"	1	"correct"	"TRUE"	
-"lh'o"	"lh'o"	"NOUN"	1	"tokenization"	"FALSE"	
-"afim"	"afim"	"ADV"	1	"features"	"FALSE"	
-"vêr"	"vêr"	"NOUN"	1	"upos"	"FALSE"	
-"me"	"mir"	"VERB"	1	"lemmupos"	"FALSE"	
-"avêsso"	"avêsso"	"NOUN"	1	"correct"	"TRUE"	
-"zelosa"	"zeloso"	"NOUN"	1	"upos"	"FALSE"	
-"co'"	"coe"	"ADP"	1	"lemma"	"FALSE"	
-"amaldiaçoava"	"amaldiaçoar"	"VERB"	1	"correct"	"TRUE"	
-"egoistas"	"egoista"	"ADJ"	1	"features"	"FALSE"	
-"palavras"	"palavra"	"ADJ"	1	"upos"	"FALSE"	
-"medrára"	"medrárar"	"VERB"	1	"lemma"	"FALSE"	
-"divertir-se"	"_"	"_"	1	"correct"	"TRUE"	
-"dirigindo"	"dirigir"	"VERB"	1	"correct"	"TRUE"	
-"flor"	"flor"	"VERB"	1	"upos"	"FALSE"	
-"contava"	"contar"	"VERB"	1	"correct"	"TRUE"	
-"união"	"união"	"ADJ"	1	"upos"	"FALSE"	
-"dista"	"dista"	"ADJ"	1	"correct"	"TRUE"	
-"casa"	"caso"	"DET"	1	"lemmupos"	"FALSE"	
-"ninguem"	"ninguem"	"PRON"	1	"features"	"FALSE"	
-"commodamente"	"commodamente"	"ADV"	1	"correct"	"TRUE"	
-"attendendo"	"attender"	"VERB"	1	"correct"	"TRUE"	
-"cahira"	"cahirar"	"VERB"	1	"lemma"	"FALSE"	
-"louças"	"louças"	"ADV"	1	"lemmupos"	"FALSE"	
-"propria"	"propria"	"NOUN"	1	"lemmupos"	"FALSE"	
-"confiar"	"confiar"	"VERB"	1	"correct"	"TRUE"	
-"cerrar"	"cerrar"	"VERB"	1	"correct"	"TRUE"	
-"ausencia"	"ausencia"	"NOUN"	1	"correct"	"TRUE"	
-"tres"	"tr"	"ADJ"	3	"lemmupos"	"FALSE"	
-"apertava"	"apertar"	"VERB"	1	"correct"	"TRUE"	
-"appareceu"	"apparecer"	"VERB"	1	"correct"	"TRUE"	
-"belleza"	"belleza"	"NOUN"	1	"correct"	"TRUE"	
-"ouvidos"	"ouvido"	"NOUN"	1	"features"	"FALSE"	
-"assanharam"	"assanhar"	"VERB"	1	"correct"	"TRUE"	
-"desenganar-se"	"_"	"_"	1	"correct"	"TRUE"	
-"ricos"	"ricos"	"ADJ"	1	"upos"	"FALSE"	
-"chave"	"chave"	"ADJ"	1	"upos"	"FALSE"	
-"anno"	"anno"	"NOUN"	2	"correct"	"TRUE"	
-"á"	"ar"	"VERB"	2	"tokenization"	"FALSE"	
-"falava-se"	"_"	"_"	2	"correct"	"TRUE"	
-"rosina"	"rosina"	"PROPN"	1	"features"	"FALSE"	
-"deixaste"	"deixaste"	"NOUN"	1	"upos"	"FALSE"	
-"creancitas"	"creancita"	"NOUN"	1	"correct"	"TRUE"	
-"rei"	"zer"	"VERB"	1	"lemmupos"	"FALSE"	
-"acabarem"	"acabar"	"VERB"	1	"correct"	"TRUE"	
-"deixei"	"deixar"	"AUX"	1	"upos"	"FALSE"	
-"assumpto"	"assumpto"	"NOUN"	1	"correct"	"TRUE"	
-"setenta"	"setento"	"ADJ"	1	"lemmupos"	"FALSE"	
-"confiou"	"confiar"	"VERB"	1	"correct"	"TRUE"	
-"contrastavam"	"contrastavar"	"VERB"	1	"lemma"	"FALSE"	
-"prosa"	"proso"	"NOUN"	1	"lemma"	"FALSE"	
-"inspiro"	"inspirar"	"VERB"	1	"features"	"FALSE"	
-"atraz"	"atraz"	"NOUN"	1	"upos"	"FALSE"	
-"confiar-lhe"	"_"	"_"	1	"correct"	"TRUE"	
-"arrulhavam"	"arrulhar"	"VERB"	1	"correct"	"TRUE"	
-"velho"	"velho"	"NOUN"	2	"correct"	"TRUE"	
-"desmanchado"	"desmanchar"	"VERB"	1	"lemmupos"	"FALSE"	
-"funeraes"	"funerae"	"NOUN"	1	"lemma"	"FALSE"	
-"duzentos"	"duzento"	"NOUN"	1	"lemmupos"	"FALSE"	
-"encontro"	"encontro"	"ADV"	1	"lemmupos"	"FALSE"	
-"conheci"	"conhecer"	"VERB"	1	"correct"	"TRUE"	
-"vastos"	"vasto"	"NOUN"	1	"upos"	"FALSE"	
-"procurações"	"procurações"	"NOUN"	1	"lemma"	"FALSE"	
-"abrir-lhe"	"_"	"_"	1	"correct"	"TRUE"	
-"quasi"	"quasi"	"PRON"	1	"upos"	"FALSE"	
-"curvou"	"curvar"	"VERB"	1	"correct"	"TRUE"	
-"ingrata"	"ingratar"	"VERB"	1	"lemmupos"	"FALSE"	
-"arrojaram"	"arrojar"	"VERB"	1	"correct"	"TRUE"	
-"musica"	"musico"	"ADJ"	1	"lemmupos"	"FALSE"	
-"divergiam"	"divergir"	"VERB"	1	"features"	"FALSE"	
-"immenso"	"immenso"	"ADJ"	1	"features"	"FALSE"	
-"afeição"	"afeição"	"NOUN"	1	"correct"	"TRUE"	
-"descançar"	"descançar"	"VERB"	1	"correct"	"TRUE"	
-"barcellos"	"barcellos"	"PROPN"	1	"correct"	"TRUE"	
-"dous"	"dous"	"INTJ"	1	"upos"	"FALSE"	
-"riquesa"	"riquês"	"ADJ"	1	"lemmupos"	"FALSE"	
-"quasi"	"quasi"	"PRON"	1	"upos"	"FALSE"	
-"pla"	"plo"	"ADJ"	1	"lemmupos"	"FALSE"	
-"corêto"	"corêto"	"NOUN"	1	"correct"	"TRUE"	
-"continuo"	"continuo"	"NOUN"	1	"features"	"FALSE"	
-"pró"	"pró"	"ADV"	1	"lemmupos"	"FALSE"	
-"continuarás"	"continuar"	"VERB"	1	"correct"	"TRUE"	
-"seiscentos"	"seiscento"	"NOUN"	1	"lemmupos"	"FALSE"	
-"dissipador"	"dissipador"	"NOUN"	1	"correct"	"TRUE"	
-"doce"	"doce"	"NOUN"	1	"upos"	"FALSE"	
-"binoculos"	"binoculo"	"NOUN"	1	"correct"	"TRUE"	
-"albergueiro"	"albergueiro"	"NOUN"	1	"correct"	"TRUE"	
-"ex.^a"	"ex.^ar"	"VERB"	1	"upos"	"FALSE"	
-"pardés"	"pardé"	"NOUN"	1	"lemmupos"	"FALSE"	
-"acceitação"	"acceitação"	"NOUN"	1	"correct"	"TRUE"	
-"venha"	"ver"	"VERB"	1	"lemma"	"FALSE"	
-"surpreenda"	"surpreenda"	"NOUN"	1	"lemmupos"	"FALSE"	
+form	lemma	upos	freq.samp	errtype	is_correct	rand_int	BAMTINOF
+capitaes	capitae	NOUN	1	lemma	FALSE		
+cathedra	cathedra	NOUN	1	correct	TRUE	483	
+magnata	magnata	NOUN	1	correct	TRUE	497	
+jardins	jardin	NOUN	1	lemma	FALSE		
+lerás	lerá	NOUN	1	lemmupos	FALSE		
+adormecida	adormecer	VERB	1	lemmupos	FALSE		
+veria	ver	VERB	1	correct	TRUE	510	
+confundindo	confundir	VERB	1	correct	TRUE	368	
+olivedo	olivedo	NOUN	1	correct	TRUE	433	
+acabas	acaba	NOUN	1	lemmupos	FALSE		
+coitado	coitar	VERB	1	upos	FALSE		
+attendendo	attender	VERB	1	correct	TRUE	524	
+hei	h	AUX	1	lemma	FALSE		
+duvidarás	duvidar	VERB	1	features	FALSE		
+admiravel	admiravel	ADJ	1	correct	TRUE	462	
+propria	propr	VERB	1	lemmupos	FALSE		
+fructos	fructo	ADJ	1	upos	FALSE		
+chorar	chorar	VERB	1	correct	TRUE	322	
+só	só	NOUN	1	upos	FALSE		
+el-rei	el-rei	PROPN	1	features	FALSE		
+geraes	gerae	ADJ	1	lemma	FALSE		
+dominava	dominar	VERB	1	correct	TRUE	422	
+ella	elle	PRON	2	lemma	FALSE		
+ámanhã	ámanhã	ADV	1	correct	TRUE	436	
+vaes	vae	NOUN	1	lemmupos	FALSE		
+saloia	saloiar	VERB	1	lemmupos	FALSE		
+alvura	alvura	NOUN	1	correct	TRUE	523	
+eguaes	eguae	NOUN	1	lemmupos	FALSE		
+fernando	fernando	ADV	1	upos	FALSE		
+corando	corar	VERB	1	correct	TRUE	493	
+sorrisos	sorriso	NOUN	1	correct	TRUE	415	
+m'a	m'a	NOUN	1	tokenization	FALSE		
+ruina	ruina	NOUN	1	correct	TRUE	511	
+vinham	ver	VERB	1	lemma	FALSE		
+impares	impar	ADJ	1	features	FALSE		
+eterno	eterno	ADJ	1	correct	TRUE	476	
+descerrou	descerrar	VERB	1	correct	TRUE	514	
+caçoem	caçoem	PROPN	1	lemmupos	FALSE		
+achas	achar	VERB	1	features	FALSE		
+morgada	morgar	VERB	1	lemmupos	FALSE		
+plateias	plateia	NOUN	1	correct	TRUE	413	
+refrigerio	refrigerio	NOUN	1	correct	TRUE	343	
+restavam	restar	VERB	1	correct	TRUE	330	
+educado	educar	VERB	1	correct	TRUE	332	
+cançada	cançar	VERB	1	lemmupos	FALSE		
+reçumava	reçumava	NOUN	1	upos	FALSE		
+d'	dsegundo	NOUN	1	lemmupos	FALSE		
+lareira	lareiro	ADJ	1	lemmupos	FALSE		
+colhel	colhel	ADJ	1	lemmupos	FALSE		
+extraordinario	extraordinario	ADJ	1	correct	TRUE	448	
+chegára	chegárar	VERB	1	lemma	FALSE		
+á	á	ADV	7	lemmupos	FALSE		
+alli	alli	ADV	1	features	FALSE		
+inquieta	inquieta	NOUN	1	upos	FALSE		
+formoso	formoso	ADJ	1	correct	TRUE	528	
+ninguem	ninguem	PRON	2	features	FALSE		
+improvisos	improviso	NOUN	1	correct	TRUE	363	
+planta	planta	NOUN	1	features	FALSE		
+estás	está	NOUN	1	upos	FALSE		
+brandir	brandir	NOUN	1	features	FALSE		
+luxar	luxar	VERB	1	correct	TRUE	373	
+sábia	sábia	NOUN	1	upos	FALSE		
+cadaver	cadaver	NOUN	1	features	FALSE		
+mostrar-te	_	_	1	correct	TRUE	410	
+invejosos	invejoso	ADJ	1	correct	TRUE	427	
+morto	morto	NOUN	1	features	FALSE		
+abobadas	abobada	NOUN	1	correct	TRUE	508	
+rocio	rocio	PROPN	1	correct	TRUE	393	
+suppôr	suppor	VERB	1	lemma	FALSE		
+sitio	sitio	NOUN	1	correct	TRUE	461	
+loureiro	loureiro	NOUN	1	correct	TRUE	362	
+olhão	olhão	PROPN	1	correct	TRUE	399	
+comprehendeu	comprehender	VERB	1	correct	TRUE	342	
+gabar-se	_	_	1	correct	TRUE	339	
+lançar-me	_	_	1	correct	TRUE	360	
+tristemente	tristemente	ADV	1	correct	TRUE	367	
+morras	morro	NOUN	1	lemma	FALSE		
+alli	alli	NOUN	1	upos	FALSE		
+desprender	desprender	VERB	1	features	FALSE		
+vindas	vindas	NOUN	1	lemmupos	FALSE		
+comtudo	comtudo	ADV	1	upos	FALSE		
+impudentemente	impudentemente	ADV	1	correct	TRUE	536	
+viscondessa	viscondessa	PROPN	1	correct	TRUE	485	
+circumstancia	circumstancia	NOUN	1	correct	TRUE	411	
+redemoinhava	redemoinhar	VERB	1	correct	TRUE	359	
+encovarem-se-lhes	_	_	1	correct	TRUE	349	
+doces	doce	NOUN	1	upos	FALSE		
+p'rá	p'r	VERB	1	tokenization	FALSE		
+retirado	retirar	VERB	1	correct	TRUE	525	
+demora	demora	ADV	1	correct	TRUE	471	
+capuana	capuana	PROPN	1	correct	TRUE	507	
+pró	pró	ADJ	1	tokenization	FALSE		
+vivera	viver	VERB	1	features	FALSE		
+conhecia	conheciar	VERB	1	lemma	FALSE		
+arranjou	arranjar	VERB	1	correct	TRUE	401	
+modista	modista	ADJ	1	upos	FALSE		
+creados	crear	VERB	1	lemmupos	FALSE		
+virtutum	virtutum	PRON	1	upos	FALSE		
+circumstantes	circumstante	NOUN	1	correct	TRUE	468	
+capellão	capellão	NOUN	1	correct	TRUE	441	
+levasse	levar	VERB	1	correct	TRUE	425	
+deixar-se-hia	deixar-se-hio	ADJ	1	lemmupos	FALSE		
+bello	bello	NOUN	1	upos	FALSE		
+poderosa	poderosa	PROPN	1	features	FALSE		
+participar-mo-ás	participar-mo-á	NOUN	1	tokenization	FALSE		
+comoveres	comover	NOUN	1	features	FALSE		
+avêsso	avêsso	NOUN	1	correct	TRUE	409	
+m'o	m'o	NOUN	1	tokenization	FALSE		
+v.	v.	PROPN	1	correct	TRUE	538	
+logares	logare	NOUN	1	lemma	FALSE		
+impulso	impulso	ADJ	1	upos	FALSE		
+conjecturas	conjectura	NOUN	1	correct	TRUE	457	
+palavrinhas	palavrinha	NOUN	1	correct	TRUE	348	
+ella	ellar	VERB	2	lemmupos	FALSE		
+meus	meu	NOUN	1	upos	FALSE		
+errando	errar	VERB	1	correct	TRUE	365	
+ininterrompido	ininterrompido	NOUN	1	upos	FALSE		
+cobriam	cobrir	VERB	1	correct	TRUE	509	
+voltando-se	_	_	1	correct	TRUE	444	
+primor	primor	ADJ	1	upos	FALSE		
+gabar	gabar	VERB	1	correct	TRUE	481	
+illustri	illustrir	VERB	1	lemmupos	FALSE		
+triste	tristir	VERB	1	lemmupos	FALSE		
+farta	farta	ADJ	1	features	FALSE		
+n'um	n'um	DET	2	tokenization	FALSE		
+encostado	encostar	VERB	1	correct	TRUE	473	
+maus	mau	DET	1	upos	FALSE		
+molestias	molestia	NOUN	1	correct	TRUE	355	
+repeso	repeso	ADJ	1	correct	TRUE	470	
+prompto	prompto	ADV	1	upos	FALSE		
+escutava	escutar	VERB	1	correct	TRUE	490	
+andára	andárar	VERB	1	lemma	FALSE		
+pinhões	pinhão	NOUN	1	correct	TRUE	521	
+voltaire	voltaire	ADJ	1	upos	FALSE		
+attencioso	attencioso	ADJ	1	correct	TRUE	403	
+rapidas	rapida	NOUN	1	upos	FALSE		
+animaes	animae	NOUN	1	lemma	FALSE		
+ferreas	ferreo	ADJ	1	correct	TRUE	477	
+seguem-n'a	seguem-n'o	ADJ	1	tokenization	FALSE		
+d'um	d'um	DET	3	tokenization	FALSE		
+ahi	aher	VERB	2	lemmupos	FALSE		
+imensidade	imensidade	NOUN	1	correct	TRUE	336	
+cá	c	VERB	1	lemmupos	FALSE		
+sabes	sabes	PROPN	1	lemmupos	FALSE		
+terrea	terrea	NOUN	1	lemmupos	FALSE		
+sentindo	sentir	VERB	1	features	FALSE		
+estructura	estructura	NOUN	1	correct	TRUE	519	
+crepusculo	crepusculo	NOUN	1	correct	TRUE	526	
+coitado	coitar	VERB	1	lemmupos	FALSE		
+maculada	macular	VERB	1	correct	TRUE	354	
+enthusiasmado	enthusiasmar	VERB	1	lemmupos	FALSE		
+núa	núa	NOUN	1	lemmupos	FALSE		
+és	é	NOUN	2	lemmupos	FALSE		
+eu	eu	ADJ	1	upos	FALSE		
+arreliar	arreliar	VERB	1	features	FALSE		
+vae	vae	NOUN	1	lemmupos	FALSE		
+curvado	curvar	VERB	1	correct	TRUE	534	
+cançado	cançar	VERB	1	lemmupos	FALSE		
+dêdo	dêdo	NOUN	1	correct	TRUE	390	
+trez	trez	PROPN	1	upos	FALSE		
+acudiram	acudir	VERB	1	correct	TRUE	529	
+gemer	gemer	VERB	1	features	FALSE		
+amava	amava	PROPN	1	lemmupos	FALSE		
+aceitasse	aceitasse	NOUN	1	lemmupos	FALSE		
+apaixonadas	apaixonar	VERB	1	lemmupos	FALSE		
+elle	elle	NOUN	1	upos	FALSE		
+conde	conde	NOUN	1	features	FALSE		
+lh'a	lh'a	NOUN	1	tokenization	FALSE		
+insignia	insignia	NOUN	1	correct	TRUE	328	
+aquelle	aquellar	VERB	1	lemmupos	FALSE		
+arvorada	arvorar	VERB	1	lemmupos	FALSE		
+recordar-se	_	_	1	correct	TRUE	397	
+ella	ello	ADJ	1	lemmupos	FALSE		
+corina	corina	PROPN	1	correct	TRUE	405	
+súplicas	súplica	NOUN	1	correct	TRUE	383	
+estrangular	estrangular	VERB	1	features	FALSE		
+espadachim	espadachim	NOUN	1	correct	TRUE	420	
+commodamente	commodamente	ADV	1	correct	TRUE	472	
+á	ar	VERB	1	lemmupos	FALSE		
+vejo	vejo	ADJ	1	lemmupos	FALSE		
+queimados	queimar	VERB	1	lemmupos	FALSE		
+arroubada	arroubar	VERB	1	lemmupos	FALSE		
+gritou	gritar	VERB	1	correct	TRUE	352	
+vel-a	vel-a	NOUN	1	tokenization	FALSE		
+cheiram	cheirar	VERB	1	features	FALSE		
+funesta	funesto	ADJ	1	correct	TRUE	414	
+cruz	cruz	NOUN	1	correct	TRUE	516	
+esmerada	esmerado	ADJ	1	features	FALSE		
+ha	ho	ADJ	1	lemmupos	FALSE		
+m'o	m'o	NOUN	2	tokenization	FALSE		
+supplicas	supplico	ADJ	1	lemmupos	FALSE		
+joelho	joelho	NOUN	1	correct	TRUE	357	
+admirado	admirado	ADJ	1	correct	TRUE	329	
+ornamentação	ornamentação	NOUN	1	correct	TRUE	381	
+tu	tr	VERB	2	lemmupos	FALSE		
+viera	vierar	VERB	1	lemma	FALSE		
+d'	dsegundo	NOUN	2	lemmupos	FALSE		
+estupido	estupido	ADJ	1	correct	TRUE	369	
+gallego	gallego	ADJ	1	upos	FALSE		
+belleza	belleza	NOUN	1	correct	TRUE	503	
+afagando	afagar	VERB	1	correct	TRUE	452	
+pôz	pôzir	VERB	1	lemma	FALSE		
+luz	luz	ADJ	1	upos	FALSE		
+ratinho	ratinho	PROPN	3	features	FALSE		
+perdem	perder	VERB	1	correct	TRUE	464	
+bilhar	bilhar	VERB	1	upos	FALSE		
+tambem	tambem	ADV	5	features	FALSE		
+ordena	ordenar	VERB	1	features	FALSE		
+devida	devidar	VERB	1	lemma	FALSE		
+continuo	continuo	NOUN	1	upos	FALSE		
+visconde	visconde	NOUN	1	features	FALSE		
+encontrasse	encontrar	VERB	1	correct	TRUE	344	
+noite	noite	ADV	1	upos	FALSE		
+dar-lhe-ei	dar-lhe-ar	VERB	1	tokenization	FALSE		
+blague	blague	NOUN	1	features	FALSE		
+defronte	defrontir	VERB	1	lemmupos	FALSE		
+ler	ler	NOUN	1	upos	FALSE		
+tintas	tinta	NOUN	1	correct	TRUE	423	
+ella	elle	PRON	9	lemma	FALSE		
+desesperadores	desesperador	NOUN	1	upos	FALSE		
+ella	elle	PRON	1	lemma	FALSE		
+desinteressada	desinteressar	VERB	1	lemmupos	FALSE		
+pagem	pagem	NOUN	2	features	FALSE		
+hera	hera	NOUN	1	correct	TRUE	478	
+pedir-lhe	_	_	1	correct	TRUE	394	
+vão	vão	NOUN	1	upos	FALSE		
+tristes	triste	NOUN	1	upos	FALSE		
+della	dellar	VERB	1	tokenization	FALSE		
+acompanharia	acompanharia	NOUN	1	lemmupos	FALSE		
+começava	começar	VERB	1	features	FALSE		
+deante	deante	DET	1	upos	FALSE		
+esquecem-se	_	_	1	correct	TRUE	374	
+subo	subo	ADJ	1	lemmupos	FALSE		
+vem	ver	VERB	1	correct	TRUE	334	
+taverna	taverna	NOUN	1	features	FALSE		
+contaminado	contaminar	VERB	1	lemmupos	FALSE		
+aprendêra	aprendêrar	VERB	1	lemma	FALSE		
+afagando-lhe	_	_	1	correct	TRUE	335	
+briche	briche	NOUN	1	correct	TRUE	353	
+chaves	chave	ADJ	1	upos	FALSE		
+mártire	mártire	NOUN	1	upos	FALSE		
+ora	ora	PROPN	1	upos	FALSE		
+esses	esse	NOUN	1	upos	FALSE		
+estupidos	estuper	VERB	1	lemmupos	FALSE		
+restavam	restavar	VERB	1	lemma	FALSE		
+passaro	passaro	NOUN	1	correct	TRUE	447	
+trez	trez	NOUN	1	upos	FALSE		
+subscrevi	subscrevi	NOUN	1	lemmupos	FALSE		
+commendador	commendador	ADJ	1	upos	FALSE		
+soluços	soluço	NOUN	1	correct	TRUE	440	
+enchia	ench	VERB	1	lemma	FALSE		
+iodo	iodo	NOUN	1	correct	TRUE	455	
+á	á	ADV	2	tokenization	FALSE		
+allemanha	allemanha	PROPN	1	correct	TRUE	361	
+sadio	sadio	NOUN	1	upos	FALSE		
+julgas	julga	NOUN	1	lemmupos	FALSE		
+affectos	affecto	ADJ	1	upos	FALSE		
+paiz	paiz	NOUN	1	features	FALSE		
+encovarem-se	encovarem-se	NOUN	1	tokenization	FALSE		
+prece	precer	VERB	1	lemmupos	FALSE		
+compraser	compraser	NOUN	1	upos	FALSE		
+transbordar	transbordar	VERB	1	correct	TRUE	443	
+torpes	torpe	NOUN	1	upos	FALSE		
+tua	tuo	ADJ	1	lemma	FALSE		
+compassado	compassar	VERB	1	lemmupos	FALSE		
+vês	vê	PRON	2	lemmupos	FALSE		
+ha	har	VERB	4	lemma	FALSE		
+sebastião	sebastião	NOUN	2	upos	FALSE		
+irei	ir	VERB	1	features	FALSE		
+quiz	quiz	NOUN	1	lemmupos	FALSE		
+própria	própr	VERB	1	lemmupos	FALSE		
+corrido	correr	VERB	1	correct	TRUE	475	
+viu	vir	VERB	1	correct	TRUE	498	
+doe	doar	VERB	1	lemma	FALSE		
+taverna	taverna	NOUN	1	correct	TRUE	530	
+genio	genio	NOUN	1	correct	TRUE	434	
+elle	ellar	VERB	2	lemmupos	FALSE		
+virginia	virginia	PROPN	1	correct	TRUE	396	
+commentarios	commentario	NOUN	1	correct	TRUE	499	
+máu	máu	ADJ	1	features	FALSE		
+estremecerem	estremecer	VERB	1	features	FALSE		
+caçoem	caço	VERB	1	lemma	FALSE		
+escrava	escrar	VERB	1	lemmupos	FALSE		
+negociante	negociante	NOUN	1	correct	TRUE	474	
+fôsse	fôsse	NOUN	1	lemmupos	FALSE		
+podem	podem	NOUN	1	lemmupos	FALSE		
+paquête	paquête	NOUN	1	correct	TRUE	432	
+esticou	esticar	VERB	1	correct	TRUE	402	
+aborrecida	aborrecida	NOUN	1	upos	FALSE		
+empregues	empregar	VERB	1	features	FALSE		
+ingenua	ingenuo	ADJ	1	correct	TRUE	513	
+herdades	herdade	NOUN	1	correct	TRUE	533	
+pernoitára	pernoitárar	VERB	1	lemma	FALSE		
+bilhar	bilhar	NOUN	1	features	FALSE		
+creancitas	creancita	NOUN	1	correct	TRUE	347	
+fóra	fóro	ADJ	1	lemmupos	FALSE		
+á	á	PROPN	1	lemmupos	FALSE		
+serei	ser	VERB	1	features	FALSE		
+phenómenos	phenómeno	NOUN	1	correct	TRUE	463	
+flôres	flôr	NOUN	1	correct	TRUE	543	
+condemnámos	condemnar	VERB	1	correct	TRUE	537	
+grecia	grecia	PROPN	1	features	FALSE		
+espêlho	espêlho	NOUN	1	correct	TRUE	380	
+ella	ellar	VERB	1	lemmupos	FALSE		
+compaixão	compaixão	NOUN	1	correct	TRUE	408	
+apurado	apurar	VERB	1	upos	FALSE		
+contigo	contigo	NOUN	1	upos	FALSE		
+altivos	altivo	NOUN	1	upos	FALSE		
+desafiando-a	_	_	1	correct	TRUE	522	
+equivalia	equivaler	VERB	1	correct	TRUE	482	
+voltar	voltar	NOUN	1	upos	FALSE		
+ouviam	ouvir	VERB	1	correct	TRUE	484	
+etruria	etruria	PROPN	1	correct	TRUE	325	
+deolindinha	deolindinha	PROPN	1	features	FALSE		
+mystica	mystica	NOUN	1	upos	FALSE		
+mercenarios	mercenario	ADJ	1	upos	FALSE		
+enfermeiras	enfermeiro	NOUN	1	correct	TRUE	382	
+côco	côco	NOUN	1	correct	TRUE	492	
+desembro	desembro	NOUN	1	correct	TRUE	416	
+pae	pae	ADJ	1	upos	FALSE		
+esboçado	esboçar	VERB	1	correct	TRUE	539	
+ultimo	ultimo	ADJ	1	features	FALSE		
+á	á	NOUN	3	lemmupos	FALSE		
+rolos	rolo	NOUN	1	correct	TRUE	1	
+ramos	rar	VERB	1	lemmupos	FALSE		
+vejamos	vejamos	NOUN	1	lemmupos	FALSE		
+infelises	infelise	NOUN	1	lemma	FALSE		
+magreza	magreza	NOUN	1	correct	TRUE	376	
+floreta	floreta	NOUN	1	correct	TRUE	491	
+allemão	allemão	ADV	1	upos	FALSE		
+continuarás	continuar	VERB	1	correct	TRUE	375	
+dispor-m	dispor-r	VERB	1	tokenization	FALSE		
+chancellaria	chancellaria	NOUN	1	correct	TRUE	431	
+tranquillo	tranquillo	ADJ	1	correct	TRUE	358	
+lã	lã	NOUN	1	correct	TRUE	392	
+protector	protector	NOUN	1	upos	FALSE		
+cadavericas	cadaverico	ADJ	1	correct	TRUE	412	
+reino	reino	NOUN	1	correct	TRUE	487	
+coitadinha	coitadinha	NOUN	1	lemmupos	FALSE		
+emfim	emfim	ADV	1	correct	TRUE	488	
+separando	separar	VERB	1	correct	TRUE	430	
+sae	saer	VERB	1	lemma	FALSE		
+ahi	ahi	ADJ	1	upos	FALSE		
+musica	musica	NOUN	1	features	FALSE		
+passára	passárar	VERB	1	lemma	FALSE		
+praia	praio	ADJ	1	lemmupos	FALSE		
+pallidez	pallidez	NOUN	1	correct	TRUE	421	
+entoar	entoar	VERB	1	features	FALSE		
+pinheiro	pinheiro	NOUN	1	correct	TRUE	341	
+escura	escurar	VERB	1	lemmupos	FALSE		
+boccas	bocca	NOUN	1	correct	TRUE	389	
+respeitava	respeitar	VERB	1	correct	TRUE	531	
+perolas	perola	ADJ	1	upos	FALSE		
+trigueira	trigueiro	ADJ	1	correct	TRUE	424	
+ouça	ouçar	VERB	1	lemma	FALSE		
+defronte	defronte	ADJ	1	upos	FALSE		
+mandára	mandára	NOUN	1	upos	FALSE		
+aviasse	aviar	VERB	1	correct	TRUE	428	
+oitocentos	oitocento	NOUN	1	lemmupos	FALSE		
+ápice	ápice	NOUN	1	features	FALSE		
+doces	doce	ADJ	1	correct	TRUE	351	
+recordava	recordar	VERB	1	features	FALSE		
+divertir-se	_	_	1	correct	TRUE	391	
+explica-m'o	explica-m'o	NOUN	1	tokenization	FALSE		
+obtiveres	obtiverer	VERB	1	features	FALSE		
+barcellos	barcellos	PROPN	1	correct	TRUE	453	
+alucinado	alucinado	NOUN	1	correct	TRUE	479	
+augmentou	augmentar	VERB	1	correct	TRUE	500	
+guarnecerem	guarnecer	VERB	1	correct	TRUE	446	
+egua	egua	NOUN	1	correct	TRUE	540	
+tristes	triste	NOUN	1	upos	FALSE		
+possivel	possivel	ADJ	1	correct	TRUE	435	
+cama	camar	VERB	1	lemmupos	FALSE		
+chamar-lhe	_	_	1	correct	TRUE	437	
+linguado	linguado	NOUN	1	correct	TRUE	450	
+mereçam	merecer	VERB	1	correct	TRUE	366	
+vae	vae	PROPN	1	lemmupos	FALSE		
+fôr	fôr	VERB	1	lemma	FALSE		
+estenderam	estender	VERB	1	correct	TRUE	372	
+faz-me	_	_	1	correct	TRUE	515	
+voltava	voltar	VERB	1	correct	TRUE	429	
+gosta	gosto	ADJ	1	lemmupos	FALSE		
+sobresalto	sobresalto	ADJ	1	upos	FALSE		
+preciosas	precioso	ADJ	1	correct	TRUE	404	
+pundonor	pundonor	NOUN	1	correct	TRUE	465	
+capitão	capitão	PROPN	1	correct	TRUE	501	
+quarto	quarto	ADV	1	upos	FALSE		
+redempção	redempção	NOUN	1	correct	TRUE	469	
+procurá	procurar	VERB	1	features	FALSE		
+rapazes	rapaz	ADJ	1	upos	FALSE		
+estive	ester	AUX	1	lemma	FALSE		
+braços--são	braços--são	NOUN	1	tokenization	FALSE		
+brochado	brochado	PROPN	1	correct	TRUE	454	
+voar	voar	VERB	1	correct	TRUE	496	
+cobria	cobria	NOUN	1	lemmupos	FALSE		
+escaldada	escaldar	VERB	1	upos	FALSE		
+investindo	investir	VERB	1	features	FALSE		
+irei	ir	VERB	1	correct	TRUE	542	
+forcados	forcar	VERB	1	lemmupos	FALSE		
+louvores	louvor	ADJ	1	upos	FALSE		
+inquisição	inquisição	NOUN	1	correct	TRUE	532	
+seria	seria	PROPN	1	lemmupos	FALSE		
+divididos	divididos	NOUN	1	lemmupos	FALSE		
+escanhoada	escanhoar	VERB	1	features	FALSE		
+tu	tu	PROPN	1	upos	FALSE		
+imploro	imploro	ADJ	1	upos	FALSE		
+ligeiro	ligeiro	NOUN	1	upos	FALSE		
+murmurios	murmurio	NOUN	1	correct	TRUE	345	
+redarguiram-lhe	_	_	1	correct	TRUE	333	
+chegára	chegárar	VERB	1	correct	TRUE	495	
+tens	ten	NOUN	1	lemmupos	FALSE		
+vae	vaer	VERB	1	lemma	FALSE		
+trate	trate	NOUN	1	lemmupos	FALSE		
+fóra	fóra	NOUN	2	upos	FALSE		
+magestade	magestade	NOUN	1	correct	TRUE	418	
+acabarem	acabar	VERB	1	correct	TRUE	545	
+marianna	marianna	PROPN	1	correct	TRUE	518	
+á	á	ADV	1	upos	FALSE		
+operarios	operario	NOUN	1	correct	TRUE	370	
+val	val	ADJ	1	lemmupos	FALSE		
+canta-storie	canta-storie	NOUN	1	correct	TRUE	520	
+austria	austria	PROPN	1	correct	TRUE	350	
+assumpto	assumpto	NOUN	1	correct	TRUE	417	
+propria	propria	NOUN	2	lemmupos	FALSE		
+logar	logar	VERB	1	upos	FALSE		
+era-lhe	_	_	1	correct	TRUE	385	
+pararam	parar	VERB	1	correct	TRUE	544	
+offerecer	offerecer	VERB	1	correct	TRUE	486	
+dona	dona	PROPN	1	correct	TRUE	541	
+casasse	casassar	VERB	1	lemma	FALSE		
+perguntei	perguntar	VERB	1	correct	TRUE	504	
+consentiram	consentir	VERB	1	correct	TRUE	378	
+fidalgo	fidalgo	NOUN	2	features	FALSE		
+escadas	escar	VERB	1	lemmupos	FALSE		
+diverso	diverso	ADJ	1	correct	TRUE	337	
+epiderme	epiderme	NOUN	1	correct	TRUE	407	
+excellente	excellente	ADJ	1	correct	TRUE	426	
+doirava	doirar	VERB	1	features	FALSE		
+sombrias	sombrio	ADJ	1	correct	TRUE	400	
+vejo	vejo	NOUN	1	lemmupos	FALSE		
+lividez	lividez	NOUN	1	correct	TRUE	419	
+imbecillidade	imbecillidade	NOUN	1	correct	TRUE	517	
+alfinetes	alfinete	NOUN	1	correct	TRUE	323	
+encarregar	encarregar	VERB	1	correct	TRUE	398	
+redarguiram	redarguir	VERB	1	correct	TRUE	340	
+lh'o	lh'o	NOUN	1	tokenization	FALSE		
+afim	afim	ADV	1	features	FALSE		
+vêr	vêr	NOUN	1	upos	FALSE		
+me	mir	VERB	1	lemmupos	FALSE		
+agradavel	agradavel	ADJ	1	correct	TRUE	445	
+zelosa	zeloso	NOUN	1	upos	FALSE		
+co'	coe	ADP	1	lemma	FALSE		
+quilha	quilha	NOUN	1	correct	TRUE	480	
+egoistas	egoista	ADJ	1	features	FALSE		
+palavras	palavra	ADJ	1	upos	FALSE		
+medrára	medrárar	VERB	1	lemma	FALSE		
+abrangia	abranger	VERB	1	correct	TRUE	324	
+pensado	pensar	VERB	1	correct	TRUE	331	
+flor	flor	VERB	1	upos	FALSE		
+aventureiro	aventureiro	NOUN	1	correct	TRUE	379	
+união	união	ADJ	1	upos	FALSE		
+predominava	predominar	VERB	1	correct	TRUE	326	
+casa	caso	DET	1	lemmupos	FALSE		
+ninguem	ninguem	PRON	1	features	FALSE		
+aquelles	aquelle	DET	1	correct	TRUE	395	
+proximo	proximo	ADJ	1	correct	TRUE	451	
+cahira	cahirar	VERB	1	lemma	FALSE		
+louças	louças	ADV	1	lemmupos	FALSE		
+propria	propria	NOUN	1	lemmupos	FALSE		
+mercê	mercê	NOUN	1	correct	TRUE	388	
+mágoa	mágoa	NOUN	1	correct	TRUE	406	
+escutaram	escutar	VERB	1	correct	TRUE	449	
+tres	tr	ADJ	3	lemmupos	FALSE		
+dôres	dôr	NOUN	1	correct	TRUE	467	
+cahira-lhe	_	_	1	correct	TRUE	466	
+poderosa	poderosa	PROPN	1	correct	TRUE	439	
+ouvidos	ouvido	NOUN	1	features	FALSE		
+chamassem	chamar	VERB	1	correct	TRUE	458	
+enganado	enganar	VERB	1	correct	TRUE	338	
+ricos	ricos	ADJ	1	upos	FALSE		
+chave	chave	ADJ	1	upos	FALSE		
+descuidadamente	descuidadamente	ADV	1	correct	TRUE	535	
+á	ar	VERB	2	tokenization	FALSE		
+acanhamento	acanhamento	NOUN	1	correct	TRUE	527	
+rosina	rosina	PROPN	1	features	FALSE		
+deixaste	deixaste	NOUN	1	upos	FALSE		
+assestar	assestar	VERB	1	correct	TRUE	364	
+rei	zer	VERB	1	lemmupos	FALSE		
+classificassão	classificassão	NOUN	1	correct	TRUE	505	
+deixei	deixar	AUX	1	upos	FALSE		
+dhalia	dhalia	NOUN	1	correct	TRUE	456	
+setenta	setento	ADJ	1	lemmupos	FALSE		
+metter	metter	VERB	1	correct	TRUE	386	
+contrastavam	contrastavar	VERB	1	lemma	FALSE		
+prosa	proso	NOUN	1	lemma	FALSE		
+inspiro	inspirar	VERB	1	features	FALSE		
+atraz	atraz	NOUN	1	upos	FALSE		
+cançada	cançado	ADJ	1	correct	TRUE	387	
+annullar	annullar	VERB	1	correct	TRUE	459	
+trasbordou	trasbordar	VERB	1	correct	TRUE	512	
+desmanchado	desmanchar	VERB	1	lemmupos	FALSE		
+funeraes	funerae	NOUN	1	lemma	FALSE		
+duzentos	duzento	NOUN	1	lemmupos	FALSE		
+encontro	encontro	ADV	1	lemmupos	FALSE		
+enfiou-o	_	_	1	correct	TRUE	384	
+vastos	vasto	NOUN	1	upos	FALSE		
+procurações	procurações	NOUN	1	lemma	FALSE		
+cadaveres	cadaver	NOUN	1	correct	TRUE	506	
+quasi	quasi	PRON	1	upos	FALSE		
+cegamente	cegamente	ADV	1	correct	TRUE	356	
+ingrata	ingratar	VERB	1	lemmupos	FALSE		
+perturbantemente	perturbantemente	ADV	1	correct	TRUE	460	
+musica	musico	ADJ	1	lemmupos	FALSE		
+divergiam	divergir	VERB	1	features	FALSE		
+immenso	immenso	ADJ	1	features	FALSE		
+contenta	contentar	VERB	1	correct	TRUE	494	
+cunhado	cunhado	NOUN	1	correct	TRUE	346	
+assanharam	assanhar	VERB	1	correct	TRUE	442	
+dous	dous	INTJ	1	upos	FALSE		
+riquesa	riquês	ADJ	1	lemmupos	FALSE		
+quasi	quasi	PRON	1	upos	FALSE		
+pla	plo	ADJ	1	lemmupos	FALSE		
+voltados	voltar	VERB	1	correct	TRUE	371	
+continuo	continuo	NOUN	1	features	FALSE		
+pró	pró	ADV	1	lemmupos	FALSE		
+velhinhos	velhinho	NOUN	1	correct	TRUE	377	
+seiscentos	seiscento	NOUN	1	lemmupos	FALSE		
+inerte	inerte	ADJ	1	correct	TRUE	327	
+doce	doce	NOUN	1	upos	FALSE		
+refugiaram-se	_	_	1	correct	TRUE	438	
+piombino	piombino	PROPN	1	correct	TRUE	489	
+ex.^a	ex.^ar	VERB	1	upos	FALSE		
+pardés	pardé	NOUN	1	lemmupos	FALSE		
+embrulhou-se	_	_	1	correct	TRUE	502	
+venha	ver	VERB	1	lemma	FALSE		
+surpreenda	surpreenda	NOUN	1	lemmupos	FALSE		

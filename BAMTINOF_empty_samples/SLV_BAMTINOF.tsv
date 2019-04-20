@@ -1,889 +1,889 @@
-"form"	"lemma"	"upos"	"freq.samp"	"errtype"	"is_correct"	"BAMTINOF"
-"človekoljubnost"	"človekoljubnost"	"NOUN"	1	"lemma"	"FALSE"	
-"koren"	"koren"	"PROPN"	1	"correct"	"TRUE"	
-"hrib"	"hrib"	"NOUN"	1	"correct"	"TRUE"	
-"gozdn"	"gozdn"	"NOUN"	1	"lemma"	"FALSE"	
-"rekoč"	"rekoča"	"ADV"	1	"lemma"	"FALSE"	
-"matere"	"materi"	"NOUN"	1	"lemma"	"FALSE"	
-"duša"	"duša"	"NOUN"	1	"correct"	"TRUE"	
-"slabotnega"	"slaboten"	"ADJ"	1	"correct"	"TRUE"	
-"ohladil"	"ohladiti"	"VERB"	1	"correct"	"TRUE"	
-"ljudij"	"ljudija"	"NOUN"	1	"lemma"	"FALSE"	
-"poslednje"	"poslednji"	"ADV"	1	"lemmupos"	"FALSE"	
-"cerkljah"	"cerklje"	"PROPN"	1	"correct"	"TRUE"	
-"pripisuješ"	"pripisovati"	"X"	1	"upos"	"FALSE"	
-"obesimo"	"obesiti"	"VERB"	1	"features"	"FALSE"	
-"mogočno"	"mogočno"	"ADV"	1	"correct"	"TRUE"	
-"dasi"	"dasiti"	"ADV"	1	"lemmupos"	"FALSE"	
-"blizu"	"blizu"	"PROPN"	1	"upos"	"FALSE"	
-"zabliskalo"	"zabliskati"	"VERB"	1	"correct"	"TRUE"	
-"delíti"	"delít"	"NOUN"	1	"lemmupos"	"FALSE"	
-"odmevalo"	"odmevati"	"VERB"	1	"features"	"FALSE"	
-"grajščak"	"grajščak"	"NOUN"	1	"lemma"	"FALSE"	
-"počenil"	"počeniti"	"VERB"	1	"correct"	"TRUE"	
-"žepa"	"žep"	"NOUN"	1	"correct"	"TRUE"	
-"ognjenim"	"ognjen"	"ADJ"	1	"correct"	"TRUE"	
-"koraka"	"korak"	"NOUN"	1	"lemmupos"	"FALSE"	
-"gospodična"	"gospodičen"	"ADJ"	1	"lemmupos"	"FALSE"	
-"cerkvico"	"cerkvica"	"NOUN"	1	"correct"	"TRUE"	
-"potegne"	"potegna"	"VERB"	1	"lemma"	"FALSE"	
-"commissariuss"	"commissariuss"	"NOUN"	1	"upos"	"FALSE"	
-"jel"	"jeti"	"VERB"	1	"correct"	"TRUE"	
-"popačeno"	"popačen"	"ADJ"	1	"correct"	"TRUE"	
-"oglasi"	"oglasi"	"SCONJ"	1	"lemmupos"	"FALSE"	
-"duška"	"dušek"	"NOUN"	1	"correct"	"TRUE"	
-"mirú"	"mirú"	"NOUN"	1	"lemma"	"FALSE"	
-"pravili"	"praviti"	"VERB"	1	"features"	"FALSE"	
-"lahne"	"lahen"	"ADJ"	1	"correct"	"TRUE"	
-"dovtipu"	"dovtip"	"NOUN"	1	"correct"	"TRUE"	
-"onega"	"on"	"DET"	1	"lemma"	"FALSE"	
-"ležišči"	"ležišče"	"NOUN"	1	"features"	"FALSE"	
-"bode"	"bosti"	"NOUN"	1	"lemmupos"	"FALSE"	
-"poslom"	"posel"	"NOUN"	1	"correct"	"TRUE"	
-"upa"	"upati"	"VERB"	1	"correct"	"TRUE"	
-"vzbujati"	"vzbujati"	"VERB"	1	"correct"	"TRUE"	
-"vratislav"	"vratislav"	"PROPN"	1	"correct"	"TRUE"	
-"ovoji"	"ovo"	"NOUN"	1	"lemma"	"FALSE"	
-"peli"	"peti"	"VERB"	1	"features"	"FALSE"	
-"poslednje"	"poslednji"	"ADJ"	1	"lemma"	"FALSE"	
-"bode"	"boda"	"ADV"	1	"lemmupos"	"FALSE"	
-"pojdiva"	"pojdiv"	"VERB"	1	"lemma"	"FALSE"	
-"nemškutar"	"nemškutar"	"NOUN"	1	"correct"	"TRUE"	
-"kedar"	"kedar"	"SCONJ"	1	"lemma"	"FALSE"	
-"zidovju"	"zidovje"	"NOUN"	1	"correct"	"TRUE"	
-"molila"	"moliti"	"VERB"	1	"features"	"FALSE"	
-"poboji"	"poboj"	"NOUN"	1	"features"	"FALSE"	
-"bradatih"	"bradat"	"ADJ"	1	"correct"	"TRUE"	
-"čula"	"čuti"	"VERB"	1	"features"	"FALSE"	
-"stopata"	"stopati"	"VERB"	1	"correct"	"TRUE"	
-"cilja"	"cielj"	"PROPN"	1	"lemma"	"FALSE"	
-"brezkonečnem"	"brezkonečen"	"ADJ"	1	"lemma"	"FALSE"	
-"otmar"	"otmar"	"NOUN"	1	"upos"	"FALSE"	
-"slovenov"	"sloven"	"PROPN"	1	"correct"	"TRUE"	
-"zbežali"	"zbežati"	"VERB"	1	"correct"	"TRUE"	
-"obžaluješ"	"obžalovati"	"VERB"	1	"features"	"FALSE"	
-"pozablja"	"pozabljati"	"VERB"	1	"correct"	"TRUE"	
-"plavala"	"plavati"	"VERB"	1	"correct"	"TRUE"	
-"trenotek"	"trenotek"	"NOUN"	2	"lemma"	"FALSE"	
-"fantazija"	"fantazija"	"NOUN"	1	"correct"	"TRUE"	
-"razbita"	"razbit"	"ADJ"	1	"correct"	"TRUE"	
-"ničesa"	"nikaj"	"PRON"	1	"lemma"	"FALSE"	
-"mrmlja"	"mrmljati"	"VERB"	1	"correct"	"TRUE"	
-"svati"	"svat"	"NOUN"	1	"correct"	"TRUE"	
-"prisego"	"prisega"	"NOUN"	1	"correct"	"TRUE"	
-"verigo"	"veriga"	"NOUN"	1	"correct"	"TRUE"	
-"vpričo"	"vpričo"	"ADP"	1	"correct"	"TRUE"	
-"štajerec"	"štajerec"	"PROPN"	1	"correct"	"TRUE"	
-"sreča"	"srečati"	"VERB"	1	"correct"	"TRUE"	
-"miklavža"	"miklavžati"	"NOUN"	1	"lemma"	"FALSE"	
-"meni"	"jaz"	"VERB"	2	"upos"	"FALSE"	
-"pogube"	"poguba"	"NOUN"	1	"features"	"FALSE"	
-"poslednje"	"poslednje"	"ADV"	1	"lemmupos"	"FALSE"	
-"pristavila"	"pristaviti"	"VERB"	1	"correct"	"TRUE"	
-"usmrtila"	"usmrtiti"	"VERB"	2	"correct"	"TRUE"	
-"krasen"	"krasen"	"ADJ"	1	"correct"	"TRUE"	
-"predmeta"	"predmet"	"NOUN"	1	"correct"	"TRUE"	
-"tesnega"	"tesen"	"ADJ"	1	"correct"	"TRUE"	
-"ustanovitelj"	"ustanovitelj"	"NOUN"	1	"correct"	"TRUE"	
-"pekla"	"peči"	"VERB"	1	"features"	"FALSE"	
-"žvižgaje"	"žvižgaja"	"VERB"	1	"lemmupos"	"FALSE"	
-"cerkljanski"	"cerkljanski"	"ADJ"	1	"correct"	"TRUE"	
-"materinstvo"	"materinstvo"	"NOUN"	1	"correct"	"TRUE"	
-"gotskem"	"gotski"	"ADJ"	1	"correct"	"TRUE"	
-"ako"	"ako"	"ADV"	3	"upos"	"FALSE"	
-"hahaha"	"hahah"	"INTJ"	1	"lemma"	"FALSE"	
-"kontesa"	"kontes"	"NOUN"	1	"lemma"	"FALSE"	
-"pristavi"	"pristaviti"	"VERB"	1	"correct"	"TRUE"	
-"bode"	"bosti"	"VERB"	1	"lemma"	"FALSE"	
-"nij"	"nij"	"X"	2	"lemmupos"	"FALSE"	
-"mrtva"	"mrtvo"	"ADJ"	1	"lemma"	"FALSE"	
-"otmar"	"otmar"	"NOUN"	1	"upos"	"FALSE"	
-"olajšan"	"olajšan"	"ADJ"	1	"correct"	"TRUE"	
-"ponesrečenemu"	"ponesrečen"	"ADJ"	1	"correct"	"TRUE"	
-"arabela"	"arabeti"	"VERB"	1	"lemmupos"	"FALSE"	
-"nizdol"	"nizdol"	"ADV"	1	"lemma"	"FALSE"	
-"glejte"	"gleti"	"VERB"	1	"lemma"	"FALSE"	
-"miklavž"	"miklavž"	"PROPN"	1	"correct"	"TRUE"	
-"pospeši"	"pospešiti"	"VERB"	1	"features"	"FALSE"	
-"prigovarja"	"prigovarjati"	"VERB"	1	"correct"	"TRUE"	
-"plaho"	"plaho"	"ADJ"	1	"upos"	"FALSE"	
-"slučajih"	"slučaj"	"NOUN"	2	"correct"	"TRUE"	
-"nocojšnji"	"nocojšnja"	"ADJ"	1	"lemma"	"FALSE"	
-"jej"	"jej"	"NOUN"	1	"lemmupos"	"FALSE"	
-"natikati"	"natikati"	"VERB"	1	"correct"	"TRUE"	
-"vlagar"	"vlagar"	"PROPN"	1	"correct"	"TRUE"	
-"moravski"	"moravski"	"ADJ"	1	"features"	"FALSE"	
-"majorja"	"major"	"NOUN"	1	"correct"	"TRUE"	
-"temoti"	"temota"	"NOUN"	1	"correct"	"TRUE"	
-"marjetica"	"marjetica"	"NOUN"	1	"upos"	"FALSE"	
-"goriček"	"goriček"	"PROPN"	1	"correct"	"TRUE"	
-"okovanih"	"okovan"	"ADJ"	1	"correct"	"TRUE"	
-"farewell"	"farewell"	"PROPN"	1	"lemmupos"	"FALSE"	
-"legel"	"leči"	"VERB"	1	"correct"	"TRUE"	
-"jezo"	"jez"	"PROPN"	1	"lemmupos"	"FALSE"	
-"odperajo"	"odperati"	"VERB"	1	"lemma"	"FALSE"	
-"čisto"	"čisto"	"ADJ"	1	"lemma"	"FALSE"	
-"paleževino"	"paleževina"	"PROPN"	1	"features"	"FALSE"	
-"pričnè"	"pričnè"	"NOUN"	1	"lemmupos"	"FALSE"	
-"zastonj"	"zastome"	"PRON"	2	"lemmupos"	"FALSE"	
-"vajen"	"vajen"	"ADJ"	1	"correct"	"TRUE"	
-"ranjce"	"ranjec"	"NOUN"	1	"lemmupos"	"FALSE"	
-"čuvala"	"čuvati"	"VERB"	1	"correct"	"TRUE"	
-"prvič"	"prvič"	"NOUN"	1	"upos"	"FALSE"	
-"krotkega"	"krotki"	"ADJ"	1	"lemma"	"FALSE"	
-"delam"	"delati"	"VERB"	1	"correct"	"TRUE"	
-"jezdil"	"jezditi"	"VERB"	1	"correct"	"TRUE"	
-"razburjen"	"razburjen"	"ADJ"	1	"correct"	"TRUE"	
-"oglušilo"	"oglušilo"	"VERB"	1	"lemma"	"FALSE"	
-"lisi"	"lis"	"NOUN"	1	"lemma"	"FALSE"	
-"malvina"	"malvina"	"PROPN"	1	"correct"	"TRUE"	
-"grofu"	"grof"	"NOUN"	1	"correct"	"TRUE"	
-"povrhu"	"povrh"	"NOUN"	1	"lemmupos"	"FALSE"	
-"njegovemu"	"njegov"	"DET"	1	"features"	"FALSE"	
-"žalostnim"	"žalosten"	"ADJ"	1	"correct"	"TRUE"	
-"blazni"	"blazen"	"ADJ"	1	"lemmupos"	"FALSE"	
-"možakarja"	"možakarjati"	"VERB"	1	"lemmupos"	"FALSE"	
-"nemirnosti"	"nemirnost"	"NOUN"	1	"correct"	"TRUE"	
-"krogle"	"krogla"	"NOUN"	1	"lemma"	"FALSE"	
-"dolg"	"dolg"	"NOUN"	1	"correct"	"TRUE"	
-"«samó"	"«samo"	"CCONJ"	1	"tokenization"	"FALSE"	
-"farewell"	"farewelti"	"VERB"	1	"lemmupos"	"FALSE"	
-"vrela"	"vreti"	"VERB"	1	"correct"	"TRUE"	
-"nató"	"nato"	"CCONJ"	1	"upos"	"FALSE"	
-"matematika"	"matematika"	"NOUN"	1	"correct"	"TRUE"	
-"pekočem"	"pekoč"	"ADJ"	1	"features"	"FALSE"	
-"kakó"	"kako"	"PART"	2	"upos"	"FALSE"	
-"razsodnost"	"razsodnost"	"NOUN"	1	"features"	"FALSE"	
-"svetopolk"	"svetopolk"	"PROPN"	2	"correct"	"TRUE"	
-"besedam"	"beseda"	"NOUN"	1	"correct"	"TRUE"	
-"nevesta"	"nevest"	"ADJ"	1	"lemmupos"	"FALSE"	
-"slušajoči"	"slušajoč"	"ADJ"	1	"correct"	"TRUE"	
-"citiral"	"citirati"	"VERB"	1	"correct"	"TRUE"	
-"brigala"	"brigati"	"VERB"	1	"correct"	"TRUE"	
-"gorjá"	"gorjá"	"NOUN"	1	"lemma"	"FALSE"	
-"čul"	"čula"	"PROPN"	1	"lemmupos"	"FALSE"	
-"bode"	"bosti"	"ADV"	1	"lemmupos"	"FALSE"	
-"desnej"	"desneja"	"PRON"	1	"lemmupos"	"FALSE"	
-"top"	"top"	"ADJ"	1	"correct"	"TRUE"	
-"časih"	"čas"	"ADV"	1	"lemma"	"FALSE"	
-"rodovine"	"rodovina"	"NOUN"	1	"correct"	"TRUE"	
-"klicalo"	"klicati"	"VERB"	1	"features"	"FALSE"	
-"drevi"	"dar"	"NOUN"	1	"lemmupos"	"FALSE"	
-"li"	"lo"	"ADV"	1	"lemmupos"	"FALSE"	
-"skovir"	"skovir"	"PROPN"	1	"correct"	"TRUE"	
-"solzami"	"solza"	"NOUN"	1	"correct"	"TRUE"	
-"recept"	"recept"	"NOUN"	1	"correct"	"TRUE"	
-"svasti"	"svasti"	"PART"	1	"correct"	"TRUE"	
-"grofíce"	"grofíca"	"NOUN"	1	"lemma"	"FALSE"	
-"preproste"	"prepriti"	"VERB"	1	"lemmupos"	"FALSE"	
-"monarhovskem"	"monarhovski"	"ADJ"	1	"correct"	"TRUE"	
-"domóv"	"domóv"	"NOUN"	1	"lemmupos"	"FALSE"	
-"moravsko"	"moravsko"	"PROPN"	1	"lemma"	"FALSE"	
-"molči"	"molčiti"	"VERB"	1	"lemma"	"FALSE"	
-"gotova"	"gotova"	"NOUN"	1	"lemmupos"	"FALSE"	
-"zavezano"	"zavezan"	"ADJ"	1	"correct"	"TRUE"	
-"daj"	"daj"	"VERB"	1	"lemma"	"FALSE"	
-"kje"	"kje"	"NOUN"	3	"upos"	"FALSE"	
-"radovedno"	"radovedno"	"ADV"	1	"correct"	"TRUE"	
-"modrijana"	"modrijan"	"ADJ"	1	"upos"	"FALSE"	
-"izpregovoriti"	"izpregovoriti"	"VERB"	1	"lemma"	"FALSE"	
-"naposled"	"naposled"	"NOUN"	1	"upos"	"FALSE"	
-"graščák"	"graščák"	"NOUN"	2	"lemma"	"FALSE"	
-"močila"	"močiti"	"VERB"	1	"correct"	"TRUE"	
-"zapisana"	"zapisan"	"ADJ"	1	"correct"	"TRUE"	
-"inače"	"inače"	"NOUN"	1	"upos"	"FALSE"	
-"ljuba"	"ljub"	"NOUN"	2	"upos"	"FALSE"	
-"robec"	"robec"	"NOUN"	1	"features"	"FALSE"	
-"tisočkrat"	"tisočkrat"	"ADV"	1	"correct"	"TRUE"	
-"preudarek"	"preudarek"	"NOUN"	1	"features"	"FALSE"	
-"višino"	"višina"	"NOUN"	1	"correct"	"TRUE"	
-"pavovih"	"pavov"	"ADJ"	1	"features"	"FALSE"	
-"izrazov"	"izraz"	"NOUN"	1	"correct"	"TRUE"	
-"opravkov"	"opravek"	"NOUN"	1	"correct"	"TRUE"	
-"kamenitej"	"kamenita"	"DET"	1	"lemmupos"	"FALSE"	
-"raztegnil"	"raztegniti"	"VERB"	1	"correct"	"TRUE"	
-"poljubovala"	"poljubovati"	"VERB"	1	"features"	"FALSE"	
-"neumestno"	"neumesten"	"ADJ"	1	"lemmupos"	"FALSE"	
-"vzamem"	"vzeti"	"VERB"	1	"correct"	"TRUE"	
-"pogrebu"	"pogreb"	"NOUN"	1	"features"	"FALSE"	
-"odide"	"odid"	"VERB"	1	"lemma"	"FALSE"	
-"resničnega"	"resničn"	"ADJ"	1	"lemma"	"FALSE"	
-"obhajal"	"obhajati"	"VERB"	1	"correct"	"TRUE"	
-"poseže"	"poseža"	"VERB"	1	"lemma"	"FALSE"	
-"hrabril"	"hrabriti"	"VERB"	1	"features"	"FALSE"	
-"odkod"	"odkoda"	"NOUN"	1	"lemmupos"	"FALSE"	
-"poneha"	"ponehati"	"VERB"	1	"correct"	"TRUE"	
-"gospá"	"gospá"	"NOUN"	1	"lemma"	"FALSE"	
-"izgubivati"	"izgubivati"	"VERB"	1	"lemma"	"FALSE"	
-"najhujši"	"hud"	"ADJ"	1	"correct"	"TRUE"	
-"dobi"	"doba"	"VERB"	1	"upos"	"FALSE"	
-"prerahlo"	"prerahti"	"VERB"	1	"lemmupos"	"FALSE"	
-"prihodnja"	"prihodnji"	"ADJ"	1	"correct"	"TRUE"	
-"potiti"	"potiti"	"VERB"	1	"features"	"FALSE"	
-"nij"	"nij"	"X"	1	"lemma"	"FALSE"	
-"elza"	"elz"	"PROPN"	2	"lemma"	"FALSE"	
-"mojstra"	"mojster"	"NOUN"	1	"correct"	"TRUE"	
-"dobro"	"dober"	"ADV"	1	"upos"	"FALSE"	
-"grozo"	"groza"	"NOUN"	1	"correct"	"TRUE"	
-"žaljenje"	"žaljenje"	"NOUN"	1	"correct"	"TRUE"	
-"nehvaležno"	"nehvaležen"	"ADJ"	1	"correct"	"TRUE"	
-"razgret"	"razgret"	"NOUN"	1	"lemmupos"	"FALSE"	
-"jih"	"o"	"PRON"	1	"lemma"	"FALSE"	
-"zanesljivi"	"zanesljiv"	"ADJ"	1	"correct"	"TRUE"	
-"vzdihnila"	"vzdihniti"	"VERB"	1	"correct"	"TRUE"	
-"sramote"	"sramota"	"NOUN"	1	"correct"	"TRUE"	
-"odpotovali"	"odpotovati"	"VERB"	1	"features"	"FALSE"	
-"prikazen"	"prikazen"	"ADJ"	1	"upos"	"FALSE"	
-"korenine"	"korenin"	"NOUN"	1	"lemma"	"FALSE"	
-"nijsem"	"nijsem"	"AUX"	1	"lemma"	"FALSE"	
-"omaja"	"omajati"	"VERB"	1	"features"	"FALSE"	
-"hrib"	"hrib"	"NOUN"	1	"features"	"FALSE"	
-"pogledujejo"	"pogledovati"	"VERB"	1	"correct"	"TRUE"	
-"izpričevalih"	"izpričeval"	"NOUN"	1	"lemma"	"FALSE"	
-"zaljubil"	"zaljubiti"	"VERB"	1	"correct"	"TRUE"	
-"zameriti"	"zameriti"	"VERB"	1	"correct"	"TRUE"	
-"galjot"	"galjota"	"NOUN"	1	"lemma"	"FALSE"	
-"jošt"	"jošt"	"PROPN"	1	"correct"	"TRUE"	
-"rajše"	"rajše"	"NOUN"	1	"lemmupos"	"FALSE"	
-"hipov"	"hip"	"NOUN"	1	"correct"	"TRUE"	
-"žunu"	"žun"	"PROPN"	1	"correct"	"TRUE"	
-"pusti"	"pust"	"VERB"	1	"lemma"	"FALSE"	
-"povzdigniti"	"povzdigniti"	"VERB"	1	"correct"	"TRUE"	
-"razvedelo"	"razvedeti"	"VERB"	1	"correct"	"TRUE"	
-"panonsko"	"panonski"	"ADJ"	1	"correct"	"TRUE"	
-"izgled"	"izgled"	"NOUN"	1	"lemma"	"FALSE"	
-"gorela"	"goreti"	"VERB"	1	"features"	"FALSE"	
-"onega"	"on"	"ADJ"	1	"lemmupos"	"FALSE"	
-"ovsenjaka"	"ovsenjak"	"NOUN"	1	"correct"	"TRUE"	
-"sobico"	"sobica"	"NOUN"	1	"correct"	"TRUE"	
-"gori"	"gori"	"NOUN"	1	"upos"	"FALSE"	
-"riharda"	"rihard"	"PROPN"	1	"features"	"FALSE"	
-"prekrasno"	"prekrasno"	"ADJ"	1	"lemma"	"FALSE"	
-"ti"	"ti"	"DET"	3	"upos"	"FALSE"	
-"požívi"	"požíviti"	"VERB"	1	"lemma"	"FALSE"	
-"koren"	"koren"	"ADJ"	1	"upos"	"FALSE"	
-"hotèč"	"hotèč"	"ADV"	1	"lemma"	"FALSE"	
-"nesli"	"nesti"	"VERB"	1	"features"	"FALSE"	
-"grenki"	"grenki"	"NOUN"	1	"lemmupos"	"FALSE"	
-"dômu"	"dôm"	"NOUN"	1	"lemma"	"FALSE"	
-"mali"	"mati"	"ADJ"	1	"lemma"	"FALSE"	
-"roparjev"	"ropar"	"NOUN"	1	"correct"	"TRUE"	
-"jezno"	"jezno"	"ADJ"	1	"upos"	"FALSE"	
-"mrtvaške"	"mrtvaški"	"ADJ"	1	"features"	"FALSE"	
-"reci"	"rec"	"NOUN"	1	"lemmupos"	"FALSE"	
-"kretanje"	"kretanje"	"NOUN"	1	"correct"	"TRUE"	
-"redovnik"	"redovnik"	"NOUN"	1	"correct"	"TRUE"	
-"prelepi"	"prelepiti"	"VERB"	1	"lemmupos"	"FALSE"	
-"pritrkuje"	"pritrkovati"	"VERB"	1	"correct"	"TRUE"	
-"kosili"	"kositi"	"VERB"	1	"lemma"	"FALSE"	
-"utrnil"	"utrniti"	"VERB"	1	"correct"	"TRUE"	
-"ozémlje"	"ozémlje"	"NOUN"	1	"lemma"	"FALSE"	
-"arabela"	"arabel"	"NOUN"	1	"lemmupos"	"FALSE"	
-"priporoči"	"priporoč"	"VERB"	1	"lemma"	"FALSE"	
-"odpuščeno"	"odpuščen"	"ADJ"	1	"correct"	"TRUE"	
-"ironičen"	"ironičen"	"ADJ"	1	"features"	"FALSE"	
-"neutešljivega"	"neutešljiv"	"ADJ"	1	"correct"	"TRUE"	
-"oskrbnika"	"oskrbnik"	"NOUN"	1	"features"	"FALSE"	
-"lahkoverna"	"lahkoveren"	"ADJ"	1	"correct"	"TRUE"	
-"razvedri"	"razvedriti"	"VERB"	1	"correct"	"TRUE"	
-"umela"	"umeti"	"VERB"	1	"correct"	"TRUE"	
-"gogala"	"gogala"	"VERB"	1	"upos"	"FALSE"	
-"bije"	"biti"	"NOUN"	1	"upos"	"FALSE"	
-"hortenzija"	"hortenzija"	"PROPN"	1	"correct"	"TRUE"	
-"boleška"	"boleška"	"PROPN"	1	"correct"	"TRUE"	
-"poesije"	"poesija"	"NOUN"	1	"lemma"	"FALSE"	
-"rekši"	"rekša"	"NOUN"	1	"lemmupos"	"FALSE"	
-"preveval"	"prevevati"	"VERB"	1	"features"	"FALSE"	
-"pažetu"	"pažet"	"NOUN"	1	"lemma"	"FALSE"	
-"pisar"	"pisar"	"NOUN"	1	"features"	"FALSE"	
-"nenavaden"	"nenavaden"	"ADJ"	1	"correct"	"TRUE"	
-"pijte"	"piti"	"VERB"	1	"correct"	"TRUE"	
-"kriškar"	"kriškar"	"PROPN"	2	"correct"	"TRUE"	
-"albreht"	"albreht"	"PROPN"	1	"correct"	"TRUE"	
-"kamenite"	"kameniti"	"VERB"	1	"lemmupos"	"FALSE"	
-"najlepši"	"lep"	"NOUN"	1	"upos"	"FALSE"	
-"mehak"	"mehek"	"NOUN"	1	"upos"	"FALSE"	
-"upehane"	"upehan"	"ADJ"	1	"correct"	"TRUE"	
-"prašaš"	"prašati"	"VERB"	1	"features"	"FALSE"	
-"mila"	"milo"	"NOUN"	1	"lemmupos"	"FALSE"	
-"modri"	"moder"	"ADJ"	1	"features"	"FALSE"	
-"dvobojevati"	"dvobojevati"	"VERB"	1	"correct"	"TRUE"	
-"pravi"	"prava"	"NOUN"	1	"lemmupos"	"FALSE"	
-"naskokom"	"naskok"	"NOUN"	1	"correct"	"TRUE"	
-"naročim"	"naročiti"	"VERB"	1	"correct"	"TRUE"	
-"osobno"	"osoben"	"ADJ"	1	"lemma"	"FALSE"	
-"odhodu"	"odhod"	"NOUN"	1	"correct"	"TRUE"	
-"konopi"	"konopiti"	"NOUN"	1	"lemma"	"FALSE"	
-"ideala"	"ideal"	"NOUN"	1	"correct"	"TRUE"	
-"jezno"	"jezna"	"ADJ"	1	"lemmupos"	"FALSE"	
-"gledé"	"gledé"	"NOUN"	1	"lemmupos"	"FALSE"	
-"tožitelju"	"tožitelj"	"NOUN"	1	"correct"	"TRUE"	
-"treščilo"	"treščiti"	"VERB"	1	"correct"	"TRUE"	
-"megla"	"meči"	"VERB"	1	"lemmupos"	"FALSE"	
-"jej"	"o"	"PRON"	1	"lemma"	"FALSE"	
-"arturja"	"arturja"	"PROPN"	1	"lemma"	"FALSE"	
-"natvezel"	"natvesti"	"VERB"	1	"correct"	"TRUE"	
-"zasopel"	"zasopsti"	"VERB"	1	"correct"	"TRUE"	
-"ozek"	"ozek"	"ADJ"	1	"correct"	"TRUE"	
-"zataknjeni"	"zataknjen"	"ADJ"	1	"correct"	"TRUE"	
-"bodisi"	"bodis"	"NOUN"	1	"lemmupos"	"FALSE"	
-"domov"	"domov"	"NOUN"	1	"upos"	"FALSE"	
-"blagosti"	"blagost"	"NOUN"	1	"correct"	"TRUE"	
-"drago"	"draga"	"NOUN"	1	"lemmupos"	"FALSE"	
-"postavljal"	"postavljati"	"VERB"	1	"correct"	"TRUE"	
-"rovtah"	"rovta"	"NOUN"	1	"lemma"	"FALSE"	
-"gradič"	"gradič"	"PRON"	1	"upos"	"FALSE"	
-"meden"	"meden"	"ADJ"	1	"upos"	"FALSE"	
-"obličje"	"obličje"	"NOUN"	1	"correct"	"TRUE"	
-"vstajajo"	"vstajati"	"VERB"	1	"correct"	"TRUE"	
-"pol"	"pol"	"ADV"	1	"upos"	"FALSE"	
-"zlogu"	"zlog"	"NOUN"	1	"correct"	"TRUE"	
-"nasitil"	"nasititi"	"VERB"	1	"correct"	"TRUE"	
-"jeden"	"jeden"	"ADJ"	1	"lemmupos"	"FALSE"	
-"očarala"	"očarati"	"VERB"	1	"correct"	"TRUE"	
-"nepokvarjen"	"nepokvarjen"	"ADJ"	1	"correct"	"TRUE"	
-"bosizio"	"bosizia"	"PROPN"	1	"lemma"	"FALSE"	
-"potrpežljivost"	"potrpežljivost"	"NOUN"	1	"correct"	"TRUE"	
-"graščini"	"graščina"	"NOUN"	1	"correct"	"TRUE"	
-"večeru"	"večer"	"NOUN"	1	"correct"	"TRUE"	
-"ošabna"	"ošaben"	"ADJ"	1	"correct"	"TRUE"	
-"prestrašil"	"prestrašiti"	"VERB"	1	"correct"	"TRUE"	
-"pešteno"	"pešten"	"ADJ"	1	"lemma"	"FALSE"	
-"odhodu"	"odhod"	"NOUN"	1	"features"	"FALSE"	
-"opregale"	"opregati"	"PROPN"	1	"lemmupos"	"FALSE"	
-"dohajal"	"dohajati"	"VERB"	1	"correct"	"TRUE"	
-"vedoč"	"vedoč"	"ADV"	1	"correct"	"TRUE"	
-"dné"	"dné"	"NOUN"	1	"lemma"	"FALSE"	
-"obračal"	"obračati"	"VERB"	1	"features"	"FALSE"	
-"estournelle"	"estournelle"	"PROPN"	1	"correct"	"TRUE"	
-"upognil"	"upogniti"	"VERB"	1	"correct"	"TRUE"	
-"prebito"	"prebita"	"NOUN"	1	"lemmupos"	"FALSE"	
-"potlej"	"potlej"	"ADV"	1	"correct"	"TRUE"	
-"opetovano"	"opetovano"	"ADV"	1	"correct"	"TRUE"	
-"pak"	"paka"	"NOUN"	1	"lemmupos"	"FALSE"	
-"plamteli"	"plamteti"	"VERB"	1	"features"	"FALSE"	
-"óna"	"óen"	"ADJ"	1	"lemmupos"	"FALSE"	
-"slavomir"	"slavomir"	"PROPN"	1	"correct"	"TRUE"	
-"roland"	"roland"	"PROPN"	1	"correct"	"TRUE"	
-"namenja"	"namenje"	"VERB"	1	"lemma"	"FALSE"	
-"mlinski"	"mlinski"	"ADJ"	1	"correct"	"TRUE"	
-"sprejema"	"sprejem"	"NOUN"	1	"correct"	"TRUE"	
-"ajdova"	"ajdov"	"DET"	1	"upos"	"FALSE"	
-"rudečih"	"rudeč"	"ADJ"	1	"lemma"	"FALSE"	
-"ujame"	"ujeti"	"VERB"	1	"correct"	"TRUE"	
-"mozolki"	"mozolka"	"NOUN"	1	"upos"	"FALSE"	
-"čuli"	"čuti"	"VERB"	1	"lemma"	"FALSE"	
-"smrtnega"	"smrten"	"ADJ"	1	"correct"	"TRUE"	
-"gospodprofesor"	"gospodprofesor"	"NOUN"	1	"tokenization"	"FALSE"	
-"dvoje"	"dvoj"	"DET"	1	"upos"	"FALSE"	
-"zasmejal"	"zasmejati"	"VERB"	1	"correct"	"TRUE"	
-"žrtvuje"	"žrtvovati"	"VERB"	1	"features"	"FALSE"	
-"kesaš"	"kesati"	"VERB"	1	"correct"	"TRUE"	
-"gladila"	"gladilo"	"NOUN"	1	"lemmupos"	"FALSE"	
-"gosta"	"gost"	"AUX"	1	"upos"	"FALSE"	
-"jednak"	"jednak"	"NOUN"	1	"lemmupos"	"FALSE"	
-"hudiča"	"hudič"	"PROPN"	1	"upos"	"FALSE"	
-"držeč"	"držeč"	"CCONJ"	1	"upos"	"FALSE"	
-"mostovža"	"mostovž"	"NOUN"	1	"correct"	"TRUE"	
-"prav"	"praviti"	"PART"	1	"lemma"	"FALSE"	
-"angel"	"anči"	"VERB"	1	"lemmupos"	"FALSE"	
-"taval"	"tavati"	"VERB"	1	"correct"	"TRUE"	
-"jadrenica"	"jadrenica"	"NOUN"	1	"lemma"	"FALSE"	
-"oporekujem"	"oporekovati"	"VERB"	1	"lemma"	"FALSE"	
-"dvorilcu"	"dvorilec"	"NOUN"	1	"features"	"FALSE"	
-"grdo"	"grdo"	"PRON"	1	"upos"	"FALSE"	
-"nevaren"	"nevaren"	"ADJ"	1	"correct"	"TRUE"	
-"prevesela"	"preveseti"	"ADJ"	1	"lemma"	"FALSE"	
-"potolaži"	"potolažiti"	"VERB"	1	"features"	"FALSE"	
-"stražnika"	"stražnik"	"NOUN"	1	"correct"	"TRUE"	
-"predvčeranjem"	"predvčeranje"	"ADJ"	1	"lemmupos"	"FALSE"	
-"cerkvijo"	"cerkev"	"NOUN"	1	"correct"	"TRUE"	
-"li"	"liti"	"VERB"	1	"lemmupos"	"FALSE"	
-"gimnazijalec"	"gimnazijalec"	"NOUN"	1	"lemma"	"FALSE"	
-"goričkov"	"goričk"	"PROPN"	1	"lemmupos"	"FALSE"	
-"potila"	"potiti"	"VERB"	1	"features"	"FALSE"	
-"bodete"	"bodet"	"VERB"	1	"lemmupos"	"FALSE"	
-"mladenča"	"mladenče"	"NOUN"	1	"lemma"	"FALSE"	
-"peres"	"peres"	"NOUN"	1	"lemma"	"FALSE"	
-"jeze"	"jeza"	"NOUN"	1	"correct"	"TRUE"	
-"preiskovanju"	"preiskovanje"	"NOUN"	1	"correct"	"TRUE"	
-"kranjsko"	"kranjska"	"PROPN"	1	"lemma"	"FALSE"	
-"lakta"	"lakt"	"ADJ"	1	"lemmupos"	"FALSE"	
-"aha"	"aha"	"VERB"	1	"lemmupos"	"FALSE"	
-"pepel"	"pepeti"	"VERB"	1	"lemmupos"	"FALSE"	
-"komisar"	"komisar"	"NOUN"	1	"correct"	"TRUE"	
-"množico"	"množica"	"NOUN"	1	"features"	"FALSE"	
-"prekipevala"	"prekipevati"	"VERB"	1	"correct"	"TRUE"	
-"pipec"	"pipec"	"PROPN"	3	"correct"	"TRUE"	
-"ti"	"ti"	"DET"	2	"upos"	"FALSE"	
-"poznejše"	"pozen"	"ADJ"	1	"features"	"FALSE"	
-"prikrivate"	"prikrivati"	"VERB"	1	"correct"	"TRUE"	
-"márica"	"márica"	"PROPN"	1	"lemma"	"FALSE"	
-"druzim"	"druz"	"VERB"	1	"lemmupos"	"FALSE"	
-"konci"	"konec"	"NOUN"	1	"correct"	"TRUE"	
-"procesija"	"procesija"	"NOUN"	1	"correct"	"TRUE"	
-"lice"	"lice"	"NOUN"	1	"features"	"FALSE"	
-"bogaboječo"	"bogaboječ"	"ADJ"	1	"correct"	"TRUE"	
-"mozolovih"	"mozolov"	"NOUN"	1	"upos"	"FALSE"	
-"odvrne"	"odvrniti"	"VERB"	2	"correct"	"TRUE"	
-"prijateljstva"	"prijateljstvo"	"NOUN"	1	"correct"	"TRUE"	
-"ahac"	"ahac"	"PROPN"	1	"correct"	"TRUE"	
-"lužnik"	"lužnik"	"NOUN"	1	"upos"	"FALSE"	
-"hodite"	"hodit"	"VERB"	1	"lemma"	"FALSE"	
-"klaneta"	"klanet"	"VERB"	1	"upos"	"FALSE"	
-"hanuma"	"hanum"	"VERB"	1	"lemmupos"	"FALSE"	
-"britev"	"britev"	"NOUN"	1	"correct"	"TRUE"	
-"slatinskih"	"slatinski"	"ADJ"	1	"correct"	"TRUE"	
-"deje"	"deja"	"VERB"	1	"lemma"	"FALSE"	
-"lujiza"	"lujiza"	"PROPN"	1	"correct"	"TRUE"	
-"prekrasne"	"prekrasen"	"VERB"	1	"upos"	"FALSE"	
-"topniški"	"topniški"	"ADJ"	1	"correct"	"TRUE"	
-"krasna"	"krasen"	"ADJ"	1	"correct"	"TRUE"	
-"prečital"	"prečitati"	"VERB"	1	"correct"	"TRUE"	
-"ozko"	"ozka"	"NOUN"	1	"lemmupos"	"FALSE"	
-"teže"	"teči"	"ADV"	1	"correct"	"TRUE"	
-"metod"	"metod"	"NOUN"	1	"lemmupos"	"FALSE"	
-"gernau"	"gerna"	"PROPN"	1	"lemma"	"FALSE"	
-"li"	"liti"	"ADV"	1	"lemmupos"	"FALSE"	
-"vpraša"	"vprašati"	"VERB"	3	"features"	"FALSE"	
-"oslépili"	"oslépiti"	"VERB"	1	"lemma"	"FALSE"	
-"goljufa"	"goljuf"	"NOUN"	1	"features"	"FALSE"	
-"odgovorili"	"odgovoriti"	"VERB"	1	"features"	"FALSE"	
-"odrezali"	"odrezati"	"VERB"	1	"features"	"FALSE"	
-"obleče"	"obleče"	"VERB"	1	"lemma"	"FALSE"	
-"nebó"	"nebo"	"PART"	1	"lemmupos"	"FALSE"	
-"hibe"	"hiba"	"NOUN"	1	"correct"	"TRUE"	
-"rihbaldu"	"rihbald"	"PROPN"	1	"correct"	"TRUE"	
-"posnažiti"	"posnažiti"	"VERB"	1	"correct"	"TRUE"	
-"goste"	"gost"	"ADJ"	1	"features"	"FALSE"	
-"paže"	"paža"	"NOUN"	1	"lemma"	"FALSE"	
-"grdo"	"grd"	"ADJ"	1	"correct"	"TRUE"	
-"levej"	"levej"	"ADV"	1	"lemmupos"	"FALSE"	
-"nanda"	"nanda"	"PART"	1	"lemmupos"	"FALSE"	
-"zofo"	"zofa"	"NOUN"	1	"correct"	"TRUE"	
-"istina"	"istina"	"PROPN"	1	"lemmupos"	"FALSE"	
-"povém"	"povéti"	"VERB"	1	"lemma"	"FALSE"	
-"neizrecno"	"neizrecno"	"ADV"	1	"lemma"	"FALSE"	
-"dene"	"dena"	"ADJ"	1	"lemmupos"	"FALSE"	
-"nego"	"nego"	"ADV"	1	"upos"	"FALSE"	
-"jako"	"jako"	"ADV"	3	"correct"	"TRUE"	
-"ravnice"	"ravnica"	"NOUN"	1	"features"	"FALSE"	
-"kirasirski"	"kirasirski"	"ADJ"	1	"correct"	"TRUE"	
-"misli"	"misliti"	"NOUN"	1	"lemma"	"FALSE"	
-"baš"	"bati"	"NOUN"	1	"lemmupos"	"FALSE"	
-"hipu"	"hip"	"NOUN"	1	"correct"	"TRUE"	
-"arabela"	"arabel"	"ADJ"	1	"lemmupos"	"FALSE"	
-"glejte"	"gleti"	"NOUN"	1	"lemmupos"	"FALSE"	
-"samoto"	"samota"	"NOUN"	1	"correct"	"TRUE"	
-"žun"	"žun"	"PROPN"	1	"correct"	"TRUE"	
-"grčave"	"grčav"	"ADJ"	1	"features"	"FALSE"	
-"zažarel"	"zažareti"	"VERB"	1	"correct"	"TRUE"	
-"kos"	"kos"	"PROPN"	1	"lemma"	"FALSE"	
-"našle"	"najti"	"NOUN"	1	"upos"	"FALSE"	
-"prenašala"	"prenašati"	"VERB"	1	"lemma"	"FALSE"	
-"roboto"	"robota"	"NOUN"	1	"features"	"FALSE"	
-"kjer"	"kjer"	"PROPN"	1	"upos"	"FALSE"	
-"milica"	"milic"	"PROPN"	1	"lemma"	"FALSE"	
-"slično"	"slično"	"ADV"	1	"correct"	"TRUE"	
-"jezu"	"jez"	"NOUN"	1	"correct"	"TRUE"	
-"pasjaku"	"pasjak"	"PROPN"	1	"correct"	"TRUE"	
-"haha"	"hah"	"VERB"	1	"lemmupos"	"FALSE"	
-"profesorjevo"	"profesorjev"	"NOUN"	1	"upos"	"FALSE"	
-"hrast"	"hrast"	"NOUN"	1	"lemma"	"FALSE"	
-"svetlobi"	"svetloba"	"NOUN"	1	"correct"	"TRUE"	
-"ogrsko"	"ogrska"	"PROPN"	1	"correct"	"TRUE"	
-"esma"	"esma"	"NOUN"	1	"lemmupos"	"FALSE"	
-"odnehal"	"odnehati"	"VERB"	1	"features"	"FALSE"	
-"srčno"	"srčen"	"ADJ"	1	"correct"	"TRUE"	
-"istine"	"istina"	"NOUN"	1	"features"	"FALSE"	
-"občudovalo"	"občudovati"	"VERB"	1	"features"	"FALSE"	
-"priporočí"	"priporočí"	"NOUN"	1	"lemmupos"	"FALSE"	
-"moči"	"moči"	"NOUN"	1	"upos"	"FALSE"	
-"podstrešja"	"podstrešje"	"NOUN"	1	"correct"	"TRUE"	
-"jedva"	"jedva"	"PRON"	1	"upos"	"FALSE"	
-"razkropljena"	"razkropljen"	"ADJ"	1	"correct"	"TRUE"	
-"hotel"	"hoteti"	"NOUN"	1	"upos"	"FALSE"	
-"prime"	"prima"	"NOUN"	1	"lemmupos"	"FALSE"	
-"veslarice"	"veslarica"	"NOUN"	1	"correct"	"TRUE"	
-"spozabi"	"spozabiti"	"VERB"	1	"correct"	"TRUE"	
-"ugovarjal"	"ugovarjati"	"VERB"	1	"correct"	"TRUE"	
-"koran"	"koran"	"NOUN"	1	"features"	"FALSE"	
-"para"	"par"	"ADJ"	1	"lemmupos"	"FALSE"	
-"kupec"	"kupec"	"NOUN"	1	"correct"	"TRUE"	
-"gazdo"	"gazdo"	"NOUN"	1	"lemma"	"FALSE"	
-"nijste"	"nijsti"	"NOUN"	1	"lemmupos"	"FALSE"	
-"naglici"	"naglica"	"NOUN"	1	"correct"	"TRUE"	
-"pešala"	"pešati"	"VERB"	1	"correct"	"TRUE"	
-"ustrašil"	"ustrašiti"	"VERB"	1	"correct"	"TRUE"	
-"oblasti"	"oblasti"	"NOUN"	1	"lemma"	"FALSE"	
-"morebiti"	"morebiti"	"VERB"	1	"upos"	"FALSE"	
-"matere"	"mati"	"DET"	1	"upos"	"FALSE"	
-"naroči"	"naročiti"	"VERB"	1	"correct"	"TRUE"	
-"gotovih"	"gotovi"	"NOUN"	1	"lemmupos"	"FALSE"	
-"besedij"	"besedija"	"NOUN"	1	"lemma"	"FALSE"	
-"slavljen"	"slavljen"	"ADJ"	1	"correct"	"TRUE"	
-"povešenimi"	"povešen"	"ADJ"	1	"features"	"FALSE"	
-"prikovano"	"prikovan"	"ADJ"	1	"correct"	"TRUE"	
-"rajši"	"rad"	"ADJ"	1	"lemmupos"	"FALSE"	
-"simpatičen"	"simpatičen"	"ADJ"	1	"correct"	"TRUE"	
-"pomazati"	"pomazati"	"VERB"	1	"correct"	"TRUE"	
-"prihrul"	"prihruti"	"VERB"	1	"correct"	"TRUE"	
-"postav"	"postava"	"NOUN"	1	"correct"	"TRUE"	
-"bodi"	"biti"	"VERB"	2	"features"	"FALSE"	
-"reko"	"reko"	"ADP"	1	"lemmupos"	"FALSE"	
-"znanca"	"znanec"	"NOUN"	2	"features"	"FALSE"	
-"glavo"	"glava"	"ADJ"	1	"upos"	"FALSE"	
-"marjetica"	"marjetica"	"PROPN"	1	"features"	"FALSE"	
-"mešetar"	"mešetar"	"NOUN"	1	"correct"	"TRUE"	
-"potrpljivo"	"potrpljiv"	"ADJ"	1	"lemma"	"FALSE"	
-"ónega"	"óen"	"ADJ"	1	"lemmupos"	"FALSE"	
-"drobnem"	"droben"	"ADJ"	1	"correct"	"TRUE"	
-"zastopali"	"zastopati"	"VERB"	1	"correct"	"TRUE"	
-"predrami"	"predra"	"NOUN"	1	"lemmupos"	"FALSE"	
-"delo"	"delo"	"VERB"	1	"lemma"	"FALSE"	
-"postajal"	"postajati"	"VERB"	1	"correct"	"TRUE"	
-"oklenivši"	"oklenivšiti"	"ADJ"	1	"lemmupos"	"FALSE"	
-"travo"	"trava"	"NOUN"	1	"correct"	"TRUE"	
-"nastopala"	"nastopjati"	"VERB"	1	"lemma"	"FALSE"	
-"jesensko"	"jesensko"	"ADJ"	1	"lemma"	"FALSE"	
-"sarkastično"	"sarkastično"	"ADV"	1	"correct"	"TRUE"	
-"ljudij"	"ljudija"	"NOUN"	1	"lemma"	"FALSE"	
-"grajščak"	"grajščak"	"NOUN"	1	"lemma"	"FALSE"	
-"doli"	"doleti"	"ADV"	1	"lemma"	"FALSE"	
-"neugodnosti"	"neugodnost"	"NOUN"	1	"features"	"FALSE"	
-"krivo"	"kriva"	"ADJ"	1	"lemmupos"	"FALSE"	
-"drug"	"drug"	"NOUN"	1	"upos"	"FALSE"	
-"uiti"	"uiti"	"VERB"	1	"correct"	"TRUE"	
-"prešeren"	"prešeren"	"ADJ"	1	"upos"	"FALSE"	
-"samuel"	"samuel"	"PROPN"	1	"correct"	"TRUE"	
-"lahkomišljen"	"lahkomišljen"	"ADJ"	1	"correct"	"TRUE"	
-"ponagajati"	"ponagajati"	"VERB"	1	"features"	"FALSE"	
-"mislé"	"mislé"	"NOUN"	1	"lemmupos"	"FALSE"	
-"ljubkovanja"	"ljubkovanje"	"NOUN"	1	"correct"	"TRUE"	
-"rihbald"	"rihbald"	"PROPN"	1	"correct"	"TRUE"	
-"milo"	"milo"	"NOUN"	1	"lemmupos"	"FALSE"	
-"primerno"	"primeren"	"ADV"	1	"lemma"	"FALSE"	
-"podvrženo"	"podvržen"	"ADJ"	1	"correct"	"TRUE"	
-"globoko"	"globoka"	"ADV"	1	"lemma"	"FALSE"	
-"koketni"	"koketen"	"ADJ"	1	"correct"	"TRUE"	
-"pomoru"	"pomor"	"NOUN"	1	"correct"	"TRUE"	
-"skrivali"	"skrivati"	"VERB"	1	"correct"	"TRUE"	
-"oslabela"	"oslabeti"	"VERB"	1	"correct"	"TRUE"	
-"avrelijo"	"avreliti"	"INTJ"	1	"lemmupos"	"FALSE"	
-"vojvodinja"	"vojvodinja"	"NOUN"	1	"correct"	"TRUE"	
-"najemnik"	"najemnik"	"NOUN"	1	"correct"	"TRUE"	
-"hvaležnosti"	"hvaležnost"	"NOUN"	1	"correct"	"TRUE"	
-"meže"	"meža"	"NOUN"	1	"correct"	"TRUE"	
-"potém"	"poté"	"NOUN"	1	"lemmupos"	"FALSE"	
-"pero"	"pera"	"NOUN"	1	"lemma"	"FALSE"	
-"povesiti"	"povesiti"	"VERB"	1	"lemma"	"FALSE"	
-"povestnico"	"povestnica"	"NOUN"	1	"correct"	"TRUE"	
-"besedovaje"	"besedovaje"	"ADV"	1	"features"	"FALSE"	
-"pojasnjenje"	"pojasnjenje"	"NOUN"	1	"lemma"	"FALSE"	
-"baron"	"baron"	"NOUN"	1	"features"	"FALSE"	
-"ozkej"	"ozkeja"	"ADV"	1	"lemmupos"	"FALSE"	
-"nij"	"nij"	"NOUN"	1	"lemmupos"	"FALSE"	
-"poprej"	"poprej"	"ADV"	1	"correct"	"TRUE"	
-"majnard"	"majnard"	"PROPN"	1	"correct"	"TRUE"	
-"skrila"	"skriti"	"VERB"	1	"correct"	"TRUE"	
-"razbrskali"	"razbrskati"	"VERB"	1	"features"	"FALSE"	
-"jej"	"jaj"	"PRON"	1	"lemma"	"FALSE"	
-"opravljena"	"opravljen"	"ADJ"	1	"correct"	"TRUE"	
-"zapiskov"	"zapisek"	"NOUN"	1	"correct"	"TRUE"	
-"jetnikov"	"jetnik"	"NOUN"	1	"correct"	"TRUE"	
-"hodniku"	"hodnik"	"NOUN"	1	"correct"	"TRUE"	
-"zamudi"	"zamuditi"	"VERB"	1	"correct"	"TRUE"	
-"podkovan"	"podkovan"	"ADJ"	1	"correct"	"TRUE"	
-"blaž"	"blaž"	"PROPN"	1	"correct"	"TRUE"	
-"krik"	"krik"	"NOUN"	1	"correct"	"TRUE"	
-"naukov"	"nauk"	"NOUN"	1	"correct"	"TRUE"	
-"glav"	"glava"	"NOUN"	1	"correct"	"TRUE"	
-"alarmirani"	"alarmiran"	"ADJ"	1	"correct"	"TRUE"	
-"brzo"	"brzo"	"ADV"	1	"correct"	"TRUE"	
-"deve"	"deva"	"NOUN"	1	"correct"	"TRUE"	
-"plavali"	"plavati"	"VERB"	1	"correct"	"TRUE"	
-"naturo"	"natura"	"NOUN"	1	"features"	"FALSE"	
-"pozná"	"pozná"	"NOUN"	1	"lemmupos"	"FALSE"	
-"dopolnil"	"dopolniti"	"VERB"	1	"correct"	"TRUE"	
-"denarja"	"denarje"	"NOUN"	1	"lemma"	"FALSE"	
-"protivno"	"protiven"	"ADJ"	1	"correct"	"TRUE"	
-"srebro"	"srebro"	"NOUN"	1	"correct"	"TRUE"	
-"odgovarjajo"	"odgovarjati"	"VERB"	1	"correct"	"TRUE"	
-"on"	"on"	"NOUN"	1	"upos"	"FALSE"	
-"napolnil"	"napolniti"	"VERB"	1	"correct"	"TRUE"	
-"gorička"	"goriček"	"NOUN"	1	"upos"	"FALSE"	
-"posebno"	"poseben"	"ADV"	2	"lemma"	"FALSE"	
-"popovcih"	"popovci"	"PROPN"	1	"correct"	"TRUE"	
-"mornar"	"mornar"	"NOUN"	1	"features"	"FALSE"	
-"srci"	"srec"	"NOUN"	2	"lemma"	"FALSE"	
-"obupnosti"	"obupnost"	"NOUN"	1	"correct"	"TRUE"	
-"vé"	"vé"	"NOUN"	2	"lemmupos"	"FALSE"	
-"dohitimo"	"dohititi"	"VERB"	1	"lemma"	"FALSE"	
-"krotki"	"krotek"	"ADJ"	1	"features"	"FALSE"	
-"reži"	"režati"	"VERB"	1	"features"	"FALSE"	
-"odgovarjal"	"odgovarjati"	"VERB"	1	"lemma"	"FALSE"	
-"davkarski"	"davkarski"	"ADJ"	1	"features"	"FALSE"	
-"marjetica"	"marjetica"	"PROPN"	2	"correct"	"TRUE"	
-"po"	"po"	"NOUN"	1	"upos"	"FALSE"	
-"vzkliknil"	"vzklikniti"	"VERB"	2	"correct"	"TRUE"	
-"prisezaj"	"prisezati"	"ADV"	1	"lemmupos"	"FALSE"	
-"presunila"	"presuniti"	"VERB"	1	"correct"	"TRUE"	
-"haha"	"hahati"	"VERB"	1	"lemmupos"	"FALSE"	
-"storimo"	"storiti"	"VERB"	2	"correct"	"TRUE"	
-"odločnejše"	"odločen"	"ADJ"	1	"lemmupos"	"FALSE"	
-"jemala"	"jemati"	"ADJ"	1	"upos"	"FALSE"	
-"sorijevim"	"sorijev"	"ADJ"	1	"correct"	"TRUE"	
-"trepetajočim"	"trepetajoč"	"ADJ"	1	"correct"	"TRUE"	
-"oblakov"	"oblak"	"NOUN"	1	"correct"	"TRUE"	
-"odbijaje"	"odbijajati"	"NOUN"	1	"lemmupos"	"FALSE"	
-"razidejo"	"raziti"	"VERB"	1	"correct"	"TRUE"	
-"okamenela"	"okameneti"	"VERB"	1	"lemmupos"	"FALSE"	
-"rogulin"	"rogulin"	"PROPN"	2	"correct"	"TRUE"	
-"nevarnostim"	"nevarnost"	"NOUN"	1	"correct"	"TRUE"	
-"koristil"	"koristiti"	"VERB"	1	"features"	"FALSE"	
-"glej"	"gleja"	"PROPN"	1	"lemmupos"	"FALSE"	
-"gospodu"	"gospodu"	"ADV"	1	"lemmupos"	"FALSE"	
-"onemoglih"	"onemogel"	"ADJ"	1	"correct"	"TRUE"	
-"srebroviti"	"srebrovit"	"ADJ"	1	"correct"	"TRUE"	
-"nemogoč"	"nemogoč"	"ADV"	1	"upos"	"FALSE"	
-"ljube"	"ljub"	"DET"	1	"upos"	"FALSE"	
-"oskrbnik"	"oskrbnik"	"NOUN"	1	"correct"	"TRUE"	
-"nejevoljnim"	"nejevoljen"	"ADJ"	1	"correct"	"TRUE"	
-"jednakih"	"jednaki"	"NOUN"	1	"lemmupos"	"FALSE"	
-"številnostjo"	"številnost"	"NOUN"	1	"correct"	"TRUE"	
-"nabrusil"	"nabrusiti"	"VERB"	1	"correct"	"TRUE"	
-"prelomil"	"prelomiti"	"VERB"	1	"correct"	"TRUE"	
-"prepiustite"	"prepiustiti"	"VERB"	1	"lemma"	"FALSE"	
-"donel"	"doneti"	"VERB"	1	"features"	"FALSE"	
-"ranjena"	"ranjen"	"ADJ"	1	"correct"	"TRUE"	
-"svesti"	"svest"	"NOUN"	1	"correct"	"TRUE"	
-"pavlina"	"pavlin"	"PROPN"	1	"lemma"	"FALSE"	
-"oprosti"	"oprost"	"VERB"	1	"lemma"	"FALSE"	
-"malvino"	"malvina"	"PROPN"	1	"correct"	"TRUE"	
-"križale"	"križati"	"VERB"	1	"correct"	"TRUE"	
-"dedne"	"deden"	"ADJ"	1	"correct"	"TRUE"	
-"hrabro"	"hrabro"	"NOUN"	1	"upos"	"FALSE"	
-"gospé"	"gospé"	"NOUN"	1	"lemma"	"FALSE"	
-"prestrašila"	"prestrašiti"	"VERB"	1	"lemma"	"FALSE"	
-"prepričam"	"prepričam"	"VERB"	1	"lemma"	"FALSE"	
-"potrpel"	"potrpeti"	"VERB"	1	"correct"	"TRUE"	
-"češkova"	"češkov"	"ADJ"	1	"correct"	"TRUE"	
-"dam"	"dati"	"VERB"	1	"features"	"FALSE"	
-"jima"	"on"	"VERB"	1	"upos"	"FALSE"	
-"kazale"	"kazati"	"VERB"	1	"correct"	"TRUE"	
-"počitku"	"počitek"	"NOUN"	1	"correct"	"TRUE"	
-"jej"	"jej"	"ADV"	1	"lemmupos"	"FALSE"	
-"bežečim"	"bežečim"	"ADV"	1	"lemmupos"	"FALSE"	
-"raji"	"raje"	"NOUN"	1	"lemma"	"FALSE"	
-"poskušinja"	"poskušinjati"	"NOUN"	1	"lemma"	"FALSE"	
-"dela"	"delo"	"VERB"	1	"lemma"	"FALSE"	
-"šlevo"	"šleva"	"NOUN"	1	"correct"	"TRUE"	
-"podolgastej"	"podolgasteja"	"DET"	1	"lemmupos"	"FALSE"	
-"želja"	"željati"	"NOUN"	1	"lemma"	"FALSE"	
-"finica"	"finica"	"NOUN"	1	"upos"	"FALSE"	
-"niste"	"biti"	"NOUN"	1	"upos"	"FALSE"	
-"samomorilca"	"samomorilec"	"NOUN"	1	"features"	"FALSE"	
-"ostrosti"	"ostrostiti"	"NOUN"	1	"lemma"	"FALSE"	
-"pripetilo"	"pripetiti"	"VERB"	1	"correct"	"TRUE"	
-"nalezel"	"nalesti"	"VERB"	1	"correct"	"TRUE"	
-"duri"	"dura"	"NOUN"	1	"lemma"	"FALSE"	
-"dozdeva"	"dozdevati"	"VERB"	1	"correct"	"TRUE"	
-"razvleklo"	"razvleči"	"VERB"	1	"correct"	"TRUE"	
-"hudodelnika"	"hudodelnik"	"NOUN"	1	"features"	"FALSE"	
-"menihi"	"menih"	"VERB"	1	"upos"	"FALSE"	
-"pridvorne"	"pridvoren"	"ADJ"	1	"correct"	"TRUE"	
-"rudečelični"	"rudečeličen"	"ADJ"	1	"lemma"	"FALSE"	
-"dvojico"	"dvojica"	"NOUN"	1	"correct"	"TRUE"	
-"sijaj"	"sijaj"	"NOUN"	1	"correct"	"TRUE"	
-"napósled"	"napósled"	"ADP"	1	"lemmupos"	"FALSE"	
-"ako"	"ako"	"NOUN"	1	"upos"	"FALSE"	
-"križevniško"	"križevniški"	"ADJ"	1	"correct"	"TRUE"	
-"dvomil"	"dvomiti"	"VERB"	1	"features"	"FALSE"	
-"pravi"	"praviti"	"NOUN"	1	"upos"	"FALSE"	
-"budalosti"	"budalost"	"NOUN"	1	"correct"	"TRUE"	
-"očividno"	"očividno"	"ADV"	1	"lemma"	"FALSE"	
-"drugam"	"drugati"	"ADV"	1	"lemma"	"FALSE"	
-"reditelj"	"reditelj"	"NOUN"	1	"correct"	"TRUE"	
-"temino"	"temina"	"NOUN"	1	"correct"	"TRUE"	
-"groznim"	"grozen"	"ADJ"	1	"correct"	"TRUE"	
-"malvino"	"malvina"	"PROPN"	1	"features"	"FALSE"	
-"možak"	"možek"	"DET"	1	"lemmupos"	"FALSE"	
-"pojde"	"pojti"	"VERB"	1	"lemma"	"FALSE"	
-"arabelinega"	"arabelien"	"ADJ"	1	"lemma"	"FALSE"	
-"orožji"	"orožje"	"ADJ"	1	"upos"	"FALSE"	
-"gredé"	"gredé"	"NOUN"	1	"lemmupos"	"FALSE"	
-"linica"	"linica"	"NOUN"	1	"correct"	"TRUE"	
-"budalasti"	"budalast"	"NOUN"	1	"upos"	"FALSE"	
-"očetovih"	"očetov"	"ADJ"	1	"correct"	"TRUE"	
-"matijec"	"matijec"	"PROPN"	2	"correct"	"TRUE"	
-"nesrečno"	"nesrečen"	"ADJ"	1	"features"	"FALSE"	
-"potu"	"pot"	"NOUN"	2	"correct"	"TRUE"	
-"oče"	"oče"	"ADJ"	1	"upos"	"FALSE"	
-"bojišča"	"bojišče"	"NOUN"	1	"correct"	"TRUE"	
-"mojim"	"moj"	"DET"	1	"correct"	"TRUE"	
-"posestvo"	"posestvo"	"NOUN"	1	"lemma"	"FALSE"	
-"straši"	"strašiti"	"VERB"	1	"correct"	"TRUE"	
-"kesanja"	"kesanje"	"NOUN"	1	"correct"	"TRUE"	
-"ostra"	"oster"	"NOUN"	1	"lemmupos"	"FALSE"	
-"postani"	"postaniti"	"ADJ"	1	"lemmupos"	"FALSE"	
-"majorju"	"majorje"	"PROPN"	1	"lemmupos"	"FALSE"	
-"ovčjo"	"ovlik"	"ADJ"	1	"lemma"	"FALSE"	
-"molčanje"	"molčanje"	"NOUN"	1	"correct"	"TRUE"	
-"deževnega"	"deževen"	"ADJ"	1	"correct"	"TRUE"	
-"mari"	"mar"	"NOUN"	1	"upos"	"FALSE"	
-"dolžnostmi"	"dolžnost"	"NOUN"	1	"correct"	"TRUE"	
-"lehko"	"lehek"	"ADJ"	1	"lemma"	"FALSE"	
-"opombe"	"opomba"	"ADJ"	1	"upos"	"FALSE"	
-"walter"	"walter"	"PROPN"	1	"correct"	"TRUE"	
-"bled"	"bled"	"NOUN"	1	"upos"	"FALSE"	
-"leonora"	"leonora"	"PROPN"	1	"correct"	"TRUE"	
-"nevidnih"	"neviden"	"ADJ"	1	"correct"	"TRUE"	
-"razširjeno"	"razširjen"	"ADJ"	1	"correct"	"TRUE"	
-"prišlec"	"prišlec"	"NOUN"	2	"correct"	"TRUE"	
-"gosti"	"gost"	"NOUN"	1	"features"	"FALSE"	
-"svečo"	"sveča"	"NOUN"	1	"correct"	"TRUE"	
-"domú"	"domú"	"NOUN"	1	"lemmupos"	"FALSE"	
-"bomo"	"biti"	"VERB"	1	"upos"	"FALSE"	
-"dane"	"dan"	"ADJ"	1	"features"	"FALSE"	
-"urban"	"urban"	"PROPN"	1	"correct"	"TRUE"	
-"bodi"	"biti"	"VERB"	1	"upos"	"FALSE"	
-"lesom"	"lo"	"NOUN"	1	"lemma"	"FALSE"	
-"pravim"	"praviti"	"VERB"	1	"features"	"FALSE"	
-"prižgali"	"prižgati"	"VERB"	1	"features"	"FALSE"	
-"zmerjaj"	"zmerjati"	"ADV"	1	"upos"	"FALSE"	
-"traje"	"trajati"	"VERB"	1	"correct"	"TRUE"	
-"virida"	"virida"	"PROPN"	1	"correct"	"TRUE"	
-"koščku"	"košček"	"NOUN"	1	"correct"	"TRUE"	
-"bodeš"	"bosti"	"X"	1	"lemmupos"	"FALSE"	
-"nerad"	"nerad"	"NOUN"	1	"upos"	"FALSE"	
-"je"	"biti"	"PRON"	1	"lemma"	"FALSE"	
-"ljubosumno"	"ljubosumno"	"ADV"	1	"correct"	"TRUE"	
-"važnega"	"važen"	"ADJ"	1	"correct"	"TRUE"	
-"minder"	"minder"	"NOUN"	1	"correct"	"TRUE"	
-"odkod"	"odkoda"	"ADP"	1	"lemmupos"	"FALSE"	
-"listič"	"listič"	"NOUN"	1	"features"	"FALSE"	
-"pogleda"	"pogled"	"VERB"	1	"lemma"	"FALSE"	
-"kakó"	"kako"	"CCONJ"	1	"upos"	"FALSE"	
-"amelija"	"amelij"	"NOUN"	1	"lemmupos"	"FALSE"	
-"mlada"	"mlad"	"NOUN"	1	"upos"	"FALSE"	
-"prepričate"	"prepričati"	"VERB"	1	"lemma"	"FALSE"	
-"čujejo"	"čovati"	"VERB"	1	"lemma"	"FALSE"	
-"praviš"	"praviti"	"VERB"	1	"features"	"FALSE"	
-"kortež"	"kortež"	"NOUN"	1	"correct"	"TRUE"	
-"komisarja"	"komisar"	"NOUN"	1	"features"	"FALSE"	
-"salda"	"salda"	"PROPN"	1	"correct"	"TRUE"	
-"snežnikov"	"snežnik"	"NOUN"	1	"correct"	"TRUE"	
-"svak"	"svak"	"NOUN"	1	"correct"	"TRUE"	
-"prikupil"	"prikupiti"	"VERB"	1	"correct"	"TRUE"	
-"bližali"	"bližati"	"VERB"	1	"correct"	"TRUE"	
-"zmršeno"	"zmršen"	"ADJ"	1	"correct"	"TRUE"	
-"kovača"	"kovač"	"NOUN"	1	"correct"	"TRUE"	
-"bežimo"	"bežiti"	"VERB"	1	"lemma"	"FALSE"	
-"dvorjani"	"dvorjan"	"NOUN"	1	"correct"	"TRUE"	
-"gradiča"	"gradič"	"NOUN"	1	"features"	"FALSE"	
-"m"	"m"	"ADJ"	1	"correct"	"TRUE"	
-"šum"	"šum"	"NOUN"	2	"correct"	"TRUE"	
-"spremiti"	"spremiti"	"VERB"	1	"correct"	"TRUE"	
-"ponižno"	"ponižno"	"ADV"	1	"correct"	"TRUE"	
-"jamejo"	"jameja"	"NOUN"	1	"lemmupos"	"FALSE"	
-"javnej"	"javnej"	"NOUN"	1	"lemmupos"	"FALSE"	
-"ako"	"ako"	"CCONJ"	1	"upos"	"FALSE"	
-"oblastno"	"oblasten"	"ADV"	1	"lemma"	"FALSE"	
-"pisano"	"pisan"	"ADJ"	1	"lemmupos"	"FALSE"	
-"osvetila"	"osvetiti"	"VERB"	2	"correct"	"TRUE"	
-"posegali"	"posegati"	"VERB"	1	"features"	"FALSE"	
-"dvorišča"	"dvorišče"	"NOUN"	1	"correct"	"TRUE"	
-"pridvornega"	"pridvoren"	"ADJ"	1	"correct"	"TRUE"	
-"sv"	"sv"	"NOUN"	2	"tokenization"	"FALSE"	
-"izogibala"	"izogibati"	"VERB"	1	"correct"	"TRUE"	
-"jej"	"o"	"ADV"	1	"lemmupos"	"FALSE"	
-"nemožno"	"nemožno"	"ADV"	1	"lemma"	"FALSE"	
-"odgovori"	"odgovoriti"	"NOUN"	1	"upos"	"FALSE"	
-"prebudila"	"prebuditi"	"VERB"	1	"correct"	"TRUE"	
-"lesti"	"lest"	"NOUN"	1	"features"	"FALSE"	
-"kadila"	"kaditi"	"VERB"	1	"correct"	"TRUE"	
-"divjem"	"div"	"ADJ"	1	"lemma"	"FALSE"	
-"krepka"	"krepki"	"ADJ"	1	"lemma"	"FALSE"	
-"popraviti"	"popraviti"	"VERB"	1	"correct"	"TRUE"	
-"prihodnjost"	"prihodnjost"	"NOUN"	1	"lemma"	"FALSE"	
-"ekscelencas"	"ekscelencas"	"NOUN"	1	"lemma"	"FALSE"	
-"orjem"	"or"	"NOUN"	1	"lemmupos"	"FALSE"	
-"prežalostno"	"prežalosten"	"ADJ"	1	"correct"	"TRUE"	
-"lepoto"	"lepot"	"NOUN"	1	"lemma"	"FALSE"	
-"okamenel"	"okameneti"	"VERB"	1	"lemmupos"	"FALSE"	
-"korena"	"koren"	"PROPN"	1	"lemma"	"FALSE"	
-"prestraši"	"prestrašiti"	"VERB"	1	"correct"	"TRUE"	
-"združeni"	"združen"	"ADJ"	1	"correct"	"TRUE"	
-"nadsvečeniku"	"nadsvečenik"	"NOUN"	1	"correct"	"TRUE"	
-"govornika"	"govornik"	"NOUN"	2	"correct"	"TRUE"	
-"ovijali"	"ovijati"	"VERB"	1	"correct"	"TRUE"	
-"pokojna"	"pokojen"	"ADJ"	1	"correct"	"TRUE"	
-"izhajali"	"izhajati"	"VERB"	1	"correct"	"TRUE"	
-"zmenil"	"zmeniti"	"VERB"	1	"correct"	"TRUE"	
-"dojence"	"dojenca"	"NOUN"	1	"lemma"	"FALSE"	
-"ročico"	"ročica"	"NOUN"	1	"correct"	"TRUE"	
-"gorička"	"goriček"	"NOUN"	1	"upos"	"FALSE"	
-"pomislite"	"pomisleti"	"VERB"	1	"lemma"	"FALSE"	
-"slavni"	"slaven"	"ADJ"	1	"correct"	"TRUE"	
-"milo"	"milo"	"NOUN"	1	"correct"	"TRUE"	
-"spretne"	"spreten"	"ADJ"	1	"correct"	"TRUE"	
-"pridno"	"priden"	"NOUN"	1	"upos"	"FALSE"	
-"leščerbe"	"leščerba"	"NOUN"	1	"correct"	"TRUE"	
-"druščine"	"druščiniti"	"NOUN"	1	"lemma"	"FALSE"	
-"zmenjeno"	"zmenjen"	"ADJ"	1	"correct"	"TRUE"	
-"markizo"	"markiza"	"NOUN"	1	"correct"	"TRUE"	
-"gernau"	"gerna"	"NOUN"	1	"lemmupos"	"FALSE"	
-"očí."	"očí."	"X"	1	"tokenization"	"FALSE"	
-"potém"	"potéti"	"NOUN"	1	"lemmupos"	"FALSE"	
-"poglavij"	"poglavje"	"NOUN"	1	"features"	"FALSE"	
-"mokre"	"moker"	"NOUN"	1	"correct"	"TRUE"	
-"jutre"	"jutre"	"NOUN"	1	"lemmupos"	"FALSE"	
-"globokega"	"globok"	"ADJ"	2	"correct"	"TRUE"	
-"distance"	"distanca"	"NOUN"	1	"correct"	"TRUE"	
-"krasno"	"krasen"	"ADJ"	1	"correct"	"TRUE"	
-"izbirčen"	"izbirčen"	"ADJ"	1	"correct"	"TRUE"	
-"nemirno"	"nemirno"	"ADV"	1	"correct"	"TRUE"	
-"bode"	"boda"	"NOUN"	2	"lemmupos"	"FALSE"	
-"kričala"	"kričati"	"VERB"	1	"lemma"	"FALSE"	
-"damjan"	"damjan"	"PROPN"	1	"correct"	"TRUE"	
-"izvrstno"	"izvrsten"	"ADJ"	1	"features"	"FALSE"	
-"priredi"	"prirediti"	"VERB"	1	"correct"	"TRUE"	
-"dospem"	"dospe"	"NOUN"	1	"lemmupos"	"FALSE"	
-"odidem"	"odisti"	"VERB"	1	"lemma"	"FALSE"	
-"razpletel"	"razpleteti"	"VERB"	1	"lemma"	"FALSE"	
-"peter"	"peter"	"ADJ"	1	"upos"	"FALSE"	
-"otavo"	"otava"	"NOUN"	1	"correct"	"TRUE"	
-"besedij"	"besedija"	"NOUN"	1	"lemma"	"FALSE"	
-"vznemirjali"	"vznemirjati"	"VERB"	1	"correct"	"TRUE"	
-"kraj"	"kraj"	"PART"	1	"upos"	"FALSE"	
-"pričal"	"pričati"	"VERB"	1	"features"	"FALSE"	
-"poluglasno"	"poluglasen"	"ADJ"	1	"lemmupos"	"FALSE"	
-"mej"	"maj"	"NOUN"	1	"lemmupos"	"FALSE"	
-"kuha"	"kuh"	"VERB"	1	"lemma"	"FALSE"	
-"popisuje"	"popisovati"	"VERB"	1	"correct"	"TRUE"	
-"ali"	"aliti"	"VERB"	1	"lemmupos"	"FALSE"	
-"zablisnila"	"zablisniti"	"VERB"	1	"correct"	"TRUE"	
-"duhoven"	"duhoven"	"ADJ"	2	"correct"	"TRUE"	
-"gradič"	"gradič"	"NOUN"	1	"correct"	"TRUE"	
-"barbarski"	"barbarski"	"ADJ"	1	"correct"	"TRUE"	
-"predbacivanji"	"predbacivanje"	"NOUN"	1	"features"	"FALSE"	
-"istina"	"istina"	"NOUN"	1	"correct"	"TRUE"	
-"skokov"	"skok"	"NOUN"	1	"correct"	"TRUE"	
-"strmolskega"	"strmolski"	"ADJ"	1	"correct"	"TRUE"	
-"pritožili"	"pritožiti"	"VERB"	1	"correct"	"TRUE"	
-"polumraka"	"polumrak"	"NOUN"	1	"lemma"	"FALSE"	
-"polglasno"	"polglasen"	"ADV"	1	"lemma"	"FALSE"	
-"dopadel"	"dopasti"	"VERB"	1	"correct"	"TRUE"	
-"bogokletnik"	"bogokletnik"	"NOUN"	1	"correct"	"TRUE"	
-"namenjenim"	"namenjen"	"ADJ"	1	"correct"	"TRUE"	
-"draganov"	"dragan"	"PROPN"	1	"lemmupos"	"FALSE"	
-"naglasom"	"naglas"	"NOUN"	1	"correct"	"TRUE"	
-"padle"	"pasti"	"VERB"	1	"correct"	"TRUE"	
-"egipt"	"egipt"	"NOUN"	1	"upos"	"FALSE"	
-"klicala"	"klicati"	"VERB"	1	"correct"	"TRUE"	
-"negotov"	"negotov"	"ADJ"	1	"features"	"FALSE"	
-"drhtečim"	"drhteč"	"ADJ"	1	"correct"	"TRUE"	
-"ozreti"	"ozreti"	"VERB"	1	"correct"	"TRUE"	
-"mrtev"	"mrtev"	"NOUN"	1	"upos"	"FALSE"	
-"vzgojena"	"vzgojen"	"ADJ"	1	"correct"	"TRUE"	
-"voščil"	"voščiti"	"VERB"	1	"correct"	"TRUE"	
+form	lemma	upos	freq.samp	errtype	is_correct	rand_int	groupID	BAMTINOF
+vpraša	vprašati	VERB	1	lemma	FALSE	12	lemma-1	
+koren	koren	PROPN	1	correct	TRUE			
+hrib	hrib	NOUN	1	correct	TRUE			
+zateleban	zateleben	ADJ	1	lemma	FALSE	39	lemma-1	
+jej	jaj	PRON	1	lemma	FALSE	151	lemma-1	
+pavlina	pavlin	PROPN	1	lemma	FALSE	78	lemma-1	
+duša	duša	NOUN	1	correct	TRUE			
+slabotnega	slaboten	ADJ	1	correct	TRUE			
+ohladil	ohladiti	VERB	1	correct	TRUE			
+toskane	toskan	PROPN	1	lemma	FALSE	75	lemma-1	
+virida	virid	NOUN	1	lemmupos	FALSE	108	lemmupos-1	
+cerkljah	cerklje	PROPN	1	correct	TRUE			
+menihi	menih	VERB	1	upos	FALSE	79	upos-1	
+tovariša	tovariš	NOUN	1	features	FALSE	46	features-1	
+mogočno	mogočno	ADV	1	correct	TRUE			
+grenki	grenki	NOUN	1	lemmupos	FALSE	19	lemmupos-1	
+nemogoč	nemogoč	ADV	1	upos	FALSE	6	upos-1	
+zabliskalo	zabliskati	VERB	1	correct	TRUE			
+napósled	napósled	ADP	1	lemmupos	FALSE	20	lemmupos-1	
+odrezali	odrezati	VERB	1	features	FALSE	51	features-1	
+mali	mati	ADJ	1	lemma	FALSE	40	lemma-1	
+počenil	počeniti	VERB	1	correct	TRUE			
+žepa	žep	NOUN	1	correct	TRUE			
+ognjenim	ognjen	ADJ	1	correct	TRUE			
+roditeljema	roditeljema	VERB	1	lemmupos	FALSE	62	lemmupos-1	
+strela	streti	VERB	1	lemmupos	FALSE	39	lemmupos-1	
+cerkvico	cerkvica	NOUN	1	correct	TRUE			
+odide	odid	VERB	1	lemma	FALSE	132	lemma-1	
+plaho	plaho	ADJ	1	upos	FALSE	10	upos-1	
+jel	jeti	VERB	1	correct	TRUE			
+popačeno	popačen	ADJ	1	correct	TRUE			
+li	liti	VERB	1	lemmupos	FALSE	89	lemmupos-1	
+duška	dušek	NOUN	1	correct	TRUE			
+zarudel	zarusti	VERB	1	lemma	FALSE	81	lemma-1	
+čula	čuti	VERB	1	features	FALSE	78	features-1	
+lahne	lahen	ADJ	1	correct	TRUE			
+dovtipu	dovtip	NOUN	1	correct	TRUE			
+matere	materi	NOUN	1	lemma	FALSE	105	lemma-1	
+lice	lice	NOUN	1	features	FALSE	28	features-1	
+bode	bosti	ADV	1	lemmupos	FALSE	14	lemmupos-1	
+poslom	posel	NOUN	1	correct	TRUE			
+upa	upati	VERB	1	correct	TRUE			
+vzbujati	vzbujati	VERB	1	correct	TRUE			
+vratislav	vratislav	PROPN	1	correct	TRUE			
+čujejo	čovati	VERB	1	lemma	FALSE	112	lemma-1	
+omaja	omajati	VERB	1	features	FALSE	61	features-1	
+lesom	lo	NOUN	1	lemma	FALSE	131	lemma-1	
+ujec	ujec	PROPN	1	lemmupos	FALSE	12	lemmupos-1	
+bosizio	bosizia	PROPN	1	lemma	FALSE	124	lemma-1	
+nemškutar	nemškutar	NOUN	1	correct	TRUE			
+zatajil	zatajiti	VERB	1	lemma	FALSE	57	lemma-1	
+zidovju	zidovje	NOUN	1	correct	TRUE			
+veha	veha	PROPN	1	features	FALSE	35	features-1	
+nesrečno	nesrečen	ADJ	1	features	FALSE	64	features-1	
+bradatih	bradat	ADJ	1	correct	TRUE			
+sloveče	sloveč	ADJ	1	features	FALSE	3	features-1	
+stopata	stopati	VERB	1	correct	TRUE			
+lisi	lis	NOUN	1	lemma	FALSE	9	lemma-1	
+daj	daj	VERB	1	lemma	FALSE	8	lemma-1	
+bled	bled	NOUN	1	upos	FALSE	69	upos-1	
+slovenov	sloven	PROPN	1	correct	TRUE			
+zbežali	zbežati	VERB	1	correct	TRUE			
+prižgali	prižgati	VERB	1	features	FALSE	48	features-1	
+pozablja	pozabljati	VERB	1	correct	TRUE			
+plavala	plavati	VERB	1	correct	TRUE			
+srci	srec	NOUN	2	lemma	FALSE	5	lemma-2	
+fantazija	fantazija	NOUN	1	correct	TRUE			
+razbita	razbit	ADJ	1	correct	TRUE			
+zmagálčeva	zmagálčev	ADJ	1	lemma	FALSE	91	lemma-1	
+mrmlja	mrmljati	VERB	1	correct	TRUE			
+svati	svat	NOUN	1	correct	TRUE			
+prisego	prisega	NOUN	1	correct	TRUE			
+verigo	veriga	NOUN	1	correct	TRUE			
+vpričo	vpričo	ADP	1	correct	TRUE			
+štajerec	štajerec	PROPN	1	correct	TRUE			
+sreča	srečati	VERB	1	correct	TRUE			
+hodite	hodit	VERB	1	lemma	FALSE	79	lemma-1	
+ti	ti	DET	2	upos	FALSE	3	upos-2	
+potila	potiti	VERB	1	features	FALSE	67	features-1	
+poslednje	poslednje	ADV	1	lemmupos	FALSE	107	lemmupos-1	
+pristavila	pristaviti	VERB	1	correct	TRUE			
+usmrtila	usmrtiti	VERB	2	correct	TRUE			
+krasen	krasen	ADJ	1	correct	TRUE			
+predmeta	predmet	NOUN	1	correct	TRUE			
+tesnega	tesen	ADJ	1	correct	TRUE			
+ustanovitelj	ustanovitelj	NOUN	1	correct	TRUE			
+koran	koran	NOUN	1	features	FALSE	59	features-1	
+druzim	druz	VERB	1	lemmupos	FALSE	194	lemmupos-1	
+cerkljanski	cerkljanski	ADJ	1	correct	TRUE			
+materinstvo	materinstvo	NOUN	1	correct	TRUE			
+gotskem	gotski	ADJ	1	correct	TRUE			
+ako	ako	ADV	3	upos	FALSE	1	upos-3	
+doli	doleti	ADV	1	lemma	FALSE	43	lemma-1	
+potrpljivo	potrpljiv	ADJ	1	lemma	FALSE	59	lemma-1	
+pristavi	pristaviti	VERB	1	correct	TRUE			
+izpričevalih	izpričeval	NOUN	1	lemma	FALSE	6	lemma-1	
+nij	nij	X	2	lemmupos	FALSE	2	lemmupos-2	
+resničnega	resničn	ADJ	1	lemma	FALSE	86	lemma-1	
+gorička	goriček	NOUN	1	upos	FALSE	68	upos-1	
+olajšan	olajšan	ADJ	1	correct	TRUE			
+ponesrečenemu	ponesrečen	ADJ	1	correct	TRUE			
+orjem	or	NOUN	1	lemmupos	FALSE	7	lemmupos-1	
+dné	dné	NOUN	1	lemma	FALSE	94	lemma-1	
+šteje	štej	VERB	1	lemma	FALSE	34	lemma-1	
+miklavž	miklavž	PROPN	1	correct	TRUE			
+spisje	spisje	NOUN	1	features	FALSE	71	features-1	
+prigovarja	prigovarjati	VERB	1	correct	TRUE			
+grdo	grdo	PRON	1	upos	FALSE	71	upos-1	
+slučajih	slučaj	NOUN	2	correct	TRUE			
+priporoči	priporoč	VERB	1	lemma	FALSE	95	lemma-1	
+zdajci	zdajca	NOUN	1	lemmupos	FALSE	55	lemmupos-1	
+natikati	natikati	VERB	1	correct	TRUE			
+vlagar	vlagar	PROPN	1	correct	TRUE			
+pisar	pisar	NOUN	1	features	FALSE	36	features-1	
+majorja	major	NOUN	1	correct	TRUE			
+temoti	temota	NOUN	1	correct	TRUE			
+peter	peter	ADJ	1	upos	FALSE	43	upos-1	
+goriček	goriček	PROPN	1	correct	TRUE			
+okovanih	okovan	ADJ	1	correct	TRUE			
+reko	reko	ADP	1	lemmupos	FALSE	31	lemmupos-1	
+legel	leči	VERB	1	correct	TRUE			
+teti	teti	VERB	1	lemmupos	FALSE	58	lemmupos-1	
+pomislite	pomisleti	VERB	1	lemma	FALSE	103	lemma-1	
+krepka	krepki	ADJ	1	lemma	FALSE	11	lemma-1	
+gradiča	gradič	NOUN	1	features	FALSE	57	features-1	
+jamejo	jameja	NOUN	1	lemmupos	FALSE	121	lemmupos-1	
+zastonj	zastome	PRON	2	lemmupos	FALSE	4	lemmupos-2	
+vajen	vajen	ADJ	1	correct	TRUE			
+pepel	pepeti	VERB	1	lemmupos	FALSE	127	lemmupos-1	
+čuvala	čuvati	VERB	1	correct	TRUE			
+tovariša	tovariš	ADJ	1	upos	FALSE	81	upos-1	
+spremljevala	spremljevati	VERB	1	lemma	FALSE	68	lemma-1	
+delam	delati	VERB	1	correct	TRUE			
+jezdil	jezditi	VERB	1	correct	TRUE			
+razburjen	razburjen	ADJ	1	correct	TRUE			
+skorja	skor	NOUN	1	lemma	FALSE	104	lemma-1	
+hrast	hrast	NOUN	1	lemma	FALSE	73	lemma-1	
+malvina	malvina	PROPN	1	correct	TRUE			
+grofu	grof	NOUN	1	correct	TRUE			
+goričkov	goričk	PROPN	1	lemmupos	FALSE	112	lemmupos-1	
+vila	viti	VERB	1	features	FALSE	44	features-1	
+žalostnim	žalosten	ADJ	1	correct	TRUE			
+potém	potéti	NOUN	1	lemmupos	FALSE	11	lemmupos-1	
+bežečim	bežečim	ADV	1	lemmupos	FALSE	77	lemmupos-1	
+nemirnosti	nemirnost	NOUN	1	correct	TRUE			
+je	biti	PRON	1	lemma	FALSE	67	lemma-1	
+dolg	dolg	NOUN	1	correct	TRUE			
+meni.	meni.	X	1	tokenization	FALSE	1	tokenization-1	
+farewell	farewell	PROPN	1	lemmupos	FALSE	32	lemmupos-1	
+vrela	vreti	VERB	1	correct	TRUE			
+pravi	praviti	NOUN	1	upos	FALSE	58	upos-1	
+matematika	matematika	NOUN	1	correct	TRUE			
+listič	listič	NOUN	1	features	FALSE	60	features-1	
+ljuba	ljub	NOUN	2	upos	FALSE	1	upos-2	
+poljubovala	poljubovati	VERB	1	features	FALSE	88	features-1	
+svetopolk	svetopolk	PROPN	2	correct	TRUE			
+besedam	beseda	NOUN	1	correct	TRUE			
+pisano	pisan	ADJ	1	lemmupos	FALSE	82	lemmupos-1	
+slušajoči	slušajoč	ADJ	1	correct	TRUE			
+citiral	citirati	VERB	1	correct	TRUE			
+brigala	brigati	VERB	1	correct	TRUE			
+zgenila	zgeniti	VERB	1	lemma	FALSE	36	lemma-1	
+ali	aliti	VERB	1	lemmupos	FALSE	18	lemmupos-1	
+valovi	valov	ADJ	1	lemmupos	FALSE	13	lemmupos-1	
+drevi	dar	NOUN	1	lemmupos	FALSE	22	lemmupos-1	
+top	top	ADJ	1	correct	TRUE			
+zasoplim	zasopl	ADJ	1	lemma	FALSE	10	lemma-1	
+rodovine	rodovina	NOUN	1	correct	TRUE			
+komisarja	komisar	NOUN	1	features	FALSE	22	features-1	
+ozko	ozka	NOUN	1	lemmupos	FALSE	28	lemmupos-1	
+prime	prima	NOUN	1	lemmupos	FALSE	68	lemmupos-1	
+skovir	skovir	PROPN	1	correct	TRUE			
+solzami	solza	NOUN	1	correct	TRUE			
+recept	recept	NOUN	1	correct	TRUE			
+svasti	svasti	PART	1	correct	TRUE			
+bežimo	bežiti	VERB	1	lemma	FALSE	42	lemma-1	
+zavé	zavé	NOUN	1	lemmupos	FALSE	119	lemmupos-1	
+monarhovskem	monarhovski	ADJ	1	correct	TRUE			
+vidiva	vidiv	ADJ	1	lemmupos	FALSE	23	lemmupos-1	
+tresla	tresti	VERB	1	lemma	FALSE	85	lemma-1	
+silno	silen	ADV	1	lemma	FALSE	84	lemma-1	
+avrelijo	avreliti	INTJ	1	lemmupos	FALSE	41	lemmupos-1	
+zavezano	zavezan	ADJ	1	correct	TRUE			
+obleče	obleče	VERB	1	lemma	FALSE	15	lemma-1	
+kje	kje	NOUN	3	upos	FALSE	2	upos-3	
+radovedno	radovedno	ADV	1	correct	TRUE			
+moči	moči	NOUN	1	upos	FALSE	50	upos-1	
+kos	kos	PROPN	1	lemma	FALSE	49	lemma-1	
+modrijana	modrijan	ADJ	1	upos	FALSE	56	upos-1	
+graščák	graščák	NOUN	2	lemma	FALSE	2	lemma-2	
+močila	močiti	VERB	1	correct	TRUE			
+zapisana	zapisan	ADJ	1	correct	TRUE			
+strt	strt	NOUN	1	upos	FALSE	30	upos-1	
+meni	jaz	VERB	2	upos	FALSE	2	upos-2	
+neugodnosti	neugodnost	NOUN	1	features	FALSE	91	features-1	
+tisočkrat	tisočkrat	ADV	1	correct	TRUE			
+trdega	trd	ADJ	1	features	FALSE	82	features-1	
+višino	višina	NOUN	1	correct	TRUE			
+hrib	hrib	NOUN	1	features	FALSE	58	features-1	
+izrazov	izraz	NOUN	1	correct	TRUE			
+opravkov	opravek	NOUN	1	correct	TRUE			
+draganov	dragan	PROPN	1	lemmupos	FALSE	61	lemmupos-1	
+raztegnil	raztegniti	VERB	1	correct	TRUE			
+davkarski	davkarski	ADJ	1	features	FALSE	68	features-1	
+bode	bosti	NOUN	1	lemmupos	FALSE	81	lemmupos-1	
+vzamem	vzeti	VERB	1	correct	TRUE			
+trudom	trud	NOUN	1	features	FALSE	66	features-1	
+izgled	izgled	NOUN	1	lemma	FALSE	101	lemma-1	
+svetel	sveteti	ADJ	1	lemma	FALSE	152	lemma-1	
+obhajal	obhajati	VERB	1	correct	TRUE			
+zánj	záme	PRON	1	lemma	FALSE	129	lemma-1	
+zalegalo	zalegati	VERB	1	features	FALSE	16	features-1	
+farewell	farewelti	VERB	1	lemmupos	FALSE	87	lemmupos-1	
+poneha	ponehati	VERB	1	correct	TRUE			
+si	se	AUX	1	lemma	FALSE	37	lemma-1	
+arturja	arturja	PROPN	1	lemma	FALSE	48	lemma-1	
+najhujši	hud	ADJ	1	correct	TRUE			
+inače	inače	NOUN	1	upos	FALSE	11	upos-1	
+veže	veže	ADV	1	lemmupos	FALSE	120	lemmupos-1	
+prihodnja	prihodnji	ADJ	1	correct	TRUE			
+naturo	natura	NOUN	1	features	FALSE	73	features-1	
+tur	tura	NOUN	1	lemma	FALSE	92	lemma-1	
+elza	elz	PROPN	2	lemma	FALSE	1	lemma-2	
+mojstra	mojster	NOUN	1	correct	TRUE			
+meden	meden	ADJ	1	upos	FALSE	12	upos-1	
+grozo	groza	NOUN	1	correct	TRUE			
+žaljenje	žaljenje	NOUN	1	correct	TRUE			
+nehvaležno	nehvaležen	ADJ	1	correct	TRUE			
+angel	anči	VERB	1	lemmupos	FALSE	128	lemmupos-1	
+soseda	soseda	NOUN	1	lemma	FALSE	56	lemma-1	
+zanesljivi	zanesljiv	ADJ	1	correct	TRUE			
+vzdihnila	vzdihniti	VERB	1	correct	TRUE			
+sramote	sramota	NOUN	1	correct	TRUE			
+množico	množica	NOUN	1	features	FALSE	53	features-1	
+sam	sam	PART	1	upos	FALSE	78	upos-1	
+kranjsko	kranjska	PROPN	1	lemma	FALSE	61	lemma-1	
+vleglo	vleči	VERB	1	lemma	FALSE	93	lemma-1	
+pravili	praviti	VERB	1	features	FALSE	55	features-1	
+donel	doneti	VERB	1	features	FALSE	17	features-1	
+pogledujejo	pogledovati	VERB	1	correct	TRUE			
+prekrasno	prekrasno	ADJ	1	lemma	FALSE	50	lemma-1	
+zaljubil	zaljubiti	VERB	1	correct	TRUE			
+zameriti	zameriti	VERB	1	correct	TRUE			
+oslépili	oslépiti	VERB	1	lemma	FALSE	30	lemma-1	
+jošt	jošt	PROPN	1	correct	TRUE			
+veruj	veruj	ADV	1	lemmupos	FALSE	125	lemmupos-1	
+hipov	hip	NOUN	1	correct	TRUE			
+žunu	žun	PROPN	1	correct	TRUE			
+neizrecno	neizrecno	ADV	1	lemma	FALSE	148	lemma-1	
+povzdigniti	povzdigniti	VERB	1	correct	TRUE			
+razvedelo	razvedeti	VERB	1	correct	TRUE			
+panonsko	panonski	ADJ	1	correct	TRUE			
+smijal	smijati	VERB	1	lemma	FALSE	47	lemma-1	
+dvomil	dvomiti	VERB	1	features	FALSE	11	features-1	
+taji	ta	NOUN	1	lemmupos	FALSE	94	lemmupos-1	
+ovsenjaka	ovsenjak	NOUN	1	correct	TRUE			
+sobico	sobica	NOUN	1	correct	TRUE			
+sloven	sloven	ADJ	1	upos	FALSE	21	upos-1	
+goste	gost	ADJ	1	features	FALSE	90	features-1	
+namenja	namenje	VERB	1	lemma	FALSE	138	lemma-1	
+ti	ti	DET	3	upos	FALSE	3	upos-3	
+tem	ta	ADV	1	lemma	FALSE	136	lemma-1	
+slišno	slišen	DET	1	upos	FALSE	38	upos-1	
+zapahi	zapah	NOUN	1	lemma	FALSE	45	lemma-1	
+zasijal	zasijati	VERB	1	features	FALSE	41	features-1	
+možak	možek	DET	1	lemmupos	FALSE	44	lemmupos-1	
+vesela	veseti	ADJ	1	lemma	FALSE	25	lemma-1	
+raji	raje	NOUN	1	lemma	FALSE	76	lemma-1	
+roparjev	ropar	NOUN	1	correct	TRUE			
+virgilija	virgilij	NOUN	1	upos	FALSE	33	upos-1	
+robec	robec	NOUN	1	features	FALSE	38	features-1	
+povrhu	povrh	NOUN	1	lemmupos	FALSE	129	lemmupos-1	
+kretanje	kretanje	NOUN	1	correct	TRUE			
+redovnik	redovnik	NOUN	1	correct	TRUE			
+prelepi	prelepiti	VERB	1	lemmupos	FALSE	118	lemmupos-1	
+pritrkuje	pritrkovati	VERB	1	correct	TRUE			
+krotkega	krotki	ADJ	1	lemma	FALSE	63	lemma-1	
+utrnil	utrniti	VERB	1	correct	TRUE			
+izpregovoriti	izpregovoriti	VERB	1	lemma	FALSE	113	lemma-1	
+para	par	ADJ	1	lemmupos	FALSE	6	lemmupos-1	
+gernau	gerna	PROPN	1	lemma	FALSE	147	lemma-1	
+odpuščeno	odpuščen	ADJ	1	correct	TRUE			
+baron	baron	NOUN	1	features	FALSE	19	features-1	
+neutešljivega	neutešljiv	ADJ	1	correct	TRUE			
+moravski	moravski	ADJ	1	features	FALSE	56	features-1	
+lahkoverna	lahkoveren	ADJ	1	correct	TRUE			
+razvedri	razvedriti	VERB	1	correct	TRUE			
+umela	umeti	VERB	1	correct	TRUE			
+pridno	priden	NOUN	1	upos	FALSE	20	upos-1	
+ljube	ljub	DET	1	upos	FALSE	4	upos-1	
+hortenzija	hortenzija	PROPN	1	correct	TRUE			
+boleška	boleška	PROPN	1	correct	TRUE			
+odperajo	odperati	VERB	1	lemma	FALSE	120	lemma-1	
+kamenitej	kamenita	DET	1	lemmupos	FALSE	131	lemmupos-1	
+zemljepisje	zemljepisje	NOUN	1	features	FALSE	83	features-1	
+udati	udati	VERB	1	lemma	FALSE	116	lemma-1	
+vedi	vedeti	VERB	1	features	FALSE	62	features-1	
+nenavaden	nenavaden	ADJ	1	correct	TRUE			
+pijte	piti	VERB	1	correct	TRUE			
+kriškar	kriškar	PROPN	2	correct	TRUE			
+albreht	albreht	PROPN	1	correct	TRUE			
+ónega	óen	ADJ	1	lemmupos	FALSE	60	lemmupos-1	
+ajdova	ajdov	DET	1	upos	FALSE	55	upos-1	
+reformationis	reformationis	NOUN	1	upos	FALSE	46	upos-1	
+upehane	upehan	ADJ	1	correct	TRUE			
+zrl	zreti	VERB	1	features	FALSE	77	features-1	
+sopsti	sopst	NOUN	1	lemmupos	FALSE	73	lemmupos-1	
+predbacivanji	predbacivanje	NOUN	1	features	FALSE	34	features-1	
+dvobojevati	dvobojevati	VERB	1	correct	TRUE			
+sosedki	sosedek	ADJ	1	lemmupos	FALSE	114	lemmupos-1	
+naskokom	naskok	NOUN	1	correct	TRUE			
+naročim	naročiti	VERB	1	correct	TRUE			
+jesensko	jesensko	ADJ	1	lemma	FALSE	109	lemma-1	
+odhodu	odhod	NOUN	1	correct	TRUE			
+pero	pera	NOUN	1	lemma	FALSE	58	lemma-1	
+ideala	ideal	NOUN	1	correct	TRUE			
+óna	óen	ADJ	1	lemmupos	FALSE	57	lemmupos-1	
+opregale	opregati	PROPN	1	lemmupos	FALSE	35	lemmupos-1	
+tožitelju	tožitelj	NOUN	1	correct	TRUE			
+treščilo	treščiti	VERB	1	correct	TRUE			
+okamenela	okameneti	VERB	1	lemmupos	FALSE	70	lemmupos-1	
+veslu	vesel	NOUN	1	lemma	FALSE	54	lemma-1	
+mirú	mirú	NOUN	1	lemma	FALSE	2	lemma-1	
+natvezel	natvesti	VERB	1	correct	TRUE			
+zasopel	zasopsti	VERB	1	correct	TRUE			
+ozek	ozek	ADJ	1	correct	TRUE			
+zataknjeni	zataknjen	ADJ	1	correct	TRUE			
+gotovih	gotovi	NOUN	1	lemmupos	FALSE	17	lemmupos-1	
+domov	domov	NOUN	1	upos	FALSE	13	upos-1	
+blagosti	blagost	NOUN	1	correct	TRUE			
+amelija	amelij	NOUN	1	lemmupos	FALSE	27	lemmupos-1	
+postavljal	postavljati	VERB	1	correct	TRUE			
+izgubivati	izgubivati	VERB	1	lemma	FALSE	153	lemma-1	
+rogulinove	rogulinov	NOUN	1	upos	FALSE	25	upos-1	
+opombe	opomba	ADJ	1	upos	FALSE	45	upos-1	
+obličje	obličje	NOUN	1	correct	TRUE			
+vstajajo	vstajati	VERB	1	correct	TRUE			
+gogala	gogala	VERB	1	upos	FALSE	73	upos-1	
+zlogu	zlog	NOUN	1	correct	TRUE			
+nasitil	nasititi	VERB	1	correct	TRUE			
+istina	istina	PROPN	1	lemmupos	FALSE	51	lemmupos-1	
+očarala	očarati	VERB	1	correct	TRUE			
+nepokvarjen	nepokvarjen	ADJ	1	correct	TRUE			
+duri	dura	NOUN	1	lemma	FALSE	7	lemma-1	
+potrpežljivost	potrpežljivost	NOUN	1	correct	TRUE			
+graščini	graščina	NOUN	1	correct	TRUE			
+večeru	večer	NOUN	1	correct	TRUE			
+ošabna	ošaben	ADJ	1	correct	TRUE			
+prestrašil	prestrašiti	VERB	1	correct	TRUE			
+glejte	gleti	VERB	1	lemma	FALSE	119	lemma-1	
+mrtvaške	mrtvaški	ADJ	1	features	FALSE	50	features-1	
+smiluj	smiluj	ADV	1	lemmupos	FALSE	96	lemmupos-1	
+dohajal	dohajati	VERB	1	correct	TRUE			
+vedoč	vedoč	ADV	1	correct	TRUE			
+rovtah	rovta	NOUN	1	lemma	FALSE	21	lemma-1	
+razbrskali	razbrskati	VERB	1	features	FALSE	47	features-1	
+estournelle	estournelle	PROPN	1	correct	TRUE			
+upognil	upogniti	VERB	1	correct	TRUE			
+delíti	delít	NOUN	1	lemmupos	FALSE	115	lemmupos-1	
+potlej	potlej	ADV	1	correct	TRUE			
+opetovano	opetovano	ADV	1	correct	TRUE			
+skrivši	skrivšiti	VERB	1	lemmupos	FALSE	101	lemmupos-1	
+vračajočega	vračajoč	ADJ	1	features	FALSE	63	features-1	
+mislé	mislé	NOUN	1	lemmupos	FALSE	93	lemmupos-1	
+slavomir	slavomir	PROPN	1	correct	TRUE			
+roland	roland	PROPN	1	correct	TRUE			
+divjem	div	ADJ	1	lemma	FALSE	87	lemma-1	
+mlinski	mlinski	ADJ	1	correct	TRUE			
+sprejema	sprejem	NOUN	1	correct	TRUE			
+naposled	naposled	NOUN	1	upos	FALSE	1	upos-1	
+delo	delo	VERB	1	lemma	FALSE	155	lemma-1	
+ujame	ujeti	VERB	1	correct	TRUE			
+otmar	otmar	NOUN	1	upos	FALSE	52	upos-1	
+potegne	potegna	VERB	1	lemma	FALSE	14	lemma-1	
+smrtnega	smrten	ADJ	1	correct	TRUE			
+očí.	očí.	X	1	tokenization	FALSE	2	tokenization-1	
+vašemu	vaš	ADJ	1	upos	FALSE	16	upos-1	
+zasmejal	zasmejati	VERB	1	correct	TRUE			
+spomini	spomin	NOUN	1	features	FALSE	138	features-1	
+kesaš	kesati	VERB	1	correct	TRUE			
+rokovnjačem	rokovnjač	PROPN	1	lemmupos	FALSE	34	lemmupos-1	
+dvoje	dvoj	DET	1	upos	FALSE	24	upos-1	
+blazni	blazen	ADJ	1	lemmupos	FALSE	52	lemmupos-1	
+trd	trd	NOUN	1	upos	FALSE	29	upos-1	
+marjetica	marjetica	NOUN	1	upos	FALSE	15	upos-1	
+mostovža	mostovž	NOUN	1	correct	TRUE			
+prepričate	prepričati	VERB	1	lemma	FALSE	137	lemma-1	
+glej	gleja	PROPN	1	lemmupos	FALSE	4	lemmupos-1	
+taval	tavati	VERB	1	correct	TRUE			
+polumraka	polumrak	NOUN	1	lemma	FALSE	51	lemma-1	
+moravsko	moravsko	PROPN	1	lemma	FALSE	106	lemma-1	
+negotov	negotov	ADJ	1	features	FALSE	9	features-1	
+egipt	egipt	NOUN	1	upos	FALSE	26	upos-1	
+nevaren	nevaren	ADJ	1	correct	TRUE			
+vzrastel	vzrasti	VERB	1	lemma	FALSE	144	lemma-1	
+zažvižgale	zažvižgati	VERB	1	features	FALSE	74	features-1	
+stražnika	stražnik	NOUN	1	correct	TRUE			
+jednakih	jednaki	NOUN	1	lemmupos	FALSE	117	lemmupos-1	
+cerkvijo	cerkev	NOUN	1	correct	TRUE			
+metod	metod	NOUN	1	lemmupos	FALSE	67	lemmupos-1	
+ozémlje	ozémlje	NOUN	1	lemma	FALSE	33	lemma-1	
+tenki	tenka	NOUN	1	lemmupos	FALSE	38	lemmupos-1	
+stavili	staviti	VERB	1	features	FALSE	72	features-1	
+pozná	pozná	NOUN	1	lemmupos	FALSE	16	lemmupos-1	
+ubijmo	ubiti	VERB	1	lemma	FALSE	83	lemma-1	
+zganen	zganen	ADJ	1	lemma	FALSE	117	lemma-1	
+jeze	jeza	NOUN	1	correct	TRUE			
+preiskovanju	preiskovanje	NOUN	1	correct	TRUE			
+zvunaj	zvunaj	ADV	1	lemma	FALSE	64	lemma-1	
+gotova	gotova	NOUN	1	lemmupos	FALSE	64	lemmupos-1	
+jezo	jez	PROPN	1	lemmupos	FALSE	1	lemmupos-1	
+postani	postaniti	ADJ	1	lemmupos	FALSE	103	lemmupos-1	
+komisar	komisar	NOUN	1	correct	TRUE			
+vajen	vajen	ADJ	1	features	FALSE	33	features-1	
+prekipevala	prekipevati	VERB	1	correct	TRUE			
+pipec	pipec	PROPN	3	correct	TRUE			
+kakó	kako	PART	2	upos	FALSE	4	upos-2	
+preveval	prevevati	VERB	1	features	FALSE	76	features-1	
+prikrivate	prikrivati	VERB	1	correct	TRUE			
+pojdiva	pojdiv	VERB	1	lemma	FALSE	77	lemma-1	
+žvižgaje	žvižgaja	VERB	1	lemmupos	FALSE	29	lemmupos-1	
+konci	konec	NOUN	1	correct	TRUE			
+procesija	procesija	NOUN	1	correct	TRUE			
+strašili	strašiti	VERB	1	features	FALSE	29	features-1	
+bogaboječo	bogaboječ	ADJ	1	correct	TRUE			
+prekrasne	prekrasen	VERB	1	upos	FALSE	53	upos-1	
+odvrne	odvrniti	VERB	2	correct	TRUE			
+prijateljstva	prijateljstvo	NOUN	1	correct	TRUE			
+ahac	ahac	PROPN	1	correct	TRUE			
+varno	varno	ADJ	1	upos	FALSE	41	upos-1	
+poesije	poesija	NOUN	1	lemma	FALSE	44	lemma-1	
+on	on	NOUN	1	upos	FALSE	37	upos-1	
+žene	žen	ADJ	1	lemmupos	FALSE	47	lemmupos-1	
+britev	britev	NOUN	1	correct	TRUE			
+slatinskih	slatinski	ADJ	1	correct	TRUE			
+ljudij	ljudija	NOUN	1	lemma	FALSE	16	lemma-1	
+lujiza	lujiza	PROPN	1	correct	TRUE			
+sama	sam	NOUN	1	upos	FALSE	75	upos-1	
+topniški	topniški	ADJ	1	correct	TRUE			
+krasna	krasen	ADJ	1	correct	TRUE			
+prečital	prečitati	VERB	1	correct	TRUE			
+drago	draga	NOUN	1	lemmupos	FALSE	100	lemmupos-1	
+teže	teči	ADV	1	correct	TRUE			
+potém	poté	NOUN	1	lemmupos	FALSE	72	lemmupos-1	
+vari	variti	VERB	1	lemma	FALSE	32	lemma-1	
+dospem	dospe	NOUN	1	lemmupos	FALSE	66	lemmupos-1	
+vpraša	vprašati	VERB	3	features	FALSE	1	features-3	
+toge	tog	NOUN	1	lemma	FALSE	108	lemma-1	
+odgovorili	odgovoriti	VERB	1	features	FALSE	10	features-1	
+samomorilca	samomorilec	NOUN	1	features	FALSE	49	features-1	
+žalosti	žalost	NOUN	1	features	FALSE	54	features-1	
+nemožno	nemožno	ADV	1	lemma	FALSE	98	lemma-1	
+megla	meči	VERB	1	lemmupos	FALSE	80	lemmupos-1	
+hibe	hiba	NOUN	1	correct	TRUE			
+rihbaldu	rihbald	PROPN	1	correct	TRUE			
+posnažiti	posnažiti	VERB	1	correct	TRUE			
+pravim	praviti	VERB	1	features	FALSE	12	features-1	
+vnel	vneti	VERB	1	lemma	FALSE	115	lemma-1	
+grdo	grd	ADJ	1	correct	TRUE			
+ustni	usten	ADJ	1	lemmupos	FALSE	65	lemmupos-1	
+uže	uža	ADV	1	lemmupos	FALSE	78	lemmupos-1	
+zofo	zofa	NOUN	1	correct	TRUE			
+nijste	nijsti	NOUN	1	lemmupos	FALSE	48	lemmupos-1	
+vega	vi	PROPN	1	lemma	FALSE	134	lemma-1	
+lepoto	lepot	NOUN	1	lemma	FALSE	89	lemma-1	
+rajši	rad	ADJ	1	lemmupos	FALSE	21	lemmupos-1	
+služkinji	služkinja	ADJ	1	upos	FALSE	59	upos-1	
+jako	jako	ADV	3	correct	TRUE			
+reži	režati	VERB	1	features	FALSE	86	features-1	
+kirasirski	kirasirski	ADJ	1	correct	TRUE			
+ovoji	ovo	NOUN	1	lemma	FALSE	82	lemma-1	
+preproste	prepriti	VERB	1	lemmupos	FALSE	9	lemmupos-1	
+hipu	hip	NOUN	1	correct	TRUE			
+dene	dena	ADJ	1	lemmupos	FALSE	5	lemmupos-1	
+jeden	jeden	ADJ	1	lemmupos	FALSE	37	lemmupos-1	
+samoto	samota	NOUN	1	correct	TRUE			
+žun	žun	PROPN	1	correct	TRUE			
+živalici	živalica	NOUN	1	features	FALSE	15	features-1	
+zažarel	zažareti	VERB	1	correct	TRUE			
+kuha	kuh	VERB	1	lemma	FALSE	62	lemma-1	
+jezno	jezno	ADJ	1	upos	FALSE	57	upos-1	
+korenine	korenin	NOUN	1	lemma	FALSE	139	lemma-1	
+krotki	krotek	ADJ	1	features	FALSE	92	features-1	
+gradič	gradič	PRON	1	upos	FALSE	36	upos-1	
+posestvo	posestvo	NOUN	1	lemma	FALSE	80	lemma-1	
+slično	slično	ADV	1	correct	TRUE			
+jezu	jez	NOUN	1	correct	TRUE			
+pasjaku	pasjak	PROPN	1	correct	TRUE			
+ranjce	ranjec	NOUN	1	lemmupos	FALSE	45	lemmupos-1	
+slep	slep	NOUN	1	upos	FALSE	80	upos-1	
+molči	molčiti	VERB	1	lemma	FALSE	46	lemma-1	
+svetlobi	svetloba	NOUN	1	correct	TRUE			
+ogrsko	ogrska	PROPN	1	correct	TRUE			
+tatovskej	tatovskej	PRON	1	lemmupos	FALSE	30	lemmupos-1	
+roboto	robota	NOUN	1	features	FALSE	52	features-1	
+srčno	srčen	ADJ	1	correct	TRUE			
+nesli	nesti	VERB	1	features	FALSE	20	features-1	
+skrbmi	skrb	NOUN	1	features	FALSE	45	features-1	
+vender	vender	ADJ	1	lemmupos	FALSE	123	lemmupos-1	
+skoro	skoro	ADV	1	upos	FALSE	49	upos-1	
+podstrešja	podstrešje	NOUN	1	correct	TRUE			
+pol	pol	ADV	1	upos	FALSE	31	upos-1	
+razkropljena	razkropljen	ADJ	1	correct	TRUE			
+profesorjevo	profesorjev	NOUN	1	upos	FALSE	27	upos-1	
+prebito	prebita	NOUN	1	lemmupos	FALSE	122	lemmupos-1	
+veslarice	veslarica	NOUN	1	correct	TRUE			
+spozabi	spozabiti	VERB	1	correct	TRUE			
+ugovarjal	ugovarjati	VERB	1	correct	TRUE			
+umikale	umikati	VERB	1	features	FALSE	24	features-1	
+arabela	arabeti	VERB	1	lemmupos	FALSE	102	lemmupos-1	
+kupec	kupec	NOUN	1	correct	TRUE			
+zaupljiva	zaupljivati	ADJ	1	lemma	FALSE	31	lemma-1	
+onega	on	ADJ	1	lemmupos	FALSE	84	lemmupos-1	
+naglici	naglica	NOUN	1	correct	TRUE			
+pešala	pešati	VERB	1	correct	TRUE			
+ustrašil	ustrašiti	VERB	1	correct	TRUE			
+konopi	konopiti	NOUN	1	lemma	FALSE	96	lemma-1	
+odgovori	odgovoriti	NOUN	1	upos	FALSE	51	upos-1	
+strogo	strogo	NOUN	1	upos	FALSE	44	upos-1	
+naroči	naročiti	VERB	1	correct	TRUE			
+uže	uže	ADV	1	lemmupos	FALSE	42	lemmupos-1	
+miklavža	miklavžati	NOUN	1	lemma	FALSE	3	lemma-1	
+slavljen	slavljen	ADJ	1	correct	TRUE			
+vrstnice	vrstnica	NOUN	1	features	FALSE	75	features-1	
+prikovano	prikovan	ADJ	1	correct	TRUE			
+svetopolkov	svetopolk	PROPN	1	lemmupos	FALSE	126	lemmupos-1	
+simpatičen	simpatičen	ADJ	1	correct	TRUE			
+pomazati	pomazati	VERB	1	correct	TRUE			
+prihrul	prihruti	VERB	1	correct	TRUE			
+postav	postava	NOUN	1	correct	TRUE			
+znanca	znanec	NOUN	2	features	FALSE	1	features-2	
+bodisi	bodis	NOUN	1	lemmupos	FALSE	130	lemmupos-1	
+bodi	biti	VERB	2	features	FALSE	2	features-2	
+mozolovih	mozolov	NOUN	1	upos	FALSE	19	upos-1	
+poglavij	poglavje	NOUN	1	features	FALSE	32	features-1	
+mešetar	mešetar	NOUN	1	correct	TRUE			
+deje	deja	VERB	1	lemma	FALSE	133	lemma-1	
+gospodu	gospodu	ADV	1	lemmupos	FALSE	95	lemmupos-1	
+drobnem	droben	ADJ	1	correct	TRUE			
+zastopali	zastopati	VERB	1	correct	TRUE			
+levej	levej	ADV	1	lemmupos	FALSE	116	lemmupos-1	
+vrag	vraga	NOUN	1	lemma	FALSE	18	lemma-1	
+postajal	postajati	VERB	1	correct	TRUE			
+zastonj	zastonj	PRON	1	lemmupos	FALSE	92	lemmupos-1	
+travo	trava	NOUN	1	correct	TRUE			
+dojence	dojenca	NOUN	1	lemma	FALSE	88	lemma-1	
+hotèč	hotèč	ADV	1	lemma	FALSE	55	lemma-1	
+sarkastično	sarkastično	ADV	1	correct	TRUE			
+vas	vas	PRON	1	lemma	FALSE	74	lemma-1	
+sporočijo	sporočati	VERB	1	lemma	FALSE	41	lemma-1	
+gimnazijalec	gimnazijalec	NOUN	1	lemma	FALSE	24	lemma-1	
+utrjene	utrjen	ADJ	1	features	FALSE	43	features-1	
+li	lo	ADV	1	lemmupos	FALSE	63	lemmupos-1	
+lužnik	lužnik	NOUN	1	upos	FALSE	14	upos-1	
+uiti	uiti	VERB	1	correct	TRUE			
+radovedna	radoveden	PROPN	1	upos	FALSE	76	upos-1	
+samuel	samuel	PROPN	1	correct	TRUE			
+lahkomišljen	lahkomišljen	ADJ	1	correct	TRUE			
+hudodelnika	hudodelnik	NOUN	1	features	FALSE	69	features-1	
+tù	tù	NOUN	1	lemmupos	FALSE	75	lemmupos-1	
+ljubkovanja	ljubkovanje	NOUN	1	correct	TRUE			
+rihbald	rihbald	PROPN	1	correct	TRUE			
+ž	ž	NOUN	1	lemmupos	FALSE	74	lemmupos-1	
+zbledi	zblediti	VERB	1	lemma	FALSE	146	lemma-1	
+podvrženo	podvržen	ADJ	1	correct	TRUE			
+nij	nij	X	1	lemma	FALSE	35	lemma-1	
+koketni	koketen	ADJ	1	correct	TRUE			
+pomoru	pomor	NOUN	1	correct	TRUE			
+skrivali	skrivati	VERB	1	correct	TRUE			
+oslabela	oslabeti	VERB	1	correct	TRUE			
+predrami	predra	NOUN	1	lemmupos	FALSE	8	lemmupos-1	
+vojvodinja	vojvodinja	NOUN	1	correct	TRUE			
+najemnik	najemnik	NOUN	1	correct	TRUE			
+hvaležnosti	hvaležnost	NOUN	1	correct	TRUE			
+meže	meža	NOUN	1	correct	TRUE			
+esma	esma	NOUN	1	lemmupos	FALSE	110	lemmupos-1	
+sveti	sveti	VERB	1	lemma	FALSE	118	lemma-1	
+jej	o	PRON	1	lemma	FALSE	135	lemma-1	
+povestnico	povestnica	NOUN	1	correct	TRUE			
+dam	dati	VERB	1	features	FALSE	2	features-1	
+zvédela	zvédeti	VERB	1	lemma	FALSE	122	lemma-1	
+pogube	poguba	NOUN	1	features	FALSE	1	features-1	
+gledé	gledé	NOUN	1	lemmupos	FALSE	99	lemmupos-1	
+haha	hah	VERB	1	lemmupos	FALSE	83	lemmupos-1	
+poprej	poprej	ADV	1	correct	TRUE			
+majnard	majnard	PROPN	1	correct	TRUE			
+skrila	skriti	VERB	1	correct	TRUE			
+malvino	malvina	PROPN	1	features	FALSE	87	features-1	
+grajščak	grajščak	NOUN	1	lemma	FALSE	53	lemma-1	
+opravljena	opravljen	ADJ	1	correct	TRUE			
+zapiskov	zapisek	NOUN	1	correct	TRUE			
+jetnikov	jetnik	NOUN	1	correct	TRUE			
+hodniku	hodnik	NOUN	1	correct	TRUE			
+zamudi	zamuditi	VERB	1	correct	TRUE			
+podkovan	podkovan	ADJ	1	correct	TRUE			
+blaž	blaž	PROPN	1	correct	TRUE			
+krik	krik	NOUN	1	correct	TRUE			
+naukov	nauk	NOUN	1	correct	TRUE			
+glav	glava	NOUN	1	correct	TRUE			
+alarmirani	alarmiran	ADJ	1	correct	TRUE			
+brzo	brzo	ADV	1	correct	TRUE			
+deve	deva	NOUN	1	correct	TRUE			
+plavali	plavati	VERB	1	correct	TRUE			
+dvorilcu	dvorilec	NOUN	1	features	FALSE	39	features-1	
+oklenivši	oklenivšiti	ADJ	1	lemmupos	FALSE	113	lemmupos-1	
+dopolnil	dopolniti	VERB	1	correct	TRUE			
+pešteno	pešten	ADJ	1	lemma	FALSE	19	lemma-1	
+protivno	protiven	ADJ	1	correct	TRUE			
+srebro	srebro	NOUN	1	correct	TRUE			
+odgovarjajo	odgovarjati	VERB	1	correct	TRUE			
+ako	ako	NOUN	1	upos	FALSE	65	upos-1	
+napolnil	napolniti	VERB	1	correct	TRUE			
+gosta	gost	AUX	1	upos	FALSE	22	upos-1	
+trenotek	trenotek	NOUN	2	lemma	FALSE	3	lemma-2	
+popovcih	popovci	PROPN	1	correct	TRUE			
+mornar	mornar	NOUN	1	features	FALSE	37	features-1	
+posebno	poseben	ADV	2	lemma	FALSE	4	lemma-2	
+obupnosti	obupnost	NOUN	1	correct	TRUE			
+bode	boda	NOUN	2	lemmupos	FALSE	3	lemmupos-2	
+ekscelencas	ekscelencas	NOUN	1	lemma	FALSE	22	lemma-1	
+lesti	lest	NOUN	1	features	FALSE	26	features-1	
+odpotovali	odpotovati	VERB	1	features	FALSE	89	features-1	
+svakinja	svakinja	NOUN	1	lemma	FALSE	100	lemma-1	
+riharda	rihard	PROPN	1	features	FALSE	6	features-1	
+marjetica	marjetica	PROPN	2	correct	TRUE			
+gori	gori	NOUN	1	upos	FALSE	72	upos-1	
+vzkliknil	vzklikniti	VERB	2	correct	TRUE			
+okamenel	okameneti	VERB	1	lemmupos	FALSE	124	lemmupos-1	
+presunila	presuniti	VERB	1	correct	TRUE			
+aha	aha	VERB	1	lemmupos	FALSE	46	lemmupos-1	
+storimo	storiti	VERB	2	correct	TRUE			
+jezno	jezna	ADJ	1	lemmupos	FALSE	88	lemmupos-1	
+zmerjaj	zmerjati	ADV	1	upos	FALSE	32	upos-1	
+sorijevim	sorijev	ADJ	1	correct	TRUE			
+trepetajočim	trepetajoč	ADJ	1	correct	TRUE			
+oblakov	oblak	NOUN	1	correct	TRUE			
+hanuma	hanum	VERB	1	lemmupos	FALSE	85	lemmupos-1	
+razidejo	raziti	VERB	1	correct	TRUE			
+strašnej	strašneja	PRON	1	lemmupos	FALSE	91	lemmupos-1	
+rogulin	rogulin	PROPN	2	correct	TRUE			
+nevarnostim	nevarnost	NOUN	1	correct	TRUE			
+peli	peti	VERB	1	features	FALSE	25	features-1	
+baš	bati	NOUN	1	lemmupos	FALSE	36	lemmupos-1	
+zvezdano	zvezdano	ADJ	1	lemmupos	FALSE	40	lemmupos-1	
+onemoglih	onemogel	ADJ	1	correct	TRUE			
+srebroviti	srebrovit	ADJ	1	correct	TRUE			
+videč	videč	DET	1	upos	FALSE	60	upos-1	
+sloveni	sloven	ADJ	1	upos	FALSE	40	upos-1	
+oskrbnik	oskrbnik	NOUN	1	correct	TRUE			
+nejevoljnim	nejevoljen	ADJ	1	correct	TRUE			
+pak	paka	NOUN	1	lemmupos	FALSE	53	lemmupos-1	
+številnostjo	številnost	NOUN	1	correct	TRUE			
+nabrusil	nabrusiti	VERB	1	correct	TRUE			
+prelomil	prelomiti	VERB	1	correct	TRUE			
+kosili	kositi	VERB	1	lemma	FALSE	140	lemma-1	
+posegali	posegati	VERB	1	features	FALSE	7	features-1	
+ranjena	ranjen	ADJ	1	correct	TRUE			
+svesti	svest	NOUN	1	correct	TRUE			
+človekoljubnost	človekoljubnost	NOUN	1	lemma	FALSE	114	lemma-1	
+prav	praviti	PART	1	lemma	FALSE	107	lemma-1	
+malvino	malvina	PROPN	1	correct	TRUE			
+križale	križati	VERB	1	correct	TRUE			
+dedne	deden	ADJ	1	correct	TRUE			
+rasti	rast	VERB	1	upos	FALSE	28	upos-1	
+denarja	denarje	NOUN	1	lemma	FALSE	38	lemma-1	
+trobenta	trobent	NOUN	1	lemma	FALSE	143	lemma-1	
+drugam	drugati	ADV	1	lemma	FALSE	141	lemma-1	
+potrpel	potrpeti	VERB	1	correct	TRUE			
+češkova	češkov	ADJ	1	correct	TRUE			
+izvrstno	izvrsten	ADJ	1	features	FALSE	4	features-1	
+hrabro	hrabro	NOUN	1	upos	FALSE	34	upos-1	
+kazale	kazati	VERB	1	correct	TRUE			
+počitku	počitek	NOUN	1	correct	TRUE			
+lakta	lakt	ADJ	1	lemmupos	FALSE	54	lemmupos-1	
+zarana	zaran	ADJ	1	lemmupos	FALSE	10	lemmupos-1	
+pojasnjenje	pojasnjenje	NOUN	1	lemma	FALSE	149	lemma-1	
+zadosti	zadost	ADV	1	lemma	FALSE	130	lemma-1	
+skritemu	skrit	ADJ	1	lemma	FALSE	17	lemma-1	
+šlevo	šleva	NOUN	1	correct	TRUE			
+javnej	javnej	NOUN	1	lemmupos	FALSE	105	lemmupos-1	
+mrtva	mrtvo	ADJ	1	lemma	FALSE	229	lemma-1	
+vzamem	vzeti	NOUN	1	upos	FALSE	18	upos-1	
+trudna	truden	NOUN	1	upos	FALSE	62	upos-1	
+odmevalo	odmevati	VERB	1	features	FALSE	93	features-1	
+misli	misliti	NOUN	1	lemma	FALSE	110	lemma-1	
+pripetilo	pripetiti	VERB	1	correct	TRUE			
+nalezel	nalesti	VERB	1	correct	TRUE			
+poseže	poseža	VERB	1	lemma	FALSE	28	lemma-1	
+dozdeva	dozdevati	VERB	1	correct	TRUE			
+razvleklo	razvleči	VERB	1	correct	TRUE			
+povešenimi	povešen	ADJ	1	features	FALSE	18	features-1	
+hudiča	hudič	PROPN	1	upos	FALSE	47	upos-1	
+pridvorne	pridvoren	ADJ	1	correct	TRUE			
+požívi	požíviti	VERB	1	lemma	FALSE	154	lemma-1	
+dvojico	dvojica	NOUN	1	correct	TRUE			
+sijaj	sijaj	NOUN	1	correct	TRUE			
+jej	jej	NOUN	1	lemmupos	FALSE	79	lemmupos-1	
+oče	oče	ADJ	1	upos	FALSE	3	upos-1	
+križevniško	križevniški	ADJ	1	correct	TRUE			
+plamteli	plamteti	VERB	1	features	FALSE	8	features-1	
+stari	star	VERB	1	upos	FALSE	74	upos-1	
+budalosti	budalost	NOUN	1	correct	TRUE			
+kontesa	kontes	NOUN	1	lemma	FALSE	99	lemma-1	
+gorjá	gorjá	NOUN	1	lemma	FALSE	26	lemma-1	
+reditelj	reditelj	NOUN	1	correct	TRUE			
+temino	temina	NOUN	1	correct	TRUE			
+groznim	grozen	ADJ	1	correct	TRUE			
+žrtvuje	žrtvovati	VERB	1	features	FALSE	31	features-1	
+smijoč	smijoč	NOUN	1	lemmupos	FALSE	76	lemmupos-1	
+nizdol	nizdol	ADV	1	lemma	FALSE	123	lemma-1	
+oporekujem	oporekovati	VERB	1	lemma	FALSE	1	lemma-1	
+orožji	orožje	ADJ	1	upos	FALSE	67	upos-1	
+pravi	prava	NOUN	1	lemmupos	FALSE	43	lemmupos-1	
+linica	linica	NOUN	1	correct	TRUE			
+toplicah	toplice	NOUN	1	upos	FALSE	9	upos-1	
+očetovih	očetov	ADJ	1	correct	TRUE			
+matijec	matijec	PROPN	2	correct	TRUE			
+dane	dan	ADJ	1	features	FALSE	42	features-1	
+potu	pot	NOUN	2	correct	TRUE			
+sloveč	sloveč	CCONJ	1	upos	FALSE	63	upos-1	
+bojišča	bojišče	NOUN	1	correct	TRUE			
+mojim	moj	DET	1	correct	TRUE			
+poslednje	poslednji	ADJ	1	lemma	FALSE	128	lemma-1	
+straši	strašiti	VERB	1	correct	TRUE			
+kesanja	kesanje	NOUN	1	correct	TRUE			
+odločnejše	odločen	ADJ	1	lemmupos	FALSE	98	lemmupos-1	
+tvojima	tvojim	PRON	1	lemmupos	FALSE	109	lemmupos-1	
+gernau	gerna	NOUN	1	lemmupos	FALSE	69	lemmupos-1	
+smodke	smodek	NOUN	1	lemma	FALSE	111	lemma-1	
+molčanje	molčanje	NOUN	1	correct	TRUE			
+deževnega	deževen	ADJ	1	correct	TRUE			
+bodi	biti	VERB	1	upos	FALSE	42	upos-1	
+dolžnostmi	dolžnost	NOUN	1	correct	TRUE			
+uzrok	uzrok	NOUN	1	lemma	FALSE	70	lemma-1	
+vstane	vstati	NOUN	1	upos	FALSE	66	upos-1	
+walter	walter	PROPN	1	correct	TRUE			
+bomo	biti	VERB	1	upos	FALSE	5	upos-1	
+leonora	leonora	PROPN	1	correct	TRUE			
+nevidnih	neviden	ADJ	1	correct	TRUE			
+razširjeno	razširjen	ADJ	1	correct	TRUE			
+prišlec	prišlec	NOUN	2	correct	TRUE			
+poznejše	pozen	ADJ	1	features	FALSE	13	features-1	
+svečo	sveča	NOUN	1	correct	TRUE			
+poluglasno	poluglasen	ADJ	1	lemmupos	FALSE	24	lemmupos-1	
+drug	drug	NOUN	1	upos	FALSE	8	upos-1	
+pekočem	pekoč	ADJ	1	features	FALSE	5	features-1	
+urban	urban	PROPN	1	correct	TRUE			
+prvič	prvič	NOUN	1	upos	FALSE	7	upos-1	
+ume	um	VERB	1	lemma	FALSE	72	lemma-1	
+zaupala	zaupati	VERB	1	features	FALSE	79	features-1	
+sezidati	sezidati	VERB	1	features	FALSE	85	features-1	
+mari	mar	NOUN	1	upos	FALSE	122	upos-1	
+traje	trajati	VERB	1	correct	TRUE			
+virida	virida	PROPN	1	correct	TRUE			
+koščku	košček	NOUN	1	correct	TRUE			
+usten	usten	ADJ	1	lemmupos	FALSE	15	lemmupos-1	
+držeč	držeč	CCONJ	1	upos	FALSE	61	upos-1	
+milica	milic	PROPN	1	lemma	FALSE	52	lemma-1	
+ljubosumno	ljubosumno	ADV	1	correct	TRUE			
+važnega	važen	ADJ	1	correct	TRUE			
+minder	minder	NOUN	1	correct	TRUE			
+bodete	bodet	VERB	1	lemmupos	FALSE	86	lemmupos-1	
+klicalo	klicati	VERB	1	features	FALSE	30	features-1	
+veselo	vesel	ADV	1	lemma	FALSE	121	lemma-1	
+najlepši	lep	NOUN	1	upos	FALSE	35	upos-1	
+nanda	nanda	PART	1	lemmupos	FALSE	3	lemmupos-1	
+gorička	goriček	NOUN	1	upos	FALSE	48	upos-1	
+verjetno	verjetno	ADJ	1	lemma	FALSE	142	lemma-1	
+seže	sež	VERB	1	lemma	FALSE	13	lemma-1	
+modri	moder	ADJ	1	features	FALSE	80	features-1	
+kortež	kortež	NOUN	1	correct	TRUE			
+marjetica	marjetica	PROPN	1	features	FALSE	23	features-1	
+salda	salda	PROPN	1	correct	TRUE			
+snežnikov	snežnik	NOUN	1	correct	TRUE			
+svak	svak	NOUN	1	correct	TRUE			
+prikupil	prikupiti	VERB	1	correct	TRUE			
+bližali	bližati	VERB	1	correct	TRUE			
+zmršeno	zmršen	ADJ	1	correct	TRUE			
+kovača	kovač	NOUN	1	correct	TRUE			
+prepiustite	prepiustiti	VERB	1	lemma	FALSE	5	lemma-1	
+dvorjani	dvorjan	NOUN	1	correct	TRUE			
+obesimo	obesiti	VERB	1	features	FALSE	14	features-1	
+m	m	ADJ	1	correct	TRUE			
+šum	šum	NOUN	2	correct	TRUE			
+spremiti	spremiti	VERB	1	correct	TRUE			
+ponižno	ponižno	ADV	1	correct	TRUE			
+možakarja	možakarjati	VERB	1	lemmupos	FALSE	49	lemmupos-1	
+uravná	uravná	NOUN	1	lemmupos	FALSE	50	lemmupos-1	
+klaneta	klanet	VERB	1	upos	FALSE	2	upos-1	
+kedar	kedar	SCONJ	1	lemma	FALSE	97	lemma-1	
+gospodična	gospodičen	ADJ	1	lemmupos	FALSE	104	lemmupos-1	
+osvetila	osvetiti	VERB	2	correct	TRUE			
+zavpije	zavpiti	VERB	1	features	FALSE	70	features-1	
+dvorišča	dvorišče	NOUN	1	correct	TRUE			
+pridvornega	pridvoren	ADJ	1	correct	TRUE			
+sv	sv	NOUN	2	tokenization	FALSE	1	tokenization-2	
+izogibala	izogibati	VERB	1	correct	TRUE			
+jej	o	ADV	1	lemmupos	FALSE	56	lemmupos-1	
+vtepel	vtepeti	VERB	1	lemma	FALSE	90	lemma-1	
+jedva	jedva	PRON	1	upos	FALSE	64	upos-1	
+prebudila	prebuditi	VERB	1	correct	TRUE			
+hrabril	hrabriti	VERB	1	features	FALSE	27	features-1	
+kadila	kaditi	VERB	1	correct	TRUE			
+osobno	osoben	ADJ	1	lemma	FALSE	20	lemma-1	
+spozabila	spozabiti	VERB	1	lemma	FALSE	65	lemma-1	
+popraviti	popraviti	VERB	1	correct	TRUE			
+oglušilo	oglušilo	VERB	1	lemma	FALSE	145	lemma-1	
+povém	povéti	VERB	1	lemma	FALSE	29	lemma-1	
+siten	siten	PROPN	1	lemmupos	FALSE	97	lemmupos-1	
+prežalostno	prežalosten	ADJ	1	correct	TRUE			
+trdih	trdi	ADJ	1	lemma	FALSE	71	lemma-1	
+razgret	razgret	NOUN	1	lemmupos	FALSE	90	lemmupos-1	
+brezkonečnem	brezkonečen	ADJ	1	lemma	FALSE	60	lemma-1	
+prestraši	prestrašiti	VERB	1	correct	TRUE			
+združeni	združen	ADJ	1	correct	TRUE			
+nadsvečeniku	nadsvečenik	NOUN	1	correct	TRUE			
+govornika	govornik	NOUN	2	correct	TRUE			
+ovijali	ovijati	VERB	1	correct	TRUE			
+pokojna	pokojen	ADJ	1	correct	TRUE			
+izhajali	izhajati	VERB	1	correct	TRUE			
+zmenil	zmeniti	VERB	1	correct	TRUE			
+pojde	pojti	VERB	1	lemma	FALSE	23	lemma-1	
+ročico	ročica	NOUN	1	correct	TRUE			
+finica	finica	NOUN	1	upos	FALSE	23	upos-1	
+druščine	druščiniti	NOUN	1	lemma	FALSE	127	lemma-1	
+slavni	slaven	ADJ	1	correct	TRUE			
+milo	milo	NOUN	1	correct	TRUE			
+spretne	spreten	ADJ	1	correct	TRUE			
+kraj	kraj	PART	1	upos	FALSE	77	upos-1	
+leščerbe	leščerba	NOUN	1	correct	TRUE			
+galjot	galjota	NOUN	1	lemma	FALSE	27	lemma-1	
+zmenjeno	zmenjen	ADJ	1	correct	TRUE			
+markizo	markiza	NOUN	1	correct	TRUE			
+sramežljivo	sramežljiv	ADJ	1	lemmupos	FALSE	33	lemmupos-1	
+gospodprofesor	gospodprofesor	NOUN	1	tokenization	FALSE	5	tokenization-1	
+jej	jej	ADV	1	lemmupos	FALSE	111	lemmupos-1	
+pavovih	pavov	ADJ	1	features	FALSE	65	features-1	
+mokre	moker	NOUN	1	correct	TRUE			
+milo	milo	NOUN	1	lemmupos	FALSE	59	lemmupos-1	
+globokega	globok	ADJ	2	correct	TRUE			
+distance	distanca	NOUN	1	correct	TRUE			
+krasno	krasen	ADJ	1	correct	TRUE			
+izbirčen	izbirčen	ADJ	1	correct	TRUE			
+nemirno	nemirno	ADV	1	correct	TRUE			
+vé	vé	NOUN	2	lemmupos	FALSE	1	lemmupos-2	
+pažetu	pažet	NOUN	1	lemma	FALSE	66	lemma-1	
+damjan	damjan	PROPN	1	correct	TRUE			
+obžaluješ	obžalovati	VERB	1	features	FALSE	21	features-1	
+priredi	prirediti	VERB	1	correct	TRUE			
+arabela	arabel	ADJ	1	lemmupos	FALSE	25	lemmupos-1	
+veha	veh	PROPN	1	lemma	FALSE	102	lemma-1	
+šepec	šepec	PROPN	1	lemma	FALSE	150	lemma-1	
+prikazen	prikazen	ADJ	1	upos	FALSE	70	upos-1	
+otavo	otava	NOUN	1	correct	TRUE			
+dohitimo	dohititi	VERB	1	lemma	FALSE	4	lemma-1	
+vznemirjali	vznemirjati	VERB	1	correct	TRUE			
+hotel	hoteti	NOUN	1	upos	FALSE	39	upos-1	
+razsodnost	razsodnost	NOUN	1	features	FALSE	84	features-1	
+bodeš	bosti	X	1	lemmupos	FALSE	106	lemmupos-1	
+zádrugi	zádrug	ADJ	1	lemmupos	FALSE	71	lemmupos-1	
+korena	koren	PROPN	1	lemma	FALSE	69	lemma-1	
+popisuje	popisovati	VERB	1	correct	TRUE			
+majorju	majorje	PROPN	1	lemmupos	FALSE	2	lemmupos-1	
+zablisnila	zablisniti	VERB	1	correct	TRUE			
+duhoven	duhoven	ADJ	2	correct	TRUE			
+gradič	gradič	NOUN	1	correct	TRUE			
+barbarski	barbarski	ADJ	1	correct	TRUE			
+gosti	gost	NOUN	1	features	FALSE	81	features-1	
+istina	istina	NOUN	1	correct	TRUE			
+skokov	skok	NOUN	1	correct	TRUE			
+strmolskega	strmolski	ADJ	1	correct	TRUE			
+pritožili	pritožiti	VERB	1	correct	TRUE			
+cilja	cielj	PROPN	1	lemma	FALSE	126	lemma-1	
+márica	márica	PROPN	1	lemma	FALSE	125	lemma-1	
+dopadel	dopasti	VERB	1	correct	TRUE			
+bogokletnik	bogokletnik	NOUN	1	correct	TRUE			
+namenjenim	namenjen	ADJ	1	correct	TRUE			
+prerahlo	prerahti	VERB	1	lemmupos	FALSE	26	lemmupos-1	
+naglasom	naglas	NOUN	1	correct	TRUE			
+padle	pasti	VERB	1	correct	TRUE			
+mozolki	mozolka	NOUN	1	upos	FALSE	17	upos-1	
+klicala	klicati	VERB	1	correct	TRUE			
+ponagajati	ponagajati	VERB	1	features	FALSE	40	features-1	
+drhtečim	drhteč	ADJ	1	correct	TRUE			
+ozreti	ozreti	VERB	1	correct	TRUE			
+glavo	glava	ADJ	1	upos	FALSE	54	upos-1	
+vzgojena	vzgojen	ADJ	1	correct	TRUE			
+voščil	voščiti	VERB	1	correct	TRUE			
