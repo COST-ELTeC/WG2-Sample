@@ -1,0 +1,684 @@
+form	lemma	upos	freq.samp	errtype	is_correct	rand_int	groupID	BAMTINOF
+sirotek	sirotek	NOUN	1	features	FALSE			
+nežaloval	žalovat	VERB	1	correct	TRUE	69	correct-1	
+ložnicí	ložnice	NOUN	1	correct	TRUE	51	correct-1	
+útrpnosti	útrpnost	NOUN	1	features	FALSE			
+načež	načež	NOUN	2	lemmupos	FALSE			
+hladíc	hladet	VERB	1	lemma	FALSE			M
+žíti	žít	VERB	1	correct	TRUE	34	correct-1	M
+harpunu	harpuna	NOUN	1	correct	TRUE	216	correct-1	
+šlak	šlak	PROPN	1	correct	TRUE	133	correct-1	ON
+doubic	doubice	PROPN	1	lemma	FALSE			N
+vynutiť	vynutiť	PART	1	lemmupos	FALSE			M
+nýrska	nýrsko	PROPN	1	correct	TRUE	18	correct-1	N
+utíraje	utírát	VERB	1	features	FALSE			M
+laně	laň	NOUN	1	features	FALSE			
+je	být	PRON	1	correct	TRUE	97	correct-1	
+ledabylo	ledabýt	VERB	1	lemmupos	FALSE			O
+dosáhnouti	dosáhnout	NOUN	1	upos	FALSE			M
+zasnoubili	zasnoubit	VERB	1	correct	TRUE	276	correct-1	
+lidmilino	lidmilino	PROPN	1	lemmupos	FALSE			N
+lodie	lodie	NOUN	1	features	FALSE			F
+soběckých	soběcký	ADJ	1	upos	FALSE			O
+štýrského	štýrský	ADJ	1	correct	TRUE	149	correct-1	N
+jmenujte	jmenovat	VERB	1	correct	TRUE	402	correct-1	
+vdáti	vdát	VERB	1	correct	TRUE	131	correct-1	M
+prochlasce	prochlaska	NOUN	1	lemmupos	FALSE			M
+ořech	ořecha	NOUN	1	lemmupos	FALSE			
+zouvák	zouvák	NOUN	1	correct	TRUE	19	correct-1	O
+svědkové	svědkový	NOUN	1	lemma	FALSE			
+dráb	dráb	PROPN	1	upos	FALSE			O
+ovinuto	ovinutý	ADJ	1	correct	TRUE	57	correct-1	
+fricek	fricek	PROPN	1	correct	TRUE	158	correct-1	O
+upozorním	upozorní	ADJ	1	lemmupos	FALSE			
+verunce	verunka	NOUN	1	upos	FALSE			N
+dvéře	dvéra	NOUN	1	lemma	FALSE			O
+ovísek	ovísek	NOUN	1	features	FALSE			O
+nivec	nivec	NOUN	1	correct	TRUE	79	correct-1	O
+oblékati	oblékat	VERB	1	correct	TRUE	31	correct-1	M
+nepůjdu	nepůjda	VERB	1	lemma	FALSE			
+jiříku	jiřík	PROPN	1	features	FALSE			N
+ha	h	PROPN	1	lemmupos	FALSE			
+přidružilo	přidružit	VERB	1	correct	TRUE	161	correct-1	
+uhodl	uhodnout	VERB	1	correct	TRUE	252	correct-1	
+neublížil	ublížit	VERB	1	correct	TRUE	269	correct-1	
+povyrostl	povyrostl	VERB	1	correct	TRUE	267	correct-1	
+pojďte	pojdit	VERB	1	lemma	FALSE			
+mladíkovo	mladíkův	ADJ	1	features	FALSE			
+soběslavově	soběslavově	ADJ	1	lemma	FALSE			N
+díky	dík	ADP	1	lemmupos	FALSE			
+račte	račíst	VERB	1	lemma	FALSE			O
+zasáhly	zasáhnout	VERB	1	correct	TRUE	117	correct-1	
+vítkoviči	vítkovič	PROPN	1	features	FALSE			N
+všecky	všecky	ADV	1	correct	TRUE	284	correct-1	O
+kacíře	kacíř	NOUN	1	features	FALSE			
+mluvte	mluvit	VERB	1	features	FALSE			
+límců	límec	NOUN	1	correct	TRUE	13	correct-1	
+baltazar	baltazar	PROPN	1	features	FALSE			N
+zkvétá	zkvétat	VERB	1	correct	TRUE	228	correct-1	O
+přišedšího	přišedší	ADJ	1	features	FALSE			O
+přelstěni	přelstěný	ADJ	1	features	FALSE			
+kousajíce	kousat	VERB	1	features	FALSE			M
+vrhli	vrhnout	VERB	1	correct	TRUE	215	correct-1	
+oudolím	oudolí	NOUN	1	correct	TRUE	282	correct-1	O
+králová	králový	ADJ	1	features	FALSE			O
+propasti	propasť	NOUN	1	correct	TRUE	167	correct-1	
+tiché	tichý	ADJ	1	correct	TRUE	144	correct-1	
+polozakrytý	polozakrytý	ADJ	1	features	FALSE			
+přihnul	přihnout	VERB	1	correct	TRUE	39	correct-1	
+oklikami	oklika	NOUN	1	correct	TRUE	189	correct-1	
+verunka	verunka	NOUN	1	upos	FALSE			N
+kralovický	kralovický	PROPN	1	correct	TRUE	100	correct-1	N
+ataja	ataja	PROPN	1	correct	TRUE	231	correct-1	FN
+prospěšného	prospěšný	ADJ	1	correct	TRUE	182	correct-1	
+dětinského	dětinský	ADJ	1	correct	TRUE	257	correct-1	
+zeměpisnou	zeměpisný	ADJ	1	correct	TRUE	262	correct-1	
+zlášť	zlášť	ADV	1	correct	TRUE	235	correct-1	O
+zaprodán	zaprodaný	ADJ	1	correct	TRUE	225	correct-1	
+žádati	žádat	VERB	1	features	FALSE			M
+dorota	dorota	NOUN	1	tokenization	FALSE			N
+milá	milý	NOUN	1	upos	FALSE			
+uvězni	uvězný	ADJ	1	lemmupos	FALSE			
+misám	misa	NOUN	1	correct	TRUE	183	correct-1	O
+bystrozrakosti	bystrozrakost	NOUN	1	correct	TRUE	2	correct-1	
+zasazena	zasazený	ADJ	1	upos	FALSE			
+dorota	dorota	NOUN	1	upos	FALSE			N
+zavěšena	zavěšený	ADJ	1	correct	TRUE	237	correct-1	
+báti	bát	VERB	1	correct	TRUE	250	correct-1	M
+slečinko	slečinko	ADV	1	upos	FALSE			
+zakoušeti	zakoušeť	NOUN	1	lemmupos	FALSE			
+pánbůh	pánbůh	PROPN	1	correct	TRUE	17	correct-1	
+pohnula	pohnout	VERB	1	correct	TRUE	88	correct-1	
+budoucnosť	budoucnosť	NOUN	1	correct	TRUE	40	correct-1	O
+zdravím	zdraví	VERB	1	lemmupos	FALSE			
+šťastna	šťastný	ADJ	1	features	FALSE			
+užďanovi	užďan	PROPN	1	features	FALSE			N
+ničemná	ničemný	ADJ	1	correct	TRUE	181	correct-1	
+domažličtí	domažlický	ADJ	1	upos	FALSE			N
+upíraje	upírát	VERB	1	lemma	FALSE			
+alexandru	alexandr	PROPN	1	lemma	FALSE			N
+vyplniti	vyplnit	VERB	1	correct	TRUE	93	correct-1	M
+pobožně	pobožně	ADV	1	correct	TRUE	129	correct-1	
+prosba	prosba	NOUN	1	correct	TRUE	151	correct-1	
+vyváznete	vyvázt	VERB	1	lemma	FALSE			
+čepce	čepce	NOUN	1	lemma	FALSE			
+skála	skála	NOUN	1	features	FALSE			
+ruměncem	ruměnec	NOUN	1	correct	TRUE	90	correct-1	
+miláčka	miláček	NOUN	1	features	FALSE			
+jali	jmout	VERB	1	correct	TRUE	173	correct-1	
+hrklo	hrknout	VERB	1	correct	TRUE	16	correct-1	
+se	s	PRON	2	correct	TRUE	8	correct-2	
+voláno	volaný	ADV	1	lemmupos	FALSE			
+nezapomeň	nezapomeň	NOUN	1	lemmupos	FALSE			
+řeřavém	řeřavý	ADJ	1	correct	TRUE	109	correct-1	
+fanfára	fanfára	NOUN	1	correct	TRUE	255	correct-1	
+hořem	hoře	NOUN	1	features	FALSE			
+manšet	manšet	NOUN	1	correct	TRUE	83	correct-1	O
+neseznal	seznat	VERB	1	correct	TRUE	233	correct-1	
+zahrabte	zahrabit	VERB	1	lemma	FALSE			M
+čtrnácte	čtrnácte	VERB	1	upos	FALSE			O
+sličná	sličný	ADJ	1	correct	TRUE	127	correct-1	
+bys	být	NOUN	1	lemmupos	FALSE			
+zachvíval	zachvívat	VERB	1	correct	TRUE	77	correct-1	
+nemilou	nemila	PROPN	1	lemmupos	FALSE			
+odpusť	odpustit	SCONJ	1	upos	FALSE			
+všecko	všecek	PROPN	1	lemmupos	FALSE			O
+kofroni	kofroni	PROPN	1	features	FALSE			N
+zrazoval	zrazovat	VERB	1	correct	TRUE	89	correct-1	
+šašek	šašek	PROPN	1	lemma	FALSE			
+ratmírovi	ratmír	PROPN	1	correct	TRUE	248	correct-1	N
+zaříkala	zaříkat	VERB	1	correct	TRUE	92	correct-1	
+veselou	veselý	ADJ	1	correct	TRUE	21	correct-1	
+pravdu	1	NOUN	1	correct	TRUE	65	correct-1	
+vratka	vratka	NOUN	1	upos	FALSE			N
+muku	muka	NOUN	1	correct	TRUE	23	correct-1	
+ušli	ujít	VERB	1	correct	TRUE	56	correct-1	
+vrabce	vrabec	NOUN	1	correct	TRUE	184	correct-1	
+dojalo	donout	VERB	1	lemma	FALSE			
+vděčného	vděčný	ADJ	1	features	FALSE			
+tu	tady	DET	1	lemmupos	FALSE			A
+nevytáhne	vytáhnout	VERB	1	correct	TRUE	42	correct-1	
+emilie	emilie	PROPN	1	features	FALSE			N
+chovati	chovat	VERB	1	features	FALSE			M
+měšťané	měšťan	NOUN	1	correct	TRUE	278	correct-1	
+trojice	trojice	PROPN	1	lemma	FALSE			N
+otcově	otcově	ADV	1	lemmupos	FALSE			
+nutkaly	nutkat	VERB	1	correct	TRUE	111	correct-1	
+udatný	udatný	ADJ	1	features	FALSE			
+nešlechetným	šlechetný	ADJ	1	correct	TRUE	26	correct-1	
+zpomeň	zpomeň	NOUN	1	lemmupos	FALSE			O
+živůtek	živůtka	NOUN	1	lemma	FALSE			O
+odolati	odolat	VERB	1	correct	TRUE	254	correct-1	M
+lidunka	lidunka	NOUN	1	lemmupos	FALSE			N
+slzavým	slzavý	ADJ	1	correct	TRUE	84	correct-1	
+kavalír	kavalír	NOUN	1	features	FALSE			O
+nejživějším	živý	ADJ	1	correct	TRUE	242	correct-1	
+mnohý	mnohý	ADJ	1	features	FALSE			
+lanýži“	lanýži“	PROPN	1	tokenization	FALSE			I
+dodalo	dodat	VERB	1	correct	TRUE	6	correct-1	
+znajíce	znat	VERB	1	lemma	FALSE			M
+šumělo	šumět	VERB	1	correct	TRUE	206	correct-1	
+pohledl	pohledl	VERB	1	upos	FALSE			O
+katin	katin	PROPN	1	upos	FALSE			N
+radislavovi	radislav	PROPN	1	features	FALSE			N
+panáčkové	panáčk	ADJ	1	lemmupos	FALSE			
+sestárla	sestárel	NOUN	1	lemmupos	FALSE			O
+ustaňte	ustat	PROPN	1	lemma	FALSE			O
+rozmlouvali	rozmlouvat	VERB	1	correct	TRUE	230	correct-1	
+papa	papa	NOUN	1	features	FALSE			O
+radislav	radislav	PROPN	1	correct	TRUE	191	correct-1	N
+přijmětež	přijmětež	NOUN	1	upos	FALSE			M
+věru	věr	ADV	1	lemma	FALSE			OA
+titam	titam	ADV	1	lemmupos	FALSE			O
+olomúcký	olomúcký	PROPN	1	correct	TRUE	198	correct-1	NFO
+rytířskou	rytířský	ADJ	1	correct	TRUE	208	correct-1	
+chřadnul	chřadnout	VERB	1	correct	TRUE	186	correct-1	
+najati	najat	VERB	1	correct	TRUE	218	correct-1	
+ratmír	ratmír	PROPN	1	features	FALSE			N
+brzy	brzy	NOUN	1	tokenization	FALSE			
+všady	všad	NOUN	1	lemmupos	FALSE			O
+tobolku	tobolek	NOUN	1	lemma	FALSE			
+vykrajujíc	vykrajujíc	PART	1	lemmupos	FALSE			M
+pročež	pročež	NOUN	1	lemmupos	FALSE			
+naň	nánit	NOUN	1	lemmupos	FALSE			B
+zrzavý	zrzavý	ADJ	1	correct	TRUE	264	correct-1	
+jaroslavova	jaroslavov	PROPN	1	lemmupos	FALSE			N
+slečinko	slečinko	NOUN	1	features	FALSE			
+ubíral	ubírat	VERB	1	correct	TRUE	177	correct-1	
+obdržev	obdržev	NOUN	1	upos	FALSE			M
+rmoutila	rmoutit	VERB	1	features	FALSE			O
+pakli	paknout	VERB	1	lemmupos	FALSE			O
+utekše	utekš	PROPN	1	lemmupos	FALSE			OM
+zdlouha	zdlouha	NOUN	1	lemmupos	FALSE			O
+nevyhnout	vyhnout	VERB	1	correct	TRUE	258	correct-1	
+brániti	bránit	VERB	1	features	FALSE			M
+prostranném	prostranný	ADJ	1	correct	TRUE	224	correct-1	
+lotry	lotr	NOUN	1	features	FALSE			
+žes	že	NOUN	1	tokenization	FALSE			IB
+kristinka	kristinka	PROPN	1	features	FALSE			N
+vyjíti	vyjít	VERB	1	correct	TRUE	243	correct-1	M
+houf	houf	NOUN	1	features	FALSE			
+všecky	všecky	ADV	1	upos	FALSE			O
+neberně	berně	ADV	1	correct	TRUE	124	correct-1	O
+mikulášův	mikulášův	PROPN	1	upos	FALSE			N
+uvrhli	uvrhnout	VERB	1	correct	TRUE	180	correct-1	
+jozífka	jozífek	PROPN	1	features	FALSE			N
+zařídilo	zařídit	VERB	1	correct	TRUE	107	correct-1	
+odstěhoval	odstěhovat	VERB	1	correct	TRUE	247	correct-1	
+jitro	jitro	NOUN	1	features	FALSE			O
+vítkovič	vítkovič	PROPN	1	features	FALSE			N
+mistrových	mistrový	ADJ	1	lemma	FALSE			
+oplakanýma	oplakaný	ADJ	1	correct	TRUE	112	correct-1	
+utiš	utiš	INTJ	1	lemmupos	FALSE			
+počíť	počíť	PART	1	upos	FALSE			MO
+zastati	zastať	NOUN	1	lemmupos	FALSE			M
+děláš	dělat	VERB	1	correct	TRUE	141	correct-1	
+pohnutí	pohnutí	NOUN	1	features	FALSE			
+prohřát	prohřát	VERB	1	features	FALSE			
+zaražena	zaražený	ADJ	1	correct	TRUE	96	correct-1	
+nerozumného	rozumný	ADJ	1	correct	TRUE	168	correct-1	
+jozífek	jozífek	PROPN	1	features	FALSE			N
+setníka	setník	NOUN	1	correct	TRUE	162	correct-1	
+střemšinského	střemšinský	ADJ	1	lemma	FALSE			N
+učenlivého	učenlivý	ADJ	1	features	FALSE			
+lanýže	lanýže	NOUN	1	features	FALSE			
+utloukla	utlouknout	VERB	1	lemma	FALSE			
+nekazila	kazit	VERB	1	correct	TRUE	212	correct-1	
+důlků	důlek	NOUN	1	correct	TRUE	41	correct-1	
+poskytnul	poskytnout	VERB	1	correct	TRUE	263	correct-1	
+mžiknutí	mžiknutí	NOUN	1	correct	TRUE	103	correct-1	
+tátu	táta	NOUN	1	features	FALSE			
+jednati	jednat	ADJ	1	upos	FALSE			M
+dosmrtí	dosmrt	NOUN	1	correct	TRUE	251	correct-1	O
+využitkovati	využitkovat	VERB	1	correct	TRUE	244	correct-1	M
+zlepšeny	zlepšený	ADJ	1	correct	TRUE	204	correct-1	
+dorotko	dorotko	PROPN	1	features	FALSE			N
+katruše	katruš	PROPN	1	lemma	FALSE			N
+sáhnuv	sáhnout	NOUN	1	upos	FALSE			M
+tulákův	tulákův	ADJ	1	features	FALSE			
+dospělejší	dospělý	ADJ	1	features	FALSE			
+štěkotem	štěkot	NOUN	1	correct	TRUE	277	correct-1	
+hmoždířů	hmoždíř	NOUN	1	correct	TRUE	136	correct-1	
+popuzování	popuzování	NOUN	1	features	FALSE			
+umínila	umínit	VERB	1	correct	TRUE	246	correct-1	
+sloužím	sloužit	NOUN	1	lemma	FALSE			
+obyčeje	obyčej	NOUN	1	features	FALSE			
+pytláci	pytlák	NOUN	1	correct	TRUE	53	correct-1	
+neuštká	uštkat	VERB	1	correct	TRUE	138	correct-1	
+rostli	rostnout	VERB	1	lemma	FALSE			
+líbám	líbat	NOUN	2	upos	FALSE			
+dědicův	dědic	ADJ	1	features	FALSE			
+přistoupiv	přistoupiv	ADV	1	upos	FALSE			M
+cvičíte	cvičit	VERB	1	correct	TRUE	174	correct-1	
+tehdáž	tehdaze	SCONJ	1	lemmupos	FALSE			OM
+počaly	počat	VERB	1	features	FALSE			O
+hrdlem	hrdlo	NOUN	1	correct	TRUE	270	correct-1	
+hostí	hostit	NOUN	1	lemma	FALSE			MA
+surovce	surovka	NOUN	1	lemma	FALSE			
+hromová	hromový	ADJ	1	correct	TRUE	195	correct-1	
+nehodnýť	nehodnýť	PART	1	upos	FALSE			OM
+kateřině	kateřina	PROPN	1	features	FALSE			N
+blažených	blažený	ADJ	1	correct	TRUE	259	correct-1	
+ratibor	ratibor	NOUN	1	tokenization	FALSE			N
+zapýřila	zapýřit	VERB	1	correct	TRUE	148	correct-1	
+udržeti	udržet	NOUN	1	features	FALSE			M
+pohlédla	pohlédnout	NOUN	1	upos	FALSE			
+tázal	tázat	VERB	1	correct	TRUE	288	correct-1	
+spatřiv	spatřiv	ADV	1	lemmupos	FALSE			M
+nelibo	nelibo	CCONJ	1	upos	FALSE			O
+bylť	bylť	PART	1	lemmupos	FALSE			MO
+podivením	podivení	NOUN	1	correct	TRUE	179	correct-1	O
+horms	horm	PROPN	1	correct	TRUE	102	correct-1	N
+náramná	náramný	ADJ	1	correct	TRUE	285	correct-1	
+mluvíš	mluvit	VERB	1	correct	TRUE	99	correct-1	
+neodložil	odložit	VERB	1	correct	TRUE	63	correct-1	
+poroučel	poroučet	VERB	1	correct	TRUE	175	correct-1	
+unešený	unešený	ADJ	1	correct	TRUE	14	correct-1	
+ebrklaua	ebrklau	PROPN	1	correct	TRUE	163	correct-1	N
+postupujíce	postupujíka	VERB	1	lemma	FALSE			M
+všeckno	všeckno	NOUN	1	lemmupos	FALSE			O
+učaruju	učarovat	VERB	1	features	FALSE			
+hranatého	hranatý	ADJ	1	correct	TRUE	155	correct-1	
+pobytí	pobyt	NOUN	1	correct	TRUE	268	correct-1	O
+ou	ý	ADJ	1	lemmupos	FALSE			
+nazvala	nazvat	AUX	1	upos	FALSE			
+mathilda	mathild	PROPN	1	lemma	FALSE			N
+nápěvem	nápěv	NOUN	1	correct	TRUE	293	correct-1	
+trhla	trhnout	VERB	1	correct	TRUE	66	correct-1	
+bídy	bídy	NOUN	1	correct	TRUE	170	correct-1	
+pekelné	pekelný	ADJ	1	correct	TRUE	217	correct-1	
+poranili	poranit	VERB	1	correct	TRUE	287	correct-1	
+kdež	kdež	NOUN	1	lemmupos	FALSE			MAO
+platno	platno	NOUN	1	lemmupos	FALSE			OM
+vystupovaly	vystupovat	VERB	1	correct	TRUE	10	correct-1	
+plebán	plebán	NOUN	1	features	FALSE			F
+nedovedla	dovést	VERB	1	correct	TRUE	159	correct-1	
+pláču	pláč	NOUN	1	lemmupos	FALSE			
+braniboři	branibor	NOUN	1	upos	FALSE			N
+hladov	hlad	NOUN	1	lemmupos	FALSE			M
+utkvěl	utkvět	VERB	1	features	FALSE			
+mrzel	mrzet	VERB	1	correct	TRUE	123	correct-1	
+přemohl	přemoci	VERB	2	correct	TRUE	1	correct-2	
+zvelebiti	zvelebit	VERB	1	correct	TRUE	4	correct-1	M
+mela	mela	VERB	1	upos	FALSE			
+volati	volat	VERB	1	features	FALSE			M
+výminku	výminka	NOUN	1	correct	TRUE	25	correct-1	O
+fani	fani	NOUN	1	upos	FALSE			N
+lovčímu	lovčí	PROPN	1	upos	FALSE			
+usmyslila	usmyslit	VERB	1	correct	TRUE	290	correct-1	O
+zahnízdil	zahnízdit	VERB	1	correct	TRUE	273	correct-1	
+radostí	radostí	NOUN	1	correct	TRUE	28	correct-1	
+pravím	pravit	VERB	1	correct	TRUE	94	correct-1	O
+arci	arce	NOUN	1	lemmupos	FALSE			O
+rameno	ramený	ADJ	1	lemmupos	FALSE			
+odpory	odpor	NOUN	1	features	FALSE			
+soběslavova	soběslavov	ADJ	1	lemma	FALSE			N
+nešlechetní	šlechetný	ADJ	1	features	FALSE			
+všemožným	všemožný	ADJ	1	correct	TRUE	43	correct-1	
+milostpane	milostpat	NOUN	1	lemma	FALSE			O
+obrácen	obrácený	NOUN	1	upos	FALSE			
+matinko	matinko	NOUN	1	lemmupos	FALSE			
+prodírala	prodírat	VERB	1	features	FALSE			
+švadlena	švadlený	ADJ	1	lemmupos	FALSE			
+motanicích	motanice	NOUN	1	features	FALSE			
+hledící	hledící	ADJ	1	features	FALSE			
+zapřísahal	zapřísahat	VERB	1	features	FALSE			
+tlumeny	tlumený	NOUN	1	lemmupos	FALSE			
+vyložila	vyložit	VERB	1	correct	TRUE	116	correct-1	
+přestáli	přestánout	VERB	1	correct	TRUE	234	correct-1	
+předu	před	NOUN	1	correct	TRUE	279	correct-1	B
+pobertovi	pobert	NOUN	1	lemmupos	FALSE			N
+vybrati	vybrat	VERB	1	correct	TRUE	5	correct-1	M
+pozorujíc	pozorujíc	NOUN	1	lemma	FALSE			M
+opravdivost	opravdivost	NOUN	1	correct	TRUE	135	correct-1	O
+dej	dej	NOUN	1	lemmupos	FALSE			
+hoch	hocha	NOUN	1	features	FALSE			
+ondy	ond	NOUN	1	lemmupos	FALSE			O
+neustane	ustat	VERB	1	correct	TRUE	101	correct-1	
+pravili	pravit	VERB	1	correct	TRUE	220	correct-1	
+hořel	hořet	VERB	1	correct	TRUE	91	correct-1	
+žes	že	NOUN	1	tokenization	FALSE			M
+vladislavova	vladislavov	PROPN	1	lemmupos	FALSE			N
+chodě	chod	NOUN	1	lemmupos	FALSE			
+víře	víř	NOUN	1	features	FALSE			A
+pojďte	pojt	VERB	1	lemma	FALSE			
+eliškou	eliška	PROPN	1	features	FALSE			N
+rozmarným	rozmarný	ADJ	1	correct	TRUE	134	correct-1	
+poddati	poddat	VERB	1	correct	TRUE	33	correct-1	M
+hřídele	hřídel	NOUN	1	correct	TRUE	210	correct-1	
+šikmé	šikmý	ADJ	1	features	FALSE			
+považujíce	považujíka	VERB	1	lemma	FALSE			M
+chvějícím	chvějící	ADJ	1	features	FALSE			
+zapomenouti	zapomenout	VERB	1	features	FALSE			M
+vece	vec	NOUN	1	lemmupos	FALSE			MO
+tuříně	tuřín	PROPN	1	correct	TRUE	20	correct-1	N
+solnice	solnice	PROPN	1	correct	TRUE	209	correct-1	O
+lože	lože	NOUN	1	features	FALSE			O
+naninka	naninka	NOUN	1	upos	FALSE			N
+matičku	matička	NOUN	1	correct	TRUE	29	correct-1	O
+milého	milý	ADJ	1	correct	TRUE	203	correct-1	A
+jely	jel	VERB	1	correct	TRUE	193	correct-1	
+prácí	práce	ADJ	1	upos	FALSE			O
+počkati	počkat	VERB	1	correct	TRUE	106	correct-1	M
+klobouků	klobouk	NOUN	1	correct	TRUE	271	correct-1	
+mutinovci	mutinovec	NOUN	1	correct	TRUE	274	correct-1	F
+vnoučat	vnoučat	NOUN	1	lemma	FALSE			
+hájila	hájit	VERB	1	correct	TRUE	171	correct-1	
+nejpodivnejších	podivný	PROPN	1	upos	FALSE			T
+teprv	teprv	ADV	1	correct	TRUE	114	correct-1	
+pohnútek	pohnútek	NOUN	1	correct	TRUE	74	correct-1	O
+dobyde	dobýt	VERB	1	correct	TRUE	176	correct-1	
+obřad	obřad	NOUN	1	features	FALSE			
+zavolala	zavolat	VERB	1	correct	TRUE	219	correct-1	
+dýchal	dýchat	NOUN	1	lemmupos	FALSE			
+děkovati	děkovat	VERB	1	correct	TRUE	122	correct-1	M
+bamberský	bamberský	ADJ	1	correct	TRUE	197	correct-1	N
+ratmír	ratmír	PROPN	1	features	FALSE			N
+zablesklo	zablesknout	VERB	1	correct	TRUE	30	correct-1	
+vor	vor	NOUN	1	features	FALSE			
+tebe	ty	NOUN	1	lemmupos	FALSE			
+sezváno	sezvaný	ADJ	1	features	FALSE			
+pronikavém	pronikavý	ADJ	1	correct	TRUE	48	correct-1	
+tušiti	tušit	ADJ	1	upos	FALSE			M
+zuzanka	zuzanka	NOUN	1	upos	FALSE			N
+dopřával	dopřávat	VERB	1	correct	TRUE	153	correct-1	
+nemluvně	nemluvně	ADV	1	upos	FALSE			A
+chvílku	chvílka	NOUN	1	correct	TRUE	147	correct-1	O
+ukrutenství	ukrutenství	NOUN	1	correct	TRUE	76	correct-1	O
+zbystří	zbystřit	VERB	1	correct	TRUE	261	correct-1	
+hodnému	hodný	ADJ	1	correct	TRUE	142	correct-1	
+porozuměvši	porozuměvš	NOUN	1	lemmupos	FALSE			M
+živě	živa	NOUN	2	lemma	FALSE			AB
+lov	lov	NOUN	1	correct	TRUE	137	correct-1	
+pokroků	pokrok	NOUN	1	correct	TRUE	232	correct-1	
+týkati	týkat	VERB	1	features	FALSE			M
+lahodný	lahodný	ADJ	1	features	FALSE			
+slyšeti	slyšeť	NOUN	1	lemmupos	FALSE			
+škůdolibý	škůdolibý	ADJ	1	features	FALSE			O
+mlčela	mlčet	VERB	1	correct	TRUE	280	correct-1	
+zůstati	zůstat	VERB	2	correct	TRUE	5	correct-2	M
+rukávem	rukáv	ADV	1	upos	FALSE			
+svolejte	svolejte	VERB	1	correct	TRUE	165	correct-1	
+svatava	svatava	NOUN	1	upos	FALSE			N
+poklekli	pokleknout	VERB	1	correct	TRUE	202	correct-1	
+vetché	vetchý	ADJ	1	correct	TRUE	265	correct-1	
+nelapíme	nelapit	VERB	1	lemma	FALSE			
+jmeno	jmený	ADJ	1	upos	FALSE			O
+všecky	všecky	ADV	2	lemmupos	FALSE			O
+sahaje	sahat	VERB	1	features	FALSE			M
+zevnějším	zevní	ADJ	1	features	FALSE			O
+zaplakal	zaplakat	VERB	1	correct	TRUE	121	correct-1	
+neustupnými	ustupný	ADJ	1	upos	FALSE			O
+venku	venku	NOUN	1	lemmupos	FALSE			
+kateřina	kateřina	NOUN	1	lemmupos	FALSE			N
+zasnoubenci	zasnoubence	NOUN	1	lemma	FALSE			O
+půjčiti	půjčit	VERB	1	correct	TRUE	238	correct-1	M
+kofroně	kofroň	PROPN	1	correct	TRUE	126	correct-1	N
+abys	_	_	3	correct	TRUE	2	correct-3	
+počítati	počítat	NOUN	1	upos	FALSE			M
+planou	planý	ADJ	1	correct	TRUE	119	correct-1	A
+tu	tady	DET	1	upos	FALSE			
+otřásaly	otřásat	VERB	1	correct	TRUE	24	correct-1	
+pokročileji	pokročilej	ADV	1	correct	TRUE	47	correct-1	
+vratku	vratka	PROPN	1	features	FALSE			N
+spoutej	spoutej	NOUN	1	lemmupos	FALSE			
+boží	boží	NOUN	1	upos	FALSE			
+vládnouti	vládnout	NOUN	1	upos	FALSE			M
+tenť	tenť	SCONJ	1	lemmupos	FALSE			OMB
+okamžení	okamžení	NOUN	2	correct	TRUE	2	correct-2	O
+vstavše	vstavš	DET	1	lemmupos	FALSE			M
+kníže	kníž	NOUN	1	lemma	FALSE			
+všickni	všicknout	NOUN	1	lemmupos	FALSE			O
+schladla	schladlo	NOUN	1	lemmupos	FALSE			O
+fortunat	fortunatý	PROPN	1	lemma	FALSE			N
+dotíravost	dotíravost	NOUN	1	correct	TRUE	139	correct-1	
+přičiniti	přičinit	VERB	1	correct	TRUE	8	correct-1	M
+ponížena	ponížený	ADJ	1	correct	TRUE	152	correct-1	
+myšlének	myšlénka	NOUN	2	correct	TRUE	7	correct-2	O
+plul	plout	NOUN	1	upos	FALSE			
+ušpiněných	ušpiněný	ADJ	1	correct	TRUE	150	correct-1	
+prováděno	prováděný	ADJ	1	correct	TRUE	172	correct-1	
+toutéž	toutéž	ADV	1	correct	TRUE	260	correct-1	
+pomaten	pomatený	ADJ	1	correct	TRUE	118	correct-1	MO
+svěřiti	svěřit	NOUN	1	upos	FALSE			M
+přemítal	přemítat	VERB	1	correct	TRUE	169	correct-1	
+ráda	rád	NOUN	1	upos	FALSE			
+temeně	temena	NOUN	1	lemma	FALSE			M
+zpamatoval	zpamatovat	VERB	1	correct	TRUE	11	correct-1	O
+vzdorovati	vzdorovat	VERB	1	correct	TRUE	205	correct-1	M
+nemilostivé	milostivý	ADJ	1	correct	TRUE	178	correct-1	O
+pantatínkové	pantatínk	ADJ	1	lemmupos	FALSE			O
+horažďovických	horažďovický	ADJ	1	correct	TRUE	283	correct-1	N
+ohyzdnému	ohyzdný	ADJ	1	correct	TRUE	85	correct-1	
+všady	všad	NOUN	1	lemmupos	FALSE			O
+mluviti	mluvit	NOUN	1	upos	FALSE			M
+jmenovati	jmenovat	ADJ	1	upos	FALSE			M
+knížecím	knížecí	NOUN	1	upos	FALSE			
+otu	oto	NOUN	1	upos	FALSE			N
+čechové	čechový	PROPN	1	lemma	FALSE			NM
+dostati	dostat	VERB	1	correct	TRUE	200	correct-1	M
+nespustila	spustit	VERB	1	correct	TRUE	27	correct-1	
+přišel	přišet	VERB	1	correct	TRUE	7	correct-1	
+dej	dej	VERB	1	correct	TRUE	9	correct-1	
+vyhledejte	vyhledat	VERB	1	features	FALSE			
+potrval	potrvat	NOUN	1	upos	FALSE			
+podivnosti	podivnost	NOUN	1	features	FALSE			
+měšťana	měšťan	NOUN	1	correct	TRUE	125	correct-1	
+vznešený	vznešený	ADJ	1	features	FALSE			
+okno	okný	ADJ	1	lemmupos	FALSE			
+učedník	učedník	NOUN	3	correct	TRUE	1	correct-3	
+rychtář	rychtář	NOUN	1	features	FALSE			
+povedete	vet	VERB	1	lemma	FALSE			
+gabriele	gabriele	PROPN	1	features	FALSE			N
+pobočního	poboční	ADJ	1	correct	TRUE	68	correct-1	
+dívčino	dívčin	ADJ	1	features	FALSE			
+dotíravý	dotíravý	ADJ	1	features	FALSE			
+návsí	návse	NOUN	1	lemma	FALSE			
+kterouž	kterouž	ADV	1	lemmupos	FALSE			M
+nebezpečenství	nebezpečenství	NOUN	1	correct	TRUE	190	correct-1	O
+přibyslava	přibyslav	NOUN	1	lemma	FALSE			N
+hrouda“	hrouda“	PROPN	1	tokenization	FALSE			I
+zlosyna	zlosyn	NOUN	1	correct	TRUE	70	correct-1	
+oko	oko	ADV	1	lemmupos	FALSE			
+jezdily	jezdit	VERB	1	correct	TRUE	214	correct-1	
+přepusťte	přepustit	VERB	1	correct	TRUE	146	correct-1	
+vytrhl	vytrhnout	VERB	1	correct	TRUE	59	correct-1	
+plna	plno	ADJ	1	features	FALSE			M
+zůstavivše	zůstavivšechen	DET	1	lemmupos	FALSE			M
+templář	templář	NOUN	1	correct	TRUE	35	correct-1	O
+nima	nimum	NOUN	1	lemmupos	FALSE			M
+parádu	paráda	NOUN	1	correct	TRUE	289	correct-1	
+použit	použit	VERB	1	features	FALSE			
+illusi	illus	NOUN	1	correct	TRUE	67	correct-1	O
+podotknuto	podotknutý	ADJ	1	lemmupos	FALSE			
+obyčejem	obyčej	NOUN	1	upos	FALSE			
+ztresci	ztresce	ADJ	1	lemmupos	FALSE			M
+sňala	sejmout	VERB	1	correct	TRUE	120	correct-1	O
+důmyslněji	důmyslně	ADV	1	correct	TRUE	240	correct-1	
+přívětivě	přívětivě	ADV	1	correct	TRUE	115	correct-1	
+blíže	blízko	NOUN	1	lemma	FALSE			
+pospolu	pospol	ADV	1	lemma	FALSE			
+bárovských	bárovský	ADJ	1	correct	TRUE	154	correct-1	F
+podvrátil	podvrátit	VERB	1	correct	TRUE	185	correct-1	O
+paprsky	paprsky	ADV	1	lemmupos	FALSE			
+neodkladným	odkladný	ADJ	1	features	FALSE			
+považovati	považovat	VERB	1	features	FALSE			M
+třikráte	třikrát	ADV	1	upos	FALSE			M
+kobercem	koberce	NOUN	1	correct	TRUE	156	correct-1	
+smyslovou	smyslový	ADJ	1	correct	TRUE	132	correct-1	
+rouchem	rouch	NOUN	1	lemma	FALSE			
+zomrzelo	zomrzet	VERB	1	correct	TRUE	213	correct-1	O
+jmenuj	jmenovat	VERB	1	correct	TRUE	128	correct-1	
+požádá	žádat	VERB	1	correct	TRUE	266	correct-1	
+ústav	ústava	NOUN	1	lemma	FALSE			
+hledě	hledě	VERB	1	correct	TRUE	62	correct-1	M
+poddaně	poddaně	ADV	1	correct	TRUE	58	correct-1	
+sypal	sypat	VERB	1	correct	TRUE	82	correct-1	
+temeně	temena	NOUN	1	features	FALSE			M
+počali	počal	VERB	1	features	FALSE			
+vidouce	vidouka	NOUN	1	lemmupos	FALSE			M
+míhala	míhat	VERB	1	correct	TRUE	253	correct-1	
+čekajíc	čekat	PART	1	upos	FALSE			M
+neděl	nedět	VERB	1	lemmupos	FALSE			
+klenutí	klenutí	NOUN	1	features	FALSE			
+abysi	abysi	ADV	1	lemmupos	FALSE			M
+spokojeného	spokojený	ADJ	1	correct	TRUE	73	correct-1	
+lože	lož	NOUN	1	lemma	FALSE			O
+trávily	trávit	VERB	1	correct	TRUE	71	correct-1	
+brány	brána	ADJ	1	upos	FALSE			
+modlám	modla	NOUN	1	features	FALSE			
+skládáš	skládáš	NOUN	1	upos	FALSE			
+nejedli	jedt	VERB	1	lemma	FALSE			
+lupenického	lupenický	PROPN	1	upos	FALSE			N
+froňka	froňka	NOUN	1	lemmupos	FALSE			N
+šíji	šíje	NOUN	1	features	FALSE			
+nejsvětější	světý	ADJ	1	features	FALSE			
+zlostně	zlostně	ADV	1	correct	TRUE	166	correct-1	
+častolov	častolov	PROPN	1	correct	TRUE	46	correct-1	N
+panoše	panoš	NOUN	1	features	FALSE			O
+koupající	koupající	ADJ	1	features	FALSE			
+hleďme	hlést	VERB	1	lemma	FALSE			O
+přesile	přesile	ADV	1	lemmupos	FALSE			
+navrátilo	navrátit	VERB	1	correct	TRUE	22	correct-1	
+anežko	anežko	PROPN	1	features	FALSE			N
+padnouti	padnout	NOUN	1	upos	FALSE			M
+otevírám	otevíra	NOUN	1	lemmupos	FALSE			
+karolině	karolina	PROPN	1	features	FALSE			N
+rdí	rdit	VERB	1	features	FALSE			O
+pronásledovati	pronásledovat	VERB	1	features	FALSE			M
+povstala	povstat	VERB	1	correct	TRUE	104	correct-1	
+uctivé	uctivý	ADJ	1	correct	TRUE	52	correct-1	
+plavce	plavec	NOUN	1	correct	TRUE	130	correct-1	
+žvatláš	žvatlat	VERB	1	correct	TRUE	143	correct-1	
+velišové	velišová	PROPN	1	features	FALSE			N
+královnu	královna	NOUN	1	correct	TRUE	275	correct-1	
+zuřil	zuřit	VERB	1	features	FALSE			
+rychtář	rychtář	NOUN	1	correct	TRUE	256	correct-1	
+světnice	světnice	NOUN	1	correct	TRUE	12	correct-1	
+přechovávalo	přechovávat	VERB	1	correct	TRUE	187	correct-1	
+mělť	měltit	SCONJ	1	tokenization	FALSE			M
+dukátů	dukát	NOUN	1	correct	TRUE	226	correct-1	O
+volno	volný	NOUN	1	lemmupos	FALSE			
+šlechtické	šlechtický	ADJ	1	features	FALSE			
+nerozdílné	rozdílný	ADJ	1	features	FALSE			
+ženštiny	ženština	NOUN	1	correct	TRUE	38	correct-1	O
+vyblebtnul	vyblebtnout	VERB	1	correct	TRUE	201	correct-1	O
+nářku	nářek	NOUN	1	correct	TRUE	291	correct-1	
+doprovoditi	doprovodit	NOUN	1	upos	FALSE			M
+ostala	ostat	VERB	1	correct	TRUE	245	correct-1	O
+uspávala	uspávat	VERB	1	correct	TRUE	108	correct-1	
+břeňka	břeněk	PROPN	1	correct	TRUE	95	correct-1	N
+lokaj	lokaj	PROPN	1	upos	FALSE			O
+bláznu	blázen	NOUN	1	correct	TRUE	81	correct-1	M
+posaváde	savát	VERB	1	lemmupos	FALSE			O
+znáš	znat	VERB	1	lemma	FALSE			
+úsměchem	úsměch	NOUN	1	correct	TRUE	272	correct-1	O
+eskymáci	eskymák	PROPN	1	correct	TRUE	36	correct-1	N
+čtyřhranné	čtyřhranný	ADJ	1	features	FALSE			
+chýše	chýše	NOUN	1	correct	TRUE	45	correct-1	
+cvakla	cvaknout	VERB	1	correct	TRUE	145	correct-1	
+dopřej	dopřat	NOUN	1	tokenization	FALSE			
+božeta	božet	PROPN	1	lemma	FALSE			N
+pozná	poznat	ADJ	1	lemmupos	FALSE			
+tobě	tobě	PRON	1	correct	TRUE	98	correct-1	
+hájiti	hájit	NOUN	1	upos	FALSE			M
+pojď	pojdit	VERB	1	lemma	FALSE			
+pohnutí	pohnutí	NOUN	1	correct	TRUE	160	correct-1	
+obrátivši	obrátivš	NOUN	1	lemmupos	FALSE			M
+poberto	poberto	PROPN	1	features	FALSE			N
+pojav	pojava	NOUN	1	lemmupos	FALSE			M
+řehákovy	řehákův	PROPN	1	upos	FALSE			N
+pustiti	pustit	NOUN	1	correct	TRUE	50	correct-1	M
+sesíleni	sesílený	ADJ	1	features	FALSE			O
+poslušenství	poslušenství	NOUN	1	correct	TRUE	113	correct-1	O
+nevítaným	vítaný	ADJ	1	features	FALSE			
+pohana	pohana	NOUN	1	features	FALSE			O
+vrtě	vrt	NOUN	1	lemmupos	FALSE			M
+šibalka	šibalka	NOUN	1	correct	TRUE	229	correct-1	O
+bertholdovu	bertholdov	PROPN	1	lemmupos	FALSE			N
+závrať	závrať	NOUN	1	correct	TRUE	110	correct-1	
+lidunko	lidunko	PROPN	1	features	FALSE			N
+ořechy	ořech	NOUN	2	correct	TRUE	3	correct-2	
+mamonu	mamon	NOUN	1	correct	TRUE	223	correct-1	
+rozesílalo	rozesílat	VERB	1	correct	TRUE	3	correct-1	
+nepůjčili	půjčit	VERB	1	features	FALSE			
+bratranec	bratranec	NOUN	1	correct	TRUE	1	correct-1	
+zevnějšek	zevnějšek	NOUN	1	correct	TRUE	239	correct-1	
+úmysly	úmysl	VERB	1	lemmupos	FALSE			
+tys	ty	ADJ	1	lemmupos	FALSE			M
+nebažím	bažit	VERB	1	correct	TRUE	61	correct-1	
+se	s	PRON	1	lemma	FALSE			
+zámecká	zámecký	ADJ	1	correct	TRUE	75	correct-1	
+nezameškala	zameškat	VERB	1	correct	TRUE	194	correct-1	
+bedřichovi	bedřich	PROPN	1	features	FALSE			N
+říkati	říkat	ADJ	1	upos	FALSE			M
+užívati	užívat	VERB	1	correct	TRUE	55	correct-1	M
+krejcaru	krejcar	NOUN	1	features	FALSE			O
+rozvázal	rozvázat	VERB	1	correct	TRUE	207	correct-1	
+bědování	bědování	NOUN	1	correct	TRUE	221	correct-1	
+lítostně	lítostně	ADV	1	correct	TRUE	196	correct-1	O
+chraň	chránit	NOUN	1	upos	FALSE			
+líci	lík	NOUN	1	lemma	FALSE			O
+prahnoucí	prahnoucí	ADJ	1	features	FALSE			
+kučerky	kučerka	NOUN	1	correct	TRUE	105	correct-1	O
+lidunka	lidunka	NOUN	1	upos	FALSE			N
+klobouky	klobouk	NOUN	1	correct	TRUE	37	correct-1	
+ambrož	ambrož	PART	1	upos	FALSE			N
+božetovy	božetův	PROPN	1	upos	FALSE			N
+vskočil	vskočit	VERB	1	correct	TRUE	222	correct-1	O
+nadiviti	nadivit	VERB	1	correct	TRUE	249	correct-1	MO
+rozpustilostí	rozpustilost	NOUN	1	correct	TRUE	86	correct-1	
+skrváceným	skrvácený	ADJ	1	features	FALSE			O
+spůsobem	spůsob	NOUN	3	correct	TRUE	3	correct-3	O
+proklestil	proklestit	VERB	1	correct	TRUE	292	correct-1	
+ošizena	ošizený	ADJ	1	correct	TRUE	192	correct-1	
+teprv	teprva	ADV	1	lemma	FALSE			O
+opuštěná	opuštěný	ADJ	2	correct	TRUE	4	correct-2	
+loupeživou	loupeživý	ADJ	1	correct	TRUE	236	correct-1	
+ohřívati	ohřívat	NOUN	1	upos	FALSE			M
+postarám	postarat	VERB	2	correct	TRUE	6	correct-2	
+naň	nánit	VERB	1	tokenization	FALSE			BM
+odporovati	odporovatý	VERB	1	lemma	FALSE			
+obličeje	obličet	NOUN	1	lemma	FALSE			
+zvěstoval	zvěstovat	VERB	1	features	FALSE			
+ebrklau	ebrklau	PROPN	1	features	FALSE			N
+roztomilé	roztomilý	NOUN	1	upos	FALSE			
+sklíčenost	sklíčenost	NOUN	1	correct	TRUE	32	correct-1	
+šmejdů	šmejdy	NOUN	1	correct	TRUE	140	correct-1	
+křesťana	křesťan	NOUN	1	features	FALSE			
+zachrániti	zachránit	NOUN	1	lemma	FALSE			M
+vojínové	vojínový	PROPN	1	lemmupos	FALSE			M
+harc	harc	NOUN	1	features	FALSE			FO
+usedavě	usedavě	ADV	1	correct	TRUE	78	correct-1	
+kárala	kárat	VERB	1	correct	TRUE	72	correct-1	
+hrozným	hrozný	ADJ	1	correct	TRUE	199	correct-1	
+botka	botek	NOUN	1	lemma	FALSE			
+seděly	sedět	VERB	1	correct	TRUE	211	correct-1	
+zanechte	zanechte	VERB	1	correct	TRUE	286	correct-1	
+přetvářeně	přetvářeně	ADV	1	correct	TRUE	241	correct-1	O
+smáčí	smáčet	VERB	1	correct	TRUE	80	correct-1	O
+zastrčených	zastrčený	ADJ	1	correct	TRUE	164	correct-1	
+nesmíš	smit	VERB	1	correct	TRUE	188	correct-1	
+pomocnými	pomocný	ADJ	1	correct	TRUE	44	correct-1	
+bohyně	bohyně	NOUN	1	features	FALSE			
+nemrhal	mrhat	VERB	1	correct	TRUE	157	correct-1	
+svatohavelský	svatohavelský	ADJ	1	features	FALSE			N
+vypravovati	vypravovat	VERB	1	features	FALSE			M
+pomluvače	pomluvač	NOUN	1	correct	TRUE	54	correct-1	O
+tamto	tenta	DET	1	lemmupos	FALSE			
+matčin	matčin	NOUN	1	upos	FALSE			
+stihl	stihlavní	VERB	1	lemma	FALSE			
+vsunutá	vsunutý	ADJ	1	correct	TRUE	60	correct-1	
+kočáru	kočára	NOUN	1	lemma	FALSE			
+císařského	císařský	ADJ	1	correct	TRUE	87	correct-1	
+zbrojenec	zbrojenec	NOUN	1	correct	TRUE	227	correct-1	O
+uschl	uschnout	VERB	1	correct	TRUE	49	correct-1	
+tklivé	tklivý	ADJ	1	features	FALSE			
+vyvalil	vyvalit	VERB	1	correct	TRUE	64	correct-1	
+rozkaž	rozkaž	CCONJ	1	lemmupos	FALSE			
+krasavice	krasavice	NOUN	1	correct	TRUE	15	correct-1	
+zdvihla	zdvihnout	VERB	1	correct	TRUE	281	correct-1	
+lovčí	lovčí	NOUN	1	lemma	FALSE			O
+mama	ma	NOUN	1	lemma	FALSE			FO
+kráčela	kráčet	NOUN	1	lemmupos	FALSE			
+ou	á	NOUN	1	lemmupos	FALSE			
