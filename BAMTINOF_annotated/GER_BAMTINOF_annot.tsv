@@ -1,0 +1,677 @@
+"form"	"lemma"	"upos"	"freq.samp"	"errtype"	"is_correct"	"randomID"	"BAMTINOF"
+"unbestimmten"	"unbestimmt"	"ADJ"	1	"correct"	"TRUE"	35	
+"nachher"	"nachher"	"ADJ"	1	"upos"	"FALSE"	80	
+"fliegender"	"fliegend"	"ADJ"	1	"correct"	"TRUE"	18	"A"
+"papageien"	"papagei"	"NOUN"	1	"correct"	"TRUE"	35	
+"kummervoll"	"kummervollen"	"ADJ"	1	"lemma"	"FALSE"	56	
+"blutspur"	"blutspur"	"NOUN"	1	"features"	"FALSE"	53	
+"that"	"thaben"	"VERB"	1	"lemma"	"FALSE"	59	"O"
+"genüge"	"genug"	"NOUN"	1	"lemma"	"FALSE"	38	"M"
+"kindischen"	"kindisch"	"ADJ"	1	"correct"	"TRUE"	20	
+"rühren"	"rühren"	"VERB"	1	"correct"	"TRUE"	14	
+"erwachte"	"erwachen"	"VERB"	1	"correct"	"TRUE"	82	"A"
+"vergißt"	"vergißen"	"VERB"	1	"lemma"	"FALSE"	45	"O"
+"unverbesserliche"	"unverbesserlich"	"ADJ"	1	"correct"	"TRUE"	52	
+"deiner"	"dein"	"NOUN"	1	"upos"	"FALSE"	99	
+"einsamer"	"einsam"	"ADJ"	1	"correct"	"TRUE"	51	"A"
+"die"	"d"	"DET"	1	"correct"	"TRUE"	11	
+"wenn's"	"wenn's"	"PROPN"	1	"tokenization"	"FALSE"	43	"B"
+"hingen"	"hingen"	"VERB"	1	"lemma"	"FALSE"	73	
+"altäre"	"altar"	"NOUN"	1	"correct"	"TRUE"	20	
+"instrumente"	"instrumente"	"NOUN"	1	"correct"	"TRUE"	11	
+"sonntagmorgen"	"sonntagmorgen"	"PROPN"	1	"upos"	"FALSE"	54	
+"willst"	"willen"	"ADV"	2	"lemmupos"	"FALSE"	101	
+"bindematerial"	"bindematerial"	"NOUN"	1	"correct"	"TRUE"	100	
+"demonstrativ"	"demonstrativ"	"ADJ"	1	"correct"	"TRUE"	10	
+"keck"	"keck"	"NOUN"	1	"upos"	"FALSE"	78	
+"versetzte"	"versetzn"	"VERB"	1	"lemma"	"FALSE"	94	"A"
+"schickedanz"	"schickedanz"	"NOUN"	1	"upos"	"FALSE"	96	
+"hinauszufahren"	"hinauszufahren"	"VERB"	1	"lemma"	"FALSE"	49	
+"wölfe"	"wölfe"	"NOUN"	1	"lemma"	"FALSE"	56	
+"lotterbette"	"lotterbette"	"PROPN"	1	"correct"	"TRUE"	87	
+"wollust"	"wollust"	"NOUN"	1	"features"	"FALSE"	88	
+"widerwärtiges"	"widerwärtig"	"ADJ"	1	"correct"	"TRUE"	42	
+"wußte"	"wußen"	"AUX"	2	"lemmupos"	"FALSE"	101	"O"
+"mädel"	"mädel"	"PROPN"	1	"upos"	"FALSE"	92	"O"
+"mitgetheilt"	"mitgetheilen"	"VERB"	1	"lemma"	"FALSE"	95	
+"sabinens"	"sabinens"	"ADV"	1	"upos"	"FALSE"	51	"N"
+"anzündete"	"anzünden"	"VERB"	1	"correct"	"TRUE"	54	
+"gewißheit"	"gewißheit"	"NOUN"	1	"features"	"FALSE"	85	"O"
+"hacken"	"hacken"	"NOUN"	1	"features"	"FALSE"	84	
+"»könnte"	"»können"	"NOUN"	1	"tokenization"	"FALSE"	82	"I"
+"wahrhaftes"	"wahrhaftes"	"ADJ"	1	"lemma"	"FALSE"	33	
+"sitzende"	"sitzend"	"ADJ"	1	"correct"	"TRUE"	24	"A"
+"ungekanntes"	"ungekanntes"	"ADJ"	1	"lemma"	"FALSE"	59	
+"sturmnacht"	"sturmnacht"	"NOUN"	1	"correct"	"TRUE"	96	
+"besen"	"bese"	"NOUN"	1	"lemma"	"FALSE"	31	
+"gedanke"	"gedanke"	"NOUN"	1	"features"	"FALSE"	60	
+"sage"	"sagen"	"NOUN"	2	"upos"	"FALSE"	101	
+"zurücklässt"	"zurücklassen"	"VERB"	1	"correct"	"TRUE"	46	
+"aufging"	"aufgehen"	"VERB"	1	"correct"	"TRUE"	20	
+"graf."	"graf."	"NOUN"	1	"tokenization"	"FALSE"	49	"I"
+"verbreitet"	"verbreitet"	"VERB"	1	"correct"	"TRUE"	69	"A"
+"unnennbares"	"unnennbar"	"ADJ"	1	"correct"	"TRUE"	99	
+"verlorene"	"verlorene"	"ADJ"	1	"tokenization"	"FALSE"	91	
+"herantretenden"	"herantretend"	"ADJ"	1	"correct"	"TRUE"	63	
+"bleich"	"bleich"	"ADJ"	1	"correct"	"TRUE"	64	
+"verzehrt"	"verzehrt"	"VERB"	1	"lemma"	"FALSE"	39	
+"zweifeln"	"zweifeln"	"NOUN"	1	"upos"	"FALSE"	92	"A"
+"»ich"	"»ich"	"ADV"	2	"tokenization"	"FALSE"	101	"I"
+"clementinen"	"clementine"	"NOUN"	1	"upos"	"FALSE"	77	"N"
+"farben"	"farbe"	"VERB"	1	"upos"	"FALSE"	77	
+"gründlich"	"gründlich"	"ADJ"	1	"correct"	"TRUE"	63	
+"rosigen"	"rosig"	"ADJ"	1	"correct"	"TRUE"	13	"A"
+"plaudert"	"plaudern"	"ADJ"	1	"upos"	"FALSE"	100	
+"zuckt"	"zuckt"	"VERB"	1	"features"	"FALSE"	70	"A"
+"stickig"	"stickig"	"ADJ"	1	"correct"	"TRUE"	29	
+"gerechte"	"gerecht"	"ADJ"	1	"correct"	"TRUE"	67	
+"war"	"war"	"VERB"	1	"lemma"	"FALSE"	53	
+"sprich"	"sprich"	"NOUN"	1	"lemmupos"	"FALSE"	61	
+"sperlingsgasse"	"sperlingsgasse"	"NOUN"	1	"upos"	"FALSE"	88	"N"
+"verdarben"	"verdarben"	"VERB"	1	"lemma"	"FALSE"	85	
+"beisammen"	"beisammen"	"VERB"	1	"upos"	"FALSE"	57	
+"wir's"	"wir's"	"PROPN"	2	"tokenization"	"FALSE"	101	"B"
+"glücklicherweise"	"glücklicherweise"	"ADV"	1	"correct"	"TRUE"	17	
+"winterliches"	"winterlich"	"ADJ"	1	"correct"	"TRUE"	72	
+"viersitzige"	"viersitzige"	"ADJ"	1	"lemma"	"FALSE"	51	
+"nu"	"nu"	"NOUN"	1	"correct"	"TRUE"	12	
+"gebückten"	"gebückt"	"ADJ"	1	"features"	"FALSE"	46	
+"schwül"	"schwül"	"ADJ"	1	"correct"	"TRUE"	84	
+"dir"	"dir"	"PRON"	2	"correct"	"TRUE"	101	
+"ward"	"ward"	"PROPN"	2	"lemmupos"	"FALSE"	101	"M"
+"dunkeln"	"dunkel"	"NOUN"	1	"upos"	"FALSE"	100	
+"lügen"	"lüge"	"NOUN"	1	"features"	"FALSE"	45	"A"
+"»leben"	"»leben"	"VERB"	1	"tokenization"	"FALSE"	65	"I"
+"orientalischer"	"orientalisch"	"ADJ"	1	"features"	"FALSE"	68	
+"göttlichkeit"	"göttlichkeit"	"NOUN"	1	"correct"	"TRUE"	83	
+"gesandten"	"verwandte|gesandter"	"NOUN"	1	"lemma"	"FALSE"	76	
+"sack"	"sack"	"NOUN"	1	"correct"	"TRUE"	78	
+"den"	"der"	"VERB"	1	"correct"	"TRUE"	70	
+"buße"	"muß|buße"	"NOUN"	1	"lemma"	"FALSE"	60	"O"
+"willst"	"willen"	"AUX"	1	"lemma"	"FALSE"	89	
+"schwerem"	"schwer"	"ADJ"	1	"correct"	"TRUE"	69	
+"widmest"	"widmest"	"PROPN"	1	"upos"	"FALSE"	68	
+"simulierst"	"simulierst"	"ADV"	1	"lemmupos"	"FALSE"	55	
+"mama"	"mama"	"PROPN"	1	"correct"	"TRUE"	16	"N"
+"parkett"	"parkett"	"PROPN"	1	"upos"	"FALSE"	89	
+"»das"	"»der"	"PRON"	1	"tokenization"	"FALSE"	86	"I"
+"empfing"	"empfangen"	"VERB"	1	"features"	"FALSE"	95	
+"gepackt"	"packen"	"VERB"	1	"correct"	"TRUE"	75	
+"lehrhaft"	"lehrhafen"	"ADJ"	1	"lemma"	"FALSE"	84	
+"farbeneffekte"	"farbeneffekt"	"NOUN"	1	"correct"	"TRUE"	86	
+"gehst"	"gehen"	"ADV"	1	"upos"	"FALSE"	66	
+"soviel"	"sovallen"	"PRON"	1	"lemmupos"	"FALSE"	74	
+"lydia"	"lydia"	"PROPN"	2	"correct"	"TRUE"	101	"N"
+"ernster"	"ernst"	"PROPN"	1	"upos"	"FALSE"	57	"A"
+"dünkt"	"dünkt"	"VERB"	1	"correct"	"TRUE"	73	
+"zurückgehalten"	"zurückgehalten"	"VERB"	1	"correct"	"TRUE"	40	
+"schwur"	"schwur"	"NOUN"	1	"lemmupos"	"FALSE"	68	
+"wohnzimmer"	"wohnzimmer"	"NOUN"	1	"correct"	"TRUE"	94	
+"»ganz"	"»ganz"	"ADV"	1	"tokenization"	"FALSE"	49	"I"
+"herrmanns"	"herrmann"	"NOUN"	1	"upos"	"FALSE"	61	"N"
+"wälzt"	"wälzen"	"VERB"	1	"correct"	"TRUE"	71	
+"»habe"	"»haben"	"AUX"	1	"tokenization"	"FALSE"	49	"I"
+"bins"	"bins"	"PROPN"	1	"lemmupos"	"FALSE"	46	"B"
+"jammergeschrei"	"jammergeschrei"	"NOUN"	1	"features"	"FALSE"	75	
+"kinderball"	"kinderball"	"NOUN"	1	"features"	"FALSE"	51	
+"»das"	"»das"	"PRON"	1	"tokenization"	"FALSE"	91	"I"
+"»sind"	"»sind"	"NOUN"	2	"tokenization"	"FALSE"	101	"I"
+"schritt"	"schreten"	"VERB"	1	"lemma"	"FALSE"	74	
+"erwiderte"	"erwideren"	"VERB"	1	"tokenization"	"FALSE"	55	
+"wogegen"	"wogegen"	"VERB"	1	"upos"	"FALSE"	72	
+"geraumer"	"geraum"	"PROPN"	1	"upos"	"FALSE"	53	
+"aufrichten"	"aufrichen"	"VERB"	1	"lemma"	"FALSE"	82	
+"muaß"	"muaß"	"VERB"	1	"lemma"	"FALSE"	93	"OF"
+"losreißend"	"losreißend"	"ADJ"	1	"correct"	"TRUE"	45	"O"
+"»ja"	"»ja"	"PART"	2	"tokenization"	"FALSE"	101	"I"
+"obenauf"	"obenauf"	"ADV"	1	"correct"	"TRUE"	27	
+"vereinzelter"	"vereinzelter"	"ADJ"	1	"lemma"	"FALSE"	77	
+"glieder"	"glieder"	"NOUN"	1	"lemma"	"FALSE"	47	
+"gesenkt"	"senkn"	"VERB"	1	"lemma"	"FALSE"	31	
+"scherzte"	"scherzen"	"VERB"	1	"correct"	"TRUE"	56	
+"kompliziert"	"kompliziert"	"VERB"	1	"correct"	"TRUE"	32	"A"
+"campas"	"campas"	"PROPN"	1	"correct"	"TRUE"	87	"N"
+"hardine"	"hardine"	"NOUN"	1	"upos"	"FALSE"	47	"N"
+"klopfen"	"klopfen"	"NOUN"	1	"features"	"FALSE"	77	
+"fischerdorf"	"fischerdorf"	"NOUN"	1	"correct"	"TRUE"	12	
+"delphine"	"delphine"	"NOUN"	1	"upos"	"FALSE"	83	"N"
+"brigitten's"	"brigitten's"	"PROPN"	1	"features"	"FALSE"	100	"N"
+"atemzug"	"atemzug"	"NOUN"	1	"correct"	"TRUE"	51	
+"sehnt"	"sehnen"	"VERB"	1	"correct"	"TRUE"	6	
+"ehrwürdige"	"ehrwürdige"	"NOUN"	1	"features"	"FALSE"	92	
+"augenbrauen"	"augenbrauen"	"NOUN"	1	"lemma"	"FALSE"	37	
+"novara"	"novara"	"PROPN"	1	"correct"	"TRUE"	16	"N"
+"verzehrendes"	"verzehrend"	"ADJ"	1	"correct"	"TRUE"	60	
+"lächelte"	"lächeln"	"VERB"	2	"correct"	"TRUE"	101	
+"sag"	"siegen"	"PROPN"	1	"lemmupos"	"FALSE"	92	"M"
+"cruse"	"cruse"	"PROPN"	1	"features"	"FALSE"	68	"N"
+"feinsten"	"fein"	"ADJ"	1	"correct"	"TRUE"	91	
+"denselben"	"denselb"	"NOUN"	1	"lemmupos"	"FALSE"	81	
+"klirrten"	"klirren"	"VERB"	1	"correct"	"TRUE"	20	
+"durchwachte"	"durchwachen"	"VERB"	1	"correct"	"TRUE"	58	
+"taumelte"	"taumeln"	"VERB"	1	"correct"	"TRUE"	81	
+"mittagglitzern"	"mittagglitzern"	"NOUN"	1	"features"	"FALSE"	42	
+"das"	"der"	"SCONJ"	1	"correct"	"TRUE"	19	
+"lauf"	"lauf"	"ADV"	1	"correct"	"TRUE"	58	
+"innstetten"	"innstette"	"NOUN"	1	"lemmupos"	"FALSE"	72	"N"
+"gierig"	"gierig"	"ADJ"	1	"upos"	"FALSE"	100	
+"jedermann"	"jedermann"	"PROPN"	1	"upos"	"FALSE"	96	
+"»sachte"	"»sachen"	"VERB"	1	"tokenization"	"FALSE"	87	"I"
+"schmerzes"	"schmerz"	"NOUN"	1	"correct"	"TRUE"	62	
+"beugt"	"beugen"	"VERB"	1	"correct"	"TRUE"	53	
+"heft"	"heft"	"PROPN"	1	"upos"	"FALSE"	68	
+"leichtsinniger"	"leichtsinnig"	"ADJ"	1	"correct"	"TRUE"	38	
+"fremd"	"fremd"	"ADJ"	1	"correct"	"TRUE"	39	
+"victoire"	"victoire"	"PROPN"	1	"features"	"FALSE"	91	"N"
+"bebte"	"beben"	"VERB"	1	"correct"	"TRUE"	68	
+"augn"	"augn"	"NOUN"	1	"lemma"	"FALSE"	77	"O"
+"spiegelbild"	"spiegelbild"	"NOUN"	1	"correct"	"TRUE"	21	
+"»daß"	"»daß"	"SCONJ"	1	"tokenization"	"FALSE"	74	"I"
+"seufzend"	"seufzend"	"ADV"	1	"correct"	"TRUE"	50	
+"hals"	"hals"	"PROPN"	1	"correct"	"TRUE"	76	
+"sphäre"	"sphäre"	"NOUN"	1	"correct"	"TRUE"	39	
+"feigheit"	"feigheit"	"NOUN"	1	"correct"	"TRUE"	28	
+"einfluß"	"einfluß"	"NOUN"	1	"features"	"FALSE"	73	"O"
+"wurscht"	"wurscht"	"VERB"	1	"upos"	"FALSE"	61	"O"
+"tote"	"tot"	"NOUN"	1	"correct"	"TRUE"	87	
+"»so"	"»so"	"ADV"	1	"tokenization"	"FALSE"	53	"I"
+"zuzugehen"	"zuzugehen"	"VERB"	1	"correct"	"TRUE"	38	
+"welch"	"welch"	"PRON"	1	"correct"	"TRUE"	37	
+"»ich"	"»ich"	"ADP"	5	"tokenization"	"FALSE"	101	"I"
+"hauser"	"hauser"	"NOUN"	2	"features"	"FALSE"	101	"O"
+"stiernacken"	"stiernacken"	"NOUN"	1	"correct"	"TRUE"	57	
+"überredete"	"überreden"	"VERB"	1	"correct"	"TRUE"	28	
+"stampfte"	"stampfen"	"VERB"	1	"correct"	"TRUE"	18	
+"gestreift"	"streifn"	"ADJ"	1	"lemmupos"	"FALSE"	95	
+"komm"	"kimmen"	"VERB"	1	"lemma"	"FALSE"	93	
+"fangen"	"fangen"	"VERB"	1	"features"	"FALSE"	62	
+"wohnt"	"wohnen"	"ADJ"	1	"correct"	"TRUE"	27	
+"abscheulichen"	"abscheulich"	"ADJ"	1	"correct"	"TRUE"	58	
+"genährt"	"genähren|währen"	"VERB"	1	"lemma"	"FALSE"	65	
+"bring"	"bringen"	"PROPN"	1	"upos"	"FALSE"	56	
+"leidet's"	"leidet's"	"PROPN"	1	"tokenization"	"FALSE"	52	"B"
+"bezichtigung"	"bezichtigung"	"NOUN"	1	"correct"	"TRUE"	29	
+"geröthete"	"geröthet"	"ADJ"	1	"correct"	"TRUE"	38	"O"
+"bovillard"	"bovillard"	"PROPN"	1	"correct"	"TRUE"	28	"N"
+"slava"	"slava"	"PROPN"	1	"features"	"FALSE"	38	"N"
+"färbten"	"färben"	"VERB"	1	"correct"	"TRUE"	42	
+"fort"	"foren"	"ADV"	1	"correct"	"TRUE"	37	
+"fräulein"	"fräulein"	"PROPN"	1	"features"	"FALSE"	96	
+"sommerliche"	"sommerlich"	"ADJ"	1	"correct"	"TRUE"	88	
+"materielles"	"materielles"	"PROPN"	1	"upos"	"FALSE"	48	
+"komödienlicht"	"komödienlicht"	"NOUN"	1	"correct"	"TRUE"	93	
+"schämen"	"schämen"	"VERB"	1	"correct"	"TRUE"	92	
+"seelen"	"seelen"	"NOUN"	1	"features"	"FALSE"	69	
+"miene"	"miene"	"NOUN"	1	"correct"	"TRUE"	69	
+"edelstein"	"edelstein"	"NOUN"	1	"correct"	"TRUE"	33	
+"lenore"	"lenore"	"PROPN"	1	"correct"	"TRUE"	21	"N"
+"gänzlicher"	"gänzlich"	"ADJ"	1	"correct"	"TRUE"	69	
+"danke"	"danken"	"VERB"	2	"correct"	"TRUE"	101	"A"
+"»ach"	"»ach"	"ADJ"	2	"tokenization"	"FALSE"	101	"I"
+"schwägerin"	"schwägerin"	"NOUN"	1	"correct"	"TRUE"	79	
+"soll"	"sollen"	"ADJ"	1	"correct"	"TRUE"	99	
+"geschämt"	"schämen"	"VERB"	1	"correct"	"TRUE"	17	
+"weltalls"	"weltall"	"NOUN"	1	"correct"	"TRUE"	37	
+"jahreszeit"	"jahreszeit"	"NOUN"	1	"correct"	"TRUE"	25	
+"wassereimer"	"wassereimer"	"NOUN"	1	"features"	"FALSE"	92	
+"funkelt"	"funkeln"	"VERB"	1	"correct"	"TRUE"	6	
+"eseltreiber"	"eseltreiber"	"NOUN"	1	"features"	"FALSE"	100	
+"munterer"	"munter"	"ADJ"	1	"correct"	"TRUE"	53	"A"
+"verheimlichte"	"verheimlichen"	"VERB"	1	"correct"	"TRUE"	34	
+"glauben"	"glaube"	"VERB"	1	"tokenization"	"FALSE"	55	
+"flammender"	"flammend"	"ADJ"	1	"correct"	"TRUE"	12	
+"hineinzugeraten"	"hineinzugerat"	"NOUN"	1	"lemmupos"	"FALSE"	52	
+"vernehmen"	"vernehmen"	"VERB"	1	"correct"	"TRUE"	2	
+"kinderfreund"	"kinderfreund"	"NOUN"	1	"correct"	"TRUE"	4	
+"schach"	"schach"	"PROPN"	1	"correct"	"TRUE"	54	"N"
+"pfeilerkasten"	"pfeilerkasten"	"NOUN"	1	"features"	"FALSE"	38	
+"clementine"	"clementine"	"PROPN"	1	"features"	"FALSE"	57	"N"
+"beinah"	"beinah"	"ADV"	1	"correct"	"TRUE"	70	"O"
+"»dürfte"	"»dürfen"	"AUX"	1	"tokenization"	"FALSE"	49	"I"
+"sessels"	"sessel"	"NOUN"	1	"correct"	"TRUE"	85	
+"unehrlichen"	"unehrlich"	"ADJ"	1	"correct"	"TRUE"	47	
+"»schulgerecht"	"»schulgerechen"	"ADJ"	1	"tokenization"	"FALSE"	64	"I"
+"wiederhaben"	"wiederhaben"	"VERB"	1	"correct"	"TRUE"	19	
+"sprichst"	"sprichsen"	"ADV"	1	"lemmupos"	"FALSE"	98	
+"andern"	"ander"	"NOUN"	1	"upos"	"FALSE"	43	"M"
+"cordova"	"cordova"	"PROPN"	1	"correct"	"TRUE"	77	"N"
+"judith"	"judith"	"PROPN"	1	"correct"	"TRUE"	43	"N"
+"ziagst"	"ziagst"	"ADV"	1	"lemmupos"	"FALSE"	98	"F"
+"sessels"	"sessel"	"NOUN"	1	"features"	"FALSE"	85	
+"scr"	"scr"	"PROPN"	1	"correct"	"TRUE"	70	"N"
+"tilly"	"tilly"	"PROPN"	1	"correct"	"TRUE"	11	"N"
+"marien"	"marie"	"PROPN"	1	"features"	"FALSE"	84	"N"
+"kutsche"	"kutsche"	"PROPN"	1	"tokenization"	"FALSE"	65	
+"zerfetzt"	"zerfetzen"	"VERB"	1	"correct"	"TRUE"	43	
+"türvorhang"	"türvorhang"	"NOUN"	1	"correct"	"TRUE"	4	
+"rout"	"rout"	"NOUN"	1	"correct"	"TRUE"	92	"F"
+"anblick"	"anblick"	"NOUN"	2	"correct"	"TRUE"	101	
+"arnost"	"arnost"	"PROPN"	1	"correct"	"TRUE"	50	"N"
+"einlaßgeld"	"einlaßgeld"	"NOUN"	1	"correct"	"TRUE"	16	"O"
+"versorgten"	"versorgen"	"VERB"	1	"correct"	"TRUE"	100	
+"stillen"	"still"	"ADJ"	1	"features"	"FALSE"	56	"A"
+"trocknen"	"trocknen"	"VERB"	1	"correct"	"TRUE"	46	
+"buche"	"buch"	"NOUN"	1	"correct"	"TRUE"	69	"MA"
+"missdan"	"missdan"	"PROPN"	1	"upos"	"FALSE"	76	"F"
+"überdrüssig"	"überdrüssig"	"ADJ"	1	"correct"	"TRUE"	43	
+"›bedrohte"	"›bedroht"	"ADJ"	1	"tokenization"	"FALSE"	52	"IA"
+"fuhr"	"fuhr"	"VERB"	1	"correct"	"TRUE"	50	
+"gespült"	"spülen"	"VERB"	1	"correct"	"TRUE"	96	
+"stimmenmehrheit"	"stimmenmehrheit"	"NOUN"	1	"correct"	"TRUE"	90	
+"geschöpf"	"geschöpf"	"NOUN"	1	"features"	"FALSE"	81	
+"fast"	"faben"	"ADV"	1	"lemma"	"FALSE"	93	
+"»hanni"	"»hanni"	"PROPN"	1	"tokenization"	"FALSE"	40	"IN"
+"eilends"	"eilends"	"ADV"	1	"correct"	"TRUE"	69	"O"
+"»pescara"	"»pescara"	"PROPN"	1	"tokenization"	"FALSE"	66	"IF"
+"grase"	"gras"	"PROPN"	1	"upos"	"FALSE"	70	"F"
+"sonnenblick"	"sonnenblick"	"NOUN"	1	"correct"	"TRUE"	38	
+"weinen"	"weinen"	"ADJ"	1	"upos"	"FALSE"	71	
+"gieshübler"	"gieshübler"	"ADJ"	1	"upos"	"FALSE"	73	"N"
+"festhaltend"	"festhaltend"	"ADJ"	1	"correct"	"TRUE"	90	
+"geert"	"geert"	"VERB"	1	"lemmupos"	"FALSE"	61	"N"
+"blanken"	"blank"	"NOUN"	1	"correct"	"TRUE"	86	
+"sippe"	"sippe"	"NOUN"	1	"correct"	"TRUE"	95	
+"he"	"he"	"NOUN"	1	"correct"	"TRUE"	24	
+"blüht"	"blühen"	"VERB"	1	"correct"	"TRUE"	22	
+"»und"	"»und"	"ADJ"	2	"tokenization"	"FALSE"	101	"I"
+"formende"	"formende"	"ADJ"	1	"features"	"FALSE"	49	
+"verweilen"	"verweilen"	"VERB"	1	"correct"	"TRUE"	9	
+"hernehmen"	"hernehmen"	"VERB"	1	"tokenization"	"FALSE"	45	
+"reckte"	"recken"	"VERB"	1	"correct"	"TRUE"	49	
+"nehme"	"nehm"	"VERB"	1	"lemma"	"FALSE"	44	
+"gewölk"	"gewölk"	"NOUN"	1	"correct"	"TRUE"	51	"O"
+"tanzten"	"tanzen"	"VERB"	1	"correct"	"TRUE"	92	
+"»der"	"»d"	"ADJ"	1	"tokenization"	"FALSE"	58	"I"
+"unendlichen"	"unendlich"	"ADJ"	1	"correct"	"TRUE"	8	
+"deiner"	"dein"	"ADJ"	1	"upos"	"FALSE"	99	
+"herankam"	"herankommen"	"VERB"	1	"correct"	"TRUE"	35	
+"grad"	"grad"	"PROPN"	1	"tokenization"	"FALSE"	52	"IA"
+"wahrlich"	"wahrlich"	"ADJ"	1	"upos"	"FALSE"	77	
+"schrien"	"schreinen"	"NOUN"	1	"lemmupos"	"FALSE"	99	
+"meinen"	"mein"	"VERB"	1	"correct"	"TRUE"	93	
+"tafel"	"tafel"	"NOUN"	1	"correct"	"TRUE"	18	
+"mama"	"mama"	"PROPN"	2	"features"	"FALSE"	101	"N"
+"tiger"	"tige"	"NOUN"	1	"lemma"	"FALSE"	54	
+"dienstboten"	"dienstbot"	"NOUN"	1	"lemma"	"FALSE"	83	
+"italien"	"ital"	"PROPN"	1	"lemma"	"FALSE"	86	"N"
+"pescara"	"pescara"	"PROPN"	2	"correct"	"TRUE"	101	"NF"
+"zahle"	"zahlen"	"NOUN"	1	"correct"	"TRUE"	67	
+"übermochte"	"übermochen"	"VERB"	1	"lemma"	"FALSE"	66	
+"stad"	"stad"	"PROPN"	1	"upos"	"FALSE"	44	"F"
+"wilderer"	"wilderer"	"NOUN"	1	"features"	"FALSE"	43	"A"
+"telegramm"	"telegramm"	"NOUN"	1	"correct"	"TRUE"	1	
+"geschöpf"	"geschöpf"	"NOUN"	1	"features"	"FALSE"	81	
+"nimm"	"nimm"	"ADJ"	1	"lemmupos"	"FALSE"	2	
+"lys"	"lys"	"NOUN"	1	"features"	"FALSE"	88	"F"
+"ausgestoßensein"	"ausgestoßensein"	"NOUN"	1	"features"	"FALSE"	48	
+"wagentür"	"wagentür"	"NOUN"	1	"features"	"FALSE"	90	
+"klirrte"	"klirren"	"VERB"	1	"correct"	"TRUE"	11	
+"zertrat"	"zertreten"	"VERB"	1	"correct"	"TRUE"	37	
+"vergrößerten"	"vergrößern"	"VERB"	1	"correct"	"TRUE"	8	"A"
+"deines"	"deine"	"PRON"	1	"correct"	"TRUE"	28	
+"blässe"	"blässe"	"NOUN"	1	"features"	"FALSE"	71	
+"züchtigung"	"züchtigung"	"NOUN"	1	"correct"	"TRUE"	58	
+"dazumal"	"dazumal"	"ADV"	1	"correct"	"TRUE"	63	
+"amme"	"amme"	"NOUN"	1	"features"	"FALSE"	62	"F"
+"signora"	"signora"	"NOUN"	1	"features"	"FALSE"	91	"F"
+"läsest"	"läsesen"	"PROPN"	1	"lemmupos"	"FALSE"	89	"M"
+"nachklang"	"nachklang"	"ADJ"	1	"lemmupos"	"FALSE"	72	
+"walzen"	"walzen"	"PROPN"	1	"upos"	"FALSE"	51	
+"grützbrei"	"grützbrei"	"NOUN"	1	"correct"	"TRUE"	51	"O"
+"›nein"	"›nein"	"PART"	1	"tokenization"	"FALSE"	96	"I"
+"»uns"	"»uns"	"PROPN"	1	"tokenization"	"FALSE"	60	"I"
+"erleichterst"	"erleichtersen"	"ADV"	1	"lemmupos"	"FALSE"	57	
+"»aber"	"»aber"	"SCONJ"	2	"tokenization"	"FALSE"	101	"I"
+"subhastation"	"subhastation"	"NOUN"	1	"correct"	"TRUE"	56	"F"
+"weggewinkt"	"weggewinken"	"VERB"	1	"correct"	"TRUE"	64	
+"markgräfin"	"markgräfin"	"NOUN"	1	"correct"	"TRUE"	4	
+"orlamünde"	"orlamund"	"PROPN"	1	"lemma"	"FALSE"	59	"N"
+"martl"	"martl"	"PROPN"	1	"features"	"FALSE"	74	"N"
+"»da"	"»da"	"SCONJ"	1	"tokenization"	"FALSE"	45	"I"
+"dort"	"dorn"	"ADV"	1	"lemmupos"	"FALSE"	70	
+"fesselte"	"fesseln"	"VERB"	1	"correct"	"TRUE"	52	
+"angekränkelt"	"angekränkeln"	"VERB"	1	"lemma"	"FALSE"	43	
+"denn"	"denn"	"VERB"	1	"correct"	"TRUE"	64	
+"gewaltsamem"	"gewaltsamem"	"ADJ"	1	"correct"	"TRUE"	23	
+"meta"	"meta"	"PROPN"	1	"correct"	"TRUE"	81	"NF"
+"wucherer"	"wucherer"	"NOUN"	1	"features"	"FALSE"	49	
+"stopfkuchen"	"stopfkuchen"	"NOUN"	2	"upos"	"FALSE"	101	
+"hirtinnen"	"hirtinnen"	"NOUN"	1	"lemma"	"FALSE"	86	
+"begegneten"	"begegneten"	"ADJ"	1	"lemmupos"	"FALSE"	41	
+"›wissen"	"›wissen"	"VERB"	1	"tokenization"	"FALSE"	89	"I"
+"»o"	"»o"	"PROPN"	2	"tokenization"	"FALSE"	101	"I"
+"ich's"	"ich's"	"PROPN"	2	"tokenization"	"FALSE"	101	"B"
+"marmorklar"	"marmorklar"	"ADJ"	1	"correct"	"TRUE"	74	
+"schauten"	"schauen"	"VERB"	1	"correct"	"TRUE"	74	
+"ding"	"ding"	"PROPN"	2	"upos"	"FALSE"	101	
+"irgend"	"irgend"	"ADJ"	1	"correct"	"TRUE"	21	"MB"
+"ferne"	"ferne"	"ADJ"	1	"correct"	"TRUE"	73	
+"desgleichen"	"desgleich"	"ADJ"	1	"lemmupos"	"FALSE"	89	
+"widersprochen"	"widersprochen"	"ADJ"	1	"lemmupos"	"FALSE"	100	
+"katzenstein"	"katzenstein"	"PROPN"	1	"correct"	"TRUE"	82	"N"
+"beobachte"	"beobingen"	"VERB"	1	"lemma"	"FALSE"	44	
+"moanst"	"moanst"	"ADV"	1	"lemmupos"	"FALSE"	49	"F"
+"einsam"	"einsam"	"NOUN"	1	"upos"	"FALSE"	90	
+"funken"	"funken"	"NOUN"	1	"features"	"FALSE"	83	
+"gnäd'gen"	"gnäd'g"	"ADJ"	1	"correct"	"TRUE"	8	"M"
+"großmut"	"großmut"	"NOUN"	1	"correct"	"TRUE"	72	
+"fink"	"finken"	"PROPN"	1	"correct"	"TRUE"	79	
+"blitzt"	"blitzen"	"VERB"	1	"correct"	"TRUE"	69	
+"will"	"will"	"AUX"	1	"correct"	"TRUE"	84	
+"»zuerst"	"»zuerst"	"ADV"	1	"tokenization"	"FALSE"	76	"I"
+"fieberanfall"	"fieberanfall"	"NOUN"	1	"correct"	"TRUE"	8	
+"wardein"	"wardein"	"PROPN"	2	"features"	"FALSE"	101	"N"
+"unvermögend"	"unvermögend"	"ADJ"	1	"correct"	"TRUE"	82	
+"groß"	"groß"	"VERB"	1	"correct"	"TRUE"	65	
+"schluchzend"	"schluchzend"	"ADJ"	1	"correct"	"TRUE"	33	
+"fünfzehnjährige"	"fünfzehnjährig"	"PROPN"	1	"upos"	"FALSE"	62	
+"den"	"der"	"SCONJ"	1	"upos"	"FALSE"	70	
+"manne"	"mann"	"NOUN"	1	"correct"	"TRUE"	80	"M"
+"weiser"	"weiser"	"ADJ"	1	"lemma"	"FALSE"	91	
+"prädikate"	"prädikat"	"NOUN"	1	"correct"	"TRUE"	22	
+"kaplanischen"	"kaplanisch"	"ADJ"	1	"correct"	"TRUE"	39	
+"wer?"	"wer?"	"X"	1	"correct"	"TRUE"	7	"I"
+"durchgespielt"	"durchgespielen"	"VERB"	1	"correct"	"TRUE"	93	
+"lehne"	"lehne"	"NOUN"	1	"correct"	"TRUE"	93	
+"wohlergehen"	"wohlergehen"	"NOUN"	1	"correct"	"TRUE"	57	
+"schaumann"	"schaumann"	"PROPN"	1	"correct"	"TRUE"	57	"N"
+"»wohlfart"	"»wohlfaren"	"PROPN"	1	"tokenization"	"FALSE"	82	"I"
+"»und"	"»und"	"ADV"	1	"tokenization"	"FALSE"	51	"I"
+"fünfzehnten"	"fünfzehnt"	"ADJ"	1	"lemma"	"FALSE"	54	
+"rheinsberger"	"rheinsberger"	"PROPN"	1	"correct"	"TRUE"	35	"N"
+"ruhmes"	"ruhmes"	"NOUN"	1	"lemma"	"FALSE"	52	
+"weibe"	"weib"	"NOUN"	1	"correct"	"TRUE"	2	"O"
+"sag"	"siegen"	"NOUN"	1	"lemmupos"	"FALSE"	92	"M"
+"neulich"	"neulich"	"ADJ"	1	"lemmupos"	"FALSE"	64	
+"schröpfungen"	"schröpfung"	"NOUN"	1	"features"	"FALSE"	98	
+"gehorchte"	"gehorchen"	"VERB"	1	"correct"	"TRUE"	31	
+"armenvorsteher"	"armenvorsteher"	"NOUN"	1	"features"	"FALSE"	37	
+"elends"	"elend"	"NOUN"	1	"correct"	"TRUE"	81	
+"»das"	"»das"	"PRON"	2	"tokenization"	"FALSE"	101	"I"
+"durchzuckte"	"durchzucken"	"VERB"	1	"correct"	"TRUE"	28	
+"steigt's"	"steigt's"	"PROPN"	1	"upos"	"FALSE"	64	"B"
+"schmucksachen"	"schmucksachen"	"NOUN"	1	"features"	"FALSE"	51	
+"einschlafen"	"einschlafen"	"VERB"	1	"correct"	"TRUE"	87	
+"mancher"	"mancher"	"ADJ"	1	"upos"	"FALSE"	42	
+"»ich"	"»ich"	"ADV"	1	"tokenization"	"FALSE"	51	"I"
+"deine"	"dein"	"ADJ"	1	"correct"	"TRUE"	81	
+"andachten"	"andacht"	"NOUN"	1	"features"	"FALSE"	69	
+"packte"	"packen"	"VERB"	1	"correct"	"TRUE"	38	
+"rennt"	"rennen"	"VERB"	1	"correct"	"TRUE"	14	
+"fürstliche"	"fürstlich"	"ADJ"	1	"correct"	"TRUE"	71	
+"unklug"	"unklug"	"ADJ"	1	"correct"	"TRUE"	47	
+"diener"	"diener"	"PROPN"	1	"features"	"FALSE"	40	
+"hm"	"hm"	"ADJ"	1	"upos"	"FALSE"	53	
+"schürze"	"schürz"	"PROPN"	1	"upos"	"FALSE"	78	
+"schiebt"	"schieben"	"VERB"	2	"correct"	"TRUE"	101	
+"gastfreundlichen"	"gastfreundlich"	"ADJ"	1	"correct"	"TRUE"	57	
+"meiner"	"ich"	"DET"	1	"correct"	"TRUE"	79	
+"dasselbe"	"dasselbe"	"PRON"	1	"correct"	"TRUE"	48	
+"schein"	"schein"	"NOUN"	1	"correct"	"TRUE"	74	
+"not"	"not"	"NOUN"	1	"features"	"FALSE"	46	
+"»ob"	"»ob"	"ADJ"	1	"tokenization"	"FALSE"	50	"I"
+"obschon"	"obschon"	"ADV"	1	"upos"	"FALSE"	47	"OF"
+"blutsühne"	"blutsühne"	"NOUN"	1	"correct"	"TRUE"	15	
+"verlöschen"	"verlöschen"	"ADJ"	1	"correct"	"TRUE"	89	
+"elend"	"elend"	"ADJ"	1	"correct"	"TRUE"	85	
+"wohlfart"	"wohlfart"	"PROPN"	1	"correct"	"TRUE"	81	
+"trete"	"treten"	"VERB"	1	"correct"	"TRUE"	4	
+"hinausglitt"	"hinausgleiden"	"VERB"	1	"lemma"	"FALSE"	45	
+"gnädigste"	"gnädig"	"ADJ"	1	"features"	"FALSE"	41	
+"meining"	"meining"	"NOUN"	1	"upos"	"FALSE"	50	"F"
+"thalberg"	"thalberg"	"PROPN"	1	"correct"	"TRUE"	14	"N"
+"konn"	"konn"	"PROPN"	1	"lemmupos"	"FALSE"	100	"F"
+"merke"	"merken"	"NOUN"	1	"upos"	"FALSE"	50	
+"gebannt"	"bannen"	"ADJ"	1	"correct"	"TRUE"	39	
+"unsicherer"	"unsicher"	"ADJ"	1	"correct"	"TRUE"	73	
+"fad"	"fad"	"NOUN"	1	"lemmupos"	"FALSE"	89	"F"
+"trösten"	"trösen"	"ADJ"	1	"lemmupos"	"FALSE"	99	
+"einquartiert"	"einquartieren"	"VERB"	1	"correct"	"TRUE"	100	
+"halbumschleierter"	"halbumschleiert"	"ADJ"	1	"correct"	"TRUE"	82	
+"sage"	"sagen"	"NOUN"	1	"correct"	"TRUE"	66	
+"mitleides"	"mitleides"	"NOUN"	1	"lemma"	"FALSE"	41	
+"fragte"	"fragte"	"VERB"	1	"correct"	"TRUE"	76	
+"erbin"	"erbin"	"NOUN"	1	"features"	"FALSE"	47	
+"eingeschlafen"	"eingeschlafen"	"VERB"	1	"lemmupos"	"FALSE"	69	
+"blindenanstalt"	"blindenanstalt"	"NOUN"	1	"correct"	"TRUE"	96	
+"auffallen"	"auffall"	"NOUN"	1	"lemma"	"FALSE"	82	
+"pavel"	"pavel"	"PROPN"	1	"correct"	"TRUE"	28	"N"
+"empfing"	"empfangen"	"VERB"	2	"correct"	"TRUE"	101	
+"heitere"	"heiter"	"ADJ"	1	"correct"	"TRUE"	40	
+"schlaf"	"schlaf"	"NOUN"	1	"features"	"FALSE"	71	
+"großartig"	"großartig"	"ADJ"	1	"correct"	"TRUE"	83	
+"gedächtnis"	"gedächtnis"	"NOUN"	2	"correct"	"TRUE"	101	
+"schwachheit"	"schwachheit"	"NOUN"	1	"correct"	"TRUE"	58	
+"wirke"	"wirken"	"NOUN"	1	"upos"	"FALSE"	72	
+"net"	"net"	"ADJ"	1	"lemma"	"FALSE"	53	"F"
+"schläfrig"	"schläfrig"	"ADJ"	1	"correct"	"TRUE"	58	
+"plauderte"	"plaudert"	"VERB"	1	"lemma"	"FALSE"	71	
+"vergossen"	"vergossen"	"VERB"	1	"lemma"	"FALSE"	58	
+"gleichaltrige"	"gleichaltrig"	"ADJ"	1	"correct"	"TRUE"	10	
+"»ziehen"	"»ziehen"	"VERB"	1	"tokenization"	"FALSE"	60	"I"
+"kränkelndes"	"kränkelnd"	"ADJ"	1	"features"	"FALSE"	83	
+"krieges"	"krieges"	"NOUN"	1	"lemma"	"FALSE"	44	
+"forellen"	"forelle"	"NOUN"	1	"correct"	"TRUE"	47	
+"effi"	"effi"	"PROPN"	2	"correct"	"TRUE"	101	"N"
+"klopfte"	"klopfen"	"VERB"	1	"correct"	"TRUE"	79	
+"riegelt"	"riegeln"	"VERB"	1	"correct"	"TRUE"	66	
+"jahrelange"	"jahrelange"	"ADV"	1	"lemmupos"	"FALSE"	84	
+"verhüllte"	"verhüllen"	"VERB"	1	"correct"	"TRUE"	71	
+"stündest"	"stündest"	"ADV"	1	"lemmupos"	"FALSE"	57	"M"
+"las"	"las"	"PROPN"	1	"lemmupos"	"FALSE"	72	
+"überhaupt"	"überhaupen"	"ADV"	1	"tokenization"	"FALSE"	74	
+"brave"	"brav"	"ADJ"	1	"correct"	"TRUE"	78	
+"vorstellte"	"vorstellen"	"VERB"	1	"correct"	"TRUE"	23	
+"verjährten"	"verjährt"	"VERB"	1	"upos"	"FALSE"	64	
+"dammerde"	"dammerde"	"NOUN"	1	"features"	"FALSE"	65	
+"massenhafter"	"massenhaft"	"NOUN"	1	"upos"	"FALSE"	97	
+"hart"	"hart"	"PROPN"	1	"correct"	"TRUE"	12	
+"erlösung"	"erlösung"	"NOUN"	1	"features"	"FALSE"	62	
+"heiter"	"heit"	"NOUN"	1	"lemmupos"	"FALSE"	45	
+"gleiten"	"gleiten"	"VERB"	1	"correct"	"TRUE"	16	
+"omen"	"omen"	"VERB"	1	"correct"	"TRUE"	74	"F"
+"macht"	"macht"	"VERB"	1	"correct"	"TRUE"	64	
+"küßte"	"küßen"	"VERB"	1	"lemma"	"FALSE"	60	"O"
+"schwelle"	"schwelle"	"NOUN"	2	"correct"	"TRUE"	101	
+"»gehen"	"»gehen"	"VERB"	1	"tokenization"	"FALSE"	37	"I"
+"schlummerschweren"	"schlummerschw"	"ADJ"	1	"lemma"	"FALSE"	73	
+"derselbe"	"derselbe"	"PRON"	1	"correct"	"TRUE"	36	
+"unbeweglich"	"unbeweglich"	"ADJ"	1	"correct"	"TRUE"	30	
+"baron"	"baron"	"NOUN"	1	"correct"	"TRUE"	79	
+"haben"	"heben"	"VERB"	1	"correct"	"TRUE"	86	
+"schwebten"	"schweben"	"VERB"	1	"correct"	"TRUE"	4	
+"eßzimmer"	"eßzimmer"	"NOUN"	1	"correct"	"TRUE"	52	"O"
+"abschickte"	"abschicken"	"VERB"	1	"correct"	"TRUE"	76	
+"schiffsleutnant"	"schiffsleutnant"	"NOUN"	1	"correct"	"TRUE"	95	
+"gnädige"	"gnädig"	"ADJ"	1	"correct"	"TRUE"	86	
+"himmlisches"	"himmlisch"	"ADJ"	1	"correct"	"TRUE"	64	
+"»judith"	"»judith"	"PROPN"	1	"tokenization"	"FALSE"	42	"IN"
+"sander"	"sander"	"ADV"	1	"upos"	"FALSE"	98	"N"
+"allzu"	"allzu"	"ADV"	1	"correct"	"TRUE"	50	
+"hold"	"hold"	"NOUN"	1	"correct"	"TRUE"	67	"OF"
+"rauchte"	"rauchen"	"VERB"	1	"correct"	"TRUE"	83	
+"bekümmert"	"bekümmern"	"VERB"	1	"correct"	"TRUE"	71	
+"glaubst"	"glauben"	"VERB"	1	"features"	"FALSE"	52	
+"colonna"	"colonna"	"PROPN"	1	"correct"	"TRUE"	25	"N"
+"leibe"	"leibe"	"PROPN"	1	"lemmupos"	"FALSE"	54	"MO"
+"innigen"	"innig"	"ADJ"	1	"correct"	"TRUE"	81	
+"lachen"	"lachen"	"ADJ"	1	"upos"	"FALSE"	61	
+"betagte"	"betagt"	"ADJ"	1	"features"	"FALSE"	94	"A"
+"»das"	"»der"	"PROPN"	1	"tokenization"	"FALSE"	86	"I"
+"lippen"	"lippe"	"NOUN"	1	"correct"	"TRUE"	41	
+"fischers"	"fischer"	"NOUN"	1	"correct"	"TRUE"	63	"N"
+"klugen"	"klug"	"NOUN"	1	"upos"	"FALSE"	76	
+"»geh"	"»geh"	"PROPN"	1	"tokenization"	"FALSE"	69	"I"
+"einführen"	"einführen"	"VERB"	1	"correct"	"TRUE"	93	
+"erscholl"	"erscholl"	"VERB"	1	"lemma"	"FALSE"	49	"O"
+"treue"	"treu"	"VERB"	1	"upos"	"FALSE"	90	
+"zwist"	"zwist"	"NOUN"	1	"features"	"FALSE"	42	
+"eingewickelt"	"eingewickeln"	"VERB"	1	"lemma"	"FALSE"	59	
+"ich's"	"ich's"	"PROPN"	1	"correct"	"TRUE"	100	"B"
+"umschlingung"	"umschlingung"	"NOUN"	1	"correct"	"TRUE"	83	
+"flog"	"fliehen"	"VERB"	2	"correct"	"TRUE"	101	
+"hinüber"	"hinüber"	"ADV"	1	"correct"	"TRUE"	81	
+"sonnige"	"sonnig"	"ADJ"	1	"correct"	"TRUE"	72	
+"matrone"	"matrone"	"PROPN"	1	"upos"	"FALSE"	88	
+"nachbar"	"nachbar"	"PROPN"	1	"upos"	"FALSE"	100	
+"»was"	"»was"	"PRON"	2	"tokenization"	"FALSE"	101	"I"
+"ehrenthal"	"ehrenthal"	"PROPN"	1	"correct"	"TRUE"	21	"N"
+"sarg"	"sarg"	"VERB"	1	"upos"	"FALSE"	95	
+"betrachtete"	"betrachtet"	"VERB"	1	"correct"	"TRUE"	45	
+"»nein"	"»nein"	"PART"	2	"tokenization"	"FALSE"	101	"I"
+"morone"	"morone"	"PROPN"	1	"correct"	"TRUE"	79	"FO"
+"eile"	"eil"	"NOUN"	1	"lemma"	"FALSE"	2	
+"ehrentag"	"ehrentag"	"NOUN"	1	"features"	"FALSE"	60	
+"schwieg"	"schweigen"	"VERB"	1	"correct"	"TRUE"	93	
+"groß"	"grießen"	"VERB"	1	"lemmupos"	"FALSE"	64	
+"wachten"	"wachen"	"VERB"	1	"correct"	"TRUE"	4	
+"ebenbürtigen"	"ebenbürtig"	"ADJ"	1	"correct"	"TRUE"	77	
+"wabn"	"wabn"	"NOUN"	1	"features"	"FALSE"	71	"F"
+"nacht"	"nacht"	"VERB"	1	"upos"	"FALSE"	91	
+"that"	"thaben"	"VERB"	1	"lemma"	"FALSE"	59	"O"
+"klangen"	"klangen"	"VERB"	1	"lemma"	"FALSE"	83	
+"morgn"	"morgn"	"VERB"	1	"lemmupos"	"FALSE"	82	"FO"
+"lächeln"	"lächeln"	"VERB"	1	"correct"	"TRUE"	53	
+"geschenkte"	"geschenkt"	"VERB"	1	"correct"	"TRUE"	49	
+"graf"	"graf"	"NOUN"	1	"correct"	"TRUE"	12	
+"gekicher"	"gekicher"	"NOUN"	1	"features"	"FALSE"	98	
+"mein"	"mein"	"ADJ"	1	"correct"	"TRUE"	9	
+"daß"	"daß"	"VERB"	1	"correct"	"TRUE"	57	"O"
+"unentschiedenheit"	"unentschiedenheit"	"NOUN"	1	"features"	"FALSE"	50	
+"ausnehmen"	"ausnehmen"	"VERB"	1	"correct"	"TRUE"	82	
+"heiligstes"	"heilig"	"NOUN"	1	"upos"	"FALSE"	99	
+"rebenstock"	"rebenstock"	"PROPN"	1	"correct"	"TRUE"	8	
+"reisegepäck"	"reisegepäck"	"NOUN"	1	"correct"	"TRUE"	82	
+"stephan"	"stephan"	"PROPN"	1	"correct"	"TRUE"	40	
+"»ich"	"»ich"	"ADP"	1	"tokenization"	"FALSE"	51	"I"
+"bagage"	"bagage"	"NOUN"	1	"correct"	"TRUE"	59	
+"aufgesetzt"	"aufsetzen"	"VERB"	1	"correct"	"TRUE"	42	
+"stärkeres"	"stärkeres"	"ADJ"	1	"lemma"	"FALSE"	62	
+"»wie"	"»wie"	"SCONJ"	1	"tokenization"	"FALSE"	45	"I"
+"eifersüchtig"	"eifersüchtig"	"ADJ"	1	"correct"	"TRUE"	46	
+"haberfeldtreiber"	"haberfeldtreiber"	"NOUN"	1	"features"	"FALSE"	90	"OF"
+"armenarztes"	"armenarzt"	"NOUN"	1	"correct"	"TRUE"	34	
+"bork"	"borken"	"PROPN"	1	"lemma"	"FALSE"	49	"F"
+"hastig"	"hastig"	"ADJ"	1	"upos"	"FALSE"	75	
+"dienstvolk"	"dienstvolk"	"NOUN"	1	"correct"	"TRUE"	29	
+"innigsten"	"innig"	"ADJ"	1	"correct"	"TRUE"	96	
+"liebt"	"lieben"	"ADJ"	1	"upos"	"FALSE"	3	
+"daseins"	"dasein"	"NOUN"	1	"correct"	"TRUE"	66	
+"braut"	"braut"	"NOUN"	1	"features"	"FALSE"	71	
+"stopfkuchen"	"stopfkuchen"	"NOUN"	1	"correct"	"TRUE"	45	
+"hängst"	"hängst"	"ADV"	1	"lemmupos"	"FALSE"	47	
+"»sie"	"»sie|sie"	"PRON"	2	"tokenization"	"FALSE"	101	"I"
+"zurückkommen"	"zurückkommen"	"VERB"	1	"features"	"FALSE"	99	
+"landsfelds"	"landsfelds"	"PROPN"	1	"correct"	"TRUE"	51	"N"
+"lachte"	"lachen"	"VERB"	1	"correct"	"TRUE"	19	
+"»sowas"	"»sowas"	"PRON"	1	"tokenization"	"FALSE"	84	"I"
+"siegmund"	"siegmund"	"PROPN"	1	"correct"	"TRUE"	6	"N"
+"trostlosigkeit"	"trostlosigkeit"	"NOUN"	1	"correct"	"TRUE"	37	
+"staatsanstellung"	"staatsanstellung"	"NOUN"	1	"correct"	"TRUE"	65	
+"mädel"	"mädel"	"NOUN"	1	"features"	"FALSE"	92	"O"
+"krieg"	"kreigen"	"PROPN"	1	"correct"	"TRUE"	27	
+"rotkäppchen"	"rotkäppch"	"NOUN"	1	"lemmupos"	"FALSE"	44	"N"
+"armgard"	"armgard"	"PROPN"	1	"correct"	"TRUE"	23	"N"
+"mich's"	"mich's"	"PROPN"	1	"tokenization"	"FALSE"	41	"B"
+"gras"	"gras"	"PROPN"	1	"upos"	"FALSE"	83	
+"unschuld"	"unschuld"	"NOUN"	1	"correct"	"TRUE"	44	
+"tu?"	"tu?"	"X"	1	"correct"	"TRUE"	2	"I"
+"kusine"	"kusine"	"NOUN"	1	"features"	"FALSE"	52	
+"küssen"	"kuß"	"NOUN"	1	"correct"	"TRUE"	65	
+"repräsentations-"	"repräsentations-"	"NOUN"	1	"correct"	"TRUE"	28	
+"schnupfen"	"schnupfen"	"NOUN"	1	"tokenization"	"FALSE"	67	
+"zärtliche"	"zärtlich"	"ADJ"	1	"correct"	"TRUE"	94	
+"entgegenstürzten"	"entgegenstürzen"	"VERB"	1	"correct"	"TRUE"	73	
+"ungebrochenen"	"ungebrochen"	"ADJ"	1	"correct"	"TRUE"	25	
+"zorn"	"zorn"	"NOUN"	1	"correct"	"TRUE"	47	
+"beseligende"	"beseligend"	"ADJ"	1	"features"	"FALSE"	67	
+"hadde"	"hadde"	"PROPN"	1	"upos"	"FALSE"	88	"F"
+"pforte"	"pfort"	"NOUN"	1	"correct"	"TRUE"	61	
+"zurückgeschlagen"	"zurückschlagen"	"VERB"	1	"correct"	"TRUE"	6	
+"hanni"	"hanni"	"PROPN"	2	"features"	"FALSE"	101	"N"
+"wohlerworbenen"	"wohlerworben"	"ADJ"	1	"correct"	"TRUE"	36	
+"nebenzimmer"	"nebenzimmer"	"NOUN"	1	"correct"	"TRUE"	21	
+"irrende"	"irrend"	"ADJ"	1	"correct"	"TRUE"	57	
+"den"	"de"	"PROPN"	1	"correct"	"TRUE"	78	"N"
+"dubslav"	"dubslav"	"ADV"	1	"upos"	"FALSE"	91	"N"
+"dreißigjährigen"	"dreißigjährig"	"ADJ"	1	"correct"	"TRUE"	88	"O"
+"stillen"	"still"	"ADJ"	1	"correct"	"TRUE"	56	
+"hals"	"hals"	"PROPN"	1	"upos"	"FALSE"	76	
+"bezaubernd"	"bezaubernd"	"ADJ"	1	"correct"	"TRUE"	20	
+"versteinerte"	"versteineren"	"VERB"	1	"lemma"	"FALSE"	78	
+"glänzenden"	"glänzend"	"ADJ"	1	"correct"	"TRUE"	15	
+"sehenswürdigkeiten"	"sehenswürdigkeit"	"NOUN"	1	"correct"	"TRUE"	99	
+"begrüßend"	"begrüßend"	"ADJ"	1	"correct"	"TRUE"	21	
+"kindlich"	"kindlich"	"ADJ"	1	"correct"	"TRUE"	23	
+"bub"	"bub"	"NOUN"	1	"correct"	"TRUE"	46	"O"
+"strickzeuges"	"strickzeug"	"NOUN"	1	"features"	"FALSE"	91	
+"finstern"	"finster"	"VERB"	1	"upos"	"FALSE"	45	"M"
+"kokettes"	"kokett"	"ADJ"	1	"correct"	"TRUE"	52	
+"bureau"	"bureau"	"NOUN"	1	"correct"	"TRUE"	53	"F"
+"schwacher"	"schwach"	"ADJ"	1	"correct"	"TRUE"	72	
+"ehrlich"	"ehrlich"	"ADJ"	1	"correct"	"TRUE"	73	
+"»i"	"»i"	"PROPN"	1	"tokenization"	"FALSE"	40	"I"
+"fragte"	"fragte"	"VERB"	1	"features"	"FALSE"	76	
+"unwille"	"unwille"	"NOUN"	1	"correct"	"TRUE"	21	
+"jämmerlichen"	"jämmerlichen"	"NOUN"	1	"features"	"FALSE"	72	
+"pavels"	"pavels"	"PROPN"	2	"lemma"	"FALSE"	101	"N"
+"sakramente"	"sakrament"	"NOUN"	1	"correct"	"TRUE"	5	"F"
+"schmales"	"schmal"	"ADJ"	1	"correct"	"TRUE"	87	
+"übermenschlicher"	"übermenschlich"	"ADJ"	1	"correct"	"TRUE"	71	
+"schnappt"	"schnappt"	"VERB"	1	"correct"	"TRUE"	7	
+"»guate"	"»guaen"	"PROPN"	1	"tokenization"	"FALSE"	36	"IF"
+"gestanden"	"gestehen"	"VERB"	1	"lemma"	"FALSE"	45	
+"bist"	"bist"	"VERB"	1	"correct"	"TRUE"	8	
+"mißmüthiges"	"mißmüthig"	"ADJ"	1	"correct"	"TRUE"	21	"O"
+"empfand"	"empfand"	"VERB"	1	"lemma"	"FALSE"	92	
+"residuum"	"residuum"	"NOUN"	1	"correct"	"TRUE"	34	
+"prr"	"prr"	"NOUN"	1	"correct"	"TRUE"	53	
+"graut"	"grauen"	"VERB"	1	"correct"	"TRUE"	71	
+"fräulein"	"fräulein"	"PROPN"	2	"correct"	"TRUE"	101	
+"knallte"	"knallen"	"AUX"	1	"upos"	"FALSE"	86	
+"besann"	"besinnen"	"VERB"	1	"correct"	"TRUE"	83	
+"wüsste"	"wüssen"	"VERB"	1	"lemma"	"FALSE"	86	
+"faber"	"faber"	"NOUN"	1	"upos"	"FALSE"	97	"N"
+"entsetzt"	"entsetzen"	"VERB"	1	"correct"	"TRUE"	77	"A"
+"operngläser"	"operngläser"	"NOUN"	1	"lemma"	"FALSE"	90	
+"ausschlag"	"ausschlag"	"NOUN"	1	"correct"	"TRUE"	24	
+"hafer"	"hafer"	"NOUN"	1	"correct"	"TRUE"	12	
+"clementinen"	"clementine"	"NOUN"	1	"features"	"FALSE"	77	"N"
+"avallon"	"avallon"	"PROPN"	1	"correct"	"TRUE"	20	"N"
+"in's"	"in's"	"PROPN"	2	"tokenization"	"FALSE"	101	"B"
+"carolath"	"carolath"	"PROPN"	1	"correct"	"TRUE"	31	"N"
+"näherte"	"nähern"	"VERB"	1	"correct"	"TRUE"	30	
+"bring"	"bring"	"PROPN"	1	"lemmupos"	"FALSE"	68	
+"»verworfener"	"»verworfener"	"PROPN"	1	"tokenization"	"FALSE"	43	"I"
+"verklagen"	"verklagen"	"VERB"	1	"correct"	"TRUE"	85	"A"
+"entsetzlich"	"entsetzlich"	"ADJ"	1	"upos"	"FALSE"	68	
+"gebe"	"geb"	"VERB"	1	"lemma"	"FALSE"	74	
+"scheren"	"scheren"	"VERB"	1	"correct"	"TRUE"	48	
+"unterbrechen"	"unterbrechen"	"ADJ"	1	"upos"	"FALSE"	58	
+"verwandelt"	"verwandeln"	"VERB"	1	"correct"	"TRUE"	45	
+"gekostet"	"kosten"	"VERB"	1	"correct"	"TRUE"	64	
+"zerhauen"	"zerhauen"	"NOUN"	1	"lemmupos"	"FALSE"	75	
+"gesichtchen"	"gesichtchen"	"NOUN"	1	"features"	"FALSE"	2	
+"puls"	"pul"	"PROPN"	1	"lemmupos"	"FALSE"	44	
+"erbauungsschriften"	"erbauungsschrift"	"NOUN"	1	"features"	"FALSE"	45	
+"schlachtabend"	"schlachtabend"	"NOUN"	1	"correct"	"TRUE"	92	
+"firti"	"firti"	"PROPN"	1	"upos"	"FALSE"	62	"FT"
+"»wir"	"»wu"	"PRON"	1	"tokenization"	"FALSE"	42	"I"
+"noahkasten"	"noahkasten"	"NOUN"	1	"features"	"FALSE"	65	"F"
+"wendelrose"	"wendelrose"	"NOUN"	1	"correct"	"TRUE"	84	
+"auszudrücken"	"auszudrücken"	"VERB"	1	"lemma"	"FALSE"	77	
+"zigarette"	"zigarette"	"NOUN"	1	"correct"	"TRUE"	68	
+"torgelow"	"torgelow"	"PROPN"	1	"correct"	"TRUE"	75	"N"
+"schürze"	"schürz"	"NOUN"	1	"lemma"	"FALSE"	78	
+"beinah"	"beinehen"	"VERB"	1	"lemmupos"	"FALSE"	75	"O"
+"auflegten"	"auflegen"	"VERB"	1	"correct"	"TRUE"	65	
+"wiederholte"	"wiederholen"	"VERB"	1	"correct"	"TRUE"	60	"A"
+"letzte"	"letzn"	"ADJ"	1	"lemma"	"FALSE"	62	
+"»wie"	"»wie"	"SCONJ"	1	"tokenization"	"FALSE"	45	"I"
+"halten"	"halten"	"ADJ"	1	"upos"	"FALSE"	88	
+"pochte"	"pochen"	"VERB"	1	"correct"	"TRUE"	80	
+"anwies"	"anweisen"	"VERB"	1	"correct"	"TRUE"	94	
+"lämmer"	"lämmer"	"NOUN"	1	"lemma"	"FALSE"	49	
+"unzertrennlich"	"unzertrennlich"	"ADJ"	1	"correct"	"TRUE"	49	
+"stött"	"stött"	"NOUN"	1	"correct"	"TRUE"	96	"F"
+"gelegenheiten"	"gelegenheit"	"NOUN"	1	"features"	"FALSE"	38	
