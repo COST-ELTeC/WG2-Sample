@@ -1,0 +1,38 @@
+---
+title: "Deduplication of WG2-samples"
+author: "Silvie Cinková"
+date: "21 dubna 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This script removes duplicate paragraphs. It checks the IDs ("n") of the paragraphs. It also removes the "samples" element and pours all paragraphs within one document into one element named "sample". It provides this new "sample" element with an ID that should have been identical to the original one in "samples", but it probably is not. Just ignore it. 
+The paragraph IDs remained preserved, and that is what actually matters, since the document ID is always part of the paragraph ID. At least it appeared so in Czech. 
+
+
+```{r}
+library(tidyverse)
+library(xml2)
+```
+
+
+```{r}
+filenames <- list.files(path = "WG2-Sample-SCbranch/WG2-Sample/slv/")
+inpath <- path.expand(path = "WG2-Sample-SCbranch/WG2-Sample/slv/")
+dir.create("WG2-Sample-SCbranch/WG2-Sample/slv_deduplicated")
+outpath <- path.expand("WG2-Sample-SCbranch/WG2-Sample/slv_deduplicated/")
+outfilenames <- paste0(outpath,"unique_", filenames)
+
+for (i in 1:length(filenames)) {
+  dodo <- xml2::read_xml(paste0(inpath,filenames[i]))
+  deduplicated <- xml_find_all(dodo, '//p[not(. = preceding::p)]') #I have googled and tweeked this and it works
+  npuzzle <- stringr::str_c("SLV", stringr::str_pad(string = i, side = "left", pad = "0", width = 4))
+  ku <- as_xml_document(deduplicated, root = "sample", n = npuzzle)
+  write_xml(x = ku, file = outfilenames[i])
+}
+```
+
+
