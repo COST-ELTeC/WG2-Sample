@@ -1,0 +1,27 @@
+
+while (<>) {
+($doc,$sent,$wd,$form,$lemma,$upos,$xpos,$ignore) = split();
+if ($upos =~ /PUNCT/ ) {
+   $pos=$upos;
+   $join="left";
+    $join="right" if ($xpos=~/``/);
+   $lemma=$xpos;
+   } else {
+   $pos=$xpos;
+   $join="";
+}
+
+ if ($sent ne $currentS) {
+print "<\/s>\n" if ($currentS);
+print "<s n=\"$sent\">\n";
+}
+print "<w xml:id=\"$doc.$sent.$wd\" lemma=\"$lemma\" pos=\"$pos\"";
+if ($join) {
+  print " join=\"$join\"" ;
+  $join="";
+}
+print ">$form<\/w>\n";
+$currentS=$sent;
+}
+
+print "<\/s>\n";
