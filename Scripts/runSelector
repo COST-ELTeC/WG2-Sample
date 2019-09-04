@@ -1,3 +1,9 @@
-cd /home/lou/Public/ELTeC-$1
-for f in `find level?/*.xml | shuf -n 20`; do echo $f;\
-  saxon $f ../WG2/selector.xsl > ../WG2-Sample/$1/$(basename $f .xml)_sample.xml ; done ; ls -l ../WG2-Sample/$1 | wc -l 
+# to run this shell script
+# - install saxon
+# - clone the language repository you want to sample
+# - edit the following line to point to location of your local copy
+cd /home/lou/Public/WG2-Sample/tmp
+# run this script with a parameter giving name of language
+# e.g. "sh runSelector srp"
+for f in `find *.xml | shuf -n 20`; do echo $f;\
+  saxon $f ../Scripts/selector.xsl > ../$1/$(basename $f .xml)_sample.xml ; done ; ls -l ../$1 | wc -l 
