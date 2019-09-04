@@ -1,0 +1,537 @@
+form	lemma	upos	freq.samp	errtype	is_correct	rand_int	BAMTINOF
+capitaes	capitae	NOUN	1	lemma	FALSE		O
+cathedra	cathedra	NOUN	1	correct	TRUE	483	O
+magnata	magnata	NOUN	1	correct	TRUE	497	
+jardins	jardin	NOUN	1	lemma	FALSE		
+lerás	lerá	NOUN	1	lemmupos	FALSE		
+adormecida	adormecer	VERB	1	lemmupos	FALSE		A
+veria	ver	VERB	1	correct	TRUE	510	
+confundindo	confundir	VERB	1	correct	TRUE	368	
+olivedo	olivedo	NOUN	1	correct	TRUE	433	
+acabas	acaba	NOUN	1	lemmupos	FALSE		
+coitado	coitar	VERB	1	upos	FALSE		
+attendendo	attender	VERB	1	correct	TRUE	524	O
+hei	h	AUX	1	lemma	FALSE		
+duvidarás	duvidar	VERB	1	features	FALSE		
+admiravel	admiravel	ADJ	1	correct	TRUE	462	
+propria	propr	VERB	1	lemmupos	FALSE		
+fructos	fructo	ADJ	1	upos	FALSE		
+chorar	chorar	VERB	1	correct	TRUE	322	
+só	só	NOUN	1	upos	FALSE		
+el-rei	el-rei	PROPN	1	features	FALSE		
+geraes	gerae	ADJ	1	lemma	FALSE		O
+dominava	dominar	VERB	1	correct	TRUE	422	
+ella	elle	PRON	2	lemma	FALSE		O
+ámanhã	ámanhã	ADV	1	correct	TRUE	436	O
+vaes	vae	NOUN	1	lemmupos	FALSE		O
+saloia	saloiar	VERB	1	lemmupos	FALSE		
+alvura	alvura	NOUN	1	correct	TRUE	523	
+eguaes	eguae	NOUN	1	lemmupos	FALSE		O
+fernando	fernando	ADV	1	upos	FALSE		N
+corando	corar	VERB	1	correct	TRUE	493	
+sorrisos	sorriso	NOUN	1	correct	TRUE	415	
+m'a	m'a	NOUN	1	tokenization	FALSE		M
+ruina	ruina	NOUN	1	correct	TRUE	511	T O
+vinham	ver	VERB	1	lemma	FALSE		
+impares	impar	ADJ	1	features	FALSE		T O
+eterno	eterno	ADJ	1	correct	TRUE	476	
+descerrou	descerrar	VERB	1	correct	TRUE	514	
+caçoem	caçoem	PROPN	1	lemmupos	FALSE		
+achas	achar	VERB	1	features	FALSE		
+morgada	morgar	VERB	1	lemmupos	FALSE		A
+plateias	plateia	NOUN	1	correct	TRUE	413	T O
+refrigerio	refrigerio	NOUN	1	correct	TRUE	343	T O
+restavam	restar	VERB	1	correct	TRUE	330	
+educado	educar	VERB	1	correct	TRUE	332	A
+cançada	cançar	VERB	1	lemmupos	FALSE		A
+reçumava	reçumava	NOUN	1	upos	FALSE		
+d'	dsegundo	NOUN	1	lemmupos	FALSE		
+lareira	lareiro	ADJ	1	lemmupos	FALSE		
+colhel	colhel	ADJ	1	lemmupos	FALSE		I
+extraordinario	extraordinario	ADJ	1	correct	TRUE	448	T O
+chegára	chegárar	VERB	1	lemma	FALSE		O
+á	á	ADV	7	lemmupos	FALSE		
+alli	alli	ADV	1	features	FALSE		O
+inquieta	inquieta	NOUN	1	upos	FALSE		
+formoso	formoso	ADJ	1	correct	TRUE	528	
+ninguem	ninguem	PRON	2	features	FALSE		T O
+improvisos	improviso	NOUN	1	correct	TRUE	363	
+planta	planta	NOUN	1	features	FALSE		A
+estás	está	NOUN	1	upos	FALSE		
+brandir	brandir	NOUN	1	features	FALSE		
+luxar	luxar	VERB	1	correct	TRUE	373	
+sábia	sábia	NOUN	1	upos	FALSE		
+cadaver	cadaver	NOUN	1	features	FALSE		T O
+mostrar-te	_	_	1	correct	TRUE	410	
+invejosos	invejoso	ADJ	1	correct	TRUE	427	
+morto	morto	NOUN	1	features	FALSE		
+abobadas	abobada	NOUN	1	correct	TRUE	508	
+rocio	rocio	PROPN	1	correct	TRUE	393	
+suppôr	suppor	VERB	1	lemma	FALSE		O
+sitio	sitio	NOUN	1	correct	TRUE	461	T O
+loureiro	loureiro	NOUN	1	correct	TRUE	362	A	
+olhão	olhão	PROPN	1	correct	TRUE	399	N	
+comprehendeu	comprehender	VERB	1	correct	TRUE	342	O
+gabar-se	_	_	1	correct	TRUE	339	
+lançar-me	_	_	1	correct	TRUE	360	
+tristemente	tristemente	ADV	1	correct	TRUE	367	
+morras	morro	NOUN	1	lemma	FALSE		
+alli	alli	NOUN	1	upos	FALSE		O
+desprender	desprender	VERB	1	features	FALSE		
+vindas	vindas	NOUN	1	lemmupos	FALSE		
+comtudo	comtudo	ADV	1	upos	FALSE		I
+impudentemente	impudentemente	ADV	1	correct	TRUE	536	O
+viscondessa	viscondessa	PROPN	1	correct	TRUE	485	
+circumstancia	circumstancia	NOUN	1	correct	TRUE	411	O
+redemoinhava	redemoinhar	VERB	1	correct	TRUE	359	
+encovarem-se-lhes	_	_	1	correct	TRUE	349	M
+doces	doce	NOUN	1	upos	FALSE		A
+p'rá	p'r	VERB	1	tokenization	FALSE		M
+retirado	retirar	VERB	1	correct	TRUE	525	
+demora	demora	ADV	1	correct	TRUE	471	A
+capuana	capuana	PROPN	1	correct	TRUE	507	N	
+pró	pró	ADJ	1	tokenization	FALSE		M O
+vivera	viver	VERB	1	features	FALSE		
+conhecia	conheciar	VERB	1	lemma	FALSE		
+arranjou	arranjar	VERB	1	correct	TRUE	401	
+modista	modista	ADJ	1	upos	FALSE		
+creados	crear	VERB	1	lemmupos	FALSE		O
+virtutum	virtutum	PRON	1	upos	FALSE		F
+circumstantes	circumstante	NOUN	1	correct	TRUE	468	O
+capellão	capellão	NOUN	1	correct	TRUE	441	O
+levasse	levar	VERB	1	correct	TRUE	425	
+deixar-se-hia	deixar-se-hio	ADJ	1	lemmupos	FALSE		M O
+bello	bello	NOUN	1	upos	FALSE		A O
+poderosa	poderosa	PROPN	1	features	FALSE		
+participar-mo-ás	participar-mo-á	NOUN	1	tokenization	FALSE		M O
+comoveres	comover	NOUN	1	features	FALSE		
+avêsso	avêsso	NOUN	1	correct	TRUE	409	O
+m'o	m'o	NOUN	1	tokenization	FALSE		M
+v.	v.	PROPN	1	correct	TRUE	538	
+logares	logare	NOUN	1	lemma	FALSE		O
+impulso	impulso	ADJ	1	upos	FALSE		
+conjecturas	conjectura	NOUN	1	correct	TRUE	457	
+palavrinhas	palavrinha	NOUN	1	correct	TRUE	348	
+ella	ellar	VERB	2	lemmupos	FALSE		O
+meus	meu	NOUN	1	upos	FALSE		
+errando	errar	VERB	1	correct	TRUE	365	
+ininterrompido	ininterrompido	NOUN	1	upos	FALSE		
+cobriam	cobrir	VERB	1	correct	TRUE	509	
+voltando-se	_	_	1	correct	TRUE	444	
+primor	primor	ADJ	1	upos	FALSE		
+gabar	gabar	VERB	1	correct	TRUE	481	
+illustri	illustrir	VERB	1	lemmupos	FALSE		O
+triste	tristir	VERB	1	lemmupos	FALSE		
+farta	farta	ADJ	1	features	FALSE		
+n'um	n'um	DET	2	tokenization	FALSE		M
+encostado	encostar	VERB	1	correct	TRUE	473	
+maus	mau	DET	1	upos	FALSE		
+molestias	molestia	NOUN	1	correct	TRUE	355	T O
+repeso	repeso	ADJ	1	correct	TRUE	470	
+prompto	prompto	ADV	1	upos	FALSE		O
+escutava	escutar	VERB	1	correct	TRUE	490	
+andára	andárar	VERB	1	lemma	FALSE		O
+pinhões	pinhão	NOUN	1	correct	TRUE	521	
+voltaire	voltaire	ADJ	1	upos	FALSE		N
+attencioso	attencioso	ADJ	1	correct	TRUE	403	O
+rapidas	rapida	NOUN	1	upos	FALSE		T O
+animaes	animae	NOUN	1	lemma	FALSE		O
+ferreas	ferreo	ADJ	1	correct	TRUE	477	T O
+seguem-n'a	seguem-n'o	ADJ	1	tokenization	FALSE		M
+d'um	d'um	DET	3	tokenization	FALSE		M
+ahi	aher	VERB	2	lemmupos	FALSE		O
+imensidade	imensidade	NOUN	1	correct	TRUE	336	
+cá	c	VERB	1	lemmupos	FALSE		
+sabes	sabes	PROPN	1	lemmupos	FALSE		
+terrea	terrea	NOUN	1	lemmupos	FALSE		T O
+sentindo	sentir	VERB	1	features	FALSE		
+estructura	estructura	NOUN	1	correct	TRUE	519	
+crepusculo	crepusculo	NOUN	1	correct	TRUE	526	T O
+coitado	coitar	VERB	1	lemmupos	FALSE		
+maculada	macular	VERB	1	correct	TRUE	354	A
+enthusiasmado	enthusiasmar	VERB	1	lemmupos	FALSE		O
+núa	núa	NOUN	1	lemmupos	FALSE		O
+és	é	NOUN	2	lemmupos	FALSE		
+eu	eu	ADJ	1	upos	FALSE		
+arreliar	arreliar	VERB	1	features	FALSE		
+vae	vae	NOUN	1	lemmupos	FALSE		O
+curvado	curvar	VERB	1	correct	TRUE	534	
+cançado	cançar	VERB	1	lemmupos	FALSE		
+dêdo	dêdo	NOUN	1	correct	TRUE	390	O
+trez	trez	PROPN	1	upos	FALSE		O
+acudiram	acudir	VERB	1	correct	TRUE	529	
+gemer	gemer	VERB	1	features	FALSE		
+amava	amava	PROPN	1	lemmupos	FALSE		
+aceitasse	aceitasse	NOUN	1	lemmupos	FALSE		
+apaixonadas	apaixonar	VERB	1	lemmupos	FALSE		
+elle	elle	NOUN	1	upos	FALSE		O
+conde	conde	NOUN	1	features	FALSE		
+lh'a	lh'a	NOUN	1	tokenization	FALSE		M
+insignia	insignia	NOUN	1	correct	TRUE	328	T O
+aquelle	aquellar	VERB	1	lemmupos	FALSE		O
+arvorada	arvorar	VERB	1	lemmupos	FALSE		
+recordar-se	_	_	1	correct	TRUE	397	
+ella	ello	ADJ	1	lemmupos	FALSE		O
+corina	corina	PROPN	1	correct	TRUE	405	N	
+súplicas	súplica	NOUN	1	correct	TRUE	383	
+estrangular	estrangular	VERB	1	features	FALSE		
+espadachim	espadachim	NOUN	1	correct	TRUE	420	
+commodamente	commodamente	ADV	1	correct	TRUE	472	O
+á	ar	VERB	1	lemmupos	FALSE		O
+vejo	vejo	ADJ	1	lemmupos	FALSE		
+queimados	queimar	VERB	1	lemmupos	FALSE		A
+arroubada	arroubar	VERB	1	lemmupos	FALSE		
+gritou	gritar	VERB	1	correct	TRUE	352	
+vel-a	vel-a	NOUN	1	tokenization	FALSE		I
+cheiram	cheirar	VERB	1	features	FALSE		
+funesta	funesto	ADJ	1	correct	TRUE	414	
+cruz	cruz	NOUN	1	correct	TRUE	516	
+esmerada	esmerado	ADJ	1	features	FALSE	A		
+ha	ho	ADJ	1	lemmupos	FALSE	O T		
+m'o	m'o	NOUN	2	tokenization	FALSE		M
+supplicas	supplico	ADJ	1	lemmupos	FALSE		O
+joelho	joelho	NOUN	1	correct	TRUE	357	
+admirado	admirado	ADJ	1	correct	TRUE	329	
+ornamentação	ornamentação	NOUN	1	correct	TRUE	381	
+tu	tr	VERB	2	lemmupos	FALSE		
+viera	vierar	VERB	1	lemma	FALSE		
+d'	dsegundo	NOUN	2	lemmupos	FALSE		
+estupido	estupido	ADJ	1	correct	TRUE	369	T O
+gallego	gallego	ADJ	1	upos	FALSE		O
+belleza	belleza	NOUN	1	correct	TRUE	503	O
+afagando	afagar	VERB	1	correct	TRUE	452	
+pôz	pôzir	VERB	1	lemma	FALSE		O
+luz	luz	ADJ	1	upos	FALSE		
+ratinho	ratinho	PROPN	3	features	FALSE		
+perdem	perder	VERB	1	correct	TRUE	464	
+bilhar	bilhar	VERB	1	upos	FALSE		
+tambem	tambem	ADV	5	features	FALSE		T O
+ordena	ordenar	VERB	1	features	FALSE		
+devida	devidar	VERB	1	lemma	FALSE		
+continuo	continuo	NOUN	1	upos	FALSE		
+visconde	visconde	NOUN	1	features	FALSE		
+encontrasse	encontrar	VERB	1	correct	TRUE	344	
+noite	noite	ADV	1	upos	FALSE		
+dar-lhe-ei	dar-lhe-ar	VERB	1	tokenization	FALSE		
+blague	blague	NOUN	1	features	FALSE		
+defronte	defrontir	VERB	1	lemmupos	FALSE		
+ler	ler	NOUN	1	upos	FALSE		
+tintas	tinta	NOUN	1	correct	TRUE	423	
+ella	elle	PRON	9	lemma	FALSE		O
+desesperadores	desesperador	NOUN	1	upos	FALSE		
+ella	elle	PRON	1	lemma	FALSE		O
+desinteressada	desinteressar	VERB	1	lemmupos	FALSE		
+pagem	pagem	NOUN	2	features	FALSE		
+hera	hera	NOUN	1	correct	TRUE	478	
+pedir-lhe	_	_	1	correct	TRUE	394	
+vão	vão	NOUN	1	upos	FALSE		
+tristes	triste	NOUN	1	upos	FALSE		
+della	dellar	VERB	1	tokenization	FALSE		o
+acompanharia	acompanharia	NOUN	1	lemmupos	FALSE		
+começava	começar	VERB	1	features	FALSE		
+deante	deante	DET	1	upos	FALSE		o
+esquecem-se	_	_	1	correct	TRUE	374	
+subo	subo	ADJ	1	lemmupos	FALSE		
+vem	ver	VERB	1	correct	TRUE	334	
+taverna	taverna	NOUN	1	features	FALSE		
+contaminado	contaminar	VERB	1	lemmupos	FALSE		
+aprendêra	aprendêrar	VERB	1	lemma	FALSE		o
+afagando-lhe	_	_	1	correct	TRUE	335	
+briche	briche	NOUN	1	correct	TRUE	353	
+chaves	chave	ADJ	1	upos	FALSE		
+mártire	mártire	NOUN	1	upos	FALSE		
+ora	ora	PROPN	1	upos	FALSE		
+esses	esse	NOUN	1	upos	FALSE		
+estupidos	estuper	VERB	1	lemmupos	FALSE		T O
+restavam	restavar	VERB	1	lemma	FALSE		
+passaro	passaro	NOUN	1	correct	TRUE	447	T O
+trez	trez	NOUN	1	upos	FALSE		o
+subscrevi	subscrevi	NOUN	1	lemmupos	FALSE		
+commendador	commendador	ADJ	1	upos	FALSE		o
+soluços	soluço	NOUN	1	correct	TRUE	440	
+enchia	ench	VERB	1	lemma	FALSE		
+iodo	iodo	NOUN	1	correct	TRUE	455	
+á	á	ADV	2	tokenization	FALSE		
+allemanha	allemanha	PROPN	1	correct	TRUE	361	O N
+sadio	sadio	NOUN	1	upos	FALSE		
+julgas	julga	NOUN	1	lemmupos	FALSE		
+affectos	affecto	ADJ	1	upos	FALSE		o
+paiz	paiz	NOUN	1	features	FALSE		o
+encovarem-se	encovarem-se	NOUN	1	tokenization	FALSE		
+prece	precer	VERB	1	lemmupos	FALSE		
+compraser	compraser	NOUN	1	upos	FALSE		
+transbordar	transbordar	VERB	1	correct	TRUE	443	
+torpes	torpe	NOUN	1	upos	FALSE		
+tua	tuo	ADJ	1	lemma	FALSE		
+compassado	compassar	VERB	1	lemmupos	FALSE		
+vês	vê	PRON	2	lemmupos	FALSE		
+ha	har	VERB	4	lemma	FALSE		
+sebastião	sebastião	NOUN	2	upos	FALSE		N
+irei	ir	VERB	1	features	FALSE		
+quiz	quiz	NOUN	1	lemmupos	FALSE		
+própria	própr	VERB	1	lemmupos	FALSE		
+corrido	correr	VERB	1	correct	TRUE	475	
+viu	vir	VERB	1	correct	TRUE	498	
+doe	doar	VERB	1	lemma	FALSE		A O
+taverna	taverna	NOUN	1	correct	TRUE	530	
+genio	genio	NOUN	1	correct	TRUE	434	T O
+elle	ellar	VERB	2	lemmupos	FALSE		O
+virginia	virginia	PROPN	1	correct	TRUE	396	N	
+commentarios	commentario	NOUN	1	correct	TRUE	499	O
+máu	máu	ADJ	1	features	FALSE		O
+estremecerem	estremecer	VERB	1	features	FALSE		
+caçoem	caço	VERB	1	lemma	FALSE		
+escrava	escrar	VERB	1	lemmupos	FALSE		
+negociante	negociante	NOUN	1	correct	TRUE	474	
+fôsse	fôsse	NOUN	1	lemmupos	FALSE		O
+podem	podem	NOUN	1	lemmupos	FALSE		
+paquête	paquête	NOUN	1	correct	TRUE	432	
+esticou	esticar	VERB	1	correct	TRUE	402	
+aborrecida	aborrecida	NOUN	1	upos	FALSE		
+empregues	empregar	VERB	1	features	FALSE		
+ingenua	ingenuo	ADJ	1	correct	TRUE	513	T O
+herdades	herdade	NOUN	1	correct	TRUE	533	
+pernoitára	pernoitárar	VERB	1	lemma	FALSE		O
+bilhar	bilhar	NOUN	1	features	FALSE		
+creancitas	creancita	NOUN	1	correct	TRUE	347	O
+fóra	fóro	ADJ	1	lemmupos	FALSE		O
+á	á	PROPN	1	lemmupos	FALSE		O
+serei	ser	VERB	1	features	FALSE		
+phenómenos	phenómeno	NOUN	1	correct	TRUE	463	O
+flôres	flôr	NOUN	1	correct	TRUE	543	O
+condemnámos	condemnar	VERB	1	correct	TRUE	537	O
+grecia	grecia	PROPN	1	features	FALSE		T O
+espêlho	espêlho	NOUN	1	correct	TRUE	380	O
+ella	ellar	VERB	1	lemmupos	FALSE		O
+compaixão	compaixão	NOUN	1	correct	TRUE	408	
+apurado	apurar	VERB	1	upos	FALSE		A
+contigo	contigo	NOUN	1	upos	FALSE		
+altivos	altivo	NOUN	1	upos	FALSE		
+desafiando-a	_	_	1	correct	TRUE	522	
+equivalia	equivaler	VERB	1	correct	TRUE	482	
+voltar	voltar	NOUN	1	upos	FALSE		
+ouviam	ouvir	VERB	1	correct	TRUE	484	
+etruria	etruria	PROPN	1	correct	TRUE	325	
+deolindinha	deolindinha	PROPN	1	features	FALSE	N		
+mystica	mystica	NOUN	1	upos	FALSE		O
+mercenarios	mercenario	ADJ	1	upos	FALSE		T O
+enfermeiras	enfermeiro	NOUN	1	correct	TRUE	382	
+côco	côco	NOUN	1	correct	TRUE	492	
+desembro	desembro	NOUN	1	correct	TRUE	416	O
+pae	pae	ADJ	1	upos	FALSE		O
+esboçado	esboçar	VERB	1	correct	TRUE	539	
+ultimo	ultimo	ADJ	1	features	FALSE		
+á	á	NOUN	3	lemmupos	FALSE		O
+rolos	rolo	NOUN	1	correct	TRUE	1	
+ramos	rar	VERB	1	lemmupos	FALSE		
+vejamos	vejamos	NOUN	1	lemmupos	FALSE		
+infelises	infelise	NOUN	1	lemma	FALSE		O
+magreza	magreza	NOUN	1	correct	TRUE	376	
+floreta	floreta	NOUN	1	correct	TRUE	491	
+allemão	allemão	ADV	1	upos	FALSE		O
+continuarás	continuar	VERB	1	correct	TRUE	375	
+dispor-m	dispor-r	VERB	1	tokenization	FALSE		I
+chancellaria	chancellaria	NOUN	1	correct	TRUE	431	O
+tranquillo	tranquillo	ADJ	1	correct	TRUE	358	
+lã	lã	NOUN	1	correct	TRUE	392	
+protector	protector	NOUN	1	upos	FALSE		
+cadavericas	cadaverico	ADJ	1	correct	TRUE	412	T O
+reino	reino	NOUN	1	correct	TRUE	487	
+coitadinha	coitadinha	NOUN	1	lemmupos	FALSE		
+emfim	emfim	ADV	1	correct	TRUE	488	O
+separando	separar	VERB	1	correct	TRUE	430	
+sae	saer	VERB	1	lemma	FALSE		O
+ahi	ahi	ADJ	1	upos	FALSE		O
+musica	musica	NOUN	1	features	FALSE		T O
+passára	passárar	VERB	1	lemma	FALSE		O
+praia	praio	ADJ	1	lemmupos	FALSE		
+pallidez	pallidez	NOUN	1	correct	TRUE	421	O
+entoar	entoar	VERB	1	features	FALSE		
+pinheiro	pinheiro	NOUN	1	correct	TRUE	341	
+escura	escurar	VERB	1	lemmupos	FALSE		
+boccas	bocca	NOUN	1	correct	TRUE	389	O
+respeitava	respeitar	VERB	1	correct	TRUE	531	
+perolas	perola	ADJ	1	upos	FALSE		
+trigueira	trigueiro	ADJ	1	correct	TRUE	424	
+ouça	ouçar	VERB	1	lemma	FALSE		
+defronte	defronte	ADJ	1	upos	FALSE		
+mandára	mandára	NOUN	1	upos	FALSE		O
+aviasse	aviar	VERB	1	correct	TRUE	428	
+oitocentos	oitocento	NOUN	1	lemmupos	FALSE		
+ápice	ápice	NOUN	1	features	FALSE		
+doces	doce	ADJ	1	correct	TRUE	351	A
+recordava	recordar	VERB	1	features	FALSE		
+divertir-se	_	_	1	correct	TRUE	391	
+explica-m'o	explica-m'o	NOUN	1	tokenization	FALSE		M
+obtiveres	obtiverer	VERB	1	features	FALSE		
+barcellos	barcellos	PROPN	1	correct	TRUE	453	
+alucinado	alucinado	NOUN	1	correct	TRUE	479	
+augmentou	augmentar	VERB	1	correct	TRUE	500	
+guarnecerem	guarnecer	VERB	1	correct	TRUE	446	
+egua	egua	NOUN	1	correct	TRUE	540	T O
+tristes	triste	NOUN	1	upos	FALSE		
+possivel	possivel	ADJ	1	correct	TRUE	435	T O
+cama	camar	VERB	1	lemmupos	FALSE		
+chamar-lhe	_	_	1	correct	TRUE	437	
+linguado	linguado	NOUN	1	correct	TRUE	450	
+mereçam	merecer	VERB	1	correct	TRUE	366	
+vae	vae	PROPN	1	lemmupos	FALSE		O
+fôr	fôr	VERB	1	lemma	FALSE		O
+estenderam	estender	VERB	1	correct	TRUE	372	
+faz-me	_	_	1	correct	TRUE	515	
+voltava	voltar	VERB	1	correct	TRUE	429	
+gosta	gosto	ADJ	1	lemmupos	FALSE		
+sobresalto	sobresalto	ADJ	1	upos	FALSE		O
+preciosas	precioso	ADJ	1	correct	TRUE	404	
+pundonor	pundonor	NOUN	1	correct	TRUE	465	
+capitão	capitão	PROPN	1	correct	TRUE	501	
+quarto	quarto	ADV	1	upos	FALSE		
+redempção	redempção	NOUN	1	correct	TRUE	469	
+procurá	procurar	VERB	1	features	FALSE		I
+rapazes	rapaz	ADJ	1	upos	FALSE		
+estive	ester	AUX	1	lemma	FALSE		
+braços--são	braços--são	NOUN	1	tokenization	FALSE		I
+brochado	brochado	PROPN	1	correct	TRUE	454	
+voar	voar	VERB	1	correct	TRUE	496	
+cobria	cobria	NOUN	1	lemmupos	FALSE		
+escaldada	escaldar	VERB	1	upos	FALSE		
+investindo	investir	VERB	1	features	FALSE		
+irei	ir	VERB	1	correct	TRUE	542	
+forcados	forcar	VERB	1	lemmupos	FALSE		
+louvores	louvor	ADJ	1	upos	FALSE		
+inquisição	inquisição	NOUN	1	correct	TRUE	532	
+seria	seria	PROPN	1	lemmupos	FALSE		
+divididos	divididos	NOUN	1	lemmupos	FALSE		
+escanhoada	escanhoar	VERB	1	features	FALSE		
+tu	tu	PROPN	1	upos	FALSE		
+imploro	imploro	ADJ	1	upos	FALSE		
+ligeiro	ligeiro	NOUN	1	upos	FALSE		
+murmurios	murmurio	NOUN	1	correct	TRUE	345	
+redarguiram-lhe	_	_	1	correct	TRUE	333	
+chegára	chegárar	VERB	1	correct	TRUE	495	O
+tens	ten	NOUN	1	lemmupos	FALSE		
+vae	vaer	VERB	1	lemma	FALSE		O
+trate	trate	NOUN	1	lemmupos	FALSE		
+fóra	fóra	NOUN	2	upos	FALSE		O
+magestade	magestade	NOUN	1	correct	TRUE	418	O
+acabarem	acabar	VERB	1	correct	TRUE	545	
+marianna	marianna	PROPN	1	correct	TRUE	518	N	
+á	á	ADV	1	upos	FALSE		O
+operarios	operario	NOUN	1	correct	TRUE	370	T O
+val	val	ADJ	1	lemmupos	FALSE		
+canta-storie	canta-storie	NOUN	1	correct	TRUE	520	O F
+austria	austria	PROPN	1	correct	TRUE	350	
+assumpto	assumpto	NOUN	1	correct	TRUE	417	O
+propria	propria	NOUN	2	lemmupos	FALSE		T O
+logar	logar	VERB	1	upos	FALSE		O
+era-lhe	_	_	1	correct	TRUE	385	I
+pararam	parar	VERB	1	correct	TRUE	544	
+offerecer	offerecer	VERB	1	correct	TRUE	486	O
+dona	dona	PROPN	1	correct	TRUE	541	
+casasse	casassar	VERB	1	lemma	FALSE		
+perguntei	perguntar	VERB	1	correct	TRUE	504	
+consentiram	consentir	VERB	1	correct	TRUE	378	
+fidalgo	fidalgo	NOUN	2	features	FALSE		
+escadas	escar	VERB	1	lemmupos	FALSE		
+diverso	diverso	ADJ	1	correct	TRUE	337	
+epiderme	epiderme	NOUN	1	correct	TRUE	407	
+excellente	excellente	ADJ	1	correct	TRUE	426	O
+doirava	doirar	VERB	1	features	FALSE		
+sombrias	sombrio	ADJ	1	correct	TRUE	400	
+vejo	vejo	NOUN	1	lemmupos	FALSE		
+lividez	lividez	NOUN	1	correct	TRUE	419	
+imbecillidade	imbecillidade	NOUN	1	correct	TRUE	517	O
+alfinetes	alfinete	NOUN	1	correct	TRUE	323	
+encarregar	encarregar	VERB	1	correct	TRUE	398	
+redarguiram	redarguir	VERB	1	correct	TRUE	340	
+lh'o	lh'o	NOUN	1	tokenization	FALSE		M
+afim	afim	ADV	1	features	FALSE		
+vêr	vêr	NOUN	1	upos	FALSE		
+me	mir	VERB	1	lemmupos	FALSE		
+agradavel	agradavel	ADJ	1	correct	TRUE	445	T O
+zelosa	zeloso	NOUN	1	upos	FALSE		
+co'	coe	ADP	1	lemma	FALSE		M
+quilha	quilha	NOUN	1	correct	TRUE	480	
+egoistas	egoista	ADJ	1	features	FALSE		T O
+palavras	palavra	ADJ	1	upos	FALSE		
+medrára	medrárar	VERB	1	lemma	FALSE		O
+abrangia	abranger	VERB	1	correct	TRUE	324	
+pensado	pensar	VERB	1	correct	TRUE	331	
+flor	flor	VERB	1	upos	FALSE		
+aventureiro	aventureiro	NOUN	1	correct	TRUE	379	
+união	união	ADJ	1	upos	FALSE		
+predominava	predominar	VERB	1	correct	TRUE	326	
+casa	caso	DET	1	lemmupos	FALSE		
+ninguem	ninguem	PRON	1	features	FALSE		
+aquelles	aquelle	DET	1	correct	TRUE	395	O
+proximo	proximo	ADJ	1	correct	TRUE	451	T O
+cahira	cahirar	VERB	1	lemma	FALSE		O
+louças	louças	ADV	1	lemmupos	FALSE		
+propria	propria	NOUN	1	lemmupos	FALSE		
+mercê	mercê	NOUN	1	correct	TRUE	388	
+mágoa	mágoa	NOUN	1	correct	TRUE	406	
+escutaram	escutar	VERB	1	correct	TRUE	449	
+tres	tr	ADJ	3	lemmupos	FALSE		
+dôres	dôr	NOUN	1	correct	TRUE	467	O
+cahira-lhe	_	_	1	correct	TRUE	466	O
+poderosa	poderosa	PROPN	1	correct	TRUE	439	
+ouvidos	ouvido	NOUN	1	features	FALSE		
+chamassem	chamar	VERB	1	correct	TRUE	458	
+enganado	enganar	VERB	1	correct	TRUE	338	
+ricos	ricos	ADJ	1	upos	FALSE		
+chave	chave	ADJ	1	upos	FALSE		
+descuidadamente	descuidadamente	ADV	1	correct	TRUE	535	
+á	ar	VERB	2	tokenization	FALSE		
+acanhamento	acanhamento	NOUN	1	correct	TRUE	527	
+rosina	rosina	PROPN	1	features	FALSE		
+deixaste	deixaste	NOUN	1	upos	FALSE		
+assestar	assestar	VERB	1	correct	TRUE	364	
+rei	zer	VERB	1	lemmupos	FALSE		
+classificassão	classificassão	NOUN	1	correct	TRUE	505	O
+deixei	deixar	AUX	1	upos	FALSE		
+dhalia	dhalia	NOUN	1	correct	TRUE	456	O
+setenta	setento	ADJ	1	lemmupos	FALSE		
+metter	metter	VERB	1	correct	TRUE	386	O
+contrastavam	contrastavar	VERB	1	lemma	FALSE		
+prosa	proso	NOUN	1	lemma	FALSE		
+inspiro	inspirar	VERB	1	features	FALSE		
+atraz	atraz	NOUN	1	upos	FALSE		O
+cançada	cançado	ADJ	1	correct	TRUE	387	
+annullar	annullar	VERB	1	correct	TRUE	459	O
+trasbordou	trasbordar	VERB	1	correct	TRUE	512	
+desmanchado	desmanchar	VERB	1	lemmupos	FALSE		
+funeraes	funerae	NOUN	1	lemma	FALSE		O
+duzentos	duzento	NOUN	1	lemmupos	FALSE		
+encontro	encontro	ADV	1	lemmupos	FALSE		
+enfiou-o	_	_	1	correct	TRUE	384	
+vastos	vasto	NOUN	1	upos	FALSE		
+procurações	procurações	NOUN	1	lemma	FALSE		
+cadaveres	cadaver	NOUN	1	correct	TRUE	506	T O
+quasi	quasi	PRON	1	upos	FALSE		
+cegamente	cegamente	ADV	1	correct	TRUE	356	
+ingrata	ingratar	VERB	1	lemmupos	FALSE		
+perturbantemente	perturbantemente	ADV	1	correct	TRUE	460	
+musica	musico	ADJ	1	lemmupos	FALSE		T O
+divergiam	divergir	VERB	1	features	FALSE		
+immenso	immenso	ADJ	1	features	FALSE		O
+contenta	contentar	VERB	1	correct	TRUE	494	
+cunhado	cunhado	NOUN	1	correct	TRUE	346	
+assanharam	assanhar	VERB	1	correct	TRUE	442	
+dous	dous	INTJ	1	upos	FALSE		O
+riquesa	riquês	ADJ	1	lemmupos	FALSE		O
+quasi	quasi	PRON	1	upos	FALSE		O
+pla	plo	ADJ	1	lemmupos	FALSE		O
+voltados	voltar	VERB	1	correct	TRUE	371	
+continuo	continuo	NOUN	1	features	FALSE		
+pró	pró	ADV	1	lemmupos	FALSE		
+velhinhos	velhinho	NOUN	1	correct	TRUE	377	
+seiscentos	seiscento	NOUN	1	lemmupos	FALSE		
+inerte	inerte	ADJ	1	correct	TRUE	327	
+doce	doce	NOUN	1	upos	FALSE		
+refugiaram-se	_	_	1	correct	TRUE	438	
+piombino	piombino	PROPN	1	correct	TRUE	489	
+ex.^a	ex.^ar	VERB	1	upos	FALSE		I
+pardés	pardé	NOUN	1	lemmupos	FALSE		
+embrulhou-se	_	_	1	correct	TRUE	502	
+venha	ver	VERB	1	lemma	FALSE		
+surpreenda	surpreenda	NOUN	1	lemmupos	FALSE		
